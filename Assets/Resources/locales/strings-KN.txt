@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">ಇನꈁಷುꈓ ಆꈐꀡಗಳು</string>
+  <string name="txt_holdfor">3 ಸೆಕೆಂಡುಗಳ ꈖಾಲ ꁧꁆದುꁨೂꁢꈣ</string>
+  <string name="txt_title_for_grown_ups">ವಯಸꄋꁠꄈಾꀸ</string>
+  <string name="txt_userguide_for_grown_ups">ಪꈦವೇಶꈖಾꄋꀸ, ಸಂꁩꈐಗಳನುꈁ ನಮೂꁑꁦ</string>
+  <string name="txt_digit_Zero">ಶೂನꈐ</string>
+  <string name="txt_digit_One">ಒಂದು</string>
+  <string name="txt_digit_Two">ಎರಡು</string>
+  <string name="txt_digit_Three">ಮೂರು</string>
+  <string name="txt_digit_Four">ꄇಾಲುꄋ</string>
+  <string name="txt_digit_Five">ಐದು</string>
+  <string name="txt_digit_Six">ಆರು</string>
+  <string name="txt_digit_Seven">ಏಳು</string>
+  <string name="txt_digit_Eight">ಎಂಟು</string>
+  <string name="txt_digit_Nine">ಒಂಬಮꈇ</string>
+  <string name="txt_stickershowcase_toys">ಆಟದ ꈃಾಮಾನುಗಳು</string>
+  <string name="txt_stickershowcase_stickers">ꁦꈓಕꄋꀧಗಳು</string>
+  <string name="txt_stickershowcase_stamps">ꀴꈓಯಾಂꀡಗಳು</string>
+  <string name="txt_stickershowcase_notoys">ಯಾವꈢದೇ ಆಟದ ꈃಾಮಾನುಗಳು ಇಲꈘ</string>
+  <string name="txt_stickershowcase_nostickers">ಯಾವꈢದೇ ꁦꈓಕꄋꀧಗಳು ಇಲꈘ</string>
+  <string name="txt_stickershowcase_nostamps">ಯಾವꈢದೇ ꀴꈓಯಾಂꀡಗಳು ಇಲꈘ</string>
+  <string name="txt_pick_a_stamp">ꀴꈓಯಾಂꀡ ಅನುꈁ ಆꁠꁦ</string>
+  <string name="txt_collectsticker">ꁦꈓಕꄋꀧ ಅನುꈁ ಸಂಗꈦꁧꁦ</string>
+  <string name="txt_collectyourGift">ಉಡುꁰೂꂒಯನುꈁ ಸಂಗꈦꁧꁦ</string>
+  <string name="txt_rateUsReview_microsoft">ಪꁠꁤೕꁡಸಲು ꂘೂꈓೕꀧ ಅನುꈁ ꂈೕꁄ ಮಾꁆ</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">ಪꁠꁤೕꁡಸಲು ꂘೂꈓೕꀧ ಅನುꈁ ꂈೕꁄ ಮಾꁆ</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">ಪꁠꁤೕꁡಸಲು ꂘೂꈓೕꀧ ಅನುꈁ ꂈೕꁄ ಮಾꁆ</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">ಪꁠꁤೕꁡಸಲು ꂘೂꈓೕꀧ ಅನುꈁ ꂈೕꁄ ಮಾꁆ</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">ಪꁠꁤೕꁡಸಲು ꂘೂꈓೕꀧ ಅನುꈁ ꂈೕꁄ ಮಾꁆ</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">ꁧꂅꈁꂓ ಸಂꀸೕತ</string>
+  <string name="text_sound">ಧꈙꁓ</string>
+  <string name="text_learn_with" comment="This is a text">ꂓꈦೕꁈಯನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="text_level">ಮಟꈓ ###</string>
+  <string name="text_generate_report">ꈃಾಮಾನꈐ ವರꁑ</string>
+  <string name="text_view_report_card">ꁠꂆꈅೕꀑꈆ ꈖಾꀓꈆ ಅನುꈁ ꁣೕꈫꁦ</string>
+  <string name="text_visible_mode">ಗೋಚರ ꈴೕꀓ</string>
+  <string name="text_VISIBLE_MODE">ꁣꁦಬꀩ ꈴೕꀓ</string>
+  <string name="text_share">ಹಂꁀꁨೂಳುꈣ</string>
+  <string name="txt_report_card">ಪꈦಗꁉ ಪತꈦ</string>
+  <string name="txt_add">ಸಂಕಲನ</string>
+  <string name="txt_sub">ವꈐವಕಲನ</string>
+  <string name="txt_number">ಸಂ.</string>
+  <string name="txt_date_time">ꁑꄇಾಂಕ/ಸಮಯ</string>
+  <string name="txt_mode">ꈴೕꀓ</string>
+  <string name="txt_retry">ಮರುಪꈦಯꁉꈁꁦ</string>
+  <string name="txt_no_report">ꁠꂆꈅೕꀑꈆ ಇಲꈘ</string>
+  <string name="txt_yes">ꈨೌದು</string>
+  <string name="txt_no">ಇಲꈘ</string>
+  <string name="txt_delete_report">ಎಲಾꈘ ꁠꂆꈅೕꀑꈆ ꈖಾꀓꈆ ಮಾꁧꁉಯನುꈁ ಅꁢಸಲು ꁓೕವꈢ ಖꁀತꄀಾꀸಯೂ ಬಯಸುꁣꄃಾ?</string>
+  <string name="txt_press_again_exit">ꁓಗꈆꁘಸಲು ಮꂁೂꈇꂐꈈ ಒꁉꈇꁠ</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">ꄁಾಷೆಯನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="txt_Select_Language">ꄁಾಷೆಯನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="txt_why_its_free">ನಮꈈ ಕಥೆ</string>
+  <string name="txtOurStorySettingsNew">ನಮꈈ ಕಥೆ</string>
+  <string name="txtLanguages">ꄁಾಷೆಗಳು</string>
+  <string name="txtOtherLanguages">ಇತರ ꄁಾಷೆಗಳು</string>
+  <!-- <string name="txt_Report_a_Translation_error" comment="This text informs user to report any translation error that they find in the game.">Report Translation Error</string> -->
+  <!-- <string name ="txt_Report_a_Translation_error_msg" comment="This text describes in detail the importance of reporting any error found in the translation so that RV AppStudios can make correction and teach children using the accurate language.">We need your help! It's important to us that our apps teach children using accurate language. If you notice any errors in the text, use the box below to send us a report. Thank you!</string> -->
+  <!-- <string name="txt_Report_a_Translation_error_placeholder" comment="This text informs the user that he/she can write their report regarding the errors over here.">Report errors here.</string> -->
+  <!-- Report Translation Error : june 10 -->
+  <string name="txt_TranslationFeedback">ಅನುꄀಾದದ ಬꁰꈩ ಪꈦꁉꀶꈦꂑ</string>
+  <string name="txt_TranslationFeedbackInfo">ಅನುꄀಾದದꁡꈘನ ದೋಷವನುꈁ ವರꁑ ಮಾꁆ. ದಯꁣಟುꈓ ಯಾವꈢದೇ ಸೂꄌꈈ ಮಾꁧꁉಯನುꈁ ಹಂꁀꁨೂಳꈣꂈೕꁆ.</string>
+  <string name="txt_send">ಕಳುꁧꁦ</string>
+  <!-- June 10 -->
+  <string name="txtReadyBundle" comment="This is a text to inform the user that download will begin shortly.">ꈵೌꀠꂓೂೕꀓ ꁤೕಘꈦದꀩꂓೕ ಆರಂಭꄀಾಗುತꈇꂃ.</string>
+  <string name="txtDownloadingBundle" comment="This is a text to inform the user to download the language pack.">ꄁಾಷಾ ꈔಾꈐꀁ ಅನುꈁ ꈵೌꀠꂓೂೕꀓ ಮಾಡಲಾಗುꁉꈇꂃ.</string>
+  <string name="txt_ConnectionError">ಸಂಪಕꈆ ದೋಷ</string>
+  <string name="txt_InstallNow">ಈಗ ಇꀠꈃಾꈓꀩ ಮಾꁆ</string>
+  <!-- <string name="txt_PostSuccess" comment="This is a text to inform the user that message posted successfully.">Message Posted Successfully</string> -->
+  <!-- <string name="txtShareNow1" comment="This is a text to tell parents to support kids education. This is a header text of the screen. Please try to make short as possible. See the screenshot for reference. (Share_Now_1.jpg)">SUPPORT KIDS EDUCATION</string> -->
+  <!-- <string name="txtShareNow2" comment="This is a text to show interest in kids education and showing interest in children's education. Parents can share app to others. Aim is to explore our children's education app. See the screenshot for reference. (Share_Now_1.jpg)">Please share and support kids education. Tell parents, teachers, schools and non-profits.</string> -->
+  <!-- <string name="txtShareNow3" comment="This is a thanks message after sharing the app to others. See the screenshot for reference. (Share_Now_2.jpg)">Your reviews and support inspire us to create more free kids apps.</string> -->
+  <!-- <string name="txtShareNow4" comment="This is a text to inform the user that support us in our goal of helping 1 billion kids!">Support us in our goal of helping 1 billion kids!</string> -->
+  <!-- <string name="txtShareNow" comment="This is a share button text.">Share</string> -->
+  <string name="txt_Play_now">ಈಗ ಆಟꄀಾꁆ</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">ಮಗುꁣನ ꂆꈅꈦಫೈꀩ</string>
+  <string name="txtBtnAdd">ಮಗುವನುꈁ ಸೇꁠꁦ</string>
+  <string name="txtAddHelp">ꁓಮꈈ ಪꈦꁉꈤಂದು ಮಕꄋꁢꁰ ಸೆꁄꈓಂꀃꈠ ಮಮꈇ ವರꁑಗಳನುꈁ ಉꁢಸುವ ಸಲುꄀಾꀸ ꂆꈅꈦಫೈꀩಗಳನುꈁ ಸೇꁠꁦ.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">ಮಗುꁣನ ಹೆಸರು</string>
+  <string name="txtEnterName">ಹೆಸರನುꈁ ನಮೂꁑꁦ...</string>
+  <string name="txtMaxLimit">ಗꁠಷꈶ 20 ಹೆಸರುಗಳು</string>
+  <string name="txtEditProfile">ꂆꈅꈦಫೈꀩ ಅನುꈁ ꁉಮꈱಪꁆ ಮಾꁆ</string>
+  <string name="txtDeleteProfile">ꂆꈅꈦಫೈꀩ ಅನುꈁ ಅꁢꁦ ꈨಾꀶ</string>
+  <string name="txtDeleteProfileConfirm">ꁓೕವꈢ ಖꁀತꄀಾꀸಯೂ ### ꂆꈅꈦಫೈꀩ ಅನುꈁ ಅꁢಸಲು ಬಯಸುꁣꄃಾ?</string>
+  <string name="txtNo">ಇಲꈘ</string>
+  <string name="txtYes">ꈨೌದು</string>
+  <string name="txtNameDuplication">ಈ ಹೆಸರು ಈꄈಾಗꂓೕ ಅꁦꈇತꈙದꁡꈘꂃ!</string>
+  <string name="txtUserChangeMsg">ꂆꈅꈦಫೈꀩ ಅನುꈁ ಯಶꁦꈓಯಾꀸ ಬದಲಾꁙಸಲಾꀸꂃ.</string>
+  <string name="txtShareWithParents">ꂆꈅೕಷಕರು, ꄊಾꂓಗಳು, ಡೇ ಕೇꀧ ಮಮꈇ ಇꁓꈁತರರೊಂꁑꁰ ಹಂꁀꁨೂꁢꈣ</string>
+  <string name="txtBtnUpdate">ನꁣೕಕꁠꁦ</string>
+  <string name="txtNew">ಹೊಸ</string>
+  <string name="txt_DownloadNow">ಈಗ ꈵೌꀠ ꂓೂೕꀓ ಮಾꁆ</string>
+  <string name="text_showhint">ಕꁡಯುꁄꈓರುꄀಾಗ ಒಂದು ಸುꁢವꈢ ತೋꁠꁦ</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">ꄁಾಷೆಯನುꈁ ಬದಲಾꁙꁦ</string>
+  <string name="txtInitHelpChangeLangDesc">ಕꁡಯುꁉꈇರುꄀಾಗ ಬಳಸಲು ### ꁣꁣಧ ꄁಾಷೆಗꁢಂದ ಆꂑꄋಮಾꁆ.</string>
+  <string name="txtInitHelpCustomSettingTitle">ಸೆꁄꈓಂꀃꈠ ಅನುꈁ ಕಸꈓꂐೖꀴ ಮಾꁆ</string>
+  <string name="txtInitHelpCustomSettingDesc">ꈃಾಧꈐꄀಾದಷುꈓ ಉತꈇಮ ಕꁡꈖಾ ಅನುಭವವನುꈁ ꁓೕಡಲು ಸꈨಾಯ ಮಾಡುವꈢದꈖಾꄋꀸ ꁓಮꈈ ಸೆꁄꈓಂꀃಗಳನುꈁ ವೈಯꀶꈇೕಕꁠꁦ.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string name="txt_connection_lost">ಸಂಪಕꈆವꈢ ಕꁆತꁰೂಂꁆꂃ</string>
+  <string name="txt_connectionlost_detail">ಇಂಟꂅꈆꀑꁰ ಸಂಪꀶꈆಸುವꁡꈘ ಸಮꂘꈐ ಇꂃ. ದಯꁣಟುꈓ ꄇೆꀑವꀁꈆ ಸೆꁄꈓಂꀃಗಳನುꈁ ಪꁠꁤೕꁡꁦ.</string>
+  <string name="txtBtnOK">ಸꁠ</string>
+  <!-- <string name="txtSelectLanguageInfo" comment="IMP NOTE: PLEASE WRITE YOUR LANGUAGE NAME INSTEAD OF ###. This is a text to inform the user about the language selection. Please see the attached image for reference. (txtSelectLanguage.png) HERE INSTEAD OF ### PLEASE WRITE YOUR LANGUAGE NAME. FOR EXAMPLE, IF YOUR LANGUAGE IS FRENCH THEN: DO YOU WANT TO LEARN IN FRENCH OR ENGLISH?">Do you want to learn in ### or English?</string> -->
+  <string name="txtShowIntroAtStart">ꈔಾꈦರಂಭದꁡꈘ ಅꄌರ ಪꁠಚಯವನುꈁ ತೋꁠꁦ</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">ꂕೂದಲು ಸꈨಾಯ ಟುꈐꁶೂೕꁠಯꀩ ಅನುꈁ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">ನಮꈈ ಕꂁಯನುꈁ ಪꁠꁤೕꁡꁦ</string>
+  <string ScaleFactor="1" name="txtloading">ꂓೂೕꀓ ಆಗುꁉꈇꂃ...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">ಆಟꁑಂದ ꁓಗꈆꁘꁦ?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">ꁓೕವꈢ ಖಂꁆತꄀಾꀸಯೂ ꁓಗꈆꁘಸ ಬಯಸುꁉꈇೕꄃಾ?</string>
+  <string ScaleFactor="1" name="txtBtnTab">ꈉಾꈐꀣ</string>
+  <string ScaleFactor="1" name="txtBtnBack">ꈬಾꈐꀁ</string>
+  <string ScaleFactor="1" name="txtBtnSelect">ಸೆꂓꀁꈓ</string>
+  <string ScaleFactor="1" name="txtBtnDelete">ꁆꁡೕꀑ</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">ꄇಾꈐꁣಗೇꀑ</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">ಮುಂದುವꂒಯಲು ಯಾವꈢದೇ ꀶೕ ಅನುꈁ ಒꁉꈇ...</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">ಅꁔꈘಕೇಶꀠ ಅನುꈁ ಪꁠꁤೕꁡಸುವ ಮೂಲಕ ನಮꈈನುꈁ ꂈಂಬꁡꁦ.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">ನಮꈈನುꈁ ರೇꀑ ಮಾꁆ</string>
+  <string ScaleFactor="1" name="txtLaterBtn">ನಂತರ</string>
+  <!-- <string name="txtWiderSelection" ScaleFactor="1">Wider Selection, Ships Worldwide</string> -->
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- June 10 -->
+  <!-- T-Shirts Shop - START -->
+  <string name="txtWaysToSupportUs" ScaleFactor="1" comment="This is a text to inform user about the support us options. Please try to make text small as possible. Please see the attached image for reference. (K-1.png)">ನಮꈈನುꈁ ꂈಂಬꁡಸುವ ಮಾಗꈆಗಳು</string>
+  <!-- <string name="txtTshirtSizeHdr" ScaleFactor="1" comment="This is a heading text to inform user that T-shitrs are for both parents and kids. Please see the attached image for reference. (K-2.png)">T-shirt Sizes For Kids &amp; Parents</string> -->
+  <!-- <string name="txtTshirtSizeDesc" ScaleFactor="1" comment="This is a text to inform users (parents) that reward your child with a t-shirt, and support us. Please see the attached image for reference. (K-2.png)">Reward your child with t-shirt, and support us.</string>
+           <string name="txtTshirtSupportPopup" ScaleFactor="1" comment="This is a popup text to inform users that the best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV and newspapers).">Best free way to support us is to share our kids' games with schools, friends, social media, and press (TV &amp; newspapers).</string>  The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers).
+           <string name="txtVisitStoreDesc" ScaleFactor="1" comment="This is a text to inform user that visit our store for more awesome T-shirts. Please see the attached image for reference. (K-2.png)">Visit store for more t-shirts.</string> -->
+  <!-- <string name="txtVisitStoreBtn" ScaleFactor="1" comment="This is a button text. Please see the attached image for reference. (K-2.png)">Visit Store</string> -->
+  <!-- <string name="txtBuyTshirtHdr" ScaleFactor="1" comment="This is a header text to inform user about the T-shirts. Please try to make text small as possible. Please see the attached image for reference. (K-3.png)">T-shirts for Parents and Kids</string> -->
+  <!-- <string name="txtBuyTshirtDesc" ScaleFactor="1" comment="This is a text to inform user to buy the tshirts for kids and show that they love the game's characters. Please try to make text small as possible. Please see the attached image for reference. (K-3.png)">Why not reward your child by buying T-shirts and show that you love characters.</string> -->
+  <!-- <string name="txtBuyTshirtBtn" ScaleFactor="1" comment="This is a button text to buy t-shirs. Please see the attached image for reference. (K-3.png)">Buy Now</string> -->
+  <!-- <string name="txtShopBtn" ScaleFactor="1">SHOP</string> -->
+  <!-- <string name="txtShareCap" ScaleFactor="1">SHARE</string> -->
+  <!-- T-Shirts Shop - END -->
+  <!-- <string name="txt_shopConfirmTitle">CONFIRM</string> -->
+  <!-- <string name="txt_shopConfirmDetail">You'll be redirected to website to continue. Are you sure you want to leave?</string> -->
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- <string name="txtShopOnAmazon" ScaleFactor="1">SHOP ON [STORE-NAME]</string> -->
+  <!--  EDIT: AMAZON -->
+  <!-- <string name="txtShopOnTspring" ScaleFactor="1">SHOP ON [STORE-NAME]</string> -->
+  <!--  EDIT: TEESPRING -->
+  <!-- <string name="txtWiderSelection" ScaleFactor="1">Wider Selection, Ships Worldwide</string> -->
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">ಆಟದ ಬꁰꈩ ꁓೕವꈢ ಏನು ꈤೕꁀಸುꁉꈇೕꁠ ಎನುꈁವꈢದನುꈁ ನಮꁰ ꁉꁢꁦ?</string>
+  <string ScaleFactor="1" name="txtVeryBad">ತುಂಬಾ ಕೆಟꈓꈰಾꀸꂃ</string>
+  <string ScaleFactor="1" name="txtVeryGood">ತುಂಬಾ ꁶꄇಾꈁꀸꂃ</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">ꈨೌದು, ꁣಮꂖꈆ &amp; ಆಂꀡ: ನಮꈈನುꈁ ꂈಂಬꁡꁦ</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">ಪꈦꁉꀶꈦꂑ ꁓೕꁆದꈱꈖಾꄋꀸ ಧನꈐꄀಾದಗಳು</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!--Character Selection-->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">ಮꄇೆ</string>
+  <string name="txt_menuoption_settings">ಸೆꁄꈓಂಗꈩಳು</string>
+  <string name="txt_menuoption_shop">ಅಂಗꁆ</string>
+  <string name="txt_menuoption_kidsapps">ಮಕꄋಳ ಆꈐꀡಗಳು</string>
+  <string name="txt_menuoption_parentapps">ಪೊಷꄋರ ಆꈐꀡಗಳು</string>
+  <string name="txt_menuoption_worksheets">ವꀁꈆꁤೕꀑಗಳು</string>
+  <string name="txt_messagefromdave">ꁓಂದ ಸಂದೇಶ</string>
+  <string name="txt_getfeaturedon">ಇꀠꈃಾꈓꄈಾꈦꀥನꁡꈘ ꈖಾꁈꁦꁨೂꁢꈣ</string>
+  <string name="txt_tagus"> ಅನುꈁ ꈉಾꈐꀃ ಮಾꁆ ಮಮꈇ ನಮꈈ ಕಥೆಗಳ ಒಂದು ꄁಾಗꄀಾꀸꁠ</string>
+  <string name="txt_founderof">(RV AppStudios ꈃಾꈂಪಕರು)</string>
+  <string name="txt_takeaphoto-videoof">ನಮꈈ ಆꈐꀡ ಅನುꈁ ಬಳಸುꁉꈇರುವ ಅಥꄀಾ ꁦꈓೕಕꁠಸುವ ಪꈦಮಾಣಪತꈦವನುꈁ ꁧꁆದುꁨೂಂꁆರುವ ಮಗುꁣನ ꂇꈅೕꁶೂೕ/ꁣೕꁆꈤ ꂁꁰದುꁨೂꁢꈣ.</string>
+  <string name="txt_sharetagusonInstagram">ꈖಾꁈꁦꁨೂಳುꈣವ ಅವꈖಾಶꈖಾꄋꀸ Instagram @RVAppStudios ನꁡꈘ ನಮꈈನುꈁ ಹಂꁀꁨೂꁢꈣ ಮಮꈇ ꈉಾꈐꀃ ಮಾꁆ.</string>
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">RV AppStudios ರವರ ಮಕꄋಳ ಆಟಗಳು</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">RV AppStudios ರವರ ꂆꈅೕಷಕರ ಆಟಗಳು</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">ವꀁꈆꁤೕꀑಗಳು</string>
+  <string name="txt_coloringpage">ಬಣꈭ ಹಚುꄄವ ಪꈢಟಗಳು</string>
+  <string name="txt_downloadmoreworksheet">ನಮꈈ Pinterest ಪꈢಟꁑಂದ ಇನꈁಷುꈓ ವꀁꈆꁤೕꀑ ಅನುꈁ ꈵೌꀠꂓೂೕꀓ ಮಾꁆꁨೂꁢꈣ</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txt_messagefromdave1">ꁣವೇꀁ</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <!-- New our story: June 10 -->
+  <string name="txtOurStorySettings">RV AppStudios ಶೈꄌꁈಕ ಆꈐꀡಗಳು ಉꁀತꄀಾꀸꂃ, ಏಕೆಂದꂒ ಎಲಾꈘ ಮಕꄋಳು ಮೂಲಭೂತ ꁤꄌಣꁨꄋ ಪꈦವೇಶವನುꈁ ಹೊಂꁑರꂈೕಕು ಎನುꈁವꈢದನುꈁ ꄇಾವꈢ ನಂಬುꂁꈇೕವೆ! ನಮꈈ ಆꈐꀡಗಳನುꈁ ಇತರರೊಂꁑꁰ ಹಂꁀꁨೂಳುꈣವ ಮೂಲಕ ದಯꁣಟುꈓ ನಮꈈನುꈁ ꂈಂಬꁡꁦ. ಇದꁠಂದ ꄇಾವꈢ ಇನꈁೂ ಹೆꁀꄄನ ಮಕꄋꁢꁰ ꁤꄌಣ ꁓೕಡಲು ಸꈨಾಯ ಮಾꁆದಂꂁ ಆಗುತꈇꂃ..</string>
+  <!-- EDIT: replace company name -->
+  <!-- June 10 -->
+  <!-- <string name="txtOurStorySettings">With ##.## million monthly downloads of our games coming from our free kids' apps, we have become one of the world's largest developers of Children's Educational Apps. "And we continue to do it completely for FREE."</string> -->
+  <!-- EDIT: ### to 10-->
+  <!-- <string name="txtOurStorySettings2">"Why?" -When I became a parent, I knew I would do everything to give my daughter the best education and the best opportunities as she grows up. I believe many parents recognize the longing to give their kids more opportunities or better education than they had themselves.</string> -->
+  <!-- <string name="txtOurStorySettings3">But not all parents have the time or ability to help their children with their homework. And as much as I wanted the best for my own daughter, I felt it was unfair that tens of millions of kids all over the world would not get same opportunity for even basic education or learn to read and write.</string> -->
+  <!-- <string name="txtOurStorySettings4">I realized that as an app developer, I had opportunity to do something about it. -"Not for profit", but to give children from all corners of the world early start learning essential skills like counting, spelling, and math in entertaining way.</string> -->
+  <!-- <string name="txtOurStorySettings5">So I launched children's educational app branch of "RV AppStudios" with purpose to produce FREE apps helping children develop their creativity, memory and logical thinking by playing games.</string> -->
+  <!-- <string name="txtOurStorySettings6">To achieve that, we needed to keep the apps and games safe for the kids. So I decided to invest profits from our other app development business to make "100% FREE" kids' applications with "NO ADS" and "NO in-app purchases." -The only ones who should benefit from these apps are the children.</string> -->
+  <!-- <string name="txtOurStorySettings7">Our passion is to see children getting head start through pre-school learning apps, becoming the future leaders of change in their communities. And we finance our passion ourselves to make it happen!</string> -->
+  <!--  EDIT: combine above all 1 to 7 -->
+  <string name="txtWatchUsYouTube">ನಮꈈನುꈁ YouTube ನꁡꈘ ꁣೕꈫꁦ</string>
+  <string name="txtRateApp">ಈಗꂓೕ ರೇꀑ ಮಾꁆ</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">ಮುಂದುವꂒಸು</string>
+  <string name="txt_DownloadNowCap">ಈಗꂓೕ ꈵೌꀠ ꂓೂೕꀓ ಮಾꁆꁨೂꁢꈣ</string>
+  <string name="txt_Play_nowCap">ಈಗ ಆಟꄀಾꁆ</string>
+  <string name="txt_ConnectionErrorMsg1">ಅಂತಜಾꈆಲ ಸಂಪಕꈆವꈢ ꁣಫಲꄀಾꀸꂃ</string>
+  <!-- EDIT: No Internet Connection. -->
+  <string name="txt_ConnectionErrorMsg2">ದಯꁣಟುꈓ ನಂತರ ಮರꁢ ಪꈦಯꁉꈁꁦ!</string>
+  <!-- EDIT: Remove - Unable To Connect and only Please Try Again Later. -->
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">ಸಮೀಕರಣ</string>
+  <string name="txtSubPracticeTitle">ವꈐವಕಲನದ ಅꄁಾꈐಸ</string>
+  <string name="txtAddPracticeTitle">ಸಂಕಲನದ ಅꄁಾꈐಸ</string>
+  <string name="txtBeginner">ಆರಂꁗಕ</string>
+  <string name="txtIntermediate">ಮಧꈐಮ</string>
+  <string name="txtAdvance">ಮುಂದುವꁠದ</string>
+  <string name="txtSubPracticeTitle">ವꈐವಕಲನದ ಅꄁಾꈐಸ</string>
+  <string name="txtAddPracticeTitle">ಸಂಕಲನದ ಅꄁಾꈐಸ</string>
+  <string name="txtBeginner">ಆರಂꁗಕ</string>
+  <string name="txtIntermediate">ಮಧꈐಮ</string>
+  <string name="txtAdvance">ಮುಂದುವꁠದ</string>
+  <string name="txtCertificate">ಪꈦಮಾಣಪತꈦಗಳು</string>
+  <string name="txtCertificates">ಪꈦಮಾಣಪತꈦಗಳು</string>
+  <!-- EDIT:  Certificate -->
+  <string name="txtUnlocked">ಅꀠಲಾꀁ ಮಾಡಲಾꀸꂃ</string>
+  <string name="txtCongratulations">ಅꁗನಂದꄇೆಗಳು</string>
+  <string name="txtCertificateUnlocked">ಹೊಸ ಪꈦಮಾಣಪತꈦವನುꈁ ಅꀠಲಾꀁ ಮಾಡಲಾꀸꂃ!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">ರಂದು</string>
+  <string name="txtPrint">ಮುದꈦಣ</string>
+  <!--  -->
+  <!-- <string name="txt_certi_title_1">ಪ್ರಶಸ್ತಿ</string>
+  <string name="txt_certi_title_2">ಅದ್ವಿತೀಯ</string>
+  <string name="txt_certi_title_3">ನಕ್ಷತ್ರ ಪ್ರಶಸ್ತಿ</string>
+  <string name="txt_certi_title_4">ಅದ್ಬುತ ಕೆಲಸ</string>
+  <string name="txt_certi_title_5">ಶ್ರೇಷ್ಠತೆ</string>
+  <string name="txt_certi_title_6">ಅದ್ಭುತ</string>
+  <string name="txt_certi_title_7">ಸಾಧನೆ</string>
+  <string name="txt_certi_title_8">ಒಳ್ಳೆಯದು ಮಾಡಿದಿರಿ</string> -->
+  <string name="txt_certi_title_1">&lt;size=375&gt;AWARD&lt;/size&gt;</string>
+  <string name="txt_certi_title_2">&lt;size=410&gt;OUTSTANDING&lt;/size&gt;</string>
+  <string name="txt_certi_title_3">&lt;size=430&gt;STAR AWARD&lt;/size&gt;</string>
+  <string name="txt_certi_title_4">&lt;size=500&gt;GREAT WORK!&lt;/size&gt;</string>
+  <string name="txt_certi_title_5">&lt;size=385&gt;EXCELLENCE&lt;/size&gt;</string>
+  <string name="txt_certi_title_6">&lt;size=460&gt;FANTASTIC&lt;/size&gt;</string>
+  <string name="txt_certi_title_7">&lt;size=500&gt;ACHIEVEMENT&lt;/size&gt;</string>
+  <string name="txt_certi_title_8">&lt;size=500&gt;WELL DONE!&lt;/size&gt;</string>
+  <!--  -->
+  <!-- <string name="title_selectCharacter" comment="This is a setting menu text to pick your favorite character. Please see the attached image for reference. (title_selectCharacter.JPG)">Choose Your Favorite Character</string> -->
+  <!-- <string name="txt_ChooseYourFavCharaTitle" comment="This is a setting menu text to pick your favorite character. Please see the attached image for reference. (title_selectCharacter.JPG)">Choose Your Favorite Character</string> -->
+  <!--Edit: Make it capital-->
+  <!-- <string name="txt_ShopFun_detail" comment="This is a heading text for the showcase of the t-shirts and inform parent to buy the products from the store. Please see the attached image for reference. (txt_shop.JPG)">Fun T-Shirts for Parents and Kids</string> -->
+  <!-- <string name="txt_ShopArea_detail" comment="This is a text to inform user that this product is available only in USA. Please see the attached image for reference. (txt_shop.JPG)">This is only for USA.</string> -->
+  <!--EDIT: This product is available only in USA.-->
+  <!-- <string name="txt_HalfSleeves" comment="The part of a garment that wholly or partly covers a person's arm. Please see the attached image for reference. (txt_shop.JPG)">(Half/Full Sleeves)</string> -->
+  <!--Edit: remove Full-->
+  <!-- <string name="txt_Char_download_detail" comment="This is a text to inform user that new character has been downloaded!">New character has been downloaded!</string> -->
+  <!--EDIT: New character has been downloaded!-->
+  <!-- <string name="txt_downloding_title" comment="This is a text to inform user that downloading is running.">Downloading...</string> -->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- <string name="txt_downloding_detail0" comment="This is a text to inform user that downloading takes some time.">This may take few seconds.</string> -->
+  <!-- <string name="txt_downloding_detail" comment="This is a text to inform user that play other game modes when downloading is running. Please see the attached image for reference. (txt_downloding_title.jpg)">Play other game modes while waiting.</string> -->
+  <!-- Edit: Combine both -->
+  <!--Edit: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <!-- <string name="txt_shopConfirmTitle" comment="This is a header text for confirmation. Please see the attached image for reference. (txt_shopConfirmTitle.JPG)">Confirm</string> -->
+  <!-- <string name="txt_shopConfirmDetail" comment="This is a text to inform user that you will be redirected to an external website to continue shopping. Please see the attached image for reference. (txt_shopConfirmTitle.JPG)">You'll be redirected to website to continue. Are you sure you want to leave?</string> -->
+  <!--Edit: Make it capital.-->
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ!</string>
+  <string name="txtEnterNm">ಮಗುꁣನ ಹೆಸರನುꈁ ನಮೂꁑꁦ</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">ಪꈦಮಾಣಪತꈦವನುꈁ ಮುꁑꈦಸುವ ಮೂಲಕ ಮಗುꁣꁰ ಸೂꈸꁉꈆ ꁓೕꁆ</string>
+  <string name="txtGreat">ಅದುꈷತ</string>
+  <string name="txtTapToGetCerti">ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಪಡೆಯಲು ꈉಾꈐꀡ ಮಾꁆ.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">ಐಟಂಗಳನುꈁ 20 ಬಾꁠ ಎꁈꁦ</string>
+  <string name="Math_Task_1_End">ಐಟಂಗಳನುꈁ 20 ಬಾꁠ ಎꁈಸಲಾꀸꂃ</string>
+  <string name="Math_Task_2_Start">30 ಕೂꁆಸುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠꁦ</string>
+  <string name="Math_Task_2_End">30 ಕೂꁆಸುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_3_Start">ಕೂꁆಸುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_3_End">ಕೂꁆಸುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_4_Start">30 ಕೂꁆಸುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_4_End">30 ಕೂꁆಸುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_5_Start">30 ಬಾꁠ ಹೋꁡꁦ</string>
+  <string name="Math_Task_5_End">ಐಟಂಗಳನುꈁ 30 ಬಾꁠ ಹೋꁡಸಲಾꀸꂃ</string>
+  <string name="Math_Task_6_Start">30 ಕಳೆಯುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠꁦ</string>
+  <string name="Math_Task_6_End">30 ಕಳೆಯುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_7_Start">ಕಳೆಯುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_7_End">ಕಳೆಯುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_8_Start">30 ಕಳೆಯುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_8_End">30 ಕಳೆಯುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_1_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! ಐಟಂಗಳನುꈁ 20 ಬಾꁠ ಎꁈಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ಕೂꁆಸುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! ಕೂꁆಸುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ಕೂꁆಸುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! ಐಟಂಗಳನುꈁ 30 ಬಾꁠ ಹೋꁡಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ಕಳೆಯುವ ಒಗಟುಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! ಕಳೆಯುವ ꁣನೋದವನುꈁ 30 ಬಾꁠ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ಕಳೆಯುವ ರಸಪꈦꂖꈁಗಳನುꈁ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Pinterest ꁰ ಸಂಪꀶꈆꁦ</string>
+  <string name="txtconnectingPintrestMsg">ꁓಮꈈನುꈁ Pinterest ꁰ ಮರುꁓꂃೕꈆꁤಸಲಾಗುತꈇꂃ. ꁓೕವꈢ ಖꁀತꄀಾꀸ ꁓಗꈆꁘಸಬಯಸುꁣꄃಾ?</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">ಮುಂದುವꂒಸು</string>
+  <string name="txtinspirationbehind">ಮಕꄋಳ ಆꈐꀡಗಳ ꁧಂꁑನ ಸೂꈸꁉꈆ</string>
+  <!-- <string name="txtTapToGetWorkAndColoring">Download, print, and practice worksheets for kids.</string> -->
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">ಮುꁑꈦಸಬಹುꈰಾದುದು</string>
+  <string name="txtAllowCouting">ಎꁈಕೆꁰ ಅವꈖಾಶ ಮಾꁆꁨೂꁆ</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">ಎꁈಸಲಾಗುꁉꈇꂃ</string>
+  <string name="Adding Puzzle">ಕೂꁆಸುವ ಒಗಟು</string>
+  <string name="Adding Fun">ಕೂꁆಸುವ ꁣನೋದ</string>
+  <string name="Adding Quiz">ಕೂꁆಸುವ ರಸಪꈦꂖꈁ</string>
+  <string name="Compare">ಹೋꁡꁦ</string>
+  <string name="Subtracting Puzzle">ಕಳೆಯುವ ಒಗಟು</string>
+  <string name="Subtracting Fun">ಕಳೆಯುವ ꁣನೋದ</string>
+  <string name="Subtracting Quiz">ಕಳೆಯುವ ರಸಪꈦꂖꈁ</string>
+  <!-- <string name="txt_gamename" ScaleFactor="1">Math Kids - Add, Subtract, Count</string> -->
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <!-- <string name="txt_gamenameiOS" ScaleFactor="1">Math Kids - Add, Subtract, Count</string> -->
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">ಈಗ ಯೂ ಟೂꈐꀣ ನꁡꈘ RV AppStudios</string>
+  <string name="txt_textrhymesYT">ಶೈꄌꁈಕ ꈨಾಡುಗಳು &amp; ನಸꈆꁠ ರೈꀥꈠ</string>
+  <!-- YouTube NEW - END -->
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">ನಮꈈ ಕಥೆ</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of &lt;b&gt;RV AppStudios&lt;/b&gt; to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for &lt;b&gt;FREE!&lt;/b&gt;</string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining &lt;b&gt;FREE&lt;/b&gt; kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications &lt;b&gt;100% AD FREE&lt;/b&gt; and with &lt;b&gt;No in-app&lt;/b&gt;&lt;b&gt;purchases.&lt;/b&gt; The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. &lt;b&gt;- Currently&lt;/b&gt;&lt;b&gt; that’s over 15 million downloads every month!&lt;/b&gt; More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_TitleLanguage">ಕನꈁಡ</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 12 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_wait">ꁓꁠೕꈫꁦ</string>
+  <string name="txt_langdownloaded">ꄁಾಷೆಯನುꈁ ꈵೌꀠꂓೂೕꀓ ಮಾಡಲಾꀸꂃ</string>
+  <string name="txtInternetIssue">ಇಂಟꂅꈆꀑꁰ ಸಂಪꀶꈆಸುವꁡꈘ ಸಮꂘꈐ ಇꂃ. </string>
+  <string name="title_IndianLanguages">ꄁಾರꁉೕಯ ꄁಾಷೆಗಳು</string>
+  <string name="title_OtherLanguages">ಇತರ ꄁಾಷೆಗಳು</string>
+  <string name="txt_ContinueIn">### ನೊಂꁑꁰ ಮುಂದುವꁠꁦ</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">ನಮꈈ ꀶꀓꀴ ಆಟಗಳು</string>
+  <string name="txt_SuggestedLanguages">ಸೂꁀꁦದ ꄁಾಷೆಗಳು</string>
+  <string name="txt_VisitOurChannel">ನಮꈈ ꄉಾꄇೆꀩꁰ ꂉೕꁄ ꁓೕꁆ</string>
+  <string name="txt_followusandshare">ನಮꈈನುꈁ ಅನುಸꁠꁦ ಮಮꈇ ಹಂꁀꁨೂꁢꈣ</string>
+  <string name="txt_0">೦</string>
+  <string name="txt_1">೧</string>
+  <string name="txt_2">೨</string>
+  <string name="txt_3">೩</string>
+  <string name="txt_4">೪</string>
+  <string name="txt_5">೫</string>
+  <string name="txt_6">೬</string>
+  <string name="txt_7">೭</string>
+  <string name="txt_8">೮</string>
+  <string name="txt_9">೯</string>
+  <string name="txt_10">೧೦</string>
+  <string name="txt_20">೨೦</string>
+  <string name="txt_gameplay_123">೧೨೩</string>
+  <string name="NumberHelp" ScaleFactor="1">ಇꁡꈘಂದ ಸಂꁩꈐಯನುꈁ ಬದಲಾꁙꁦ</string>
+  <string name="txt_LetterSelectTitle">ಸಂꁩꈐಯನುꈁ ಆꂑꄋ ಮಾꁆ</string>
+  <string name="txt_wait">ꁓꁠೕꈫꁦ</string>
+  <string name="txt_langdownloaded">ꄁಾಷೆಯನುꈁ ꈵೌꀠꂓೂೕꀓ ಮಾಡಲಾꀸꂃ</string>
+  <string name="txtInternetIssue">ಇಂಟꂅꈆꀑꁰ ಸಂಪꀶꈆಸುವꁡꈘ ಸಮꂘꈐ ಇꂃ. </string>
+  <string name="title_IndianLanguages">ꄁಾರꁉೕಯ ꄁಾಷೆಗಳು</string>
+  <string name="title_OtherLanguages">ಇತರ ꄁಾಷೆಗಳು</string>
+  <string name="txt_ContinueIn">### ನೊಂꁑꁰ ಮುಂದುವꁠꁦ</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">ನಮꈈ ꀶꀓꀴ ಆಟಗಳು</string>
+  <string name="txt_SuggestedLanguages">ಸೂꁀꁦದ ꄁಾಷೆಗಳು</string>
+  <string name="txt_VisitOurChannel">ನಮꈈ ꄉಾꄇೆꀩꁰ ꂉೕꁄ ꁓೕꁆ</string>
+  <string name="txt_followusandshare">ನಮꈈನುꈁ ಅನುಸꁠꁦ ಮಮꈇ ಹಂꁀꁨೂꁢꈣ</string>
+  <string name="txt_OurImpact">ನಮꈈ ಪꈦꄁಾವ</string>
+  <string name="txt_OurImpactDesc">RV AppStudios ನಮꈈ ಉꁀತ ಮಕꄋಳ ಅꁔꈘಕೇಶꀠಗಳೊಂꁑꁰ ಮಾꁦಕ &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; ಮಕꄋꁢꁰ ꁤꄌಣ ꁓೕಡುತꈇꂃ.</string>
+  <string name="txt_KidsApp">ꀶꀓꀴ ಅꁔꈘಕೇಶꀠ</string>
+  <string name="txt_Countries">ದೇಶಗಳು</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 ಮಕꄋಳು ನಮꈈ ಅꁔꈘಕೇಶꀠಗಳನುꈁ ಬಳಸುꀖꈧಾꂒ</string>
+  <string name="txt_Hello">ನಮꀴꈖಾರ</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends">Lucas &amp; Friends</string>
+  <string name="txt_ShopDesc2">ಹೊಸ ಟೀ ಶꀑꈆ ꁣꄇಾꈐಸವನುꈁ ꄀಾರꀁꁨೂꂐꈈ ಸೇꁠಸಲಾꀸꂃ!</string>
+  <string name="txt_AllGamesAreFree">(ಎಲಾꈘ ಆಟಗಳು ಉꁀತ ಮಮꈇ ಯಾವꈢದೇ ಜಾꁧೕꄃಾತುಗꁢಲꈘ)</string>
+  <string name="txt_ShowOurStoryBtn">ಮುಖꈐ ꂐನುꁣꁓಂದ "ನಮꈈ ಕಥೆ ಬಟꀠ" ಅನುꈁ ಮꂒಮಾꁆ</string>
+  <string name="txt_ShowShopBtn">ಮುಖꈐ ꂐನುꁣꁓಂದ "ꄊಾꀡ ಬಟꀠ" ಅನುꈁ ಮꂒಮಾꁆ</string>
+  <string name="txt_ShowMoreappBtn">ಮುಖꈐ ꂐನುꁣꁓಂದ "ಇನꈁಷುꈓ ಅꁔꈘಕೇಶꀠಗಳ ಬಟꀠ" ಅನುꈁ ಮꂒಮಾꁆ</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">ಮಕꄋꁢꄈಾꀸ ꁄ-ಶꀑꈆಗಳು</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">ಮಕꄋꁢꄈಾꀸ ಶೈꄌꁈಕ ಪꈢꀴತಕಗಳು</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS ꁄ-ಶꀑꈆಗಳು &amp; ಶೈꄌꁈಕ ಪꈢꀴತಕಗಳು</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">ಪꈦಥಮ LUCAS &amp; FRIENDS ಪꈢꀴತಕ</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">ꁄ-ಶꀑꈆಗಳು &amp; ಮಕꄋꁢꄈಾꀸ ಶೈꄌꁈಕ ಪꈢꀴತಕಗಳು</string>
+  <string name="txt_VisibleMDstng">ಪꈦದꁤꈆಸಲು ꈴೕꀓಗಳನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="txt_SelectParentGate">ಸೆꁄꈓಂꀃ ಅꀠಲಾꀁ ಮಾಡಲು ಆꂑꄋಗಳನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="txt_HideButtons">ಗುಂꁆಗಳನುꈁ ಮꂒಮಾꁆ</string>
+  <string name="txt_HideButtonsFromMenu">ಮುಖꈐ ꂐನುꁣꁓಂದ ಗುಂꁆಗಳನುꈁ ಮꂒಮಾꁆ</string>
+  <string name="txtDearParentsTeachers">ಆꁉꈈೕಯ ꂆꈅೕಷಕರು &amp; ಆಂꀡ; ꁤꄌಕರೇ</string>
+  <string name="txt_rateThanks">ꁔꈦೕꁉ ಮಮꈇ ꂈಂಬಲꈖಾꄋꀸ ಧನꈐꄀಾದಗಳು. ꄇಾವೂ ꁓಮꈈನುꈁ ꁔꈦೕꁉಸುꂁꈇೕವೆ!</string>
+  <string name="txt_rateFeedback">ಧನꈐꄀಾದಗಳು, ꁓಮꈈ ಅꁓꁦಕೆಗಳನುꈁ ಕೇಳಲು ꄇಾವꈢ ಇಷꈓಪಡುꂁꈇೕವೆ. ನಮꁰ ಪꈦꁉꀶꈦꂑ ꁓೕꁆ.</string>
+  <string name="txt_rateLetUsKnow">ꁓಮꈈ ಮಗು ನಮꈈ ಅꁔꈘಕೇಶꀠ ಅನುꈁ ಹೇꁰ ಆನಂꁑಸುತꈇꂃ ಎಂಬುದನುꈁ ನಮꁰ ꁉꁢꁦ.</string>
+  <string name="txt_rateHappySad">ꁓೕವꈢ ಅꁔꈘಕೇಶꀠನೊಂꁑꁰ ಸಂತೋಷꄀಾꀸꁑꈱೕꄃಾ?</string>
+  <string name="txt_rateHappy">ಸಂꂁೂೕಷ</string>
+  <string name="txt_rateSad">ದುಃಖ</string>
+  <string name="txtRateDesc1">ꂆꈘೕ ꂘೂꈓೕನꈆꁡꈘ ಆꈐꀡ ಅನುꈁ ಪꁠꁤೕꁡಸಲು ꁓಮꁰ ಮನꁦꈠꂃꂑೕ? ಇದು ಇತರ ꂆꈅೕಷಕꁠꁰ ಆꈐꀡ ಕುꁠತು ꁉꁢದುꁨೂಳꈣಲು ಸꈨಾಯ ಮಾಡುತꈇꂃ.</string>
+  <string name="txtVeryBadCap">ತುಂಬಾ ಕೆಟꈓꈰಾꀸꂃ</string>
+  <string name="txtGoodCap">ಉತꈇಮ</string>
+  <string name="txtRateAppBtn">ನಮꈈನುꈁ ರೇꀑ</string>
+  <string name="txtRateHdr">ನಮꈈನುꈁ ರೇꀑ</string>
+  <string name="english_name">ಆಂꀃಲ</string>
+  <string name="Sendfeedback" ScaleFactor="1">ಪꈦꁉꀶꈦꂑ ಕಳುꁧꁦ</string>
+  <string name="UseOurApps">ಮಕꄋಳು ಪꈦꁉ ꁉಂಗಳು ನಮꈈ ಶೈꄌꁈಕ ಅꁔꈘಕೇಶꀠಗಳನುꈁ ಬಳಸುꀖꈧಾꂒ.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios is on YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">ನಮꈈ ಅꁔꈘಕೇಶꀠಗಳನುꈁ ಹುಡುಕಲು RV Appstudios ಅನುꈁ ಹುಡುꀶ</string>
+  <string name="GiphyStickers" ScaleFactor="1">ಅꁓꂕುೕꁶꀓ GIF ಗಳು ಮಮꈇ ꁦꈓಕꄋꀧಗಳು ಈಗ ಲಭꈐꁣꂃ!</string>
+  <string name="GiphyTenor" ScaleFactor="1">ꁓಮꈈ GIF ꀶೕꂈೂೕꀓꈆನꁡꈘ @RVAppStudios ಅನುꈁ ಹುಡುꀶ</string>
+  <string name="txt_2Digit+">2 ಅಂꀶಗಳು +</string>
+  <string name="txt_2Digit-">2 ಅಂꀶಗಳು -</string>
+  <string name="Intro_Text" ScaleFactor="1">ಇꁉꈇೕꁀನ ಸುꁑꈱಗꁢꄈಾꀸ RVAppStudios.com ꁰ ꂉೕꁄ ꁓೕꁆ!</string>
+  <string name="About_Us">ನಮꈈ ಬꁰꈩ</string>
+  <string name="txt_collectGift">ꁓಮꈈ ಉಡುꁰೂꂒಯನುꈁ ಸಂಗꈦꁧꁦ</string>
+  <string name="txt_GoodJob">ಒꂔꈣಯ ಕೆಲಸ</string>
+  <string name="Impact_together">ꄇಾವꈢ ಒꀑꈉಾꀸ ಮಾಡಬಹುꈰಾದ ಪꁠಣಾಮ</string>
+  <string name="For_Parents">ꂆꈅೕಷಕꁠꁰ</string>
+  <string name="Message_Parents">ꂆꈅೕಷಕꁠꄈಾꀸ ಸಂದೇಶ</string>
+  <string name="txtShoppingMode">ꄊಾꁔಂꀃ</string>
+  <string name="Math_Task_9_Start">2-ಅಂꀶಗಳು ಸಂಕಲನ 30 ಬಾꁠ ಪꁠಹꁠꁦ</string>
+  <string name="Math_Task_9_End">2-ಅಂꀶಗಳು ಸಂಕಲನ 30 ಬಾꁠ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_10_Start">2-ಅಂꀶಗಳು ವꈐವಕಲನ 30 ಬಾꁠ ಪꁠಹꁠꁦ</string>
+  <string name="Math_Task_10_End">2-ಅಂꀶಗಳು ವꈐವಕಲನ 30 ಬಾꁠ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_11_Start">30 ಸಂಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_11_End">30 ಸಂಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_12_Start">30 ವꈐವಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢꁦ</string>
+  <string name="Math_Task_12_End">30 ವꈐವಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_13_Start">30 ꄊಾꁔಂꀃ ಪꈦꂖꈁಗಳನುꈁ ಪꁠಹꁠꁦ</string>
+  <string name="Math_Task_13_End">30 ꄊಾꁔಂꀃ ಪꈦꂖꈁಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_9_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 2-ಅಂꀶಗಳು ಸಂಕಲನ 30 ಬಾꁠ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_10_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 2-ಅಂꀶಗಳು ವꈐವಕಲನ 30 ಬಾꁠ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="Math_Task_11_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ಸಂಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_12_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ವꈐವಕಲನದ ಅꄁಾꈐಸ ಪೂꀧಣꁰೂꁢಸಲಾꀸꂃ</string>
+  <string name="Math_Task_13_Completed">ꁓೕವꈢ ಪꈦಮಾಣ ꈔಾತꈦವನುꈁ ಗꁢꁦꁑꈱೕꁠ! 30 ꄊಾꁔಂꀃ ಪꈦꂖꈁಗಳನುꈁ ಪꁠಹꁠಸಲಾꀸꂃ</string>
+  <string name="January">ಜನವꁠ</string>
+  <string name="February">ಫೆಬುꈦವꁠ</string>
+  <string name="March">ಮಾꀆꈆ</string>
+  <string name="April">ಏꁔꈦꀩ</string>
+  <string name="May">ꂕುೕ</string>
+  <string name="June">ಜೂꀠ</string>
+  <string name="July">ಜುಲೈ</string>
+  <string name="August">ಆಗꀴꈓ</string>
+  <string name="September">ಸꂆꈓಂಬꀧ</string>
+  <string name="October">ಅꁨೂꈓೕಬꀧ</string>
+  <string name="November">ನವೆಂಬꀧ</string>
+  <string name="December">ꁆಸೆಂಬꀧ</string>
+  <string name="Storage_low">ꈃಾಕಷುꈓ ಶೇಖರಣಾ ಸꈂಳꁣಲꈘ</string>
+  <string name="MessageForAdult1">ನಮꈈꁡꈘ ಪꈦꁉꈤꀣಬꁠಗೂ ꁣꁤಷꈓꄀಾದ ಪꈦꁉಭೆ ಇರುತꈇꂃ. ꄇಾನು ಅꁔꈘಕೇಶꀠಗಳನುꈁ ತಯಾꁠಸುꂁꈇೕꄇೆ. ꁓೕವꈢ ಅಮꄆತ ꁤꄌಕ, ವೈದꈐ, ಕಲಾꁣದ, ಇತꈐಾꁑ ಆꀸರಬಹುದು. ꄇಾನು ಇಷꈓಪಡುವದನುꈁ ꄇಾನು ಉꁀತꄀಾꀸ ಹಂꁀꁨೂಳುꈣꁉꈇꂃꈱೕꄇೆ, ꁓಮꈈ ಕೌಶಲꈐಗಳನುꈁ ಹಂꁀꁨೂಳꈣಲು ꄇಾನು ꁓಮꈈನುꈁ ಪꈦೇರೇꁔಸುꂁꈇೕꄇೆ ಎಂದು ꄇಾನು ꄁಾꁣಸುꂁꈇೕꄇೆ. ಇತರꁠꁰ ಸꈨಾಯ ಮಾಡುವꈢದꁠಂದ ꁓಮꁰ ಒꂔꈣಯꈰಾಗುತꈇꂃ ಮಮꈇ ಇತರꁠꁰ ಸೂꈸꁉꈆ ꁓೕಡುತꈇꂃ. ꄇಾವꈢ ಒꁄꈓꁰ ಮಾಡಬಹುꈰಾದ ಪꁠಣಾಮವನುꈁ ಪꁠಗꁈꁦ! Lucas &amp; Friends ಜನರꁡꈘ ಒꂔꈣಯದನುꈁ ಪꈦೇರೇꁔಸುವ ಗುꁠಯನುꈁ ಹೊಂꁑꂃ. ꁓಮꈈದೇ ಆದ ꁠೕꁉಯꁡꈘ ಇತರꁠꁰ ꁧಂꁉರುꀸಸುವ ಮೂಲಕ ದಯꁣಟುꈓ ನಮꈈನುꈁ ꂈಂಬꁡꁦ.
+  </string>
+  <string name="OurImpactKids">1 ꁖꁡಯꀠ</string>
+  <string name="OurImpactKids1">ಮಕꄋಳು ನಮꈈ ಆꈐꀡಗಳನುꈁ ಬಳꁦꈰಾꈱꂒ.</string>
+  <string name="Books_Tshirts">ಪꈢꀴತಕಗಳು &amp; ಟೀ ಶꀑꈆಗಳು</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: ಕꁡಕೆಯನುꈁ ꈴೕꁂನ ಮಮꈇ ಸುಲಭ ಲಭꈐꄀಾꀸಸುವꈢದꁨꄋ ಒಂದು ಧꈐೇಯ! ಉꁀತ ꁤꄌಣ ಆꈐꀡಗಳು, ಜಾꁧೕꄃಾತು ಇಲꈘ, ಯಾವꈢದೇ ಶುꀩಕವೂ ಇಲꈘ - ಮಕꄋꁢꁰ ಕೇವಲ ಶುದꈺ, ಆನಂದꈰಾಯಕ ಕꁡಕೆ.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">ಅꀓಡ ಗꁈತ</string>
+  <string name="txt_FishingMode" ScaleFactor="1">ꁕꁤಂꀃ ꈄಾꀠ </string>
+  <string name="txt_SnowMode" ScaleFactor="1">ꀴನೋ</string>
+  <string name="txt_Addition">ಸಂಕಲನ</string>
+  <string name="txt_Subtraction">ವꈐವಕಲನ</string>
+  <string name="FunGames">ꈴೕꁂನ ಆಟಗಳು</string>
+  <string name="Select_Character" ScaleFactor="1">ꈔಾತꈦವನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="Car_Game" ScaleFactor="1">ꈖಾರು ಆಟ</string>
+  <string name="txtUserChangeMsg1">ಮಗುꁣನ ꂆꈅꈦಫೈꀩ ಯಶꁦꈓಯಾꀸ ಬದಲಾꀸꂃ.</string>
+  <string name="txt_1Digit">1 ಅಂꀶ</string>
+  <string name="txt_2Digit">2 ಅಂꀶಗಳು</string>
+  <string name="txt_Play">ꀢꂓೕ ಮಾꁆ</string>
+  <string name="txtOpponentWon">ಪꈦꁉಸꈕꀧಧಿ ꁰಲꈘುꀖꈧಾꄇೆ</string>
+  <string name="txtYouWon">ꁓೕನು ꁰದ್ꂃ!</string>
+  <string name="txtRematch">ಮರುಪಂದꈐ ಆಟꄀಾꁆ</string>
+  <string name="txt_SelectDifficulty">ಕಠಿಣꂁಯನುꈁ ಆꂑꄋಮಾꁆ</string>
+  <string name="txt_DualMode">ಇꀣಬರು ಆಟꄈಾರರು</string>
+  <string name="txt_Correct">ಸꁠ</string>
+  <string name="Draw">ꀓꄃಾ</string>
+  <string name="Apparel_Accessories">ಉಡುಪꈢಗಳು ಮಮꈇ ಪꁠಕರಗಳು</string>
+  <string name="best_Seller">ꂈꀴꈓ ಸೆಲꈘꀧ</string>
+  <string name="RateUsNew">ꁓೕವꈢ ನಮꈈ ಆಟವನುꈁ ಆನಂꁑಸುꁉꈇꁑꈱೕꄃಾ? ꁓಮꈈ ꁣಮꂖꈆಯು ನಮꈈ ꁘಷꀠ ಮಮꈇ ಉꁀತ ಅꁔꈘಕೇಶꀠಗಳನುꈁ ಇತರ ꂆꈅೕಷಕꁠꁰ ಹರಡಲು ಸꈨಾಯ ಮಾಡುತꈇꂃ.</string>
+  <string name="txt_AdditupMode">ಸೇꁠꁦ</string>
+  <string name="txt_SudokuMode">ಒಗಟು</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends ಜಾꁧೕꄃಾತುಗಳು ಅಥꄀಾ ಅꁔꈘಕೇಶꀠನꁡꈘ ಖꁠೕꁑಗꁢಲꈘꂃ ꈔಾꈐಶꀠ ꈔಾꈦಜೆꀁꈓ ಆꀸ ಉꁀತ ಶೈꄌꁈಕ ಮಕꄋಳ ಅꁔꈘಕೇಶꀠಗಳೊಂꁑꁰ ꈔಾꈦರಂꁗꁦದರು. ꄇಾವꈢ ಜಗꁉꈇನꁡꈘ ಒꂔꈣಯದನುꈁ ಮಾಡಲು, ಪꈦꁉಫಲ ꁓೕಡಲು ಮಮꈇ ಪꈦꄁಾವ ಬೀರಲು ಆꁤಸುꂁꈇೕವೆ. &lt;color=#ff0018&gt;&lt;b&gt;1 ꁖꁡಯꀠ&lt;/b&gt;&lt;/color&gt; ꀸಂತ ಹೆಚುꄄ ಮಕꄋಳು ನಮꈈ ಶೈꄌꁈಕ ಅꁔꈘಕೇಶꀠಗꁢಂದ ಕꁡꁉꈰಾꈱꂒ. &lt;color=#FF6400&gt;ಮಕꄋಳ ꀣꄃಾಂꀓ ಅನುꈁ ꁓꀧꁘಸಲು ಮಮꈇ ಒಂದು ꁑನ ಆꁄಕೆಗಳನುꈁ ಮಾꄃಾಟ ಮಾಡಲು ꄇಾವꈢ ಊꁧꁦರꁡಲꈘ!&lt;/color&gt;</string>
+  <string name="we_Inspire_msg1">ನಮꁰ ಸೂꈸꁉꈆ ꁓೕꁆದꈱꈖಾꄋꀸ ಮಮꈇ ꁓಮꈈ ꂈಂಬಲꈖಾꄋꀸ ಧನꈐꄀಾದಗಳು.</string>
+  <string name="txtBrandTrust">ꁓೕವꈢ ನಂಬಬಹುꈰಾದ ꀣಯꈆಾಂꀓ</string>
+  <string name="txtMission">ꁓೕವꈢ ಪꈦಶಂꁦಸಬಹುꈰಾದ ꁘಷꀠ</string>
+  <string name="we_Inspire">ꄇಾವꈢ ಜನರꁡꈘ ಒꂔꈣಯದನುꈁ ಪꈦೇರೇꁔಸುꂁꈇೕವೆ</string>
+  <string name="Number_Path">ಸಂꁩꈐ ಮಾಗꈆ</string>
+  <string name="Add_butterfly_1">### ꁀꀑꁶಗಳು ಹೂꁣನ ꂕುೕꂓ ಕುꁢꁉವೆ. ನಂತರ, @@@ ಹೆಚುꄄ ꁀꀑꁶಗಳು ꈨಾರುತꈇವೆ ಮಮꈇ ಅವರೊಂꁑꁰ ಸೇꁠꁨೂಳುꈣತꈇವೆ. ಒಟುꈓ ಎಷುꈓ ꁀꀑꁶಗꁢವೆ?</string>
+  <string name="Add_butterfly_2">ಮಗುವೊಂದು ### ꁀꀑꁶಗಳನುꈁ ಗುರುꁉಸುತꈇꂃ. ನಂತರ, @@@ ಇನꈁಷುꈓ ꈖಾꁈꁦꁨೂಳುꈣತꈇꂃ. ಮಗು ಒಟುꈓ ಎಷುꈓ ꁀꀑꁶಗಳನುꈁ ನೋಡುತꈇꂃ?</string>
+  <string name="Add_cat_1">### ꂈಕꄋುಗಳು ಗೋಡೆಯ ꂕುೕꂓ ಕುꁢꁉವೆ. ಇನꈁೊಂದು @@@ ꂈಕꄋುಗಳು ꂕುೕಲꁨꄋ ಏರುತꈇವೆ. ಗೋಡೆಯ ꂕುೕꂓ ಈಗ ಎಷುꈓ ꂈಕꄋುಗꁢವೆ?</string>
+  <string name="Add_cow_1">### ಹಸುಗಳು ꁨೂꁄꈓꁰಯꁡꈘವೆ. @@@ ಹೆಚುꄄ ಹಸುಗಳು ಒಳꁰ ನಡೆಯುತꈇವೆ. ಈಗ ꁨೂꁄꈓꁰಯꁡꈘ ಎಷುꈓ ಹಸುಗꁢವೆ?</string>
+  <string name="Add_deer_1">ಹುಲꈘುꄈಾವꁡನꁡꈘ, ### ꁂಂಕೆಗಳು ಹುಲꈘು ꁉನುꈁꁉꈇವೆ. ನಂತರ @@@ ಹೆಚುꄄ ꁂಂಕೆಗಳು ಬರುತꈇವೆ. ಈಗ ಎಷುꈓ ꁂಂಕೆಗಳು ಹುಲꈘು ꁉನುꈁꁉꈇವೆ?</string>
+  <string name="Add_dog_1">### ꄇಾꁙಗಳು ꁶಂꁆನೊಂꁑꁰ ಆಟꄀಾಡುꁉꈇವೆ. ನಂತರ @@@ ಇನꈁಷುꈓ ꄇಾꁙಗಳು ಅವರೊಂꁑꁰ ಸೇꁠꁨೂಳುꈣತꈇವೆ. ಎಷುꈓ ꄇಾꁙಗಳು ಆಡುꁉꈇವೆ?</string>
+  <string name="Add_giraffe_1">### ꁂꄃಾಫೆಗಳು ꁓೕರು ಕುꁆಯುꁉꈇವೆ. ನಂತರ @@@ ಹೆಚುꄄ ꁂꄃಾಫೆಗಳು ಕುꁆಯಲು ಬರುತꈇವೆ. ಎಷುꈓ ꁂꄃಾಫೆಗಳು ಕುꁆಯುꁉꈇವೆ?</string>
+  <string name="Add_ladybugs_1">### ꂓೕꁆಬꀃಗಳು ಎꂓಯ ꂕುೕꂓ ಕುꁢꁉವೆ. @@@ ಹೆಚುꄄ ꂓೕꁆಬꀃಗಳು ಎꂓꁰ ꈨಾರುತꈇವೆ. ಎꂓಯ ꂕುೕꂓ ಎಷುꈓ ꂓೕꁆಬಗꈩꁢವೆ?</string>
+  <string name="Add_tiger_1">### ಹುꁡಗಳು ಗುಹೆಯ ಬꁢ ಕುꁢꁉವೆ. @@@ ಇನꈁಷುꈓ ಹುꁡಗಳು ಹೊರಬರುತꈇವೆ. ಈಗ ಎಷುꈓ ಹುꁡಗꁢವೆ?</string>
+  <string name="Add_tiger_2">ꈖಾꁆನꁡꈘ ### ಹುꁡಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಹꁉꈇರ ಬರುತꈇꂃ. ಒಟುꈓ ಎಷುꈓ ಹುꁡಗꁢವೆ?</string>
+  <string name="Add_owl_1">### ಗೂꂈಗಳು ಗೂꁆನꁡꈘ ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇವೆ. @@@ ಹೆಚುꄄ ಗೂꂈಗಳು ಗೂꁆꁰ ಬರುತꈇವೆ. ಗೂꁆನꁡꈘ ಎಷುꈓ ಗೂꂈಗꁢವೆ?</string>
+  <string name="Add_panda_1">### ꈔಾಂಡಾಗಳು ꁖꁑರನುꈁ ꁉನುꈁꁉꈇವೆ. @@@ ಇನꈁಷುꈓ ꈔಾಂಡಾಗಳು ಬರುꀖꈧಾꂒ. ಎಷುꈓ ꈔಾಂಡವರು ꁖꁑರು ꁉನುꈁꁉꈇꈰಾꈱꂒ?</string>
+  <string name="Add_parrot_1">### ꀸꁢಗಳು ಪꀧꀆ ꂕುೕꂓ ಕುꁢꁉವೆ. @@@ ಹೆಚುꄄ ꀸꁢಗಳು ಸಂತೋಷꁑಂದ ꈨಾರುತꈇವೆ. ಈಗ ಎಷುꈓ ꀸꁢಗꁢವೆ?</string>
+  <string name="Add_peacock_1">### ನꁣಲುಗಳು ತೋಟದꁡꈘ ನꁉꈆಸುꁉꈇವೆ. @@@ ಹೆಚುꄄ ನꁣಲುಗಳು ಬರುತꈇವೆ. ಎಷುꈓ ನꁣಲುಗಳು ನೃತꈐ ಮಾಡುꁉꈇವೆ?</string>
+  <string name="Add_rooster_1">ಜಮೀꁓನꁡꈘ ### ಹುಂಜಗꁢವೆ. @@@ ಹೆಚುꄄ ꁨೂꁄꈓꁰಯ ಬꁢ ಬꁓꈁ. ಒಟುꈓ ಎಷುꈓ ಹುಂಜಗಳು?</string>
+  <string name="Add_snail_1">ಎꂓಯ ꂕುೕꂓ, ### ಬಸವನಹುಳುಗಳು ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇವೆ. @@@ ಇನꈁೂ ಹೆꁀꄄನವರು ಅವರೊಂꁑꁰ ಸೇꁠꁨೂꁢꈣ. ಒಟುꈓ ಎಷುꈓ ಬಸವನಹುಳುಗಳು?</string>
+  <string name="Add_zebra_1">ಹುಲꈘುꄈಾವꁡನꁡꈘ ### ಜೀꀣꄃಾಗಳು ꁉನುꈁꁉꈇವೆ. @@@ ಇನꈁಷುꈓ ಅವರನುꈁ ಸೇꁠꁨೂꁢꈣ. ಒಟುꈓ ಎಷುꈓ ಜೀꀣꄃಾಗಳು?</string>
+  <string name="Add_bicycle_1">ಉದꈐಾನವನದꁡꈘ ### ಸೈಕꀩಗꁢವೆ. @@@ ಹೆꁀꄄನದನುꈁ ꁓꁡꈘಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಸೈಕꀩಗꁢವೆ?</string>
+  <string name="Add_hippo_1">ꂈꁢꁰꈩ, ### ꁓೕರುꄇಾꁙಗಳು ಆಟꄀಾಡುꁉꈇವೆ. ನಂತರ, @@@ ಹೆಚುꄄ ನಡೆꁙꁠ. ಒಟುꈓ ꁓೕರುꄇಾꁙಗಳ ಸಂꁩꈐ ಎಷುꈓ?</string>
+  <string name="Add_airplane_1">ರꀠವೇಯꁡꈘ, ### ꁣಮಾನಗಳು ꈖಾಯುꁉꈇವೆ. @@@ ಹೆಚುꄄ ಭೂꁘ. ಒಟುꈓ ಎಷುꈓ ꁣಮಾನಗಳು?</string>
+  <string name="Add_airplane_2">ꁣಮಾನ ꁓꀩꈰಾಣದꁡꈘ, ### ꁣಮಾನಗಳು ꈖಾಯುꁉꈇವೆ. ꁤೕಘꈦದꀩꂓೕ, @@@ ಇನꈁಷುꈓ ಬಂದರು. ಒಟುꈓ ಎಷುꈓ ꁣಮಾನಗಳು?</string>
+  <string name="Add_horse_1">ꁨೂꁄꈓꁰಯ ಬꁢ, ### ಕುದುꂒಗಳು ꁓಂꁉವೆ. @@@ ಇನꈁಷುꈓ ಅವರನುꈁ ಸೇꁠꁨೂꁢꈣ. ಒಟುꈓ ಎಷುꈓ ಕುದುꂒಗಳು?</string>
+  <string name="Add_fish_1">ಅꀁವೇꁠಯಂನꁡꈘ, ### ಮೀನುಗಳು ಈಜುꁉꈇವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಮೀನುಗಳು?</string>
+  <string name="Add_goat_1">ꂈಟꈓದ ꂕುೕꂓ ### ಆಡುಗꁢವೆ. ನಂತರ @@@ ಇನꈁಷುꈓ ಬರುತꈇꂃ. ಆಡುಗಳ ಒಟುꈓ ಸಂꁩꈐ ಎಷುꈓ?</string>
+  <string name="Add_monkey_1">ಒಂದು ಮರದ ꂕುೕꂓ ### ಕೋꁉಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಏರಲು. ಒಟುꈓ ಎಷುꈓ ಕೋꁉಗꁢವೆ?</string>
+  <string name="Add_carrot_1">ಬುꁄꈓಯꁡꈘ ### ꈖಾꈐꂒꀑಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ꈖಾꈐꂒಟꈩꁢವೆ?</string>
+  <string name="Add_candies_1">ಜಾꀧನꁡꈘ ### ꁘಠಾꁙಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ꁘಠಾꁙಗꁢವೆ?</string>
+  <string name="Add_cupcake_1">ꂕುೕꁂನ ꂕುೕꂓ ### ಕꀡಕೇꀁಗꁢವೆ. @@@ ಹೆಚುꄄ ಇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಕꀡಕೇꀁಗꁢವೆ?</string>
+  <string name="Add_pinwheel_1">ꂈꁢꁰꈩ, ### ꁔꀠꁣೕꀩಗಳು ಉದꈐಾನದꁡꈘ ꁉರುಗುತꈇವೆ. ನಂತರ, @@@ ಹೆಚುꄄ ಸೇꁠಸಲಾಗುತꈇꂃ. ಈಗ ಎಷುꈓ ꁔꀠꁣೕꀩಗꁢವೆ?</string>
+  <string name="Add_broccoli_1">ತꀑꁶಯꁡꈘ ### ಕೋಸುಗꀓಡೆಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ꂆꈘೕꀑನꁡꈘ ಎಷುꈓ ಕೋಸುಗꀓಡೆಗꁢವೆ?</string>
+  <string name="Add_robot_1">ꄇೆಲದ ꂕುೕꂓ ### ರೋꂈೂೕꀑಗꁢವೆ. @@@ ಇನꈁಷುꈓ ನಡೆꁙꁠ. ಒಟುꈓ ಎಷುꈓ ರೋꂈೂೕꀑಗꁢವೆ?</string>
+  <string name="Add_car_1">ಒಂದು ಮಗು ### ಆꁄಕೆ ꈖಾರುಗಳನುꈁ ಹೊಂꁑꂃ. @@@ ಹೆꁀꄄನದನುꈁ ꁓೕಡಲಾꀸꂃ. ಮಗು ಎಷುꈓ ಆꁄಕೆ ꈖಾರುಗಳನುꈁ ಹೊಂꁑꂃ?</string>
+  <string name="Add_bird house_1">ꁨೂꁄꈓꁰಯ ಬꁢ ### ಪꈫಗಳ ಮꄇೆಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಪꈫ ಮꄇೆಗꁢವೆ?</string>
+  <string name="Add_ball_1">ꄇೆಲದ ꂕುೕꂓ ### ꁶಂಡುಗꁢವೆ. @@@ ಇನꈁಷುꈓ ರೋꀩ ಓವꀧ. ಒಟುꈓ ಎಷುꈓ ꁶಂಡುಗꁢವೆ?</string>
+  <string name="Add_drum_1">ಸಂꀸೕತ ತರಗꁉಯꁡꈘ, ### ꀓರꀥꈠ ಇꁠಸಲಾಗುತꈇꂃ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ꀓರꀥಗಳು?</string>
+  <string name="Add_cake_1">ꂕುೕꁂನ ꂕುೕꂓ ### ಕೇꀁಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಕೇꀁಗꁢವೆ?</string>
+  <string name="Add_fruits_1">ಬುꁄꈓಯꁡꈘ ### ಹಣꈭುಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಹಣꈭುಗꁢವೆ?</string>
+  <string name="Add_flower_1">ತೋಟದꁡꈘ ### ಹೂವꈢಗꁢವೆ. @@@ ಹೆಚುꄄ ಅರಳುತꈇವೆ. ಉದꈐಾನದꁡꈘ ಎಷುꈓ ಹೂವꈢಗꁢವೆ?</string>
+  <string name="Add_pig_1">ಹೊಲದꁡꈘ ### ಹಂꁑಗꁢವೆ. ನಂತರ @@@ ಇನꈁಷುꈓ ಬರುತꈇꂃ. ಹೊಲದꁡꈘ ಒಟುꈓ ಹಂꁑಗಳ ಸಂꁩꈐ ಎಷುꈓ?</string>
+  <string name="Add_top_1">ꄇೆಲದ ꂕುೕꂓ ### ꁉರುಗುವ ꂕುೕꀩꄁಾಗಗꁢವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ꀴꁔꁓꈁಂꀃ ꈉಾꀡಗꁢವೆ?</string>
+  <string name="Add_donut_1">ಒಂದು ತꀑꁶಯꁡꈘ ### ಡೋನꀑꀴ ಇವೆ. @@@ ಇನꈁಷುꈓ ಸೇꁠಸಲಾꀸꂃ. ಒಟುꈓ ಎಷುꈓ ಡೋನꀑꀴ ಇವೆ?</string>
+  <string name="Add_giftbox_1">ꈃಾꄃಾꁰ ### ಉಡುꁰೂꂒಗಳು ꁦꀁꀶವೆ. ಅವಳ ꂘꈁೕꁧꂁ ಅವꁢꁰ @@@ ಹೆಚುꄄ ꁨೂಟꈓಳು. ꈃಾꄃಾꁰ ಒಟುꈓ ಎಷುꈓ ಉಡುꁰೂꂒಗꁢವೆ?</string>
+  <string name="Add_giftbox_2">ಕೋꂀಯꁡꈘ ### ಉಡುꁰೂꂒ ಪೆꁄꈓꁰಗꁢವೆ. ನಂತರ @@@ ಹೆꁀꄄನದನುꈁ ಒಳꁰ ꈨಾಕಲಾಗುತꈇꂃ. ಕೋꂀಯꁡꈘ ಎಷುꈓ ಉಡುꁰೂꂒ ಪೆꁄꈓꁰಗꁢವೆ?</string>
+  <string name="Add_taco_1">ꈃಾꄃಾ ### ꈉಾꈐಕೋಗಳನುꈁ ಮಾꁆꈰಾꈱꂒ. ಆಕೆಯ ꈧಾꁙ @@@ ಹೆಚುꄄ ꈉಾꈐಕೋಗಳನುꈁ ಮಾꁆꈰಾꈱꂒ. ಒಟುꈓ ಎಷುꈓ ꈉಾꈐಕೋಗಳನುꈁ ಮಾಡಲಾꀸꂃ?</string>
+  <string name="Add_taco_2">ꈉಾꀥ ### ꈉಾꈐಕೋಗಳನುꈁ ꁉಂದರು. ಅವರು @@@ ಹೆಚುꄄ ꈉಾꈐಕೋಗಳನುꈁ ꁉಂದರು. ꈉಾꀥ ಒಟುꈓ ಎಷುꈓ ꈉಾꈐಕೋಗಳನುꈁ ꁉಂದರು?</string>
+  <string name="Add_kite_1">### ꄈಾꁢಪಟಗಳು ಆꈖಾಶದꁡꈘ ꈨಾರುꁉꈇವೆ. @@@ ಇನꈁಷುꈓ ꄈಾꁢಪಟಗಳು ꈨಾರಲು ꈔಾꈦರಂꁗಸುತꈇವೆ. ಆꈖಾಶದꁡꈘ ಎಷುꈓ ꄈಾꁢಪಟಗಳು ꈨಾರುꁉꈇವೆ?</string>
+  <string name="Add_kite_2">ꁡꈤೕ ### ꄈಾꁢಪಟಗಳನುꈁ ಮಾꁆꂃ. ನಂತರ ಅವರು @@@ ಹೆಚುꄄ ꄈಾꁢಪಟಗಳನುꈁ ಮಾꁆದರು. ꁡꈤೕ ಮಾꁆದ ಒಟುꈓ ꄈಾꁢಪಟಗಳ ಸಂꁩꈐ ಎಷುꈓ?</string>
+  <string name="Add_sandwich_1">ಸꈐಾꀥ ### ಸꈐಾಂꀓꁣꀆಗಳನುꈁ ಖꁠೕꁑꁦꈰಾꈱꂒ. ನಂತರ ಅವರು @@@ ಹೆಚುꄄ ಸꈐಾಂꀓꁣꀆಗಳನುꈁ ಖꁠೕꁑꁦದರು. ಸꈐಾꀥ ಖꁠೕꁑꁦದ ಒಟುꈓ ಸꈐಾಂꀓꁣꀆಗಳ ಸಂꁩꈐ ಎಷುꈓ?</string>
+  <string name="Add_leopard_1">### ꁀರꂁಗಳು ಮರದ ꂕುೕꂓ ಇವೆ, ಮಮꈇ @@@ ಇನꈁೂ ꂕುೕಲꁨꄋ ಏರುತꈇವೆ. ಈಗ ಮರದ ꂕುೕꂓ ಎಷುꈓ ꁀರꂁಗꁢವೆ?</string>
+  <string name="WordProblem">ಪದ ಸಮꂘꈐ</string>
+  <string name="Carry_Forward">ಸೇಪꈆಡೆ</string>
+  <string name="Sub_butterfly_1">ತೋಟದꁡꈘ ### ꁀꀑꁶಗಳು ꈨಾರುꁉꈇದꈱವꈢ. @@@ ꁀꀑꁶಗಳು ꈨಾꁠಹೋದವꈢ. ತೋಟದꁡꈘ ಎಷುꈓ ꁀꀑꁶಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_butterfly_2">ಎಮꈈಾ ꂈꁢꁰꈩ ### ꁀꀑꁶಗಳನುꈁ ನೋꁆದಳು. ಮಧꈐಾಹ್ನ, ಅವಳು @@@ ಕꁆꂐ ꁀꀑꁶಗಳನುꈁ ನೋꁆದಳು. ಮಧꈐಾಹ್ನ ಅವಳು ಎಷುꈓ ꁀꀑꁶಗಳನುꈁ ನೋꁆದಳು?</string>
+  <string name="Sub_cat_1">ಈಥꀠ ꂈೕꁡಯ ꂕುೕꂓ ### ꂈಕꄋುಗಳು ಕುꁢꁉರುವꈢದನುꈁ ನೋꁆದನು. ꄇಾꁙ ಬೊಗꁢꈰಾಗ @@@ ꂈಕꄋುಗಳು ಓꁆಹೋದವꈢ. ꂈೕꁡಯ ꂕುೕꂓ ಇನꈁೂ ಎಷುꈓ ꂈಕꄋುಗꁢವೆ?</string>
+  <string name="Sub_cat_2">ꁘಯಾ ಅವರ ꁧತꈇꁡನꁡꈘ ### ꂈಕꄋುಗꁢವೆ. @@@ ꂈಕꄋುಗಳು ꈨಾಲು ಕುꁆಯಲು ಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ꂈಕꄋುಗಳು ꁧತꈇꁡನꁡꈘವೆ?</string>
+  <string name="Sub_cow_1">ನꁑಯ ಬꁢ ### ಹಸುಗಳು ꁓೕರು ಕುꁆಯುꁉꈇದꈱವꈢ. @@@ ಹಸುಗಳು ಕುꁆದು ಮುꀸꁦ ಹೊರಟುಹೋದವꈢ. ನꁑಯ ಬꁢ ಇನꈁೂ ಎಷುꈓ ಹಸುಗꁢವೆ?</string>
+  <string name="Sub_cow_2">### ಹಸುಗಳು ಹುಲꈘು ꁉನುꈁꁉꈇದꈱವꈢ. @@@ ಹಸುಗಳು ꁉನುꈁವꈢದನುꈁ ꁓꁡꈘꁦದವꈢ. ಇನꈁೂ ಎಷುꈓ ಹಸುಗಳು ಹುಲꈘು ꁉನುꈁꁉꈇವೆ?</string>
+  <string name="Sub_deer_1">### ꁂಂಕೆಗಳು ರꀴꂁ ꈰಾಟುꁉꈇದꈱವꈢ. @@@ ꁂಂಕೆಗಳು ಆಗꂓೕ ꈰಾꁄದꈱವꈢ. ಇನꈁೂ ಎಷುꈓ ꁂಂಕೆಗಳು ꈰಾಟಲು ꈖಾಯುꁉꈇವೆ?</string>
+  <string name="Sub_deer_2">ಒಂದು ꂈಟꈓವನುꈁ ಹಮꈇꁉꈇದꈱ ### ꁂಂಕೆಗಳು ಇದꈱವꈢ. @@@ ꁂಂಕೆಗಳು ꁓಂತು ಮꂁꈇ ಕೆಳꁰ ಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ꁂಂಕೆಗಳು ಹಮꈇꁉꈇವೆ?</string>
+  <string name="Sub_dog_1">ಅಂಗಳದꁡꈘ ### ꄇಾꁙಗಳು ಆಟꄀಾಡುꁉꈇದꈱವꈢ. @@@ ꄇಾꁙಗಳು ಮꄇೆꈤಳꁰ ಓꁆಹೋದವꈢ. ಅಂಗಳದꁡꈘ ಇನꈁೂ ಎಷುꈓ ꄇಾꁙಗꁢವೆ?</string>
+  <string name="Sub_dog_2">ಒಂದು ꄇಾꁙ ಗೂꁆನೊಳꁰ ### ꄇಾꁙಗꁢದꈱವꈢ. @@@ ꄇಾꁙಗಳು ಹೊರꁰ ಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ꄇಾꁙಗಳು ꄇಾꁙ ಗೂꁆನꁡꈘವೆ?</string>
+  <string name="Sub_giraffe_1">ꄇೆರꁢನ ಮರದ ಕೆಳꁰ, ### ꁂꄃಾಫೆಗಳು ಮಲꀸದꈱವꈢ. ಸꈙಲꈕ ಸಮಯದ ನಂತರ, @@@ ꁂꄃಾಫೆಗಳು ಎಮꈱ ಹೊರಟುಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ꁂꄃಾಫೆಗಳು ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_giraffe_2">ಎತꈇರದ ಹುꁡꈘನꁡꈘ ### ꁂꄃಾಫೆಗಳ ಗುಂಪꈢ ನಡೆಯುꁉꈇಮꈇ. ಇದꈱꀁꀶದꈱಂꂁ, @@@ ꁂꄃಾಫೆಗಳು ꁧಂದꁨꄋ ꁉರುꀸದವꈢ. ಎಷುꈓ ꁂꄃಾಫೆಗಳು ನಡೆಯುತꈇꂓೕ ಇದꈱವꈢ?</string>
+  <string name="Sub_ladybugs_1">ಒಂದು ದೊꀓಡ ಹꁦರು ಎꂓಯ ꂕುೕꂓ ### ꂓೕꁆಬꀃಗಳು ಕುꁢತವꈢ. ನಂತರ @@@ ꈨಾꁠಹೋದವꈢ. ಎꂓಯ ꂕುೕꂓ ಎಷುꈓ ꂓೕꁆಬꀃಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_ladybug_2">ಸೂಯꈆಾꀴತದ ಸಮಯದꁡꈘ, ### ꂓೕꁆಬꀃಗಳು ಒꁄꈓꁰ ꈨಾꁠದವꈢ. @@@ ಮರದ ꁨೂಂꂈಯ ꂕುೕꂓ ꁖದꈱವꈢ. ಇನꈁೂ ಎಷುꈓ ꂓೕꁆಬꀃಗಳು ꈨಾರುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_owl_1">ಪꈦꈖಾಶಮಾನꄀಾದ ಚಂದꈦನ ꂈಳꀶನꁡꈘ ### ಗೂꂈಗಳು ꈨಾꁠದವꈢ. @@@ ಗೂꂈಗಳು ಮರದ ꂕುೕꂓ ಇꁢದವꈢ. ಇನꈁೂ ಎಷುꈓ ಗೂꂈಗಳು ꈨಾರುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_owl_2">ಒಂದು ꁨೂಂꂈಯꁡꈘ ### ಗೂꂈಗಳು ꈃಾಲಾꀸ ꁓಂꁉದꈱವꈢ. @@@ ಗೂꂈಗಳು ꂒꁨꄋಗಳನುꈁ ಹರꁆ ಹೊರಟುಹೋದವꈢ. ꁨೂಂꂈಯꁡꈘ ಎಷುꈓ ಗೂꂈಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_panda_1">### ꈔಾಂಡಾಗಳು ಒꁄꈓꁰ ꁖꁑರು ꁉನುꈁꁉꈇದꈱವꈢ. @@@ ꈔಾಂಡಾಗಳು ꁉಂದು ಮುꀸꁦ ಹೊರಟುಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ꈔಾಂಡಾಗಳು ꁖꁑರನುꈁ ꁉನುꈁꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_panda_2">### ꈔಾಂಡಾಗಳ ಗುಂಪꈢ ಒꁄꈓꁰ ಕುꁢꁉಮꈇ. @@@ ꈔಾಂಡಾಗಳು ಹೆꁀꄄನ ꁖꁑರನುꈁ ಹುಡುಕಲು ಉꁢꁑವೆ. ಗುಂꁔನꁡꈘ ಎಷುꈓ ꈔಾಂಡಾಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_parrot_1">### ꀸꁢಗಳ ꁧಂಡು ಒꁄꈓꁰ ꈨಾರುꁉꈇದꈱವꈢ. @@@ ꀸꁢಗಳು ಒಂದು ಛಾವꁈಯ ꂕುೕꂓ ಇꁢದವꈢ. ಎಷುꈓ ꀸꁢಗಳು ꈨಾರುತꈇꂓೕ ಇದꈱವꈢ?</string>
+  <string name="Sub_parrot_2">ಒಂದು ಮರದ ಗೂꁆನ ಬꁢ ### ꀸꁢಗಳು ಇದꈱವꈢ. @@@ ꀸꁢಗಳು ಒಳꁰ ꈨಾꁠದವꈢ. ಎಷುꈓ ꀸꁢಗಳು ಹೊರꁰ ಉꁢದವꈢ?</string>
+  <string name="Sub_peacock_1">ತೋಟದꁡꈘ ### ನꁣಲುಗಳು ನೃತꈐ ಮಾಡುꁉꈇದꈱವꈢ. @@@ ನꁣಲುಗಳು ನೃತꈐ ಮಾಡುವꈢದನುꈁ ꁓꁡꈘꁦದವꈢ. ಎಷುꈓ ನꁣಲುಗಳು ನೃತꈐ ಮಾಡುತꈇꂓೕ ಇದꈱವꈢ?</string>
+  <string name="Sub_peacock_2">ಸೂಯꈆಾꀴತದ ಸಮಯದꁡꈘ, ಉದꈐಾನವನದꁡꈘ ### ನꁣಲುಗಳು ಒಟುꈓಗೂꁆದವꈢ. @@@ ನꁣಲುಗಳು ꈨಾꁠಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ನꁣಲುಗಳು ಅꀩꂓೕ ಇದꈱವꈢ?</string>
+  <string name="Sub_rooster_1">ꂈꁢꁰꈩ, ಆꈨಾರದ ಬꁢ ### ಕೋꁢಗಳು ಒಟುꈓಗೂꁆದವꈢ. @@@ ಕೋꁢಗಳು ꁉಂದು ಮುꀸꁦ ಹೊರಟುಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ಕೋꁢಗಳು ꁉನುꈁꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_rooster_2">ꂈೕꁡಯ ꂕುೕꂓ ### ಕೋꁢಗಳು ಕುꁢꁉದꈱವꈢ. @@@ ಕೋꁢಗಳು ಕೆಳꁰ ꈨಾꁠದವꈢ. ꂈೕꁡಯ ꂕುೕꂓ ಎಷುꈓ ಕೋꁢಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_snail_1">ಒಂದು ಉದꈐಾನ ꈨಾꁑಯꁡꈘ ### ಬಸವನ ಹುꁡꈘನೊಳꁰ ꁓꈮಾನꄀಾꀸ ಚꁡಸುꁉꈇದꈱವꈢ. @@@ ಬಸವನ ಹುꁡꈘನೊಳꁰ ಹೋದವꈢ. ꈨಾꁑಯꁡꈘ ಎಷುꈓ ಬಸವನ ಹುಳುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_snail_2">ಕೆಲವꈢ ಹೂವꈢಗಳ ಬꁢ ### ಬಸವನ ಹುಳುಗಳು ಇದꈱವꈢ. @@@ ಬಸವನ ಹುಳುಗಳು ꂁವಳುꀖꈧಾ ಹೋದವꈢ. ಹೂವꈢಗಳ ಬꁢ ಇನꈁೂ ಎಷುꈓ ಬಸವನ ಹುಳುಗಳು ಇದꈱವꈢ?</string>
+  <string name="Sub_tiger_1">ꈖಾꁆನꁡꈘ ### ಹುꁡಗಳು ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇದꈱವꈢ. @@@ ಹುꁡಗಳು ನಡೆದುꁨೂಂಡು ಹೋದವꈢ. ಎಷುꈓ ಹುꁡಗಳು ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_tiger_2">ꈖಾꁆನꁡꈘ ### ಹುꁡಗಳು ನಡೆಯುꁉꈇರುವꈢದು ಕಂಡುಬಂದವꈢ. @@@ ಹುꁡಗಳು ಓꁆಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ಹುꁡಗಳು ನಡೆಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_zebra_1">### ಜೀꀣꄃಾಗಳ ꁧಂಡು ꁓೕರು ಕುꁆಯಲು ಬಂꁑತು. @@@ ಜೀꀣꄃಾಗಳು ꁓೕರು ಕುꁆದು ಹೊರಟುಹೋದವꈢ. ನꁑಯ ಬꁢ ಎಷುꈓ ಜೀꀣꄃಾಗಳು ಉꁢದುꁨೂಂꁆವೆ?</string>
+  <string name="Sub_zebra_2">ಒಂದು ಗುಂꁔನꁡꈘ ### ಮꁠ ಜೀꀣꄃಾಗಳು ಒꁄꈓꁰ ಆಟꄀಾಡುꁉꈇದꈱವꈢ. @@@ ಮꁠಗಳು ತಮꈈ ꈧಾಯಂꁑರ ಬꁢꁰ ꁧಂꁉರುꀸದವꈢ. ಇನꈁೂ ಎಷುꈓ ಮꁠ ಜೀꀣꄃಾಗಳು ಆಟꄀಾಡುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_bicycle_1">ಆಟದ ꂐೖꈰಾನದ ಬꁢ ### ಸೈಕꀩಗಳು ꁓಂꁉದꈱವꈢ. @@@ ಸೈಕꀩಗಳನುꈁ ಮꄇೆꁰ ꂁꁰದುꁨೂಂಡು ಹೋಗಲಾꀸಮꈇ. ಆಟದ ꂐೖꈰಾನದꁡꈘ ಇನꈁೂ ಎಷುꈓ ಸೈಕꀩಗಳು ಇದꈱವꈢ?</string>
+  <string name="Sub_bicycle_2">ಒಂದು ꂈೖꀁ ಅಂಗꁆಯ ಹೊರꁰ ### ಸೈಕꀩಗಳನುꈁ ಪꈦದꁤꈆಸಲಾꀸಮꈇ. @@@ ಸೈಕꀩಗಳು ಮಾꄃಾಟꄀಾದವꈢ. ಎಷುꈓ ಸೈಕꀩಗಳು ಪꈦದꀧಶನದꁡꈘ ಉꁢꁑವೆ?</string>
+  <string name="Sub_hippo_1">ಒಂದು ꁧಂꁆನꁡꈘ ### ꁓೕರುꄇಾꁙಗಳು ಒಟುꈓಗೂꁆದವꈢ. @@@ ꁓೕರುꄇಾꁙಗಳು ದೂರ ಸꁠದವꈢ. ꁧಂꁆನꁡꈘ ಎಷುꈓ ꁓೕರುꄇಾꁙಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_hippo_1">ಒಂದು ꁧಂꁆನꁡꈘ ### ꁓೕರುꄇಾꁙಗಳು ಒಟುꈓಗೂꁆದವꈢ. @@@ ꁓೕರುꄇಾꁙಗಳು ದೂರ ಸꁠದವꈢ. ꁧಂꁆನꁡꈘ ಎಷುꈓ ꁓೕರುꄇಾꁙಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_airplane_1">ꂈꁢꁰꈩ, ### ꁣಮಾನಗಳು ꈨಾꄃಾಟꁨꄋ ꁦದꈺꄀಾꀸದꈱವꈢ. @@@ ꁣಮಾನಗಳು ꁓಗꁑತ ಸಮಯꁨꄋ ಉꁢꁑವೆ. ಇನꈁೂ ಎಷುꈓ ꁣಮಾನಗಳು ꈖಾಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_airplane_2">ಸಂಜೆ ವೇಳೆꁰ ### ꁣಮಾನಗಳು ꈨಾꄃಾಟ ನಡೆಸಲು ꁓꀧಧꁠಸಲಾꀸಮꈇ. @@@ ꁣಮಾನಗಳು ಈꄈಾಗꂓೕ ಹೊರꁄದꈱವꈢ. ಇನꈁೂ ಎಷುꈓ ꁣಮಾನಗಳು ಹೊರಡಲು ꈖಾಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_horse_1">### ಕುದುꂒಗಳು ಲಾಯದೊಳꁰ ಇದꈱವꈢ. @@@ ಕುದುꂒಗಳು ಹೊರಬಂದವꈢ. ಎಷುꈓ ಕುದುꂒಗಳು ಲಾಯದꁡꈘ ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_horse_2">ಕꁈವೆಯꁡꈘ ### ಕುದುꂒಗಳು ꈖಾꁈꁦꁨೂಂಡವꈢ. @@@ ಕುದುꂒಗಳು ꂈಟꈓವನುꈁ ಹꁉꈇದವꈢ. ಕꁈವೆಯꁡꈘ ಎಷುꈓ ಕುದುꂒಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_fish_1">ಒಂದು ꁨೂಳದꁡꈘ ### ಮೀನುಗಳು ಈಜುꁉꈇದꈱವꈢ. @@@ ಮೀನುಗಳು ಈಜುꀖꈧಾ ಹೋದವꈢ. ꁨೂಳದꁡꈘ ಇನꈁೂ ಎಷುꈓ ಮೀನುಗಳು ಇದꈱವꈢ?</string>
+  <string name="Sub_fish_2">ಒꀣಬ ಮೀನುꄈಾರನು ತನꈁ ದೋꁈಯ ಬꁢ ### ಮೀನುಗಳನುꈁ ನೋꁆದನು. @@@ ಮೀನುಗಳು ꂈೕಗꄇೆ ಈꁂꁨೂಂಡು ಹೋದವꈢ. ದೋꁈಯ ಬꁢ ಎಷುꈓ ಮೀನುಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_goat_1">ಒꀣಬ ರೈತ ಹೊಲದꁡꈘ ### ꂕುೕಕೆಗಳು ꂕುೕಯುꁉꈇದꈱವꈢ. @@@ ꂕುೕಕೆಗಳು ꂈಟꈓದ ಕಡೆꁰ ಅꂓꈰಾꁆದವꈢ. ಹೊಲದꁡꈘ ಇನꈁೂ ಎಷುꈓ ꂕುೕಕೆಗಳು ꂕುೕಯುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_goat_2">ꁨೂꁄꈓꁰಯ ಬꁢ ### ꂕುೕಕೆಗಳು ꁣꀲꄃಾಂꁉ ಪಡೆಯುꁉꈇದꈱವꈢ. @@@ ꂕುೕಕೆಗಳು ಅಂಗಳದꁡꈘ ಆಟꄀಾಡಲು ಓꁆಹೋದವꈢ. ꁨೂꁄꈓꁰಯ ಬꁢ ಎಷುꈓ ꂕುೕಕೆಗಳು ಉꁢದುꁨೂಂꁆವೆ?</string>
+  <string name="Sub_monkey_1">ಮಾꁣನ ಮರದ ꂕುೕꂓ ### ಕೋꁉಗಳು ಆಟꄀಾꁆದವꈢ. @@@ ಕೋꁉಗಳು ಕೆಳꁰ ꈨಾꁠದವꈢ. ಮರದ ꂕುೕꂓ ಎಷುꈓ ಕೋꁉಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_monkey_2">ಮೃꄈಾಲಯದꁡꈘ, ### ಕೋꁉಗಳು ಹಗꈩಗಳ ꂕುೕꂓ ತೂꄈಾಡುꁉꈇದꈱವꈢ. @@@ ಕೋꁉಗಳು ꁉನꈁಲು ಹೋದವꈢ. ಇನꈁೂ ಎಷುꈓ ಕೋꁉಗಳು ತೂꄈಾಡುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_carrot_1">ಒಂದು ಬುꁄꈓಯꁡꈘ ### ꈖಾꈐꂒꀑಗಳು ಇದꈱವꈢ. @@@ ꈖಾꈐꂒꀑಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ꈖಾꈐꂒꀑಗಳು ಉꁢꁑದꈱವꈢ?</string>
+  <string name="Sub_carrot_2">ಒಂದು ꂕೂಲ ### ꈖಾꈐꂒꀑಗಳನುꈁ ಕಂಡುꁨೂಂꁆತು. @@@ ꈖಾꈐꂒꀑಗಳು ಉರುꁢದವꈢ. ಇನꈁೂ ಎಷುꈓ ꈖಾꈐꂒꀑಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_candies_1">ಜಾꁆಯꁡꈘ ### ꁘಠಾꁙಗꁢದꈱವꈢ. @@@ ꁘಠಾꁙಗಳನುꈁ ಹೊರꂁꁰಯಲಾꁙತು. ಒಳꁰ ಎಷುꈓ ꁘಠಾꁙಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_candies_2">ꂕುೕꁂನ ꂕುೕꂓ ### ꁘಠಾꁙಗꁢದꈱವꈢ. @@@ ꁘಠಾꁙಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ꁘಠಾꁙಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_cupcake_1">ಒಂದು ꁶꈦೕನꁡꈘ ### ಕꀡಕೇꀁಗಳು ಇದꈱವꈢ. @@@ ಕꀡಕೇꀁಗಳನುꈁ ꁓೕಡಲಾꁙತು. ಎಷುꈓ ಕꀡಕೇꀁಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_cupcake_2">ꂈೕಕꀧ ### ಕꀡಕೇꀁಗಳನುꈁ ಮಾꁆದನು. @@@ ಕꀡಕೇꀁಗಳು ಮಾꄃಾಟꄀಾದವꈢ. ಎಷುꈓ ಕꀡಕೇꀁಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_pinwheel_1">ತೋಟದꁡꈘ ### ꁔꀠꁣೕꀩಗಳು ꁉರುಗುꁉꈇದꈱವꈢ. @@@ ꁔꀠꁣೕꀩಗಳು ꁉರುಗುವꈢದನುꈁ ꁓꁡꈘꁦದವꈢ. ಇನꈁೂ ಎಷುꈓ ꁔꀠꁣೕꀩಗಳು ꁉರುꀸದವꈢ?</string>
+  <string name="Sub_pinwheel_2">ꂈೕꁡಯ ಬꁢ ### ꁔꀠꁣೕꀩಗಳು ಇದꈱವꈢ. @@@ ꁔꀠꁣೕꀩಗಳು ꈨಾꁠಹೋದವꈢ. ಎಷುꈓ ಉꁢದವꈢ?</string>
+  <string name="Sub_broccoli_1">ತꀑꁶಯꁡꈘ ### ꀣರೊꁨೂꁡ ತುಂಡುಗꁢದꈱವꈢ. @@@ ತುಂಡುಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ತುಂಡುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_broccoli_2">ಒꀣಬ ಅಡುꁰಯವನು ### ꀣರೊꁨೂꁡ ꈖಾಂಡಗಳನುꈁ ꂈೕꁙꁦದನು. @@@ ꈖಾಂಡಗಳನುꈁ ಬꁆಸಲಾꁙತು. ಎಷುꈓ ಉꁢದವꈢ?</string>
+  <string name="Sub_robot_1">### ರೋꂈೂೕꀑಗಳು ꈃಾꁡನꁡꈘ ꁓಂತವꈢ. @@@ ರೋꂈೂೕꀑಗಳು ದೂರ ಸꁠದವꈢ. ಎಷುꈓ ರೋꂈೂೕꀑಗಳು ಉꁢದವꈢ?</string>
+  <string name="Sub_robot_2">ಪꈦꈤೕꄈಾಲಯದꁡꈘ ### ರೋꂈೂೕꀑಗಳು ಇದꈱವꈢ. @@@ ರೋꂈೂೕꀑಗಳು ಆꀢ ಆꀸದꈱವꈢ. ಇನꈁೂ ಎಷುꈓ ಆꀠ ಆꀸದꈱವꈢ?</string>
+  <string name="Sub_car_1">ಹೊರꁰ ### ꈖಾರುಗಳು ꁓಂꁉದꈱವꈢ. @@@ ꈖಾರುಗಳು ಹೊರಟುಹೋದವꈢ. ಎಷುꈓ ꈖಾರುಗಳು ꁓಂꁉದꈱವꈢ?</string>
+  <string name="Sub_car_2">ಓಟದꁡꈘ ### ꈖಾರುಗಳು ꈔಾꈦರಂಭꄀಾದವꈢ. @@@ ꈖಾರುಗಳು ꂈೕಗꄇೆ ಮುꀸದವꈢ. ಇನꈁೂ ಎಷುꈓ ꈖಾರುಗಳು ಓಡುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_bird house_1">ಪꈫꈮಾಮದ ಬꁢ ### ಪꈫಗಳು ಕುꁢꁉದꈱವꈢ. @@@ ꈨಾꁠಹೋದವꈢ. ಎಷುꈓ ಪꈫಗಳು ಉꁢದುꁨೂಂಡವꈢ?</string>
+  <string name="Sub_bird house_2">ಪꈫꈮಾಮದꁡꈘ ### ಗೂಡುಗꁢದꈱವꈢ. @@@ ꁖದꈱವꈢ. ಎಷುꈓ ಗೂಡುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_ball_1">ಆಟದ ꂐೖꈰಾನದꁡꈘ ### ꁶಂಡುಗಳು ಇದꈱವꈢ. @@@ ꁶಂಡುಗಳು ಉರುꁢದವꈢ. ಇನꈁೂ ಎಷುꈓ ꁶಂಡುಗಳು ಇದꈱವꈢ?</string>
+  <string name="Sub_ball_2">ಒಂದು ಬಾꀁꀴನꁡꈘ ### ꁶಂಡುಗꁢದꈱವꈢ. @@@ ꁶಂಡುಗಳು ಬೌꀠꈠ ಆದವꈢ. ಎಷುꈓ ꁶಂಡುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_drum_1">ವೇꁑಕೆಯꁡꈘ ### ꀓರꀥಗಳು ಇದꈱವꈢ. @@@ ꀓರꀥಗಳನುꈁ ꂁꁰಯಲಾꁙತು. ಎಷುꈓ ಮಂꁑ ವೇꁑಕೆಯꁡꈘ ಉꁢದರು?</string>
+  <string name="Sub_drum_2">ꈬಾꈐಂꀓನꁡꈘ ### ꀓರꀥಗꁢದꈱವꈢ. @@@ ꀓರꀥಗಳು ಒಡೆದವꈢ. ಎಷುꈓ ಒꂔꈣಯ ꀓರꀥಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_cake_1">ಇವಮꈇ ### ಕೇꀁಗಳನುꈁ ꂈೕꁙಸಲಾꁙತು. @@@ ಕೇꀁಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ಕೇꀁಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_cake_2">ಒꀣಬ ꂈೕಕꁠ ವꈐಾꈔಾꁠ ### ಕೇꀁಗಳನುꈁ ಅಲಂಕꁠꁦದನು. @@@ ಕೇꀁಗಳು ಮಾꄃಾಟꄀಾದವꈢ. ಇನꈁೂ ಎಷುꈓ ಕೇꀁಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_fruits_1">ಬುꁄꈓಯꁡꈘ ### ಹಣꈭುಗꁢದꈱವꈢ. @@@ ಹಣꈭುಗಳು ಉದುꁠಹೋದವꈢ. ಒಳꁰ ಎಷುꈓ ಹಣꈭುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_fruits_2">ಒಂದು ಅಂಗꁆಯꁡꈘ ### ಹಣꈭುಗಳನುꈁ ಪꈦದꀧಶನꀁꀶಡಲಾꀸಮꈇ. @@@ ಹಣꈭುಗಳನುꈁ ಮಾꄃಾಟ ಮಾಡಲಾꁙತು. ಎಷುꈓ ಹಣꈭುಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_flower_1">ತೋಟದꁡꈘ ### ಹೂವꈢಗಳು ಅರꁢದವꈢ. @@@ ಹೂವꈢಗಳನುꈁ ಆꁠಸಲಾꁙತು. ಎಷುꈓ ಹೂವꈢಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_flower_2">ಒಂದು ಹೂꈰಾꁓಯꁡꈘ ### ಹೂವꈢಗꁢದꈱವꈢ. @@@ ಬಾꁆಹೋꀸವೆ. ಎಷುꈓ ꈧಾಜಾꄀಾꀸದꈱವꈢ?</string>
+  <string name="Sub_pig_1">### ಹಂꁑಗಳು ꁨೂꁄꈓꁰಯꁡꈘದꈱವꈢ. @@@ ಹಂꁑಗಳು ꄂಾꁡಯಾದವꈢ. ಎಷುꈓ ಹಂꁑಗಳು ಉꁢದವꈢ?</string>
+  <string name="Sub_pig_2">ಒꀣಬ ರೈತꁓꁰ ### ಹಂꁑಗꁢದꈱವꈢ. @@@ ಹಂꁑಗಳು ꁨೂಳꁨꄋ ಹೋದವꈢ. ಎಷುꈓ ಹಂꁑಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_top_1">### ನೂಲುವ ꂕುೕꀩꄁಾಗಗಳು ꄇೆಲದ ꂕುೕꂓ ಇದꈱವꈢ. @@@ ನೂಲುವದನುꈁ ꁓꁡꈘꁦದವꈢ. ಎಷುꈓ ನೂಲುವಂꂁꂑೕ ಇದꈱವꈢ?</string>
+  <string name="Sub_top_2">ಪೆꁄꈓꁰಯꁡꈘ ### ꈉಾꀡಗಳು ಇದꈱವꈢ. @@@ ಅನುꈁ ಹೊರꂁꁰಯಲಾꁙತು. ಎಷುꈓ ꈉಾꀡಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_donut_1">ꁶꈦೕನꁡꈘ ### ಡೋನꀑಗꁢದꈱವꈢ. @@@ ಡೋನꀑಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ಡೋನꀑಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_donut_2">ಅಂಗꁆಯꁡꈘ ### ಡೋನꀑಗಳು ತಯಾꄃಾದವꈢ. @@@ ಮಾꄃಾಟꄀಾದವꈢ. ಎಷುꈓ ಡೋನꀑಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_giftbox_1">ꂕುೕꁂನ ꂕುೕꂓ ### ಉಡುꁰೂꂒ ಪೆꁄꈓꁰಗꁢದꈱವꈢ. @@@ ꂁꂒꁑದꈱವꈢ. ಎಷುꈓ ಮುꁀꄄದꈱವꈢ?</string>
+  <string name="Sub_giftbox_2">ಮರದ ಕೆಳꁰ ### ಉಡುꁰೂꂒ ಪೆꁄꈓꁰಗꁢದꈱವꈢ. @@@ ꂁꁰದುꁨೂಂಡು ಹೋಗಲಾꀸಮꈇ. ಎಷುꈓ ಉꁢꁑದꈱವꈢ?</string>
+  <string name="Sub_taco_1">ತꀑꁶಯꁡꈘ ### ꈉಾꈐಕೋಗꁢದꈱವꈢ. @@@ ꈉಾꈐಕೋಗಳನುꈁ ꁉಂದರು. ಎಷುꈓ ꈉಾꈐಕೋಗಳು ಉꁢದವꈢ?</string>
+  <string name="Sub_taco_2">ಒꀣಬ ಅಡುꁰಯವನು ### ꈉಾꈐಕೋಗಳನುꈁ ಮಾꁆದನು. @@@ ꈉಾꈐಕೋಗಳನುꈁ ಬꁆಸಲಾꁙತು. ಎಷುꈓ ꈉಾꈐಕೋಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_kite_1">### ꄈಾꁢಪಟಗಳು ಆꈖಾಶದꁡꈘ ꈨಾꁠದವꈢ. @@@ ꄈಾꁢಪಟಗಳು ಕೆಳꁰ ꁖದꈱವꈢ. ಇನꈁೂ ಎಷುꈓ ꄈಾꁢಪಟಗಳು ꈨಾರುꁉꈇದꈱವꈢ?</string>
+  <string name="Sub_kite_2">ಬೀꀆನꁡꈘ ### ꄈಾꁢಪಟಗꁢದꈱವꈢ. @@@ ꈨಾꁠಹೋದವꈢ. ಎಷುꈓ ꄈಾꁢಪಟಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Sub_sandwich_1">ꂕುೕꁂನ ꂕುೕꂓ ### ಸꈐಾಂꀓꁣꀆಗಳು ಇದꈱವꈢ. @@@ ಸꈐಾಂꀓꁣꀆಗಳು ꁉಂದವꈢ. ಎಷುꈓ ಉꁢꁑವೆ?</string>
+  <string name="Sub_sandwich_2">ಒꀣಬ ಅಡುꁰಯವನು ### ಸꈐಾಂꀓꁣꀆಗಳನುꈁ ಮಾꁆದನು. @@@ ಸꈐಾಂꀓꁣꀆಗಳನುꈁ ಬꁆಸಲಾꁙತು. ಎಷುꈓ ಸꈐಾಂꀓꁣꀆಗಳು ಉꁢꁑವೆ?</string>
+  <string name="Add_Pyramid">ಸೇಪꈆಡೆ ꁔರꁘꀓ</string>
+</resources>

@@ -1,0 +1,792 @@
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">KARAGDAGANG APPS</string>
+  <string name="txt_holdfor">Huwag Bibitawan ng 3 Segundo</string>
+  <string name="txt_title_for_grown_ups">PARA SA MATATANDA</string>
+  <string name="txt_userguide_for_grown_ups">Para magamit, ipasok ang mga numero</string>
+  <string name="txt_digit_Zero">Sero</string>
+  <string name="txt_digit_One">Isa</string>
+  <string name="txt_digit_Two">Dalawa</string>
+  <string name="txt_digit_Three">Tatlo</string>
+  <string name="txt_digit_Four">Apat</string>
+  <string name="txt_digit_Five">Lima</string>
+  <string name="txt_digit_Six">Anim</string>
+  <string name="txt_digit_Seven">Pito</string>
+  <string name="txt_digit_Eight">Walo</string>
+  <string name="txt_digit_Nine">Siyam</string>
+  <string name="txt_stickershowcase_toys">MGA LARUAN</string>
+  <string name="txt_stickershowcase_stickers">STICKERS</string>
+  <string name="txt_stickershowcase_stamps">STAMPS</string>
+  <string name="txt_stickershowcase_notoys">Walang Anumang Laruan</string>
+  <string name="txt_stickershowcase_nostickers">Walang Anumang Stickers</string>
+  <string name="txt_stickershowcase_nostamps">Walang Anumang Stamps</string>
+  <string name="txt_pick_a_stamp">PUMILI NG ISANG STAMP</string>
+  <string name="txt_collectsticker">KUMULEKTA NG STICKER</string>
+  <string name="txt_collectyourGift">KULEKTAHIN ANG INYONG REGALO</string>
+  <!--New-->
+  <string name="txt_rateUsReview_microsoft">Bisitahin ang Tindahan Para Rebyuhin</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Bisitahin ang Tindahan Para Rebyuhin</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Bisitahin ang Tindahan Para Rebyuhin</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Bisitahin ang Tindahan Para Rebyuhin</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Bisitahin ang Tindahan Para Rebyuhin</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Musika sa Likuran</string>
+  <string name="text_sound">Tunog</string>
+  <string name="text_showhint">Magbigay ng Hula Habang Nagsasanay</string>
+  <string name="text_learn_with">Magsanay gamit ang</string>
+  <string name="text_level">Antas ###</string>
+  <string name="text_generate_report">Kunin ang Ulat</string>
+  <string name="text_view_report_card">Tingnan ang Report Card</string>
+  <string name="text_visible_mode">Nakikita</string>
+  <string name="text_VISIBLE_MODE">NAKIKITA</string>
+  <string name="text_share">Ibahagi</string>
+  <string name="txt_report_card">REPORT CARD</string>
+  <string name="txt_number">Hindi.</string>
+  <string name="txt_date_time">Petsa/Oras</string>
+  <string name="txt_mode">Mode</string>
+  <string name="txt_retry">Subukan muli</string>
+  <string name="txt_no_report">Walang Ulat</string>
+  <string name="txt_yes">OO</string>
+  <string name="txt_no">HINDI</string>
+  <string name="txt_delete_report">Sigurado ba kayong nais ninyong tanggalin ang lahat ng data sa report card?</string>
+  <string name="txt_press_again_exit">Muling pindutin para umeksit</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Piliin ang Wika</string>
+  <string name="txt_Select_Language">Piliin ang Wika</string>
+  <string name="txt_why_its_free">AMING KUWENTO</string>
+  <string name="txtOurStorySettingsNew">Aming Kuwento</string>
+  <string name="txtLanguages">Mga Wika</string>
+  <string name="txtOtherLanguages">Iba Pang Wika</string>
+  <string name="txt_Report_a_Translation_error">Iulat ang Mali sa Pagsasalin</string>
+  <string name="txt_send">IPADALA</string>
+  <string name="txtReadyBundle">Magsisimula ang pagdo-download mayamaya.</string>
+  <string name="txtDownloadingBundle">Dina-download ang language pack.</string>
+  <string name="txt_ConnectionError">May Error sa Koneksyon</string>
+  <string name="txt_InstallNow">Iinstall Ngayon</string>
+  <string name="txt_PostSuccess">Matagumpay na Nai-post ang Message</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Profile ng Bata</string>
+  <string name="txtBtnAdd">ADD CHILD</string>
+  <string name="txtAddHelp">Magdagdag ng profiles at pagkaraan ay i-save ang settings at mga ulat ng bawat bata.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Pangalan ng Bata</string>
+  <string name="txtEnterName">Ipasok ang pangalan...</string>
+  <!-- EDIT: Child 1 -->
+  <string name="txtMaxLimit">Maximum na 20 na Pangalan</string>
+  <string name="txtEditProfile">I-edit ang Profile</string>
+  <string name="txtDeleteProfile">Tanggalin ang Profile</string>
+  <string name="txtDeleteProfileConfirm">Sigurado ba kayong nais ninyong tanggalin ang ###'s profile?</string>
+  <string name="txtNo">HINDI</string>
+  <string name="txtYes">OO</string>
+  <string name="txtNameDuplication">Mayroon Na Nitong Pangalan!</string>
+  <string name="txtUserChangeMsg">Matagumpay na naibago ang profile.</string>
+  <string name="txtShareWithParents">Ibahagi sa mga magulang, eskwelahan, day care at iba pa</string>
+  <string name="txtBtnUpdate">I-update</string>
+  <string name="txtNew">Bago</string>
+  <string name="txt_DownloadNow">I-download Ngayon</string>
+  <string name="txtShowIntroAtStart">Ipakita ang Character Intro sa Panimula</string>
+  <string name="txt_connection_lost">Nawalan ng Koneksiyon</string>
+  <string name="txt_connectionlost_detail">May problema sa pagkonekta sa internet. Mangyaring i-tsek ang network settings.</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Baguhin ang Wika</string>
+  <string name="txtInitHelpChangeLangDesc">Pumili sa ### iba't-ibang wika na gagamitin para magsanay.</string>
+  <string name="txtInitHelpCustomSettingTitle">I-customize ang Settings</string>
+  <string name="txtInitHelpCustomSettingDesc">I-personalize ang inyong settings na siyang lubos na makakatulong sa inyong makapagsanay.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string ScaleFactor="1" name="txtloading">Nilo-load...</string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">BUMALIK</string>
+  <string ScaleFactor="1" name="txtBtnSelect">PILIIN</string>
+  <string ScaleFactor="1" name="txtBtnDelete">I-DELETE</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">TUMINGIN PA SA IBA</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Pindutin ang anumang key para magpatuloy...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">AYAW MO NANG MAGLARO?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Sigurado ba kayong ayaw ninyo na?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Suportahan kami sa pagrerebyu ng app.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">I-rate Kami</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Sa ibang araw</string>
+  <!-- T-Shirts Shop - START -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Mga Pamamaraan para Suportahan Kami</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">I-reward ang inyong anak ng t-shirt, at suportahan kami.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Ang pinakamainam na libreng pagsuporta sa amin ay ibahagi ang aming larong pambata sa mga eskwelahan, kaibigan, social media, at press (TV &amp; diyaryo).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Bakit hindi i-reward ang inyong anak sa pagbili ng T-shirts at paglalagay ng love characters sa kanilang laro dito.</string>
+  <string ScaleFactor="1" name="txtShareCap">IBAHAGI</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">IKUMPIRMA</string>
+  <string name="txt_shopConfirmDetail">Dadalhin kayo sa website para magpatuloy. Sigurado ba kayong nais ninyong umalis?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <string ScaleFactor="1" name="txtWiderSelection">Mas Maraming Mapagpipilian. Nagshi-ship sa Buong Mundo.</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Ibigay sa amin ang inyong opinyon sa laro?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Napakapangit</string>
+  <string ScaleFactor="1" name="txtVeryGood">Napakaganda</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Sige, magrebyu &amp; suportahan kami</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Salamat sa puna</string>
+  <!-- New Rate US END -->
+  <!-- New Rate US END -->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Home</string>
+  <string name="txt_menuoption_settings">Settings</string>
+  <string name="txt_menuoption_shop">Mamili</string>
+  <string name="txt_menuoption_kidsapps">Kids' Apps</string>
+  <string name="txt_menuoption_parentapps">Parent's Apps</string>
+  <string name="txt_menuoption_worksheets">Worksheets</string>
+  <string name="txt_messagefromdave">MENSAHE MULA KAY</string>
+  <string name="txt_getfeaturedon">MAITAMPOK SA INSTAGRAM</string>
+  <string name="txt_tagus">I-Tag @RVAppStudios at maging bahagi ng aming mga istorya</string>
+  <!-- Tag @RVAppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Founder ng RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Kumuha ng litrato/video ng bata gamit ang aming app o tumanggap ng certificate.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Ibahagi &amp; i-tag kami sa Instagram @RVAppStudios para sa tsansang maitampok.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Apps para sa mga Bata ng RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Apps para sa mga Magulang ng RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">WORKSHEETS</string>
+  <string name="txt_coloringpage">PAHINA NA KUKULAYAN</string>
+  <string name="txt_downloadmoreworksheet">Mag-download ng Karagdagang Worksheet mula sa Aming Pinterest Page</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Dahil sa 14 milyong buwanang downloads ng aming laro mula sa aming libreng kids' apps, isa na kami sa pinakamalaking developers ng Children's Educational Apps sa buong daigdig. "At patuloy naming gagawin ito nang LIBRE."
+
+ "Bakit?" -Nang naging magulang ako, nais kong ibigay ang pinakamahusay na edukasyon sa aking anak at mabigyan siya ng maraming oportunidad habang lumalaki. Naniniwala ako na maraming magulang ang nais na mabigyan ang kanilang anak ng mas magandang kinabukasan o edukasyon nang mahigit pa sa kanila.
+
+ Subalit hindi lahat ng magulang ay may oras o kakayahan na tulungan ang kanilang mga anak sa kanilang homework. Oo't nais kong mabigyan ng magandang kinabukasan ang aking sariling anak, subalit nakakapanlumo na sampung milyon na mga bata sa buong daigdig ang hindi nabibigyan ng magkatulad na oportunidad sa pangunahing edukasyon o nakakapag-aaral na bumasa't sumulat.
+
+ Bilang app developer, napagtanto kong maaari akong makatulong. -"Hindi upang kumita", kundi upang mabigyan ang mga bata sa bawat sulok ng mundo ng pagkakataong matutunan ang mahahalagang bagay katulad ng pagbibilang, spelling, at matematika sa pamamaraang nakakaaliw.
+
+ Kung kaya't inilunsad ko ang children's educational app branch of "RV AppStudios" nang may layuning mag-prodyus ng LIBRENG apps na makakatulong sa mga batang i-debelop ang kanilang pagiging malikhain, patalasin ang kanilang memorya at lohikal na pag-iisip sa pamamagitan ng paglalaro ng games.
+
+ Sa layuning ito, kailanganin naming panatilihing ligtas ang apps at games sa mga bata. Kung kaya't nakapagpasiyahan kong mamuhunan sa iba pang app development business para gawing "100% LIBRE" ang mga kids' applications nang "WALANG PALATASTAS" at "WALANG in-app purchases." -Ang tanging makikinabang sa mga apps na ito ay ang mga bata.
+
+ Nais naming maganda ang simula ng pagkatuto ng mga bata gamit ang pre-school learning apps, nang sa gayon maging mga lider sila ng pagbabago sa kanilang komunidad. At pinopondohan namin mismo ang aming layunin para maisakatuparan ito!</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtWatchUsYouTube">Panoorin kami sa YouTube</string>
+  <string name="txtRateApp">I-Rate Ngayon</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Ipagpatuloy</string>
+  <string name="txt_DownloadNowCap">I-DOWNLOAD NGAYON</string>
+  <string name="txt_Play_nowCap">LARUIN NGAYON</string>
+  <string name="txt_ConnectionErrorMsg1">Pumalya ang Internet Connection</string>
+  <string name="txt_ConnectionErrorMsg2">Mangyaring Subukan Ulit Mamaya!</string>
+  <string name="txtContinue">Ipagpatuloy</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Ekwasyon</string>
+  <string name="txtSubPracticeTitle">Pagsasanay sa Pagbabawas</string>
+  <string name="txtAddPracticeTitle">Pagsasanay sa Pagdadagdag</string>
+  <string name="txtBeginner">Baguhang Antas</string>
+  <string name="txtIntermediate">Panggitnang Antas</string>
+  <string name="txtAdvance">Bihasang Antas</string>
+  <string name="txtSubPracticeTitle">Pagsasanay sa Pagbabawas</string>
+  <string name="txtAddPracticeTitle">Pagsasanay sa Pagdadagdag</string>
+  <string name="txtBeginner">Baguhang Antas</string>
+  <string name="txtIntermediate">Panggitnang Antas</string>
+  <string name="txtAdvance">Bihasang Antas</string>
+  <string name="txtCertificate">Patunay</string>
+  <string name="txtCertificates">PATUNAY</string>
+  <string name="txtUnlocked">Nakahayag</string>
+  <string name="txtCongratulations">Congratulations</string>
+  <string name="txtCertificateUnlocked">Nakatanggap ng bagong patunay!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">sa</string>
+  <string name="txtPrint">I-Print</string>
+  <!--  -->
+  <string name="txt_certi_title_1">GANTIMPALA</string>
+  <string name="txt_certi_title_2">NAMUMUKOD-TANGI</string>
+  <string name="txt_certi_title_3">STAR AWARD</string>
+  <string name="txt_certi_title_4">MAGALING</string>
+  <string name="txt_certi_title_5">NANGINGIBABAW</string>
+  <string name="txt_certi_title_6">KAHANGA-HANGA</string>
+  <string name="txt_certi_title_7">NAITAPOS</string>
+  <string name="txt_certi_title_8">MAHUSAY</string>
+  <!--  -->
+  <!--EDIT: This product is available only in USA.-->
+  <string name="txt_shopConfirmTitle">IKUMPIRMA</string>
+  <string name="txt_shopConfirmDetail">Dadalhin kayo sa website para magpatuloy. Sigurado ba kayong nais ninyong umalis?</string>
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Mayroon kang bagong certificate!</string>
+  <string name="txtEnterNm">Ipasok ang pangalan ng bata.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">I-Print ang Certificate para Maengganyo ang Bata</string>
+  <string name="txtGreat">MAHUSAY</string>
+  <string name="txtTapToGetCerti">Tapikin para makuha ang certificate.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Bilangin ang mga Bagay 20 na Beses</string>
+  <string name="Math_Task_1_End">Nabilang ang mga Bagay 20 na Beses</string>
+  <string name="Math_Task_2_Start">Sagutin ang 30 Karagdagang Puzzles</string>
+  <string name="Math_Task_2_End">Nasagot ang 30 Karagdagang Puzzles</string>
+  <string name="Math_Task_3_Start">Tapusin ang Nakakaaliw na Pagdaragdag 30 na Beses</string>
+  <string name="Math_Task_3_End">Natapos ang Nakakaaliw na Pagdaragdag 30 na Beses</string>
+  <string name="Math_Task_4_Start">Kumpletuhin ang 30 Karagdagang Pagsusulit</string>
+  <string name="Math_Task_4_End">Naikumpleto ang 30 Karagdagang Pagsusulit</string>
+  <string name="Math_Task_5_Start">Ikumpara ang mga Bagay 30 na Beses</string>
+  <string name="Math_Task_5_End">Naikumpara ang mga Bagay 30 na Beses</string>
+  <string name="Math_Task_6_Start">Sagutin ang 30 Pagbabawas na Palaisipan</string>
+  <string name="Math_Task_6_End">Nasagutan ang 30 Pagbabawas na Palaisipan</string>
+  <string name="Math_Task_7_Start">Tapusin ang Nakakaaliw na Pagbabawas 30 na Beses</string>
+  <string name="Math_Task_7_End">Natapos ang Nakakaaliw na Pagbabawas 30 na Beses</string>
+  <string name="Math_Task_8_Start">Kumpletuhin ang 30 Pagbabawas na Pagsusulit</string>
+  <string name="Math_Task_8_End">Naikumpleto ang 30 na Pagbabawas na Pagsusulit</string>
+  <string name="Math_Task_1_Completed">Mayroon kang bagong certificate! Nabilang ang mga Bagay 20 na Beses</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Mayroon kang bagong certificate! Nasagot ang 30 Karagdagang Puzzles</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Mayroon kang bagong certificate! Natapos ang Nakakaaliw na Pagdaragdag 30 na Beses</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Mayroon kang bagong certificate! Naikumpleto ang 30 Karagdagang Pagsusulit</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Mayroon kang bagong certificate! Naikumpara ang mga Bagay 30 na Beses</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Mayroon kang bagong certificate! Nasagutan ang 30 Pagbabawas na Palaisipan</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Mayroon kang bagong certificate! Natapos ang Nakakaaliw na Pagbabawas 30 na Beses</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Mayroon kang bagong certificate! Naikumpleto ang 30 na Pagbabawas na Pagsusulit</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Kumunekta sa Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Dadalhin kayo sa Pinterest. Sigurado ba kayong nais ninyong umalis?</string>
+  <string name="txtContinue">Ipagpatuloy</string>
+  <string name="txtinspirationbehind">Inspirasyon sa Likod ng Kids Apps</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Printables</string>
+  <string name="txtAllowCouting">Pahintulutan ang Pagbibilang (Pagbibilang)</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Pagbibilang</string>
+  <string name="Adding Puzzle">Palaisipan sa Pagdaragdag</string>
+  <string name="Adding Fun">Nakakaaliw na Pagdaragdag</string>
+  <string name="Adding Quiz">Pagsusulit sa Adisyon</string>
+  <string name="Compare">Ikumpara</string>
+  <string name="Subtracting Puzzle">Palaisipan sa Pagbabawas</string>
+  <string name="Subtracting Fun">Nakakaaliw na Pagbabawas</string>
+  <string name="Subtracting Quiz">Pagsusulit sa Pagbabawas</string>
+  <string ScaleFactor="1" name="txt_gamename">Math Kids - Magdagdag, Magbawas, Bumilang</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Math Kids - Magdagdag, Magbawas, Bumilang</string>
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">RV AppStudios nasa YouTube ngayon</string>
+  <string name="txt_textrhymesYT">EDUCATIONAL SONGS &amp; NURSERY RHYMES</string>
+  <!-- YouTube NEW - END -->
+  <string name="txt_TitleLanguage">Tagalog</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">ANG AMING ISTORYA</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">BAKIT MAHALAGA ANG MAGMAGANDANG LOOB NA TUMULONG?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">PAANO NAMIN NAPAPANATILING LIBRE ANG AMING KIDS' APPS?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txtBtnOK">OK</string>
+  <string name="txt_add">MAGDAGDAG</string>
+  <string name="txt_sub">MAGBAWAS</string>
+  <string name="text_level">Antas ###</string>
+  <string name="txtInitOurStoryDescTitle" ScaleFactor="1">Tingnan Ang Aming Istorya</string>
+  <string name="txtInitHelpChangeLangMainTitle" ScaleFactor="1">Kumpletuhin muna ang help tutorial</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Maghintay</string>
+  <string name="txt_langdownloaded">Tapos na ang Pagda-Download</string>
+  <string name="txtInternetIssue">May problema sa koneksiyon sa internet</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">IBA PANG WIKA</string>
+  <string name="txt_ContinueIn">Magpatuloy sa ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">MGA LARONG PAMBATA NAMIN</string>
+  <string name="txt_SuggestedLanguages">Mga Iminungkahing Wika</string>
+  <string name="txt_VisitOurChannel">BISITAHIN ANG AMING CHANNEL</string>
+  <string name="txt_followusandshare">SUNDAN KAMI AT TULUNGAN KAMI</string>
+  <string name="txt_OurImpact">ANG ATING EPEKTO</string>
+  <string name="txt_OurImpactDesc">Ang RV AppStudios ay nagtuturo sa mahigit &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; bata buwan-buwan gamit ang aming mga libreng app para sa mga bata.</string>
+  <string name="txt_KidsApp">PAMBATA APP</string>
+  <string name="txt_Countries">MGA BANSA</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 BATA ANG GAGAMIT NG ATING MGA APPS</string>
+  <string name="txt_Hello">Kamusta</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Bagong disenyo ng t-shirt na idinaragdag linggu-linggo!</string>
+  <string name="txt_AllGamesAreFree">(Lahat ng laro ay libre at walang mga ad)</string>
+  <string name="txt_ShowShopBtn">Itago ang "Pindutan ng Shop" Mula sa Main Menu</string>
+  <string name="txt_ShowOurStoryBtn">Itago ang "Aming Story Button" Mula sa Pangunahing Menu</string>
+  <string name="txt_ShowMoreappBtn">Itago ang "Higit pang mga Apps Button" Mula sa Main Menu</string>
+  <string name="txt_TranslationFeedback">Pagsasalin Feedback</string>
+  <string name="txt_TranslationFeedbackInfo">Iulat ang Mali sa Pagsasalin. Huwag magbahagi ng sensitibong impormasyon.</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">T-SHIRTS &amp; MGA AKLAT NA EDUKASYON PARA SA MGA BATA</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">T-SHIRTS PARA SA MGA BATA</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">MGA AKLAT NA EDUKASYON PARA SA MGA BATA</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS T-SHIRTS &amp; MGA AKLAT NA EDUKASYONAL</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">FIRST EVER LUCAS &amp; FRIENDS AKLAT</string>
+  <string name="txt_VisibleMDstng">Piliin ang Mga Mode na Ipapakita</string>
+  <string name="txt_SelectParentGate">Piliin ang Opsyon para I-unlock ang Setting</string>
+  <string name="txt_HideButtons">Itago ang Mga Pindutan</string>
+  <string name="txt_HideButtonsFromMenu">Itago ang Mga Pindutan Mula sa Pangunahing Menu</string>
+  <string name="txt_rateThanks">Maraming salamat sa inyong pagmamahal at suporta. Mahal rin namin kayo!</string>
+  <string name="txt_rateFeedback">Maraming salamat, nais naming hingin ang inyong opinyon. Bigyan kami ng feedback.</string>
+  <string name="txt_rateLetUsKnow">Ipaalam sa amin kung nag-enjoy ang inyong anak sa aming app.</string>
+  <string name="txt_rateHappySad">Nasiyahan ka ba sa paggamit ng app?</string>
+  <string name="txt_rateHappy">NASISIYAHAN</string>
+  <string name="txt_rateSad">HINDI NASIYAHAN</string>
+  <string name="txtRateDesc1">Maaari ninyo bang rebyuhin ang app sa Play Store? Makakatulong ito sa ibang magulang para malaman ang tungkol sa app.</string>
+  <string name="txtVeryBadCap">MALALA</string>
+  <string name="txtGoodCap">MABUTI</string>
+  <string name="txtRateAppBtn">Bigyan kami ng rating</string>
+  <string name="txtRateHdr">BIGYAN KAMI NG RATING</string>
+  <string name="english_name">Ingles</string>
+  <string name="Sendfeedback" ScaleFactor="1">Ipadala ang feedback</string>
+  <string name="UseOurApps">Ginagamit ng mga bata ang aming mga pang-edukasyon na app bawat buwan.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios ay nasa YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Maghanap sa RV Appstudios upang mahanap ang aming mga app</string>
+  <string name="GiphyStickers" ScaleFactor="1">Available na ngayon ang mga animated na GIF at Sticker!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Hanapin ang @RVAppStudios sa iyong GIF keyboard</string>
+  <string name="txt_2Digit+">2 Digits +</string>
+  <string name="txt_2Digit-">2 Digits -</string>
+  <string name="Intro_Text" ScaleFactor="1">Bisitahin ang RVAppStudios.com para sa pinakabagong balita!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">ANG TARGET NAMIN - Lubos na Makakatulong ang 200+ Milyong Downloads</string>
+  <string name="About_Us">TUNGKOL SA ATIN</string>
+  <string name="MessageForAdult1">Bawat isa sa atin ay may katangi-tanging talento. Ang inyong lingkod ay gumagawa ng apps. Ilan sa inyo ay maaaring maging isang mahusay na guro, duktor, artista, atbp. Gaya ng pagbabahagi ng aking hilig nang libre, umaasa ako na sana'y maengganyo kayo na ibahagi ang inyong kaalaman. Ang pagtulong sa iba ay nakakagaan ng loob at nagbibigay-inspirasyon sa iba. Isaalang-alang ang maidudulot natin nang sama-sama! Naglalayong magbigay ng inspirasyon ang Lucas &amp; Friends na maging mapagkawanggawa ang sangkatauhan. Masusuportahan ninyo kami sa pamamagitan ng pagtulong sa iba sa sarili ninyong paraan
+</string>
+  <string name="MessageForAdultTitle">Mensahe Para sa Matanda </string>
+  <string name="MessageForAdult">Mensahe Para sa Matanda</string>
+  <string name="txt_collectGift">KULEKTAHIN ANG INYONG REGALO</string>
+  <string name="txt_GoodJob">Magaling</string>
+  <string name="Impact_together">Epekto na Maaari Nating Gawin Nang Magkasama</string>
+  <string name="For_Parents">Para sa mga Magulang</string>
+  <string name="Message_Parents">Mensahe Para sa Mga Magulang</string>
+  <string name="txtShoppingMode">Pamimili</string>
+  <string name="Math_Task_9_Start">Sagutin ang 2-digit na pagdadagdag 30 beses</string>
+  <string name="Math_Task_9_End">Nasagot ang 2-digit na pagdadagdag 30 beses</string>
+  <string name="Math_Task_10_Start">Sagutin ang 2-digit na pagbabawas ng 30 beses</string>
+  <string name="Math_Task_10_End">Nasagot ang 2-digit na pagbabawas ng 30 beses</string>
+  <string name="Math_Task_11_Start">Kumpletuhin ang 30 pagsasanay sa pagdadagdag</string>
+  <string name="Math_Task_11_End">Naikumpleto ang 30 pagsasanay sa pagdadagdag</string>
+  <string name="Math_Task_12_Start">Kumpletuhin ang 30 pagsasanay sa pagbabawas</string>
+  <string name="Math_Task_12_End">Naikumpleto ang 30 pagsasanay sa pagbabawas</string>
+  <string name="Math_Task_13_Start">Sagutin ang 30 tanong sa pamimili</string>
+  <string name="Math_Task_13_End">Nasagot ang 30 tanong sa pamimili</string>
+  <string name="Math_Task_9_Completed">Mayroon kang bagong certificate! Nasagot ang 2-digit na pagdadagdag 30 beses</string>
+  <string name="Math_Task_10_Completed">Mayroon kang bagong certificate! Nasagot ang 2-digit na pagbabawas ng 30 beses</string>
+  <string name="Math_Task_11_Completed">Mayroon kang bagong certificate! Naikumpleto ang 30 pagsasanay sa pagdadagdag</string>
+  <string name="Math_Task_12_Completed">Mayroon kang bagong certific Naikumpleto ang 30 pagsasanay sa pagbabawas</string>
+  <string name="Math_Task_13_Completed">Mayroon kang bagong certificate! Nasagot ang 30 tanong sa pamimili</string>
+  <string name="January">Enero</string>
+  <string name="February">Pebrero</string>
+  <string name="March">Marso</string>
+  <string name="April">Abril</string>
+  <string name="May">Mayo</string>
+  <string name="June">Hunyo</string>
+  <string name="July">Hulyo</string>
+  <string name="August">Agosto</string>
+  <string name="September">Setyembre</string>
+  <string name="October">Oktubre</string>
+  <string name="November">Nobyembre</string>
+  <string name="December">Disyembre</string>
+  <string name="OurImpactKids1">Bata ang Gumamit ng Aming Mga App</string>
+  <string name="Storage_low">Walang Sapat Na Espasyo Sa Storage</string>
+  <string name="OurImpactKids">1 Bilyon</string>
+  <string name="Books_Tshirts">Mga Aklat &amp; mga T-shirt</string>
+  <string name="we_Inspire_msg1">Lahat ng ito ay dahil sa inyong walang sawang suporta.</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends Nagsimula ang bilang libreng pang-eskuwelang apps para sa mga bata na aming pinagplanuhan nang walang palatastas o may hinihinging bayad. Layunin naming tumulong sa sangkatauhan, magpasalamat at manghimok. Mahigit &lt;color=#ff0018&gt;&lt;size=35&gt;1 Bilyon&lt;/size&gt;&lt;/color&gt;  bata ang natututo sa aming educational apps. &lt;color=#FF6400&gt;Hindi namin inakala na agad na tatangkilikin itong laro!&lt;/color&gt;</string>
+  <string name="we_Inspire">Hinihimok namin ang pagiging mapagkawanggawa.</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Misyon Naming Gawing Kawili-wili ang Pag-aaral &amp; Magagamit na! Libreng apps sa pag-aaral, walang patalastas, walang anumang babayaran – libre, kawili-wiling pagkatuto lamang para sa mga bata.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Cross Matematika</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Pangingisda Kasiyahan</string>
+  <string name="txt_SnowMode" ScaleFactor="1">niyebe</string>
+  <string name="txt_Addition">Pagdadagdag</string>
+  <string name="txt_Subtraction">Pagbabawas</string>
+  <string name="FunGames">Masayang Laro</string>
+  <string name="Select_Character" ScaleFactor="1">Piliin ang Character</string>
+  <string name="Car_Game" ScaleFactor="1">Larong Kotse</string>
+  <string name="txtUserChangeMsg1">Matagumpay na nabago ang profile ng bata.</string>
+  <string name="txt_1Digit">1 Digit</string>
+  <string name="txt_2Digit">2 Digits</string>
+  <string name="txt_Play">Laruin</string>
+  <string name="txtOpponentWon">Nanalo ang Kalaban!</string>
+  <string name="txtYouWon">Nanalo Ka!</string>
+  <string name="txtRematch">Muling Paglaban</string>
+  <string name="txt_SelectDifficulty">Piliin ang Antas ng Suliranin</string>
+  <string name="txt_DualMode">Dalawang Manlalaro</string>
+  <string name="txt_Correct">Tama</string>
+  <string name="Draw">Nagtabla</string>
+  <string name="Apparel_Accessories">DAMIT AT ACCESSORIES</string>
+  <string name="best_Seller">Pinakamabenta</string>
+  <string name="RateUsNew">Nag-e-enjoy ka ba sa laro namin? Nakakatulong ang iyong pagsusuri na maikalat ang aming misyon at mga libreng app sa ibang mga magulang.</string>
+  <string name="txt_AdditupMode">Idagdag ito</string>
+  <string name="txt_SudokuMode">Puzzle</string>
+  <string name="txtBrandTrust">TATAK NA MAPAGKAKATIWALAAN MO</string>
+  <string name="txtMission">Isang Misyong Mapapahalagahan Mo</string>
+  <string name="Number_Path">Landas ng Numero</string>
+  <string name="Add_butterfly_1">### ang mga butterflies ay nakaupo sa isang bulaklak. Pagkatapos, @@@ mas maraming butterflies ang lumipad at sumama sa kanila. Ilang butterflies ang kabuuan?</string>
+  <string name="Add_butterfly_2">Isang bata ang nakakita ng ### butterflies. Pagkatapos, @@@ higit pa ang lumitaw. Ilang butterflies ang nakikita ng bata sa kabuuan?</string>
+  <string name="Add_cat_1">### ang mga pusa ay nakaupo sa isang pader. Isa pang @@@ pusa ang umakyat. Ilang pusa ang nasa dingding ngayon?</string>
+  <string name="Add_cow_1">### baka nasa kamalig. @@@ mas maraming baka ang pumasok. Ilang baka ang nasa kamalig ngayon?</string>
+  <string name="Add_deer_1">Sa parang, ### usa ay kumakain ng damo. Pagkatapos @@@ mas maraming usa ang dumating. Ilang usa na ngayon ang kumakain ng damo?</string>
+  <string name="Add_dog_1">### naglalaro ang mga aso ng bola. Pagkatapos @@@ mas maraming aso ang sumama sa kanila. Ilang aso ang naglalaro?</string>
+  <string name="Add_giraffe_1">### ang mga giraffe ay umiinom ng tubig. Pagkatapos @@@ mas maraming giraffe ang dumating para uminom. Ilang giraffe ang umiinom?</string>
+  <string name="Add_ladybugs_1">### ang mga kulisap ay nakaupo sa isang dahon. @@@ mas maraming kulisap ang lumilipad sa dahon. Ilang ladybugs ang nasa dahon?</string>
+  <string name="Add_tiger_1">### ang mga tigre ay nakaupo malapit sa isang kuweba. @@@ mas maraming tigre ang lumabas. Ilang tigre ang mayroon ngayon?</string>
+  <string name="Add_tiger_2">May ### tigre sa gubat. @@@ mas papalapit. Ilan ang mga tigre sa kabuuan?</string>
+  <string name="Add_owl_1">### ang mga kuwago ay nagpapahinga sa isang pugad. @@@ mas maraming kuwago ang dumarating sa pugad. Ilang kuwago ang nasa pugad?</string>
+  <string name="Add_panda_1">### kumakain ng kawayan ang mga panda. @@@ marami pang panda ang dumating. Ilang panda ang kumakain ng kawayan?</string>
+  <string name="Add_parrot_1">### ang mga loro ay nakaupo sa isang perch. @@@ mas masayang lumipad ang mga loro. Ilang loro na ang mayroon ngayon?</string>
+  <string name="Add_peacock_1">### nagsasayaw ang mga paboreal sa hardin. @@@ dumarating pa ang mga paboreal. Ilang paboreal ang sumasayaw?</string>
+  <string name="Add_rooster_1">May ### tandang sa bukid. @@@ more come near the barn. Ilang tandang sa kabuuan?</string>
+  <string name="Add_snail_1">Sa isang dahon, ang ### snails ay nagpapahinga. @@@ marami pang sumali sa kanila. Ilang snails lahat?</string>
+  <string name="Add_zebra_1">Sa damuhan, ### zebra ang kumakain. @@@ marami pang sumali sa kanila. Gaano karaming mga zebra ang kabuuan?</string>
+  <string name="Add_bicycle_1">Mayroong ### bisikleta sa parke. @@@ marami pa ang nakaparada. Ilan ang mga bisikleta sa kabuuan?</string>
+  <string name="Add_hippo_1">Sa umaga, naglalaro ang ### hippos. Mamaya, @@@ higit pang maglakad. Ano ang kabuuang bilang ng mga hippos?</string>
+  <string name="Add_airplane_1">Sa runway, naghihintay ang ### na mga eroplano. @@@ mas maraming lupain. Gaano karaming mga eroplano ang kabuuan?</string>
+  <string name="Add_airplane_2">Sa airport, naghihintay ang ### na mga eroplano. Malapit na, @@@ marami pang dumating. Ilang eroplano sa kabuuan?</string>
+  <string name="Add_horse_1">Sa tabi ng kamalig, nakatayo ang ### mga kabayo. @@@ marami pang sumali sa kanila. Gaano karaming mga kabayo ang kabuuan?</string>
+  <string name="Add_fish_1">Sa aquarium, ### isda ang lumalangoy. @@@ higit pa ang idinagdag. Ilang isda lahat?</string>
+  <string name="Add_goat_1">May ### kambing sa burol. Pagkatapos @@@ higit pa ang darating. Ano ang kabuuang bilang ng mga kambing?</string>
+  <string name="Add_monkey_1">May ### na unggoy sa isang puno. @@@ pang umakyat. Ilang unggoy ang kabuuan?</string>
+  <string name="Add_carrot_1">May ### karot sa basket. @@@ higit pa ang idinagdag. Ilang karot ang kabuuan?</string>
+  <string name="Add_candies_1">May ### na kendi sa garapon. @@@ higit pa ang idinagdag. Ilang candies ang kabuuan?</string>
+  <string name="Add_cupcake_1">May ### cupcake sa mesa. @@@ marami pa ang nakalagay. Gaano karaming mga cupcake ang mayroon sa kabuuan?</string>
+  <string name="Add_pinwheel_1">Sa umaga, umiikot ang ### pinwheels sa hardin. Mamaya, @@@ higit pa ang idadagdag. Ilang pinwheels na ngayon?</string>
+  <string name="Add_broccoli_1">May ### broccoli sa plato. @@@ higit pa ang idinagdag. Ilang broccoli ang nasa plato?</string>
+  <string name="Add_robot_1">Mayroong ### robot sa lupa. @@@ lakad pa. Ilan ang mga robot sa kabuuan?</string>
+  <string name="Add_car_1">Ang isang bata ay may ### mga laruang sasakyan. @@@ marami pa ang ibinibigay. Ilang laruang sasakyan ang mayroon ang bata?</string>
+  <string name="Add_bird house_1">Mayroong ### mga bahay ng ibon malapit sa kamalig. @@@ higit pa ang idinagdag. Ilang bahay ng ibon ang kabuuan?</string>
+  <string name="Add_ball_1">May ### na bola sa lupa. @@@ pang roll over. Ilang bola ang nasa kabuuan?</string>
+  <string name="Add_drum_1">Sa klase ng musika, ang ### drum ay iniingatan. @@@ higit pa ang idinagdag. Ilang drums lahat?</string>
+  <string name="Add_cake_1">May ### na cake sa mesa. @@@ higit pa ang idinagdag. Ilang cake ang kabuuan?</string>
+  <string name="Add_fruits_1">May ### prutas sa basket. @@@ higit pa ang idinagdag. Ilang prutas ang kabuuan?</string>
+  <string name="Add_flower_1">May ### bulaklak sa hardin. @@@ mas mamukadkad. Ilang bulaklak ang mayroon sa hardin?</string>
+  <string name="Add_pig_1">May ### baboy sa bakuran. Pagkatapos @@@ higit pa ang darating. Ano ang kabuuang bilang ng mga baboy sa bakuran?</string>
+  <string name="Add_top_1">May ### umiikot na tuktok sa sahig. @@@ higit pa ang idinagdag. Ilang spinning top ang kabuuan?</string>
+  <string name="Add_donut_1">May ### donut sa isang plato. @@@ higit pa ang idinagdag. Ilang donut ang kabuuan?</string>
+  <string name="Add_giftbox_1">Nakakuha si Sara ng ### na regalo. Binigyan siya ng kanyang kaibigan ng @@@ pa. Gaano karaming mga regalo mayroon si Sara sa kabuuan?</string>
+  <string name="Add_giftbox_2">May ### na giftbox sa kwarto. Tapos @@@ marami pa ang nilalagay sa loob. Ilang giftbox ang mayroon sa kwarto?</string>
+  <string name="Add_taco_1">Gumawa si Sara ng ### tacos. Gumawa ng @@@ pang tacos ang kanyang ina. Gaano karaming mga tacos ang ginawa sa kabuuan?</string>
+  <string name="Add_taco_2">Kumain si Tom ng ### tacos. Kumain siya ng @@@ pang tacos. Ilang tacos ang kinain ni Tom sa kabuuan?</string>
+  <string name="Add_kite_1">### ang mga saranggola ay lumilipad sa kalangitan. @@@ mas maraming saranggola ang nagsimulang lumipad. Ilang saranggola ang lumilipad sa langit?</string>
+  <string name="Add_kite_2">Gumawa si Leo ng ### saranggola. Tapos gumawa pa siya ng @@@ na saranggola. Ano ang kabuuang bilang ng mga saranggola na ginawa ni Leo?</string>
+  <string name="Add_sandwich_1">Bumili si Sam ng ### sandwich. Pagkatapos ay bumili siya ng @@@ pang sandwich. Ano ang kabuuang bilang ng mga sandwich na binili ni Sam?</string>
+  <string name="Add_leopard_1">### ang mga leopard ay nasa isang puno, at @@@ higit pang umakyat. Ilang leopardo ang nasa puno ngayon?</string>
+  <string name="WordProblem">Problema sa Salita</string>
+  <string name="Carry_Forward">Dagdag</string>
+  <string name="Sub_butterfly_1">Mayroong ### butterflies na lumilipad sa hardin. Lumipad ang @@@ na paru-paro. Ilang butterflies ang natitira sa hardin?</string>
+  <string name="Sub_butterfly_2">Nakakita si Emma ng ### butterflies sa umaga. Sa hapon, nakakita siya ng @@@ na mas kaunting butterflies. Ilang paru-paro ang nakita niya sa hapon?</string>
+  <string name="Sub_cat_1">Nakita ni Ethan ang ### pusa na nakaupo sa isang bakod. Tumakas ang @@@ na pusa nang tumahol ang isang aso. Ilang pusa pa ang nasa bakod?</string>
+  <string name="Sub_cat_2">Si Mia ay may ### pusa sa kanyang likod-bahay. @@@ na pusa ang pumunta para uminom ng gatas. Ilang pusa pa ang nasa likod-bahay?</string>
+  <string name="Sub_cow_1">Mayroong ### baka na umiinom ng tubig sa tabi ng ilog. @@@ na baka ang natapos uminom at umalis. Ilang baka pa ang nasa tabi ng ilog?</string>
+  <string name="Sub_cow_2">Mayroong ### baka na kumakain ng dayami. @@@ na baka ang tumigil sa pagkain. Ilang baka pa rin ang kumakain ng dayami?</string>
+  <string name="Sub_deer_1">Mayroong ### usa na tumatawid sa kalsada. @@@ na usa ang tumawid. Ilang usa pa ang naghihintay na tumawid?</string>
+  <string name="Sub_deer_2">Mayroong ### usa na umaakyat sa isang burol. Huminto ang @@@ na usa at muling bumaba. Ilang usa pa ang umaakyat?</string>
+  <string name="Sub_dog_1">May ### asong naglalaro sa bakuran. @@@ na aso ang tumakbo sa loob ng bahay. Ilang aso pa ang nasa bakuran?</string>
+  <string name="Sub_dog_2">Mayroong ### aso sa loob ng isang kulungan ng aso. @@@ na aso ang lumabas. Ilang aso pa ang nasa kulungan?</string>
+  <string name="Sub_giraffe_1">Sa ilalim ng isang makulimlim na puno, humiga ang ### giraffe. Maya-maya, @@@ na giraffe ang tumayo at umalis. Ilang giraffe ang nagpapahinga pa?</string>
+  <string name="Sub_giraffe_2">Isang grupo ng ### giraffe ang naglalakad sa matataas na damo. Biglang bumalik ang @@@ na giraffe. Ilang giraffe ang patuloy na naglalakad?</string>
+  <string name="Sub_ladybugs_1">Nakaupo ang ### ladybug sa isang malaking berdeng dahon. Pagkatapos ay lumipad ang @@@. Ilang kulisap ang nanatili sa dahon?</string>
+  <string name="Sub_ladybug_2">Sa paglubog ng araw, ### ladybugs ang lumipad nang magkasama. @@@ ang dumapo sa sanga ng puno. Ilang ladybugs pa ang lumilipad?</string>
+  <string name="Sub_owl_1">Lumipad ang ### kuwago sa ilalim ng maliwanag na liwanag ng buwan. @@@ na kuwago ang dumapo sa isang puno. Ilang kuwago pa ang lumilipad?</string>
+  <string name="Sub_owl_2">Ang isang sanga ay may ### kuwago na nakahilera sa isang hilera. @@@ na kuwago ang nagbuka ng kanilang mga pakpak at umalis. Ilang kuwago ang natira sa sanga?</string>
+  <string name="Sub_panda_1">### panda ang sabay na kumakain ng kawayan. @@@ na panda ang natapos kumain at umalis. Ilang panda pa ang kumakain ng kawayan?</string>
+  <string name="Sub_panda_2">Isang grupo ng ### panda ang magkasamang nakaupo. @@@ na panda ang natitira para maghanap pa ng kawayan. Ilang panda ang nanatili sa grupo?</string>
+  <string name="Sub_parrot_1">Isang kawan ng ### loro ang lumilipad nang magkasama. @@@ na loro ang dumapo sa isang bubong. Ilang loro ang patuloy na lumilipad?</string>
+  <string name="Sub_parrot_2">Ang isang puno ay may ### loro malapit sa kanilang pugad. @@@ na loro ang lumipad sa loob. Ilang loro ang nanatili sa labas?</string>
+  <string name="Sub_peacock_1">### paboreal ang sumasayaw sa hardin. Huminto sa pagsasayaw ang @@@ na paboreal. Ilang paboreal ang patuloy na sumasayaw?</string>
+  <string name="Sub_peacock_2">Sa paglubog ng araw, ### paboreal ang nagtipon sa parke. Lumipad ang @@@ na paboreal. Ilang paboreal pa ang naroon?</string>
+  <string name="Sub_rooster_1">Sa umaga, ### tandang ang nagtipon malapit sa pagkain. Natapos kumain ang @@@ na tandang at umalis. Ilang tandang pa rin ang kumakain?</string>
+  <string name="Sub_rooster_2">### tandang ay nakaupo sa isang bakod. Tumalon pababa ang @@@ na tandang. Ilang tandang ang nanatili sa bakod?</string>
+  <string name="Sub_snail_1">Ang isang landas sa hardin ay may ### snails na mabagal na gumagalaw. @@@ na kuhol ang napunta sa damuhan. Ilang kuhol ang naiwan sa landas?</string>
+  <string name="Sub_snail_2">### snails ay malapit sa ilang mga bulaklak. @@@ na kuhol ang gumapang palayo. Ilang kuhol pa ang malapit sa mga bulaklak?</string>
+  <string name="Sub_tiger_1">### tigre ay nagpapahinga sa gubat. @@@ na tigre ang lumayo. Ilang tigre ang nanatiling nagpapahinga?</string>
+  <string name="Sub_tiger_2">### tigre ang nakitang naglalakad sa kagubatan. Tumakas ang @@@ na tigre. Ilang tigre pa ang naglalakad?</string>
+  <string name="Sub_zebra_1">Isang kawan ng ### zebra ang dumating upang uminom ng tubig. @@@ na zebra ang natira pagkatapos uminom. Ilang zebra ang nanatili sa tabi ng ilog?</string>
+  <string name="Sub_zebra_2">Ang isang grupo ay may ### baby zebra na naglalaro nang magkasama. @@@ na anak na lalaki ay bumalik sa kanilang mga ina. Ilang baby zebra ang naglalaro pa rin?</string>
+  <string name="Sub_bicycle_1">Mayroong ### bisikleta na nakaparada malapit sa palaruan. @@@ na bisikleta ang naiuwi. Ilang bisikleta pa ang nasa playground?</string>
+  <string name="Sub_bicycle_2">Isang bike shop ang nagpakita ng ### bisikleta sa labas. @@@ na bisikleta ang naibenta. Ilang bisikleta ang nanatili sa display?</string>
+  <string name="Sub_hippo_1">### hippos ay kumakain ng damo nang magkasama. @@@ na hippos ang tumigil sa pagkain. Ilang hippos ang nagpatuloy sa pagkain ng damo?</string>
+  <string name="Sub_hippo_1">Ang isang kawan ay may ### hippos na natipon. @@@ na hippos ang lumayo. Ilang hippos ang nanatili sa kawan?</string>
+  <string name="Sub_airplane_1">Sa umaga, ### eroplano ang nakahanda para sa mga paglipad. @@@ na eroplano ang naiwan sa iskedyul. Ilang eroplano pa ang naghihintay?</string>
+  <string name="Sub_airplane_2">Sa gabi, ### eroplano ang nakatakdang lumipad. Nakaalis na ang @@@ na eroplano.  Ilang eroplano pa ang naghihintay na umalis?</string>
+  <string name="Sub_horse_1">### kabayo ang nasa loob ng kuwadra. @@@ na kabayo ang lumabas. Ilang kabayo ang nanatili sa kuwadra?</string>
+  <string name="Sub_horse_2">### kabayo ang nakita sa lambak. @@@ na kabayo ang umakyat sa burol. Ilang kabayo ang natitira sa lambak?</string>
+  <string name="Sub_fish_1">### isda ang lumalangoy sa isang lawa. Lumangoy ang @@@ na isda. Ilang isda pa ang nasa lawa?</string>
+  <string name="Sub_fish_2">Isang mangingisda ang nakakita ng ### isda malapit sa kanyang bangka. Mabilis na lumangoy ang @@@ na isda. Ilang isda ang nanatili malapit sa bangka?</string>
+  <string name="Sub_goat_1">Isang magsasaka ang may ### kambing na nanginginain sa bukid. @@@ na kambing ang gumala patungo sa burol. Ilang kambing pa ang nanginginain sa bukid?</string>
+  <string name="Sub_goat_2">Mayroong ### kambing na nagpapahinga malapit sa kamalig. @@@ na kambing ang tumakbo upang maglaro sa bakuran. Ilang kambing ang nanatili malapit sa kamalig?</string>
+  <string name="Sub_monkey_1">Naglaro ang ### unggoy sa puno ng mangga. @@@ na unggoy ang tumalon pababa. Ilang unggoy ang nanatili sa puno?</string>
+  <string name="Sub_monkey_2">Sa zoo, ### unggoy ang umindayog sa mga lubid. @@@ na unggoy ang pumunta upang kumain. Ilang unggoy pa rin ang umiindayog?</string>
+  <string name="Sub_carrot_1">### carrots ang nasa isang basket. @@@ na karot ang kinain. Ilang karot ang natira?</string>
+  <string name="Sub_carrot_2">Isang kuneho ang nakakita ng ### carrots. @@@ na karot ang gumulong. Ilang karot pa ang naroon?</string>
+  <string name="Sub_candies_1">### kendi ang nasa garapon. @@@ na kendi ang inilabas. Ilang candies ang nanatili sa loob?</string>
+  <string name="Sub_candies_2">Mayroong ### na kendi sa mesa. @@@ na kendi ang kinain. Ilang candies ang natitira?</string>
+  <string name="Sub_cupcake_1">### cupcake ang nasa isang tray. @@@ na cupcake ang ipinamigay. Ilang cupcake ang nanatili?</string>
+  <string name="Sub_cupcake_2">Gumawa ang panadero ng ### cupcake. @@@ na cupcake ang naibenta. Ilang cupcake ang natira?</string>
+  <string name="Sub_pinwheel_1">### pinwheels ang umiikot sa hardin. Huminto sa pag-ikot ang @@@ pinwheels. Ilan pa rin ang umiikot?</string>
+  <string name="Sub_pinwheel_2">Mayroong ### pinwheels sa tabi ng bakod. @@@ pinwheels ang sumabog. Ilan ang nanatili?</string>
+  <string name="Sub_broccoli_1">### piraso ng broccoli ang nasa plato. @@@ piraso ang kinain. Ilang piraso ang nanatili?</string>
+  <string name="Sub_broccoli_2">Isang chef ang nagluto ng ### tangkay ng broccoli. @@@ ang pinagsilbihan. Ilan ang natira?</string>
+  <string name="Sub_robot_1">### robot ang nakatayo sa isang linya. @@@ na robot ang lumayo. Ilang robot ang nanatili?</string>
+  <string name="Sub_robot_2">Mayroong ### robot sa lab. @@@ na robot ang pinatay. Ilan ang naka-on?</string>
+  <string name="Sub_car_1">### sasakyan ang nakaparada sa labas. @@@ na sasakyan ang umalis. Ilang sasakyan ang nanatiling nakaparada?</string>
+  <string name="Sub_car_2">Sa karera, ### kotse ang nagsimula. @@@ na sasakyan ang natapos nang maaga. Ilan ang nakipagkarera pa rin?</string>
+  <string name="Sub_bird house_1">### ibon ang nakaupo malapit sa birdhouse. @@@ ang lumipad. Ilang ibon ang nanatili?</string>
+  <string name="Sub_bird house_2">Mayroong ### pugad sa birdhouse. @@@ ang nahulog. Ilang pugad ang natitira?</string>
+  <string name="Sub_ball_1">### bola ang nasa palaruan. @@@ na bola ang gumulong palayo. Ilan ang naroon pa rin?</string>
+  <string name="Sub_ball_2">Ang isang kahon ay may ### bola. @@@ na bola ang tumalbog. Ilang bola ang natitira?</string>
+  <string name="Sub_drum_1">### drums ang nasa entablado. @@@ na tambol ang tinanggal. Ilan ang nanatili sa entablado?</string>
+  <string name="Sub_drum_2">Ang banda ay may ### drums. Nabasag ang @@@ na tambol. Ilang magagandang drum ang natira?</string>
+  <string name="Sub_cake_1">### cake ang inihurnong ngayon. @@@ na cake ang kinain. Ilang cake ang natitira?</string>
+  <string name="Sub_cake_2">Isang panadero ang nagpalamuti ng ### cake. @@@ na cake ang naibenta. Ilang cake pa ang nandoon?</string>
+  <string name="Sub_fruits_1">### prutas ang nasa basket. @@@ na prutas ang nahulog. Ilang prutas ang nanatili sa loob?</string>
+  <string name="Sub_fruits_2">Ang isang tindahan ay may ### prutas na naka-display. @@@ ang naibenta. Ilang prutas ang natira?</string>
+  <string name="Sub_flower_1">### bulaklak ang namumulaklak sa hardin. @@@ na bulaklak ang kinuha. Ilang bulaklak ang nanatili?</string>
+  <string name="Sub_flower_2">Mayroong ### bulaklak sa isang plorera. @@@ nalanta. Ilan ang naging sariwa?</string>
+  <string name="Sub_pig_1">### baboy ang nasa kulungan. Naubos ang @@@ na baboy. Ilang baboy ang nanatili?</string>
+  <string name="Sub_pig_2">Isang magsasaka ang may ### baboy. @@@ na baboy ang pumunta sa lawa. Ilang baboy ang natira?</string>
+  <string name="Sub_top_1">### spinning tops ang nasa sahig. @@@ tumigil sa pag-ikot. Ilan ang patuloy na umiikot?</string>
+  <string name="Sub_top_2">Mayroong ### na tuktok sa kahon. @@@ ang kinuha. Ilang tuktok ang nanatili?</string>
+  <string name="Sub_donut_1">### donut ang nasa tray. @@@ na donut ang kinain. Ilang donut ang nanatili?</string>
+  <string name="Sub_donut_2">Ang tindahan ay gumawa ng ### donut. @@@ ang naibenta. Ilang donut ang natira?</string>
+  <string name="Sub_giftbox_1">### kahon ng regalo ang nasa mesa. @@@ ang binuksan. Ilan ang nanatiling sarado?</string>
+  <string name="Sub_giftbox_2">Mayroong ### na kahon ng regalo sa ilalim ng puno. @@@ ang kinuha. Ilan ang natira?</string>
+  <string name="Sub_taco_1">### tacos ang nasa plato. @@@ tacos ang kinain. Ilang tacos ang nanatili?</string>
+  <string name="Sub_taco_2">Isang chef ang gumawa ng ### tacos. @@@ ang pinagsilbihan. Ilang tacos ang natira?</string>
+  <string name="Sub_kite_1">### saranggola ang lumipad sa langit. @@@ na saranggola ang nahulog. Ilang saranggola pa ang lumilipad?</string>
+  <string name="Sub_kite_2">Mayroong ### saranggola sa dalampasigan. @@@ sumabog. Ilang saranggola ang nanatili?</string>
+  <string name="Sub_sandwich_1">### sandwich ang nasa mesa. @@@ na sandwich ang kinain. Ilan ang nanatili?</string>
+  <string name="Sub_sandwich_2">Isang chef ang gumawa ng ### sandwich. @@@ ang pinagsilbihan. Ilang sandwich ang natitira?</string>
+  <string name="Add_Pyramid">Piramide</string>
+</resources>

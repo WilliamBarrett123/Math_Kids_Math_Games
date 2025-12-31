@@ -1,0 +1,826 @@
+<resources>
+  <string name="txt_more_apps">FLER APPAR</string>
+  <string name="txt_holdfor">Håll i 3 sekunder</string>
+  <string name="txt_title_for_grown_ups">FÖR VUXNA</string>
+  <string name="txt_userguide_for_grown_ups">Ange siffrorna för att öppna</string>
+  <string name="txt_digit_Zero">Noll</string>
+  <string name="txt_digit_One">Ett</string>
+  <string name="txt_digit_Two">Två</string>
+  <string name="txt_digit_Three">Tre</string>
+  <string name="txt_digit_Four">Fyra</string>
+  <string name="txt_digit_Five">Fem</string>
+  <string name="txt_digit_Six">Sex</string>
+  <string name="txt_digit_Seven">Sju</string>
+  <string name="txt_digit_Eight">Åtta</string>
+  <string name="txt_digit_Nine">Nio</string>
+  <string name="txt_stickershowcase_toys">LEKSAKER</string>
+  <string name="txt_stickershowcase_stickers">MÄRKEN</string>
+  <string name="txt_stickershowcase_stamps">STÄMPLAR</string>
+  <string name="txt_stickershowcase_notoys">Inga leksaker</string>
+  <string name="txt_stickershowcase_nostickers">Inga klistermärken</string>
+  <string name="txt_stickershowcase_nostamps">Inga stämplar</string>
+  <string name="txt_pick_a_stamp">VÄLJ EN STÄMPEL</string>
+  <string name="txt_collectsticker">SAMLA MÄRKEN</string>
+  <string name="txt_collectyourGift">HÄMTA DIN GÅVA</string>
+  <string name="txt_rateUsReview_microsoft">Betygsätt i butiken</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Betygsätt i butiken</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Betygsätt i butiken</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Betygsätt i butiken</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Betygsätt i butiken</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Bakgrundsmusik</string>
+  <string name="text_sound">Ljud</string>
+  <string name="text_learn_with">Lär dig på</string>
+  <string name="text_level">Nivå ###</string>
+  <string name="text_generate_report">Skapa rapport</string>
+  <string name="text_view_report_card">Visa betyg</string>
+  <string name="text_visible_mode">Synligt läge</string>
+  <string name="text_VISIBLE_MODE">Synligt läge</string>
+  <string name="text_share">Dela</string>
+  <string name="txt_report_card">Betyg</string>
+  <string name="txt_add">LÄGG TILL</string>
+  <string name="txt_sub">SUBTRAHERA</string>
+  <string name="txt_number">Nr.</string>
+  <string name="txt_date_time">Datum/tid</string>
+  <string name="txt_equation">Ekvation</string>
+  <string name="txt_mode">Läge</string>
+  <string name="txt_retry">Försök igen</string>
+  <string name="txt_no_report">Ingen rapport</string>
+  <string name="txt_yes">JA</string>
+  <string name="txt_no">NEJ</string>
+  <string name="txt_delete_report">Är du säker på att du vill radera all betygsinformation?</string>
+  <string name="txt_press_again_exit">Tryck igen för att avsluta</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Välj språk</string>
+  <string name="txt_Select_Language">Välj språk</string>
+  <string name="txt_why_its_free">VÅR BERÄTTELSE</string>
+  <string name="txtOurStorySettingsNew">Vår Berättelse</string>
+  <string name="txtLanguages">Språk</string>
+  <string name="txtOtherLanguages">Andra språk</string>
+  <string name="txt_Report_a_Translation_error">Rapportera översättningsfel</string>
+  <string name="txt_send">SKICKA</string>
+  <string name="txtReadyBundle">Nedladdningen påbörjas snart.</string>
+  <string name="txtDownloadingBundle">Laddar ner språkpaket.</string>
+  <string name="txt_ConnectionError">Anslutningsfel</string>
+  <string name="txt_InstallNow">Installera nu</string>
+  <string name="txt_PostSuccess">Meddelandet har skickats</string>
+  <string name="txt_Play_now">Spela nu</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Barnprofil</string>
+  <string name="txtBtnAdd">LÄGG TILL BARN</string>
+  <string name="txtAddHelp">Lägg till profiler för att spara inställningar för vart och ett av dina barn.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Barnets namn</string>
+  <string name="txtEnterName">Skriv namn...</string>
+  <string name="txtMaxLimit">Maximalt 20 namn</string>
+  <string name="txtEditProfile">Redigera profil</string>
+  <string name="txtDeleteProfile">Ta bort profil</string>
+  <string name="txtDeleteProfileConfirm">Är du säker på att du vill ta bort ###s profil?</string>
+  <string name="txtNo">NEJ</string>
+  <string name="txtYes">JA</string>
+  <string name="txtNameDuplication">Namnet finns redan!</string>
+  <string name="txtUserChangeMsg">Profilen har ändrats.</string>
+  <string name="txtShareWithParents">Dela med föräldrar, skola, förskola, m.m.</string>
+  <string name="txtBtnUpdate">Uppdatera</string>
+  <string name="txtNew">Ny</string>
+  <string name="txt_DownloadNow">Ladda ner nu</string>
+  <string name="text_showhint">Visa ledtråd vid inlärning</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Byt språk</string>
+  <string name="txtInitHelpChangeLangDesc">Välj mellan ### olika språk att använda när du lär dig.</string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">Anpassa inställningar</string>
+  <string name="txtInitHelpCustomSettingDesc">Anpassa inställningar för bättre lärande.</string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">Anslutningen bröts</string>
+  <string name="txt_connectionlost_detail">Det gick inte att ansluta till internet. Kontrollera nätverksinställningarna.</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">Ok</string>
+  <string name="txtSelectLanguageInfo">Vill du lära dig på ### eller engelska?</string>
+  <string name="txtShowIntroAtStart">Visa karaktärsintro vid start</string>
+  <string name="txtLanguages">Språk</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">Slutför vägledningen först</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">Se vår historia</string>
+  <string ScaleFactor="1" name="txtloading">Läser in...</string>
+  <string ScaleFactor="1" name="txt_gamename">Färger och former - lär dig färger</string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">Färger och former - lär dig färger</string>
+  <string ScaleFactor="1" name="txtBtnTab">TABB</string>
+  <string ScaleFactor="1" name="txtBtnBack">TILLBAKA</string>
+  <string ScaleFactor="1" name="txtBtnSelect">VÄLJ</string>
+  <string ScaleFactor="1" name="txtBtnDelete">Delete</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NAVIGERA</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Tryck på en tangent för att fortsätta...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">Avsluta spelet?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Är du säker på att du vill avsluta?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Stöd oss genom att recensera appen.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Betygsätt oss</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Senare</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Sätt att stödja oss</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Belöna ditt barn med en t-shirt och stöd oss.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Det bästa gratissättet att stödja oss är att dela våra barnspel med skolor, vänner, på sociala medier och i pressen (TV och tidningar).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Varför inte belöna ditt barn med t-shirtar och visa att du älskar karaktärerna.</string>
+  <string ScaleFactor="1" name="txtShareCap">Dela</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">BEKRÄFTA</string>
+  <string name="txt_shopConfirmDetail">Du omdirigeras till en webbplats för att fortsätta. Är du säker på att du vill lämna?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">Bredare utbud. Skickas till hela världen</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Berätta vad du tycker om spelet?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Väldigt dåligt</string>
+  <string ScaleFactor="1" name="txtVeryGood">Väldigt bra</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Ja, betygsätt och stöd oss</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Tack för din feedback</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">Certifikat</string>
+  <string name="txtCertificates">CERTIFIKAT</string>
+  <string name="txtUnlocked">Upplåst</string>
+  <string name="txtCongratulations">Grattis</string>
+  <string name="txtCertificateUnlocked">Ett nytt certifikat har låsts upp!</string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn"></string>
+  <string name="txtPrint">Skriv ut</string>
+  <!--  -->
+  <string name="txt_certi_title_1">BELÖNING</string>
+  <string name="txt_certi_title_2">ENASTÅENDE</string>
+  <string name="txt_certi_title_3">STJÄRNUTMÄRKELSE</string>
+  <string name="txt_certi_title_4">JÄTTEBRA JOBBAT</string>
+  <string name="txt_certi_title_5">UTMÄRKT UTFÖRANDE</string>
+  <string name="txt_certi_title_6">FANTASTISKT</string>
+  <string name="txt_certi_title_7">PRESTATION</string>
+  <string name="txt_certi_title_8">Bra gjort</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">BEKRÄFTA</string>
+  <string name="txt_shopConfirmDetail">Du omdirigeras till en webbplats för att fortsätta. Är du säker på att du vill lämna?</string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Du fick ett certifikat!</string>
+  <string name="txtEnterNm">Skriv barnets namn.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Inspirera barn genom att skriva ut certifikat</string>
+  <string name="txtGreat">Jättebra</string>
+  <string name="txtTapToGetCerti">Tryck för att hämta certifikat.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Räkna objekt 20 gånger</string>
+  <string name="Math_Task_1_End">Räknade objekt 20 gånger</string>
+  <string name="Math_Task_2_Start">Lös 30 additionsklurigheter</string>
+  <string name="Math_Task_2_End">Löste 30 additionsklurigheter</string>
+  <string name="Math_Task_3_Start">Klara additionskul 30 gånger</string>
+  <string name="Math_Task_3_End">Klarade additionskul 30 gånger</string>
+  <string name="Math_Task_4_Start">Slutför 30 additionsfrågesporter</string>
+  <string name="Math_Task_4_End">Slutförde 30 additionsfrågesporter</string>
+  <string name="Math_Task_5_Start">Jämför objekt 30 gånger</string>
+  <string name="Math_Task_5_End">Jämförde objekt 30 gånger</string>
+  <string name="Math_Task_6_Start">Lös 30 subtraktionsklurigheter</string>
+  <string name="Math_Task_6_End">Löste 30 subtraktionsklurigheter</string>
+  <string name="Math_Task_7_Start">Klara subtraktionskul 30 gånger</string>
+  <string name="Math_Task_7_End">Klarade subtraktionskul 30 gånger</string>
+  <string name="Math_Task_8_Start">Gör 30 subtraktionsfrågesporter</string>
+  <string name="Math_Task_8_End">Gjorde 30 subtraktionsfrågesporter</string>
+  <string name="Math_Task_1_Completed">Du fick ett certifikat! Räknade objekt 20 gånger</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Du fick ett certifikat! Löste 30 additionsklurigheter</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Du fick ett certifikat! Klarade additionskul 30 gånger</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Du fick ett certifikat! Slutförde 30 additionsfrågesporter</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Du fick ett certifikat! Jämförde objekt 30 gånger</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Du fick ett certifikat! Löste 30 subtraktionsklurigheter</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Du fick ett certifikat! Klarade subtraktionskul 30 gånger</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Du fick ett certifikat! Gjorde 30 subtraktionsfrågesporter</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Anslut till Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Du kommer att omdirigeras till Pinterest. Vill du avsluta?</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">FORTSÄTT</string>
+  <string name="txtinspirationbehind">Inspirationen bakom Kids Apps</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Utskrivningsbart</string>
+  <string name="txtAllowCouting">Tillåt räkning</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Räkning</string>
+  <string name="Adding Puzzle">Additionsklurighet</string>
+  <string name="Adding Fun">Additionskul</string>
+  <string name="Adding Quiz">Additionsfrågesport</string>
+  <string name="Compare">Jämför</string>
+  <string name="Subtracting Puzzle">Subtraktionsklurigheter</string>
+  <string name="Subtracting Fun">Subtraktionskul</string>
+  <string name="Subtracting Quiz">Subtraktionsfrågesport</string>
+  <string ScaleFactor="1" name="txt_gamename">Matte för barn - addera, subtrahera, räkna</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Matte för barn - addera, subtrahera, räkna</string>
+  <string name="txtPrintableSmall">Utskrivningsbart</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Hem</string>
+  <string name="txt_menuoption_settings">Inställningar</string>
+  <string name="txt_menuoption_shop">BUTIK</string>
+  <string name="txt_menuoption_kidsapps">Barnappar</string>
+  <string name="txt_menuoption_parentapps">Föräldra-appar</string>
+  <string name="txt_menuoption_worksheets">Arbetsblad</string>
+  <string name="txt_messagefromdave">MEDDELANDE FRÅN</string>
+  <string name="txt_getfeaturedon">BLI VISAD PÅ INSTAGRAM</string>
+  <string name="txt_tagus">Tagga @RV AppStudios och bli en del av våra händelser</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Grundare av RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Ta bild/video av ett barn som använder appen eller får ett diplom.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Dela och tagga oss på Instagram @RV AppStudios för en chans att bli visad.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Appar för barn av RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Appar för föräldrar av RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">ARBETSBLAD</string>
+  <string name="txt_coloringpage">FÄRGLÄGGNINGSSIDA</string>
+  <string name="txt_downloadmoreworksheet">Hämta fler arbetsblad från vår Pinterest-sida</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Med 14 miljoner nedladdningar av våra spel från våra gratis barnappar varje månad har vi blivit en av världens största utvecklare av utbildningsappar för barn. "Och vi fortsätter att göra det helt GRATIS."
+
+  "Varför?" - När jag blev förälder visste jag att jag skulle göra allt för att ge min dotter den bästa möjliga utbildningen och de bästa möjligheterna när hon växer upp. Jag tror att många föräldrar känner igen denna längtan efter att ge sina barn större möjligheter eller en bättre utbildning än de själva fick.
+
+  Men inte alla föräldrar har tiden eller förmågan att hjälpa sina barn med läxor och oavsett hur mycket jag ville det bästa för min dotter tyckte jag att det var orättvist att miljontals barn runt om i världen inte skulle få samma möjlighet ens till grundläggande utbildning eller att lära sig läsa och skriva.
+
+  Jag insåg att som app-utvecklare kunde jag göra något åt det. -"Inte för vinst", utan för att ge barn från världens alla hörn en tidig start med att lära sig grundläggande viktiga förmågor som att räkna, stava och matematik på ett underhållande sätt.
+
+  För att göra det var vi tvungna att se till att apparna var trygga för barn att använda. Jag bestämde mig för att investera vinsten från en annan app-utvecklingsverksamhet för att skapa "100 % GRATIS" barnappar "INGEN REKLAM" och "INGA köp i appen." -De enda som vinner på dessa appar är barnen.</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">FORTSÄTT</string>
+  <string name="txtinspirationbehind">Inspirationen bakom Kids Apps</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">VÅR BERÄTTELSE</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">VÅR BERÄTTELSE</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">VARFÖR DET ÄR VIKTIGT ATT GE TILLBAKA?</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">HUR GÖR VI FÖR ATT VÅRA BARNAPPAR SKA FORTSÄTTA VARA GRATIS?</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">Anslut till Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Du kommer att omdirigeras till Pinterest. Vill du avsluta?</string>
+  <string name="txtWatchUsYouTube">Se oss på YouTube</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">Betygsätt nu</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">FORTSÄTT</string>
+  <string name="txtPrint">Skriv ut</string>
+  <string name="txtconnectingPintrest">Anslut till Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Du kommer att omdirigeras till Pinterest. Vill du avsluta?</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">LADDA NER NU</string>
+  <string name="txt_Play_nowCap">Spela nu</string>
+  <string name="txt_ConnectionErrorMsg1">Kunde inte ansluta till internet</string>
+  <string name="txt_ConnectionErrorMsg2">Försök igen senare!</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Ekvation</string>
+  <string name="txtSubPracticeTitle">Subtraktionsövning</string>
+  <string name="txtAddPracticeTitle">Additionsövning</string>
+  <string name="txtBeginner">Nybörjare</string>
+  <string name="txtIntermediate">Mellan</string>
+  <string name="txtAdvance">Avancerat</string>
+  <string name="txtSubPracticeTitle">Subtraktionsövning</string>
+  <string name="txtAddPracticeTitle">Additionsövning</string>
+  <string name="txtBeginner">Nybörjare</string>
+  <string name="txtIntermediate">Mellan</string>
+  <string name="txtAdvance">Avancerat</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+  about where you want them to be in 10, 20 or 30
+  years. What opportunities do you want them to have
+  in life? A good education? A position from where they
+  can make a positive difference for their families and
+  community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+  opportunities we as parents and communities can
+  give them. But not all parents have the time or ability
+  to help their children with their homework. And most
+  of us, as parents, can probably recognize the wish for
+  our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+  give my daughter the best education and the best
+  opportunities as she grows up. But at the same time,
+  I felt it was unfair that tens of millions of kids all over the
+  world, would not get the same opportunity for even a basic
+  education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+  branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+  start learning essential skills like counting, spelling,
+  and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+  having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+  apps that lets children develop their creativity and test
+  their intelligence with fun jigsaw puzzles, challenging
+  memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+  available in all corners of the world.
+  That is our opportunity as app developers to reach
+  and make a positive difference for children
+  who do not have access to schools or books,
+  but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+  corners of the world an educational advantage,
+  but especially to teach those kids who otherwise
+  don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+  ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+  living doing what we love - developing gaming apps
+  (for adults). Now we want to give back to children
+  around the world by investing our company profits
+  into creating some of the most popular apps for
+  toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+  rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+  in-app promotions. That’s why we keep our kids’
+  applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+  learning apps available to all children, is by keeping it
+  100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+  how much their children have developed using our apps
+  and playing our games, it shows us that our tiny
+  contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+  and make a difference. Especially that the children
+  getting a head start through pre-school learning apps,
+  becomes the future leaders of change in their
+  communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+  our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+  two-thirds (12 million) of those downloads come from
+  parents wanting to help their kids begin learning from
+  an early age, effectively reducing the risk of falling
+  behind as they start in school. It’s these millions of
+  children around the world getting a chance for a better
+  future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">svenska</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Vänta</string>
+  <string name="txt_langdownloaded">Nedladdning klar</string>
+  <string name="txtInternetIssue">Kunde inte ansluta till internet</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">ANDRA SPRÅK</string>
+  <string name="txt_ContinueIn">Fortsätt på ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">VÅRA SPEL</string>
+  <string name="txt_SuggestedLanguages">Föreslagna språk</string>
+  <string name="txt_VisitOurChannel">BESÖK VÅR KANAL</string>
+  <string name="txt_followusandshare">FÖLJ OSS OCH DELA OSS </string>
+  <string name="txt_OurImpact">VÅR PÅVERKAN</string>
+  <string name="txt_OurImpactDesc">RV AppStudios utbildar över &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; barn varje månad med våra gratisappar för barn.</string>
+  <string name="txt_KidsApp">BARN-APP</string>
+  <string name="txt_Countries">LÄNDER</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 BARN KOMMER ANVÄNDA VÅRA APPAR</string>
+  <string name="txt_Hello">Hallå</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Ny t-shirtdesign läggs till varje vecka!</string>
+  <string name="txt_textrhymesYT">BARNKAMMARRIM OCH BARNVISOR.</string>
+  <string name="txt_rvappstudiosYT">RV AppStudios nu på YouTube</string>
+  <string name="txt_AllGamesAreFree">(Alla spel är gratis och inga annonser)</string>
+  <string name="txt_ShowShopBtn">Dölj "Shop-knapp" från huvudmenyn</string>
+  <string name="txt_ShowOurStoryBtn">Dölj "Vår berättelse-knapp" från huvudmenyn</string>
+  <string name="txt_ShowMoreappBtn">Dölj "Fler appar-knapp" från huvudmenyn</string>
+  <string name="txt_TranslationFeedback">Översättning Feedback</string>
+  <string name="txt_TranslationFeedbackInfo">Rapportera översättningsfel. Dela inga känsliga uppgifter.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">T-SHIRTS FÖR Småbarn</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">UTBILDNINGSBÖCKER FÖR BARN</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS T-SHIRTS &amp; UTBILDNINGSBÖCKER</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">FÖRST LUCAS &amp; FRIENDS BOK</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">T-SHIRTS &amp; UTBILDNINGSBÖCKER FÖR BARN</string>
+  <string name="txt_VisibleMDstng">Välj lägen att visa</string>
+  <string name="txt_SelectParentGate">Välj Alternativ för att låsa upp inställningen</string>
+  <string name="txt_HideButtons">Dölj knappar</string>
+  <string name="txt_HideButtonsFromMenu">Dölj knappar från huvudmenyn</string>
+  <string name="txt_rateThanks">Tack för din kärlek och ditt stöd. Vi gillar dig också!</string>
+  <string name="txt_rateFeedback">Tack! Vi vill gärna höra vad du tycker. Ge oss feedback.</string>
+  <string name="txt_rateLetUsKnow">Låt oss veta vad ditt barn tycker om appen.</string>
+  <string name="txt_rateHappySad">Är du nöjd med appen?</string>
+  <string name="txt_rateHappy">NÖJD</string>
+  <string name="txt_rateSad">LEDSEN</string>
+  <string name="txtRateDesc1">Skulle du vilja betygsätta spelet i Play Store? Detta låter andra föräldrar få information om spelet app.</string>
+  <string name="txtVeryBadCap">VÄLDIGT DÅLIG</string>
+  <string name="txtGoodCap">BRA</string>
+  <string name="txtRateAppBtn">Betygsätt oss</string>
+  <string name="txtRateHdr">BETYGSÄTT OSS</string>
+  <string name="english_name">Engelsk</string>
+  <string name="Sendfeedback" ScaleFactor="1">Skicka feedback</string>
+  <string name="UseOurApps">Barn använder våra utbildningsappar varje månad.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios finns på YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Sök i RV Appstudios för att hitta våra appar</string>
+  <string name="GiphyStickers" ScaleFactor="1">Animerade GIF och klistermärken nu tillgängliga!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Sök efter @RVAppStudios på ditt GIF-tangentbord</string>
+  <string name="txt_2Digit+">2 siffror +</string>
+  <string name="txt_2Digit-">2 siffror -</string>
+  <string name="Intro_Text" ScaleFactor="1">Besök RVAppStudios.com för de senaste nyheterna!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">VÅR PÅVERKAN - fler än 200 miljoner nedladdningar gör skillnad</string>
+  <string name="About_Us">OM OSS</string>
+  <string name="txt_collectGift">HÄMTA DIN GÅVA</string>
+  <string name="txt_GoodJob">Bra jobbat</string>
+  <string name="Impact_together">Inverkan Vi Kan Göra Tillsammans</string>
+  <string name="For_Parents">För Föräldrar</string>
+  <string name="Message_Parents">Anteckningar För Föräldrar</string>
+  <string name="txtShoppingMode">Shopping</string>
+  <string name="Math_Task_9_Start">Lös 2-siffror addition 30 gånger</string>
+  <string name="Math_Task_9_End">Löste 2-siffror addition 30 gånger</string>
+  <string name="Math_Task_10_Start">Lös 2-siffror subtraktion 30 gånger</string>
+  <string name="Math_Task_10_End">Löste 2-siffror subtraktion 30 gånger</string>
+  <string name="Math_Task_11_Start">Slutför 30 additions övning</string>
+  <string name="Math_Task_11_End">Slutförde 30 additions övning</string>
+  <string name="Math_Task_12_Start">Slutför 30 subtraktions övning</string>
+  <string name="Math_Task_12_End">Slutförde 30 subtraktions övning</string>
+  <string name="Math_Task_13_Start">Lös 30 shopping frågor</string>
+  <string name="Math_Task_13_End">Löste 30 shopping frågor</string>
+  <string name="Math_Task_9_Completed">Du fick ett certifikat! Löste 2-siffror addition 30 gånger</string>
+  <string name="Math_Task_10_Completed">Du fick ett certifikat! Löste 2-siffror subtraktion 30 gånger</string>
+  <string name="Math_Task_11_Completed">Du fick ett certifikat! Slutförde 30 additions övning</string>
+  <string name="Math_Task_12_Completed">Du fick ett certifikat! Slutförde 30 subtraktions övning</string>
+  <string name="Math_Task_13_Completed">Du fick ett certifikat! Löste 30 shopping frågor</string>
+  <string name="January">Januari</string>
+  <string name="February">Februari</string>
+  <string name="March">Mars</string>
+  <string name="April">April</string>
+  <string name="May">Maj</string>
+  <string name="June">Juni</string>
+  <string name="July">Juli</string>
+  <string name="August">Augusti</string>
+  <string name="September">September</string>
+  <string name="October">Oktober</string>
+  <string name="November">November</string>
+  <string name="December">December</string>
+  <string name="OurImpactKids1">barn har använt våra appar</string>
+  <string name="Storage_low">För Lite Lagringsutrymme</string>
+  <string name="OurImpactKids">1 Miljard</string>
+  <string name="MessageForAdult1">Var och en av oss har en unik talang. Jag gör appar. Du kanske är en fantastisk lärare, läkare, konstnär, osv. På samma sätt som jag delar med mig av det jag älskar gratis hoppas jag att jag inspirerar dig att dela med dig av dina kunskaper. Att hjälpa andra får dig att må bra och inspirerar andra. Tänk på vilken effekt vi kan göra tillsammans! Lucas &amp; Friends syftar till att inspirera det goda i människor. Stötta oss genom att ge tillbaka till andra på ditt eget sätt.</string>
+  <string name="Books_Tshirts">Böcker &amp; T-shirts</string>
+  <string name="we_Inspire_msg1">Tack för inspirationen och allt stöd vi fått.</string>
+  <string comment="No need to translate texts which are in []" name="we_Inspire_msg">Lucas &amp; Friends började med gratis utbildningsappar för barn, utan reklam och köp i appen, som ett hjärteprojekt. Vi vill göra gott i världen, ge tillbaka och ha en positiv påverkan. Fler än  &lt;color=#ff0018&gt;&lt;size=35&gt;1 Miljard&lt;/size&gt;&lt;/color&gt;  barn har lärt sig genom våra utbildningsappar.&lt;color=#FF6400&gt;Vi trodde aldrig att vi en dag skulle skapa ett varumärke för barn och sälja leksaker!&lt;/color&gt;</string>
+  <string name="we_Inspire">Vi inspirerar det goda i människor</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Ett uppdrag för att göra lärande kul och tillgängligt! Gratis inlärningsappar, utan reklam och alltid kostnadsfria - bara ren och rolig inlärning för barn.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Kors Matematik</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Fiske kul</string>
+  <string name="txt_SnowMode" ScaleFactor="1">snö</string>
+  <string name="txt_Addition">Addition</string>
+  <string name="txt_Subtraction">Subtraktion</string>
+  <string name="FunGames">Roliga Spel</string>
+  <string name="Select_Character" ScaleFactor="1">Välj Karaktären</string>
+  <string name="Car_Game" ScaleFactor="1">Bilspel</string>
+  <string name="txtUserChangeMsg1">Barnets profil har ändrats.</string>
+  <string name="txt_1Digit">1 siffra</string>
+  <string name="txt_2Digit">2 siffror</string>
+  <string name="txt_Play">Spela</string>
+  <string name="txtOpponentWon">Motståndaren vann</string>
+  <string name="txtYouWon">Du vann!</string>
+  <string name="txtRematch">Revansch</string>
+  <string name="txt_SelectDifficulty">Välj svårighetsgrad</string>
+  <string name="txt_DualMode">Två spelare</string>
+  <string name="txt_Correct">Rätt</string>
+  <string name="Draw">Oavgjort</string>
+  <string name="Apparel_Accessories">KLÄDER OCH TILLBEHÖR</string>
+  <string name="best_Seller">Bästsäljare</string>
+  <string name="RateUsNew">Gillar du vårt spel? Din recension hjälper till att sprida vårt uppdrag och gratisappar till andra föräldrar.</string>
+  <string name="txt_AdditupMode">Lägg till</string>
+  <string name="txt_SudokuMode">Pussel</string>
+  <string name="txtBrandTrust">MÄRKE DU KAN LITTA PÅ</string>
+  <string name="txtMission">Ett Uppdrag Du Kan Uppskatta</string>
+  <string name="Number_Path">Nummerväg</string>
+  <string name="Add_butterfly_1">### fjärilar sitter på en blomma. Sedan flyger @@@ fler fjärilar och går med dem. Hur många fjärilar finns det totalt?</string>
+  <string name="Add_butterfly_2">Ett barn ser ### fjärilar. Sedan dyker det upp @@@ mer. Hur många fjärilar ser barnet totalt?</string>
+  <string name="Add_cat_1">### katter sitter på en vägg. En annan @@@ katt klättrar upp. Hur många katter är det på väggen nu?</string>
+  <string name="Add_cow_1">### kor är i ladugården. @@@ fler kor går in. Hur många kor finns i ladugården nu?</string>
+  <string name="Add_deer_1">På ängen äter ### rådjur gräs. Sedan kommer @@@ fler rådjur. Hur många rådjur äter gräs nu?</string>
+  <string name="Add_dog_1">### hundar leker med en boll. Sedan @@@ fler hundar gå med dem. Hur många hundar leker?</string>
+  <string name="Add_giraffe_1">### giraffer dricker vatten. Sedan @@@ kommer fler giraffer för att dricka. Hur många giraffer dricker?</string>
+  <string name="Add_ladybugs_1">### nyckelpigor sitter på ett löv. @@@ fler nyckelpigor flyger till bladet. Hur många nyckelpigor är det på bladet?</string>
+  <string name="Add_tiger_1">### tigrar sitter nära en grotta. @@@ fler tigrar kommer ut. Hur många tigrar finns det nu?</string>
+  <string name="Add_tiger_2">Det finns ### tigrar i djungeln. @@@ mer kommer nära. Hur många tigrar finns det totalt?</string>
+  <string name="Add_owl_1">### ugglor vilar i ett bo. @@@ fler ugglor kommer till boet. Hur många ugglor finns i boet?</string>
+  <string name="Add_panda_1">### pandor äter bambu. @@@ fler pandor kom. Hur många pandor äter bambu?</string>
+  <string name="Add_parrot_1">### papegojor sitter på en abborre. @@@ fler papegojor flyger glatt in. Hur många papegojor finns det nu?</string>
+  <string name="Add_peacock_1">### påfåglar dansar i trädgården. @@@ fler påfåglar kommer. Hur många påfåglar dansar?</string>
+  <string name="Add_rooster_1">Det finns ### tuppar på gården. @@@ fler kommer nära ladan. Hur många tuppar totalt?</string>
+  <string name="Add_snail_1">På ett löv vilar ### sniglar. @@@ fler gå med dem. Hur många sniglar totalt?</string>
+  <string name="Add_zebra_1">I gräsmarken äter ### zebror. @@@ fler gå med dem. Hur många zebror totalt?</string>
+  <string name="Add_bicycle_1">Det finns ### cyklar i parken. @@@ fler är parkerade. Hur många cyklar finns det totalt?</string>
+  <string name="Add_hippo_1">På morgonen spelar ### flodhästar. Senare går @@@ fler över. Vad är det totala antalet flodhästar?</string>
+  <string name="Add_airplane_1">På landningsbanan väntar ### flygplan. @@@ mer mark. Hur många flygplan totalt?</string>
+  <string name="Add_airplane_2">På flygplatsen väntar ### plan. Snart kommer @@@ fler. Hur många plan totalt?</string>
+  <string name="Add_horse_1">Vid ladugården står ### hästar. @@@ fler gå med dem. Hur många hästar totalt?</string>
+  <string name="Add_fish_1">I akvariet simmar ### fiskar. @@@ fler läggs till. Hur många fiskar totalt?</string>
+  <string name="Add_goat_1">Det finns ### getter på kullen. Sedan kommer @@@ mer. Vad är det totala antalet getter?</string>
+  <string name="Add_monkey_1">Det finns ### apor på ett träd. @@@ mer klättra upp. Hur många apor finns det totalt?</string>
+  <string name="Add_carrot_1">Det finns ### morötter i korgen. @@@ fler läggs till. Hur många morötter finns det totalt?</string>
+  <string name="Add_candies_1">Det finns ### godis i burken. @@@ fler läggs till. Hur många godisar finns det totalt?</string>
+  <string name="Add_cupcake_1">Det finns ### cupcakes på bordet. @@@ fler placeras. Hur många cupcakes finns det totalt?</string>
+  <string name="Add_pinwheel_1">På morgonen snurrar ### pinwheels i trädgården. Senare läggs @@@ till. Hur många pinwheels finns det nu?</string>
+  <string name="Add_broccoli_1">Det finns ### broccoli på tallriken. @@@ fler läggs till. Hur många broccoli är det på tallriken?</string>
+  <string name="Add_robot_1">Det finns ### robotar på marken. @@@ mer gå upp. Hur många robotar finns det totalt?</string>
+  <string name="Add_car_1">Ett barn har ### leksaksbilar. @@@ fler ges. Hur många leksaksbilar har barnet?</string>
+  <string name="Add_bird house_1">Det finns ### fågelhus nära ladan. @@@ fler läggs till. Hur många fågelhus finns det totalt?</string>
+  <string name="Add_ball_1">Det finns ### bollar på marken. @@@ mer rulla över. Hur många bollar är det totalt?</string>
+  <string name="Add_drum_1">I musikklassen hålls ### trummor. @@@ fler läggs till. Hur många trummor totalt?</string>
+  <string name="Add_cake_1">Det finns ### kakor på bordet. @@@ fler läggs till. Hur många kakor är det totalt?</string>
+  <string name="Add_fruits_1">Det finns ### frukter i korgen. @@@ fler läggs till. Hur många frukter finns det totalt?</string>
+  <string name="Add_flower_1">Det finns ### blommor i trädgården. @@@ blommar mer. Hur många blommor finns det i trädgården?</string>
+  <string name="Add_pig_1">Det finns ### grisar på gården. Sedan kommer @@@ mer. Vad är det totala antalet grisar på gården?</string>
+  <string name="Add_top_1">Det finns ### snurror på golvet. @@@ fler läggs till. Hur många snurror finns det totalt?</string>
+  <string name="Add_donut_1">Det finns ### munkar på en tallrik. @@@ fler läggs till. Hur många munkar finns det totalt?</string>
+  <string name="Add_giftbox_1">Sara fick ### presenter. Hennes vän gav henne @@@ mer. Hur många presenter har Sara totalt?</string>
+  <string name="Add_giftbox_2">Det finns ### presentförpackningar i rummet. Sedan läggs @@@ in fler. Hur många presentförpackningar finns det i rummet?</string>
+  <string name="Add_taco_1">Sara gjorde ### tacos. Hennes mamma gjorde @@@ mer tacos. Hur många tacos gjordes totalt?</string>
+  <string name="Add_taco_2">Tom åt ### tacos. Han åt @@@ mer tacos. Hur många tacos åt Tom totalt?</string>
+  <string name="Add_kite_1">### drakar flyger på himlen. @@@ fler drakar börjar flyga. Hur många drakar flyger på himlen?</string>
+  <string name="Add_kite_2">Leo gjorde ### drakar. Sedan gjorde han @@@ fler drakar. Hur många drakar har Leo gjort totalt?</string>
+  <string name="Add_sandwich_1">Sam köpte ### smörgåsar. Sedan köpte han @@@ fler smörgåsar. Vad är det totala antalet smörgåsar som jag köpt?</string>
+  <string name="Add_leopard_1">### leoparder är på ett träd, och @@@ fler klättrar upp. Hur många leoparder finns på trädet nu?</string>
+  <string name="WordProblem">Ordproblem</string>
+  <string name="Carry_Forward">Addition</string>
+  <string name="Sub_butterfly_1">Det fanns ### fjärilar som flög i trädgården. @@@ fjärilar flög iväg. Hur många fjärilar finns kvar i trädgården?</string>
+  <string name="Sub_butterfly_2">Emma såg ### fjärilar på morgonen. På eftermiddagen såg hon @@@ fjärilar färre. Hur många fjärilar såg hon på eftermiddagen?</string>
+  <string name="Sub_cat_1">Ethan såg ### katter sitta på ett staket. @@@ katter sprang iväg när en hund skällde. Hur många katter finns kvar på staketet?</string>
+  <string name="Sub_cat_2">Mia har ### katter i sin trädgård. @@@ katter gick för att dricka mjölk. Hur många katter finns det fortfarande kvar i trädgården?</string>
+  <string name="Sub_cow_1">Det fanns ### kor som drack vatten vid floden. @@@ kor hade druckit klart och gick därifrån. Hur många kor finns det fortfarande kvar vid floden?</string>
+  <string name="Sub_cow_2">Det fanns ### kor som åt hö. @@@ kor slutade äta. Hur många kor äter fortfarande hö?</string>
+  <string name="Sub_deer_1">Det var ### rådjur som korsade vägen. @@@ rådjur hade redan gått över. Hur många rådjur väntar fortfarande på att få gå över?</string>
+  <string name="Sub_deer_2">Det var ### rådjur som klättrade uppför en kulle. @@@ rådjur stannade och gick ner igen. Hur många rådjur klättrar fortfarande?</string>
+  <string name="Sub_dog_1">Det fanns ### hundar som lekte på gården. @@@ hundar sprang inne i huset. Hur många hundar finns det fortfarande kvar på gården?</string>
+  <string name="Sub_dog_2">Det fanns ### hundar inne i en kennel. @@@ hundar gick ut. Hur många hundar finns fortfarande kvar i kenneln?</string>
+  <string name="Sub_giraffe_1">Under ett skuggigt träd lade sig ### giraffer ner. Efter en stund reste sig @@@ giraffer upp och gick. Hur många giraffer vilade fortfarande?</string>
+  <string name="Sub_giraffe_2">En grupp på ### giraffer gick i det höga gräset. Plötsligt vände sig @@@ giraffer om. Hur många giraffer fortsatte att gå?</string>
+  <string name="Sub_ladybugs_1">### nyckelpigor satte sig på ett stort grönt blad. Sedan flög @@@ iväg. Hur många nyckelpigor stannade kvar på bladet?</string>
+  <string name="Sub_ladybug_2">Vid solnedgången flög ### nyckelpigor tillsammans. @@@ landade på en trädgren. Hur många nyckelpigor flög fortfarande?</string>
+  <string name="Sub_owl_1">### ugglor flög i det starka månskenet. @@@ ugglor landade på ett träd. Hur många ugglor flög fortfarande?</string>
+  <string name="Sub_owl_2">En gren hade ### ugglor uppradade i rad. @@@ ugglor bredde ut sina vingar och gick. Hur många ugglor fanns kvar på grenen?</string>
+  <string name="Sub_panda_1">### pandor åt bambu tillsammans. @@@ pandor åt färdigt och gick. Hur många pandor åt fortfarande bambu?</string>
+  <string name="Sub_panda_2">En grupp på ### pandor satt tillsammans. @@@ pandor gick därifrån för att hitta mer bambu. Hur många pandor stannade kvar i gruppen?</string>
+  <string name="Sub_parrot_1">En flock på ### papegojor flög tillsammans. @@@ papegojor landade på ett tak. Hur många papegojor fortsatte att flyga?</string>
+  <string name="Sub_parrot_2">Ett träd hade ### papegojor nära sitt bo. @@@ papegojor flög in. Hur många papegojor stannade utanför?</string>
+  <string name="Sub_peacock_1">### påfåglar dansade i trädgården. @@@ påfåglar slutade dansa. Hur många påfåglar fortsatte dansa?</string>
+  <string name="Sub_peacock_2">Vid solnedgången samlades ### påfåglar i parken. @@@ påfåglar flög iväg. Hur många påfåglar fanns fortfarande kvar?</string>
+  <string name="Sub_rooster_1">På morgonen samlades ### tuppar nära maten. @@@ tuppar hade ätit färdigt och gick. Hur många tuppar åt fortfarande?</string>
+  <string name="Sub_rooster_2">### tuppar satt på ett staket. @@@ tuppar hoppade ner. Hur många tuppar stannade kvar på staketet?</string>
+  <string name="Sub_snail_1">En trädgårdsgång hade ### sniglar som rörde sig långsamt. @@@ sniglar flög ner i gräset. Hur många sniglar fanns kvar på stigen?</string>
+  <string name="Sub_snail_2">### sniglar var nära några blommor. @@@ sniglar kröp iväg. Hur många sniglar var fortfarande nära blommorna?</string>
+  <string name="Sub_tiger_1">### tigrar vilade i djungeln. @@@ tigrar gick sin väg. Hur många tigrar stannade kvar och vilade?</string>
+  <string name="Sub_tiger_2">### tigrar sågs gå i skogen. @@@ tigrar sprang iväg. Hur många tigrar gick fortfarande?</string>
+  <string name="Sub_zebra_1">En flock på ### zebror kom för att dricka vatten. @@@ zebror lämnade efter att ha druckit. Hur många zebror stannade kvar vid floden?</string>
+  <string name="Sub_zebra_2">En grupp hade ### zebrorungar som lekte tillsammans. @@@ föl gick tillbaka till sina mödrar. Hur många zebrorungar lekte fortfarande?</string>
+  <string name="Sub_bicycle_1">Det fanns ### cyklar parkerade nära lekplatsen. @@@ cyklar togs med hem. Hur många cyklar fanns kvar på lekplatsen?</string>
+  <string name="Sub_bicycle_2">En cykelbutik visade upp ### cyklar utomhus. @@@ cyklar såldes. Hur många cyklar fanns kvar på displayen?</string>
+  <string name="Sub_hippo_1">### flodhästar åt gräs tillsammans. @@@ flodhästar slutade äta. Hur många flodhästar fortsatte att äta gräs?</string>
+  <string name="Sub_hippo_1">En hjord hade ### flodhästar samlade. @@@ flodhästar flyttade sig. Hur många flodhästar stannade kvar i hjorden?</string>
+  <string name="Sub_airplane_1">På morgonen var ### flygplan redo för flygningar. @@@ flygplan avgick enligt tidtabell. Hur många flygplan väntade fortfarande?</string>
+  <string name="Sub_airplane_2">På kvällen skulle ### flygplan flyga. @@@ flygplan hade redan avgått. Hur många flygplan väntade fortfarande på att få avgå?</string>
+  <string name="Sub_horse_1">### hästar var inne i stallet. @@@ hästar gick ut. Hur många hästar stannade kvar i stallet?</string>
+  <string name="Sub_horse_2">### hästar sågs i dalen. @@@ hästar klättrade uppför backen. Hur många hästar fanns kvar i dalen?</string>
+  <string name="Sub_fish_1">### fiskar simmade i en damm. @@@ fiskar simmade iväg. Hur många fiskar fanns fortfarande kvar i dammen?</string>
+  <string name="Sub_fish_2">En fiskare såg ### fiskar nära sin båt. @@@ fiskar simmade snabbt iväg. Hur många fiskar stannade kvar nära båten?</string>
+  <string name="Sub_goat_1">En bonde hade ### getter som betade på fältet. @@@ getter vandrade iväg mot kullen. Hur många getter betade fortfarande på fältet?</string>
+  <string name="Sub_goat_2">Det fanns ### getter som vilade nära ladan. @@@ getter sprang ut för att leka på gården. Hur många getter stannade kvar nära ladan?</string>
+  <string name="Sub_monkey_1">### apor lekte på mangoträdet. @@@ apor hoppade ner. Hur många apor stannade kvar på trädet?</string>
+  <string name="Sub_monkey_2">På djurparken gungade ### apor i rep. @@@ apor gick för att äta. Hur många apor gungade fortfarande?</string>
+  <string name="Sub_carrot_1">### morötter låg i en korg. @@@ morötter åts upp. Hur många morötter fanns kvar?</string>
+  <string name="Sub_carrot_2">En kanin hittade ### morötter. @@@ morötter rullade bort. Hur många morötter fanns kvar?</string>
+  <string name="Sub_candies_1">### godisar fanns i burken. @@@ godisar togs ut. Hur många godisar fanns kvar inuti?</string>
+  <string name="Sub_candies_2">Det fanns ### godisar på bordet. @@@ godisar åts upp. Hur många godisar blev kvar?</string>
+  <string name="Sub_cupcake_1">### cupcakes låg på en bricka. @@@ cupcakes gavs bort. Hur många cupcakes blev kvar?</string>
+  <string name="Sub_cupcake_2">Bagaren bakade ### cupcakes. @@@ cupcakes såldes. Hur många cupcakes fanns kvar?</string>
+  <string name="Sub_pinwheel_1">### vindsnurror snurrade i trädgården. @@@ vindsnurror slutade snurra. Hur många snurrade fortfarande?</string>
+  <string name="Sub_pinwheel_2">Det fanns ### vindsnurror vid staketet. @@@ vindsnurror blåste bort. Hur många stannade kvar?</string>
+  <string name="Sub_broccoli_1">### broccolibitar låg på tallriken. @@@ bitar åts upp. Hur många bitar blev kvar?</string>
+  <string name="Sub_broccoli_2">En kock tillagade ### broccolistjälkar. @@@ serverades. Hur många blev kvar?</string>
+  <string name="Sub_robot_1">### robotar stod i en rad. @@@ robotar gick därifrån. Hur många robotar stannade kvar?</string>
+  <string name="Sub_robot_2">Det fanns ### robotar i labbet. @@@ robotar var avstängda. Hur många var fortfarande påslagna?</string>
+  <string name="Sub_car_1">### bilar stod parkerade utanför. @@@ bilar körde iväg. Hur många bilar stod parkerade?</string>
+  <string name="Sub_car_2">I loppet startade ### bilar. @@@ bilar slutförde tidigt. Hur många tävlade fortfarande?</string>
+  <string name="Sub_bird house_1">### fåglar satt nära fågelholken. @@@ flög iväg. Hur många fåglar stannade kvar?</string>
+  <string name="Sub_bird house_2">Det fanns ### bon i fågelholken. @@@ föll ner. Hur många bon fanns kvar?</string>
+  <string name="Sub_ball_1">### bollar låg på lekplatsen. @@@ bollar rullade iväg. Hur många var fortfarande kvar?</string>
+  <string name="Sub_ball_2">En låda hade ### bollar. @@@ bollar studsade ut. Hur många bollar var kvar?</string>
+  <string name="Sub_drum_1">### trummor var på scenen. @@@ trummor togs av. Hur många stannade kvar på scenen?</string>
+  <string name="Sub_drum_2">Bandet hade ### trummor. @@@ trummor gick sönder. Hur många bra trummor fanns kvar?</string>
+  <string name="Sub_cake_1">### kakor bakades idag. @@@ kakor åts upp. Hur många kakor blev kvar?</string>
+  <string name="Sub_cake_2">En bagare dekorerade ### kakor. @@@ kakor såldes. Hur många kakor fanns kvar?</string>
+  <string name="Sub_fruits_1">### frukter fanns i korgen. @@@ frukter föll ut. Hur många frukter stannade kvar inuti?</string>
+  <string name="Sub_fruits_2">En butik hade ### frukter utställda. @@@ var sålda. Hur många frukter fanns kvar?</string>
+  <string name="Sub_flower_1">### blommor blommade i trädgården. @@@ blommor plockades. Hur många blommor stannade kvar?</string>
+  <string name="Sub_flower_2">Det fanns ### blommor i en vas. @@@ vissnade. Hur många var färska?</string>
+  <string name="Sub_pig_1">### grisar var i fållan. @@@ grisar sprang ut. Hur många grisar stannade kvar?</string>
+  <string name="Sub_pig_2">En bonde hade ### grisar. @@@ grisar gick till dammen. Hur många grisar fanns kvar?</string>
+  <string name="Sub_top_1">### snurrtoppar låg på golvet. @@@ slutade snurra. Hur många fortsatte snurra?</string>
+  <string name="Sub_top_2">Det fanns ### toppar i lådan. @@@ togs ut. Hur många toppar blev kvar?</string>
+  <string name="Sub_donut_1">### munkar låg på brickan. @@@ munkar åts upp. Hur många munkar blev kvar?</string>
+  <string name="Sub_donut_2">Butiken tillverkade ### munkar. @@@ såldes. Hur många munkar fanns kvar?</string>
+  <string name="Sub_giftbox_1">### presentaskar låg på bordet. @@@ var öppnade. Hur många förblev stängda?</string>
+  <string name="Sub_giftbox_2">Det fanns ### presentaskar under granen. @@@ var upptagna. Hur många var kvar?</string>
+  <string name="Sub_taco_1">### tacos låg på tallriken. @@@ tacos åts upp. Hur många tacos blev kvar?</string>
+  <string name="Sub_taco_2">En kock gjorde ### tacos. @@@ serverades. Hur många tacos var kvar?</string>
+  <string name="Sub_kite_1">### drakar flög upp i himlen. @@@ drakar föll ner. Hur många drakar flög fortfarande?</string>
+  <string name="Sub_kite_2">Det fanns ### drakar på stranden. @@@ blåste bort. Hur många drakar stannade kvar?</string>
+  <string name="Sub_sandwich_1">### smörgåsar låg på bordet. @@@ smörgåsar åts upp. Hur många stannade kvar?</string>
+  <string name="Sub_sandwich_2">En kock gjorde ### smörgåsar. @@@ serverades. Hur många smörgåsar återstod?</string>
+  <string name="Add_Pyramid">Additionspyramiden</string>
+</resources>

@@ -1,0 +1,789 @@
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">TOVÁBBI ALKALMAZÁSOK</string>
+  <string name="txt_holdfor">Tartsd lenyomva 3 másodpercig</string>
+  <string name="txt_title_for_grown_ups">FELNŐTTEKNEK</string>
+  <string name="txt_userguide_for_grown_ups">A hozzáféréshez add meg a számokat</string>
+  <string name="txt_digit_Zero">Nulla</string>
+  <string name="txt_digit_One">Egy</string>
+  <string name="txt_digit_Two">Kettő</string>
+  <string name="txt_digit_Three">Három</string>
+  <string name="txt_digit_Four">Négy</string>
+  <string name="txt_digit_Five">Öt</string>
+  <string name="txt_digit_Six">Hat</string>
+  <string name="txt_digit_Seven">Hét</string>
+  <string name="txt_digit_Eight">Nyolc</string>
+  <string name="txt_digit_Nine">Kilenc</string>
+  <string name="txt_stickershowcase_toys">JÁTÉKOK</string>
+  <string name="txt_stickershowcase_stickers">MATRICÁK</string>
+  <string name="txt_stickershowcase_stamps">BÉLYEGEK</string>
+  <string name="txt_stickershowcase_notoys">Nincs játék</string>
+  <string name="txt_stickershowcase_nostickers">Nincs matrica</string>
+  <string name="txt_stickershowcase_nostamps">Nincs bélyeg</string>
+  <string name="txt_pick_a_stamp">VÁLASSZ BÉLYEGET</string>
+  <string name="txt_collectsticker">MATRICAGYŰJTEMÉNY</string>
+  <string name="txt_collectyourGift">VEDD ÁT AJÁNDÉKODAT</string>
+  <!--New-->
+  <string name="txt_rateUsReview_microsoft">Értékelj minket az áruházban</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Értékelj minket az áruházban</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Értékelj minket az áruházban</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Értékelj minket az áruházban</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Értékelj minket az áruházban</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Háttérzene</string>
+  <string name="text_sound">Hang</string>
+  <string name="text_showhint">Tippek mutatása tanuláskor</string>
+  <string name="text_learn_with">Tanulj vele</string>
+  <string name="text_level">###. szint</string>
+  <string name="text_generate_report">Ellenőrző létrehozása</string>
+  <string name="text_view_report_card">Ellenőrzőkönyv megtekintése</string>
+  <string name="text_visible_mode">Látható mód</string>
+  <string name="text_VISIBLE_MODE">LÁTHATÓ MÓD</string>
+  <string name="text_share">Megosztás</string>
+  <string name="txt_report_card">ELLENŐRZŐKÖNYV</string>
+  <string name="txt_number">Nem.</string>
+  <string name="txt_date_time">Dátum/idő</string>
+  <string name="txt_mode">Mód</string>
+  <string name="txt_retry">Újra</string>
+  <string name="txt_no_report">Nincs ellenőrző</string>
+  <string name="txt_yes">IGEN</string>
+  <string name="txt_no">NEM</string>
+  <string name="txt_delete_report">Biztosan törölni kívánsz minden ellenőrzőkönyvi adatot?</string>
+  <string name="txt_press_again_exit">Nyomd meg újra a kilépéshez</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Nyelv kiválasztása</string>
+  <string name="txt_Select_Language">Nyelv kiválasztása</string>
+  <string name="txt_why_its_free">TÖRTÉNETÜNK</string>
+  <string name="txtOurStorySettingsNew">Történetünk</string>
+  <string name="txtLanguages">Nyelvek</string>
+  <string name="txtOtherLanguages">Más nyelvek</string>
+  <string name="txt_Report_a_Translation_error">Fordítási hiba jelentése</string>
+  <string name="txt_send">KÜLDÉS</string>
+  <string name="txtReadyBundle">A letöltés hamarosan megkezdődik.</string>
+  <string name="txtDownloadingBundle">Nyelvi csomag letöltése.</string>
+  <string name="txt_ConnectionError">Kapcsolódási hiba</string>
+  <string name="txt_InstallNow">Telepítés most</string>
+  <string name="txt_PostSuccess">Üzenet sikeresen elküldve</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Gyerekprofil</string>
+  <string name="txtBtnAdd">GYEREK HOZZÁADÁSA</string>
+  <string name="txtAddHelp">Adj hozzá profilokat, hogy a beállításokat és ellenőrzőket az egyes gyerekekhez menthesd.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Gyerek neve</string>
+  <string name="txtEnterName">Add meg a nevet...</string>
+  <!-- EDIT: Child 1 -->
+  <string name="txtMaxLimit">Maximum 20 név</string>
+  <string name="txtEditProfile">Profil szerkesztése</string>
+  <string name="txtDeleteProfile">Profil törlése</string>
+  <string name="txtDeleteProfileConfirm">Biztosan törölni szeretnéd ### profilját?</string>
+  <string name="txtNo">NEM</string>
+  <string name="txtYes">IGEN</string>
+  <string name="txtNameDuplication">Ez a név már létezik!</string>
+  <string name="txtUserChangeMsg">Profil sikeresen módosítva.</string>
+  <string name="txtShareWithParents">Oszd meg szülőkkel, iskolákkal, óvodákkal és másokkal</string>
+  <string name="txtBtnUpdate">Frissítés</string>
+  <string name="txtNew">Új</string>
+  <string name="txt_DownloadNow">Letöltés most</string>
+  <string name="txtShowIntroAtStart">Karakter bemutatása indításkor</string>
+  <string name="txt_connection_lost">Kapcsolat megszakadt</string>
+  <string name="txt_connectionlost_detail">Nem sikerült az internethez kapcsolódni. Ellenőrizd a hálózati beállításokat.</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Nyelv módosítása</string>
+  <string name="txtInitHelpChangeLangDesc">Válassz a tanuláshoz használható ### különböző nyelvből.</string>
+  <string name="txtInitHelpCustomSettingTitle">Beállítások testreszabása</string>
+  <string name="txtInitHelpCustomSettingDesc">Szabd személyre beállításaidat, hogy a legjobb tanulási élményben lehessen részed.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string ScaleFactor="1" name="txtloading">Betöltés...</string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">VISSZA</string>
+  <string ScaleFactor="1" name="txtBtnSelect">KIVÁLASZTÁS</string>
+  <string ScaleFactor="1" name="txtBtnDelete">TÖRLÉS</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NAVIGÁLÁS</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Nyomj meg bármit a folytatáshoz...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">KILÉPSZ A JÁTÉKBÓL?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Biztosan ki akarsz lépni a játékból?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Támogass minket az alkalmazás értékelésével.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Értékelés</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Később</string>
+  <!-- T-Shirts Shop - START -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Így támogathatsz minket</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Jutalmazd meg gyermekedet egy pólóval, és támogass minket.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">A legjobb ingyenes mód a támogatásunkra, ha megosztod gyerekjátékainkat az iskolákkal, barátaiddal, a közösségi médiában és a sajtóban (TV és újság).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Jutalmazd meg gyermekedet pólók vásárlásával és mutasd ki a karakterek iránti szereted.</string>
+  <string ScaleFactor="1" name="txtShareCap">Megosztás</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">JÓVÁHAGYÁS</string>
+  <string name="txt_shopConfirmDetail">A webhelyre irányítunk a folytatáshoz. Biztosan kilépsz?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <string ScaleFactor="1" name="txtWiderSelection">Nagyobb választék, kiszállítás világszerte</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Mondd el, mit gondolsz a játékról?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Nagyon rossz</string>
+  <string ScaleFactor="1" name="txtVeryGood">Nagyon jó</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Igen, értékelj és támogass minket</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Köszönjük a visszajelzésed</string>
+  <!-- New Rate US END -->
+  <!-- New Rate US END -->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Kezdőlap</string>
+  <string name="txt_menuoption_settings">Beállítások</string>
+  <string name="txt_menuoption_shop">Áruház</string>
+  <string name="txt_menuoption_kidsapps">Gyerek alkalmazások</string>
+  <string name="txt_menuoption_parentapps">Szülői alkalmazások</string>
+  <string name="txt_menuoption_worksheets">Munkafüzetek</string>
+  <string name="txt_messagefromdave">ÜZENET</string>
+  <string name="txt_getfeaturedon">LÉGY KIEMELT INSTAGRAM OLDALUNKON</string>
+  <string name="txt_tagus">Jelöld meg @RVAppStudios címkével és válj a történetünk részévé</string>
+  <!-- Tag @RVAppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(RV AppStudios alapítója)</string>
+  <string name="txt_takeaphoto-videoof">Készíts fotót/videót gyerekedről, amikor az alkalmazást használja vagy oklevelet kap.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Jelölj meg minket bejegyzésedben @RVAppStudios címkével Instagramon, hogy kiemelt lehess.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">RV AppStudios alkalmazási gyerekeknek</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">RV AppStudios alkalmazásai szülőknek</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">MUNKAFÜZETEK</string>
+  <string name="txt_coloringpage">SZÍNEZŐLAP</string>
+  <string name="txt_downloadmoreworksheet">Tölts le további munkafüzeteket Pinterest oldalunkról</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Havonta 14 millióan töltik le játékainkat ingyenes gyermekalkalmazásain közül, így a világ egyik legnagyobb gyermekoktató alkalmazásokat gyártó fejlesztőjévé váltunk. "És a jövőben is erre törekszünk teljesen INGYEN."
+
+"Miért?" – Amikor szülővé váltam, tudtam, hogy mindent megtennék azért, hogy lányom a legjobb oktatásban részesítsem és a legjobb lehetőségeket nyissam számára, amikor felnő. Úgy gondolom, hogy sok szülőnek ismerős ez a vágy, hogy több lehetőséget vagy jobb oktatást biztosítson gyermekének, mint amit ő kapott.
+
+Nem minden szülőnek van azonban ideje vagy képessége segíteni gyermekének a házi feladatban. És bármennyire is szerettem volna a legjobbat nyújtani saját lányomnak, igazságtalannak éreztem, hogy gyerekek tízmilliói szerte a világon nem kapják meg ugyanazt a lehetőséget még az alapfokú oktatásra sem, vagy nem tanulnak meg írni és olvasni.
+
+Rádöbbentem, hogy alkalmazásfejlesztőként lehetőségem van tenni ezért. – "Nem a profitért", hanem azért, hogy a gyermekek a világ minden tájáról szórakoztató módon már korán elsajátítsák az olyan alapvető készségeket, mint a számolás, a betűzés és a matematika.
+
+Ezért létrehoztam az "RV AppStudios" gyermekoktató alkalmazásainak családját, hogy olyan INGYENES alkalmazásokat készítsek, amelyek segítenek a gyermekeknek a kreativitásukat, memóriájukat és logikus gondolkodásukat játszva fejleszteni.
+
+Ehhez alkalmazásainknak és játékainknak gyermekbarátnak kell lennie. Tehát úgy döntöttem, hogy más alkalmazásfejlesztési üzletágunk hasznát fektetem be, hogy "100%-BAN INGYENES" gyermekalkalmazásokat készítsek, amelyek "HIRDETÉSMENTESEK" és "NEM tartalmaznak alkalmazáson belüli vásárlásokat". – Kizárólag a gyermekek hasznára készülnek ezen alkalmazásaink.
+
+Szenvedélyünk látni, hogy gyermekeink előnnyel indulnak az óvodásoknak készült oktatóalkalmazások révén, és a változások jövőbeni vezetőivé válnak közösségeinkben. Mi magunk finanszírozzuk szenvedélyünket, hogy valóra váltsuk célunkat!</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtWatchUsYouTube">Nézz minket YouTube-on</string>
+  <string name="txtRateApp">Értékelés</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Tovább</string>
+  <string name="txt_DownloadNowCap">LETÖLTÉS MOST</string>
+  <string name="txt_Play_nowCap">JÁTÉK MOST</string>
+  <string name="txt_ConnectionErrorMsg1">Sikertelen internetkapcsolódás</string>
+  <string name="txt_ConnectionErrorMsg2">Később próbálkozz újra!</string>
+  <string name="txtContinue">Tovább</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Egyenlet</string>
+  <string name="txtSubPracticeTitle">Kivonás gyakorlása</string>
+  <string name="txtAddPracticeTitle">Összeadás gyakorlása</string>
+  <string name="txtBeginner">Kezdő</string>
+  <string name="txtIntermediate">Középhaladó</string>
+  <string name="txtAdvance">Haladó</string>
+  <string name="txtSubPracticeTitle">Kivonás gyakorlása</string>
+  <string name="txtAddPracticeTitle">Összeadás gyakorlása</string>
+  <string name="txtBeginner">Kezdő</string>
+  <string name="txtIntermediate">Középhaladó</string>
+  <string name="txtAdvance">Haladó</string>
+  <string name="txtCertificate">Oklevél</string>
+  <string name="txtCertificates">OKLEVÉL</string>
+  <string name="txtUnlocked">Feloldva</string>
+  <string name="txtCongratulations">Gratulálunk!</string>
+  <string name="txtCertificateUnlocked">Új oklevél áll rendelkezésre!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">-</string>
+  <string name="txtPrint">Nyomtatás</string>
+  <!--  -->
+  <string name="txt_certi_title_1">JUTALOM</string>
+  <string name="txt_certi_title_2">KITŰNŐ</string>
+  <string name="txt_certi_title_3">CSILLAGOS</string>
+  <string name="txt_certi_title_4">REMEK MUNKA</string>
+  <string name="txt_certi_title_5">KIVÁLÓSÁG</string>
+  <string name="txt_certi_title_6">FANTASZTIKUS</string>
+  <string name="txt_certi_title_7">EREDMÉNY</string>
+  <string name="txt_certi_title_8">SZÉP MUNKA</string>
+  <!--  -->
+  <!--EDIT: This product is available only in USA.-->
+  <string name="txt_shopConfirmTitle">JÓVÁHAGYÁS</string>
+  <string name="txt_shopConfirmDetail">A webhelyre irányítunk a folytatáshoz. Biztosan kilépsz?</string>
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Oklevelet szereztél!</string>
+  <string name="txtEnterNm">Add meg a gyerek nevét.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Inspiráld gyermeked oklevélnyomtatással</string>
+  <string name="txtGreat">REMEK</string>
+  <string name="txtTapToGetCerti">Koppints az oklevélért.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Tárgyak megszámolása 20-szor</string>
+  <string name="Math_Task_1_End">20-szor megszámolta a tárgyakat</string>
+  <string name="Math_Task_2_Start">30 összeadási fejtörő megoldása</string>
+  <string name="Math_Task_2_End">megoldott 30 összeadási fejtörőt</string>
+  <string name="Math_Task_3_Start">30 alkalommal befejezni a mókás összeadást</string>
+  <string name="Math_Task_3_End">30 alkalommal befejezte a mókás összeadást</string>
+  <string name="Math_Task_4_Start">30 összeadási kvíz megoldása</string>
+  <string name="Math_Task_4_End">megoldott 30 összeadási kvízt</string>
+  <string name="Math_Task_5_Start">Elemek összehasonlítása 30-szor</string>
+  <string name="Math_Task_5_End">30-szor elemeket hasonlított össze</string>
+  <string name="Math_Task_6_Start">30 kivonási fejtörő megoldása</string>
+  <string name="Math_Task_6_End">megoldott 30 kivonási fejtörőt</string>
+  <string name="Math_Task_7_Start">30 alkalommal befejezni a mókás kivonást</string>
+  <string name="Math_Task_7_End">30 alkalommal befejezte a mókás kivonást</string>
+  <string name="Math_Task_8_Start">30 kivonási kvíz megoldása</string>
+  <string name="Math_Task_8_End">megoldott 30 kivonási kvízt</string>
+  <string name="Math_Task_1_Completed">Oklevelet szereztél! 20-szor megszámolta a tárgyakat.</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Oklevelet szereztél! Megoldott 30 összeadási fejtörőt.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Oklevelet szereztél! 30 alkalommal befejezte a mókás összeadást.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Oklevelet szereztél! Megoldott 30 összeadási kvízt.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Oklevelet szereztél! 30-szor elemeket hasonlított össze.</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Oklevelet szereztél! Mgoldott 30 kivonási fejtörőt</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Oklevelet szereztél! 30 alkalommal befejezte a mókás kivonást.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Oklevelet szereztél! Megoldott 30 kivonási kvízt.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Kapcsolódás a Pinteresthez</string>
+  <string name="txtconnectingPintrestMsg">Átirányítunk a Pinterest áruházba. Biztosan elhagyod az alkalmazást?</string>
+  <string name="txtContinue">Tovább</string>
+  <string name="txtinspirationbehind">Gyermekalkalmazásaink mögötti inspiráció</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Nyomtatható anyagok</string>
+  <string name="txtAllowCouting">Számolás engedélyezése (Számolás)</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Számolás</string>
+  <string name="Adding Puzzle">Összeadási fejtörő</string>
+  <string name="Adding Fun">Mókás összeadás</string>
+  <string name="Adding Quiz">Összeadási kvíz</string>
+  <string name="Compare">Összehasonlítás</string>
+  <string name="Subtracting Puzzle">Kivonási fejtörő</string>
+  <string name="Subtracting Fun">Mókás kivonás</string>
+  <string name="Subtracting Quiz">Kivonási kvíz</string>
+  <string ScaleFactor="1" name="txt_gamename">Matek Gyerekeknek: Összeadás, Kivonás, Számolás</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Matek Gyerekeknek: Összeadás, Kivonás, Számolás</string>
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">RV AppStudios most a YouTube-on</string>
+  <string name="txt_textrhymesYT">OKTATÓDALOK ÉS MONDÓKÁK</string>
+  <!-- YouTube NEW - END -->
+  <string name="txt_TitleLanguage">Magyar</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">TÖRTÉNETÜNK</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">MIÉRT FONTOS VISSZA IS ADNI?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">HOGYAN BIZTOSÍTJUK GYERMEKALKALMAZÁSAINK INGYENESSÉGÉT?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txtBtnOK">OK</string>
+  <string name="txt_add">ÖSSZEADÁS</string>
+  <string name="txt_sub">KIVONÁS</string>
+  <string name="text_level">Szint ###</string>
+  <string name="txtInitOurStoryDescTitle" ScaleFactor="1">Tekintsd meg történetünket</string>
+  <string name="txtInitHelpChangeLangMainTitle" ScaleFactor="1">Először végezd el a súgó oktatóanyagot</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Kis türelmet</string>
+  <string name="txt_langdownloaded">A letöltés kész</string>
+  <string name="txtInternetIssue">Probléma az internetkapcsolattal</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">MÁS NYELVEK</string>
+  <string name="txt_ContinueIn">Folytatás magyarul ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">JÁTÉKAINK</string>
+  <string name="txt_SuggestedLanguages">Javasolt nyelvek</string>
+  <string name="txt_VisitOurChannel">LÁTOGASSON EL CSATORNÁNKRA</string>
+  <string name="txt_followusandshare">KÖVESS MINKET ÉS SEGÍTS NEKÜNK</string>
+  <string name="txt_OurImpact">HATÁSUNK</string>
+  <string name="txt_OurImpactDesc">Az RV AppStudios havonta több mint &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; gyermeket oktat ingyenes gyermekalkalmazásainkkal.</string>
+  <string name="txt_KidsApp">GYEREKEK APP</string>
+  <string name="txt_Countries">ORSZÁGOK</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 GYEREK FOGJA HASZNÁLNI AZ ALKALMAZÁSAINKAT</string>
+  <string name="txt_Hello">Szia</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Hetente új pólódizájn!</string>
+  <string name="txt_AllGamesAreFree">(Minden játék ingyenes, hirdetések nélkül)</string>
+  <string name="txt_ShowShopBtn">A „Shop gomb” elrejtése a főmenüből</string>
+  <string name="txt_ShowOurStoryBtn">A főmenüből elrejtheti a „Mi történetünk gombot”.</string>
+  <string name="txt_ShowMoreappBtn">A „További alkalmazások” gomb elrejtése a főmenüből</string>
+  <string name="txt_TranslationFeedback">Fordítás Visszajelzés</string>
+  <string name="txt_TranslationFeedbackInfo">Fordítási hiba jelentése. Ne osszon meg bizalmas információt.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">PÓLÓK GYEREKEKNEK</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">OKTATÓ KÖNYVEK GYERMEKEKNEK</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS PÓLÓK &amp; OKTATÁSI KÖNYVEK</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">ELSŐ LUCAS &amp; FRIENDS KÖNYV</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">PÓLÓK &amp; OKTATÓ KÖNYVEK GYERMEKEKNEK</string>
+  <string name="txt_VisibleMDstng">Válassza a Megjelenítési módok lehetőséget</string>
+  <string name="txt_SelectParentGate">Válassza az Opciók lehetőséget a beállítás feloldásához</string>
+  <string name="txt_HideButtons">Gombok elrejtése</string>
+  <string name="txt_HideButtonsFromMenu">Gombok elrejtése a főmenüből</string>
+  <string name="txt_rateThanks">Köszönjük, hogy szeretsz és támogatsz minket. Mi is szeretünk!</string>
+  <string name="txt_rateFeedback">Köszönjük, szeretnénk hallani a véleményedet. Adj visszajelzést.</string>
+  <string name="txt_rateLetUsKnow">Mondd el nekünk, hogy tetszik gyermekednek az alkalmazásunk.</string>
+  <string name="txt_rateHappySad">Elégedett vagy az alkalmazással?</string>
+  <string name="txt_rateHappy">ELÉGEDETT</string>
+  <string name="txt_rateSad">SZOMORÚ</string>
+  <string name="txtRateDesc1">Értékelnéd alkalmazásunkat a Play Áruházban? Ezzel segítesz más szülőknek is megismerni az alkalmazást.</string>
+  <string name="txtVeryBadCap">NAGYON ROSSZ</string>
+  <string name="txtGoodCap">JÓ</string>
+  <string name="txtRateAppBtn">Értékelés</string>
+  <string name="txtRateHdr">Értékelés</string>
+  <string name="english_name">Angol</string>
+  <string name="Sendfeedback" ScaleFactor="1">Visszajelzés küldése</string>
+  <string name="UseOurApps">Gyerekek minden hónapban használják oktatási alkalmazásainkat.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios a YouTube-on</string>
+  <string name="FindOurApp" ScaleFactor="1">RV Appstudios keresés az alkalmazásaink megtalálásához</string>
+  <string name="GiphyStickers" ScaleFactor="1">Animált GIF-ek és matricák már elérhetőek!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Keressen a @RVAppStudiosban a GIF-billentyűzeten</string>
+  <string name="txt_2Digit+">2 Számjegyek +</string>
+  <string name="txt_2Digit-">2 Számjegyek -</string>
+  <string name="Intro_Text" ScaleFactor="1">Látogassa meg az RVAppStudios.com webhelyet a legfrissebb hírekért!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">HATÁSUNK – Több mint 200 millió letöltés változást hoz</string>
+  <string name="About_Us">RÓLUNK</string>
+  <string name="txt_collectGift">VEDD ÁT AJÁNDÉKODAT</string>
+  <string name="txt_GoodJob">BUEN TRABAJO</string>
+  <string name="Impact_together">Hatás, Amit Együtt Érhetünk El</string>
+  <string name="For_Parents">Szülők Számára</string>
+  <string name="Message_Parents">Üzenet A Szülők Számára</string>
+  <string name="txtShoppingMode">Bevásárlás</string>
+  <string name="Math_Task_9_Start">Oldja meg a 2-számjegyek összeadás 30-szor</string>
+  <string name="Math_Task_9_End">Megoldott 2-számjegyek összeadás 30-szor</string>
+  <string name="Math_Task_10_Start">Oldja meg a 2-számjegyek kivonást 30-szor</string>
+  <string name="Math_Task_10_End">Megoldott 2-számjegyek kivonás 30-szor</string>
+  <string name="Math_Task_11_Start">Oldja meg 30 összeadási gyakorlatok</string>
+  <string name="Math_Task_11_End">Megoldott 30 összeadási gyakorlatok</string>
+  <string name="Math_Task_12_Start">Oldja meg 30 kivonási gyakorlatok</string>
+  <string name="Math_Task_12_End">Megoldott 30 kivonási gyakorlatok</string>
+  <string name="Math_Task_13_Start">Oldja meg 30 bevásárlás kérdés</string>
+  <string name="Math_Task_13_End">Megoldott 30 bevásárlás kérdés</string>
+  <string name="Math_Task_9_Completed">Oklevelet szereztél! Megoldott 2-számjegyek összeadás 30-szor.</string>
+  <string name="Math_Task_10_Completed">Oklevelet szereztél! Megoldott 2-számjegyek kivonás 30-szor.</string>
+  <string name="Math_Task_11_Completed">Oklevelet szereztél! Megoldott 30 összeadási gyakorlatok.</string>
+  <string name="Math_Task_12_Completed">Oklevelet szereztél! Megoldott 30 kivonási gyakorlatok.</string>
+  <string name="Math_Task_13_Completed">Oklevelet szereztél! Megoldott 30 bevásárlás kérdés.</string>
+  <string name="January">január</string>
+  <string name="February">február</string>
+  <string name="March">március</string>
+  <string name="April">április</string>
+  <string name="May">május</string>
+  <string name="June">június</string>
+  <string name="July">július</string>
+  <string name="August">augusztus</string>
+  <string name="September">szeptember</string>
+  <string name="October">október</string>
+  <string name="November">november</string>
+  <string name="December">december</string>
+  <string name="Storage_low">Nincs Elég Tárhely</string>
+  <string name="OurImpactKids">1 Milliárd</string>
+  <string name="MessageForAdult1">Mindannyiunknak egyedi tehetsége van. Én alkalmazásokat készítek. Te csodálatos tanár, orvos, művész stb. lehetsz. Mint ahogy én is ingyen megosztom azt, amit szeretek, remélem, hogy ösztönözni foglak arra, hogy te is oszd meg tudásodat. Ha másokon segítesz, attól jól érzed magad, és inspirálsz másokat. Gondolj csak bele, milyen hatást érhetünk el együtt! A Lucas &amp; Friends célja, hogy jóra ösztönözze az embereket. Kérjük, támogass minket azzal, hogy a magad módján adsz vissza másoknak.</string>
+  <string name="OurImpactKids1">gyerek használta alkalmazásainkat</string>
+  <string name="Books_Tshirts">Pólók &amp; Könyvek</string>
+  <string name="we_Inspire_msg1">Köszönjük, hogy inspiráltál és támogattál minket.</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends  egy iskolai projektként indult ingyenes oktatóalkalmazásokkal gyermekek számára, hirdetések és alkalmazáson belüli vásárlások nélkül. Arra törekszünk, hogy jót tegyünk a világban, visszaadjunk, és pozitív hatást keltsünk. Immáron több mint &lt;color=#ff0018&gt;&lt;size=35&gt;1 Milliárd&lt;/size&gt;&lt;/color&gt;  gyermek tanult oktatóalkalmazásaink segítségével. &lt;color=#FF6400&gt;Soha nem is képzeltük, hogy egy napon majd gyerekmárkát építünk és játékokat árulunk!&lt;/color&gt;</string>
+  <string name="we_Inspire">Jóra ösztönözzük az embereket</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: A küldetésünk, hogy szórakoztatóvá és elérhetővé tegyük a tanulást! Ingyenes oktatóalkalmazások, hirdetések nélkül, semmilyen díjfizetés – csak tiszta, örömteli tanulás a gyerekek számára.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Kereszt Matematika</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Horgászat Szórakozás</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Hó</string>
+  <string name="txt_Addition">Összeadás</string>
+  <string name="txt_Subtraction">Kivonás</string>
+  <string name="FunGames">Mókás Játékok</string>
+  <string name="Select_Character" ScaleFactor="1">Jelölje ki a Karaktert</string>
+  <string name="Car_Game" ScaleFactor="1">Autós Játék</string>
+  <string name="txtUserChangeMsg1">A gyermek profilja sikeresen módosult.</string>
+  <string name="txt_1Digit">1 Számjegy</string>
+  <string name="txt_2Digit">2 Számjegyek</string>
+  <string name="txt_Play">Játék</string>
+  <string name="txtOpponentWon">Az ellenfél nyert</string>
+  <string name="txtYouWon">Nyertél!</string>
+  <string name="txtRematch">Visszavágó</string>
+  <string name="txt_SelectDifficulty">Válaszd ki a nehézségi szintet</string>
+  <string name="txt_DualMode">Két játékos</string>
+  <string name="txt_Correct">Helyes</string>
+  <string name="Draw">Döntetlen</string>
+  <string name="Apparel_Accessories">RUHÁZAT ÉS KIEGÉSZÍTŐK</string>
+  <string name="best_Seller">Legjobb Eladó</string>
+  <string name="RateUsNew">Élvezed a játékunkat? Az Ön véleménye segít küldetésünk és ingyenes alkalmazásaink terjesztésében más szülők számára.</string>
+  <string name="txt_AdditupMode">Add hozzá</string>
+  <string name="txt_SudokuMode">Kirakós</string>
+  <string name="txtBrandTrust">MÁRKA, AMIBEN MEGBÍZHAT</string>
+  <string name="txtMission">Egy Küldetés, Amelyet Értékelhetsz</string>
+  <string name="Number_Path">Számútvonal</string>
+  <string name="Add_butterfly_1">### pillangók ülnek egy virágon. Aztán @@@ további pillangók repülnek el és csatlakoznak hozzájuk. Hány pillangó van összesen?</string>
+  <string name="Add_butterfly_2">Egy gyerek ### pillangót lát. Aztán még több @@@ jelenik meg. Hány pillangót lát a gyerek összesen?</string>
+  <string name="Add_cat_1">### macskák ülnek a falon. Egy másik @@@ macska mászik fel. Hány macska van most a falon?</string>
+  <string name="Add_cow_1">### tehenek vannak az istállóban. @@@ több tehén sétál be. Hány tehén van most az istállóban?</string>
+  <string name="Add_deer_1">A réten ### őzek füvet esznek. Aztán @@@ újabb szarvasok érkeznek. Hány szarvas eszik most füvet?</string>
+  <string name="Add_dog_1">### kutyák labdával játszanak. Aztán @@@ még több kutya csatlakozik hozzájuk. Hány kutya játszik?</string>
+  <string name="Add_giraffe_1">### a zsiráfok vizet isznak. Aztán @@@ újabb zsiráfok jönnek inni. Hány zsiráf iszik?</string>
+  <string name="Add_ladybugs_1">### katicabogarak ülnek egy levélen. @@@ még több katicabogár repül a levélre. Hány katicabogár van a levélen?</string>
+  <string name="Add_tiger_1">### tigrisek ülnek egy barlang közelében. @@@ újabb tigrisek jönnek ki. Hány tigris van most?</string>
+  <string name="Add_tiger_2">### tigrisek élnek a dzsungelben. @@@ újabbak közelednek. Hány tigris van összesen?</string>
+  <string name="Add_owl_1">### baglyok pihennek egy fészekben. @@@ újabb baglyok jönnek a fészekbe. Hány bagoly van a fészekben?</string>
+  <string name="Add_panda_1">### A pandák bambuszt esznek. @@@ jönnek még pandák. Hány panda eszik bambuszt?</string>
+  <string name="Add_parrot_1">### papagájok ülnek egy sügéren. @@@ újabb papagájok repülnek be boldogan. Hány papagáj van most?</string>
+  <string name="Add_peacock_1">### pávák táncolnak a kertben. @@@ jönnek még a pávák. Hány páva táncol?</string>
+  <string name="Add_rooster_1">### kakasok vannak a farmon. @@@ gyere többen az istálló közelébe. Hány kakas van összesen?</string>
+  <string name="Add_snail_1">Egy levélen ### csigák pihennek. @@@ csatlakozz hozzájuk még többen. Hány csiga van összesen?</string>
+  <string name="Add_zebra_1">A gyepen ### zebrák esznek. @@@ csatlakozz hozzájuk még többen. Hány zebra van összesen?</string>
+  <string name="Add_bicycle_1">### kerékpár van a parkban. @@@ több parkol. Hány kerékpár van összesen?</string>
+  <string name="Add_hippo_1">Reggel ### víziló játszik. Később @@@ további vízilovak sétálnak át. Hány víziló van összesen?</string>
+  <string name="Add_airplane_1">A kifutón ### repülőgépek várnak. @@@ több földet. Hány repülő van összesen?</string>
+  <string name="Add_airplane_2">A reptéren ### gépek várnak. Hamarosan további @@@ érkezik. Hány gép összesen?</string>
+  <string name="Add_horse_1">Az istálló mellett ### lovak állnak. @@@ csatlakozz hozzájuk még többen. Hány ló van összesen?</string>
+  <string name="Add_fish_1">Az akváriumban ### halak úszkálnak. @@@ továbbiak hozzáadva. Hány hal van összesen?</string>
+  <string name="Add_goat_1">### kecskék vannak a dombon. Aztán jön még @@@. Mennyi a kecskék száma összesen?</string>
+  <string name="Add_monkey_1">### majmok vannak egy fán. @@@ mássz feljebb. Hány majom van összesen?</string>
+  <string name="Add_carrot_1">### sárgarépa van a kosárban. @@@ továbbiak hozzáadva. Hány sárgarépa van összesen?</string>
+  <string name="Add_candies_1">### cukorka van az üvegben. @@@ továbbiak hozzáadva. Hány cukorka van összesen?</string>
+  <string name="Add_cupcake_1">### cupcake van az asztalon. @@@ még több van elhelyezve. Hány cupcake van összesen?</string>
+  <string name="Add_pinwheel_1">Reggelente ### szélforgó forog a kertben. Később @@@ még több kerül a képbe. Hány szélforgó van most?</string>
+  <string name="Add_broccoli_1">### brokkoli van a tányéron. @@@ továbbiak hozzáadva. Hány brokkoli van a tányéron?</string>
+  <string name="Add_robot_1">### robotok vannak a földön. @@@ több séta fel. Hány robot van összesen?</string>
+  <string name="Add_car_1">Egy gyereknek ### játékautója van. @@@ több is adott. Hány játékautója van a gyereknek?</string>
+  <string name="Add_bird house_1">### madárházak vannak az istálló közelében. @@@ továbbiak hozzáadva. Hány madárház van összesen?</string>
+  <string name="Add_ball_1">### golyók vannak a földön. @@@ tovább gurul. Hány golyó van összesen?</string>
+  <string name="Add_drum_1">A zeneórán ### dobot tartanak. @@@ továbbiak hozzáadva. Hány dob összesen?</string>
+  <string name="Add_cake_1">### sütemények vannak az asztalon. @@@ továbbiak hozzáadva. Hány torta van összesen?</string>
+  <string name="Add_fruits_1">### gyümölcs van a kosárban. @@@ továbbiak hozzáadva. Hány gyümölcs van összesen?</string>
+  <string name="Add_flower_1">### virágok vannak a kertben. @@@ virágzik tovább. Hány virág van a kertben?</string>
+  <string name="Add_pig_1">### disznók vannak az udvaron. Aztán jön még @@@. Mennyi a disznók száma az udvaron?</string>
+  <string name="Add_top_1">### pörgők vannak a padlón. @@@ továbbiak hozzáadva. Hány pörgettyű van összesen?</string>
+  <string name="Add_donut_1">### fánk van egy tányéron. @@@ továbbiak hozzáadva. Hány fánk van összesen?</string>
+  <string name="Add_giftbox_1">Sara ### ajándékot kapott. A barátja többet adott neki @@@. Hány ajándéka van Sarának összesen?</string>
+  <string name="Add_giftbox_2">### ajándékdobozok vannak a szobában. Aztán @@@ még több kerül bele. Hány ajándékdoboz van a szobában?</string>
+  <string name="Add_taco_1">Sara ### tacot készített. Az anyja még @@@ tacot készített. Hány tacot készítettek összesen?</string>
+  <string name="Add_taco_2">Tom ### tacot evett. @@@ evett még tacot. Hány tacót evett összesen Tom?</string>
+  <string name="Add_kite_1">### sárkányok repkednek az égen. @@@ újabb sárkányok repülnek. Hány sárkány repül az égen?</string>
+  <string name="Add_kite_2">Leo ### sárkányokat készített. Aztán @@@ újabb sárkányokat készített. Mennyi sárkányt készített Leo összesen?</string>
+  <string name="Add_sandwich_1">Sam vett ### szendvicset. Aztán vett még @@@ szendvicset. Hány szendvicset vásárolt összesen?</string>
+  <string name="Add_leopard_1">### a leopárdok a fán vannak, és @@@ többen másznak fel. Hány leopárd van most a fán?</string>
+  <string name="WordProblem">Szóprobléma</string>
+  <string name="Carry_Forward">Összeadás</string>
+  <string name="Sub_butterfly_1">### pillangó repült a kertben. @@@ pillangó elrepült. Hány pillangó maradt a kertben?</string>
+  <string name="Sub_butterfly_2">Emma reggel ### pillangót látott. Délután @@@-tal kevesebb pillangót látott. Hány pillangót látott délután?</string>
+  <string name="Sub_cat_1">Ethan ### macskát látott ülni egy kerítésen. @@@ macska elszaladt, amikor egy kutya ugatott. Hány macska van még a kerítésen?</string>
+  <string name="Sub_cat_2">Miának ### macskája van a hátsó udvarban. @@@ macska elment tejet inni. Hány macska van még a hátsó udvarban?</string>
+  <string name="Sub_cow_1">### tehén ivott vizet a folyónál. @@@ tehén abbahagyta az ivást és elment. Hány tehén van még a folyónál?</string>
+  <string name="Sub_cow_2">### tehén evett szénát. @@@ tehén abbahagyta az evést. Hány tehén eszik még mindig szénát?</string>
+  <string name="Sub_deer_1">### szarvas kelt át az úton. @@@ szarvas már átkelt. Hány szarvas vár még átkelésre?</string>
+  <string name="Sub_deer_2">### szarvas mászott fel egy dombra. @@@ szarvas megállt és visszament lement. Hány szarvas mászik még mindig?</string>
+  <string name="Sub_dog_1">### kutya játszott az udvaron. @@@ kutya szaladgált be a házba. Hány kutya van még az udvaron?</string>
+  <string name="Sub_dog_2">### kutya volt egy kennelben. @@@ kutya ment ki. Hány kutya van még a kennelben?</string>
+  <string name="Sub_giraffe_1">Egy árnyékos fa alatt ### zsiráf feküdt le. Egy idő után @@@ zsiráf állt fel és elment. Hány zsiráf pihent még mindig?</string>
+  <string name="Sub_giraffe_2">Egy ### zsiráfból álló csapat sétált a magas fűben. Hirtelen @@@ zsiráf fordult vissza. Hány zsiráf ment tovább?</string>
+  <string name="Sub_ladybugs_1">### katicabogár ült egy nagy zöld levélen. Aztán @@@ elrepült. Hány katicabogár maradt a levélen?</string>
+  <string name="Sub_ladybug_2">Naplementekor ### katicabogár repült együtt. @@@ egy faágra szállt. Hány katicabogár repült még mindig?</string>
+  <string name="Sub_owl_1">### bagoly repült a ragyogó holdfényben. @@@ bagoly szállt le egy fára. Hány bagoly repült még mindig?</string>
+  <string name="Sub_owl_2">Egy ágon ### bagoly sorakozott fel egy sorban. @@@ bagoly kiterjesztette szárnyait és elrepült. Hány bagoly maradt az ágon?</string>
+  <string name="Sub_panda_1">### panda evett együtt bambuszt. @@@ panda befejezte az evést és elment. Hány panda evett még bambuszt?</string>
+  <string name="Sub_panda_2">Egy ### pandából álló csoport ült együtt. @@@ panda elment, hogy további bambuszt találjon. Hány panda maradt a csoportban?</string>
+  <string name="Sub_parrot_1">Egy ### papagájból álló csapat repült együtt. @@@ papagáj szállt le egy tetőre. Hány papagáj repült tovább?</string>
+  <string name="Sub_parrot_2">Egy fán ### papagáj volt a fészek közelében. @@@ papagáj repült be. Hány papagáj maradt kint?</string>
+  <string name="Sub_peacock_1">### páva táncolt a kertben. @@@ páva abbahagyta a táncot. Hány páva táncolt tovább?</string>
+  <string name="Sub_peacock_2">Naplementekor ### páva gyűlt össze a parkban. @@@ páva elrepült. Hány páva volt még ott?</string>
+  <string name="Sub_rooster_1">Reggel ### kakas gyűlt össze az étel közelében. @@@ kakas befejezte az evést és elment. Hány kakas evett még?</string>
+  <string name="Sub_rooster_2">### kakas ült egy kerítésen. @@@ kakas ugrott le. Hány kakas maradt a kerítésen?</string>
+  <string name="Sub_snail_1">Egy kerti ösvényen ### csiga mozgott lassan. @@@ csiga a fűbe esett. Hány csiga maradt az ösvényen?</string>
+  <string name="Sub_snail_2">### csiga volt néhány virág közelében. @@@ csiga elmászott. Hány csiga volt még mindig a virágok közelében?</string>
+  <string name="Sub_tiger_1">### tigris pihent a dzsungelben. @@@ tigris elsétált. Hány tigris maradt pihenni?</string>
+  <string name="Sub_tiger_2">### tigrist láttak sétálni az erdőben. @@@ tigris elszaladt. Hány tigris sétált még mindig?</string>
+  <string name="Sub_zebra_1">Egy ### zebrából álló csorda jött inni. @@@ zebra ivás után távozott. Hány zebra maradt a folyóparton?</string>
+  <string name="Sub_zebra_2">Egy csoportban ### zebrafióka játszott együtt. @@@ csikó visszatért az anyjához. Hány zebrafióka játszott még mindig?</string>
+  <string name="Sub_bicycle_1">### kerékpár parkolt a játszótér közelében. @@@ kerékpárt hazavittek. Hány kerékpár volt még mindig a játszótéren?</string>
+  <string name="Sub_bicycle_2">Egy kerékpárbolt ### kerékpárt mutatott ki. @@@ kerékpárt adtak el. Hány kerékpár maradt kiállítva?</string>
+  <string name="Sub_hippo_1">### víziló evett együtt füvet. @@@ víziló abbahagyta az evést. Hány víziló folytatta a fűevést?</string>
+  <string name="Sub_hippo_1">Egy csordában ### víziló gyűlt össze. @@@ víziló eltávolodott. Hány víziló maradt a csordában?</string>
+  <string name="Sub_airplane_1">Reggelre ### repülőgép állt készen a repülésre. @@@ repülőgép indult el menetrend szerint. Hány repülőgép várakozott még?</string>
+  <string name="Sub_airplane_2">Este ### repülőgépnek kellett volna felszállnia. @@@ repülőgép már felszállt. Hány repülőgép várakozott még felszállásra?</string>
+  <string name="Sub_horse_1">### ló volt az istállóban. @@@ ló jött ki. Hány ló maradt az istállóban?</string>
+  <string name="Sub_horse_2">### lovat láttak a völgyben. @@@ ló mászott fel a dombra. Hány ló maradt a völgyben?</string>
+  <string name="Sub_fish_1">### hal úszott egy tóban. @@@ hal elúszott. Hány hal volt még a tóban?</string>
+  <string name="Sub_fish_2">Egy halász ### halat látott a csónakja közelében. @@@ hal gyorsan elúszott. Hány hal maradt a csónak közelében?</string>
+  <string name="Sub_goat_1">Egy gazdának ### kecskéje legelészett a mezőn. @@@ kecske elkóborolt ​​a domb felé. Hány kecske legelészett még mindig a mezőn?</string>
+  <string name="Sub_goat_2">### kecske pihent az istálló közelében. @@@ kecske futott ki játszani az udvarra. Hány kecske maradt az istálló közelében?</string>
+  <string name="Sub_monkey_1">### majom játszott a mangófán. @@@ majom ugrott le róla. Hány majom maradt a fán?</string>
+  <string name="Sub_monkey_2">Az állatkertben ### majom hintázott kötélen. @@@ majom elment enni. Hány majom hintázott még mindig?</string>
+  <string name="Sub_carrot_1">### sárgarépa volt egy kosárban. @@@ sárgarépát ettek meg. Hány sárgarépa maradt?</string>
+  <string name="Sub_carrot_2">Egy nyúl ### sárgarépát talált. @@@ sárgarépa elgurult. Hány sárgarépa volt még ott?</string>
+  <string name="Sub_candies_1">### cukorka volt az üvegben. @@@ cukorkát vettek ki. Hány cukorka maradt benne?</string>
+  <string name="Sub_candies_2">### cukorka volt az asztalon. @@@ cukorkát ettek meg. Hány cukorka maradt?</string>
+  <string name="Sub_cupcake_1">### muffin volt egy tálcán. @@@ muffint adtak szét. Hány muffin maradt?</string>
+  <string name="Sub_cupcake_2">A pék ### muffint sütött. @@@ muffint adtak el. Hány muffin maradt?</string>
+  <string name="Sub_pinwheel_1">### szélforgó forgott a kertben. @@@ szélforgó abbahagyta a forgást. Hány forgott még mindig?</string>
+  <string name="Sub_pinwheel_2">### szélforgó volt a kerítés mellett. @@@-ot elfújt a szél. Hány maradt meg?</string>
+  <string name="Sub_broccoli_1">### brokkoli volt a tányéron. @@@ darabot ettek meg. Hány darab maradt?</string>
+  <string name="Sub_broccoli_2">Egy szakács ### brokkolit főzött meg. @@@-ot tálaltak fel. Hány maradt?</string>
+  <string name="Sub_robot_1">### robot állt egy sorban. @@@ robot elsétált. Hány robot maradt?</string>
+  <string name="Sub_robot_2">### robot volt a laborban. @@@ robot kikapcsolt állapotban volt. Hány volt még bekapcsolva?</string>
+  <string name="Sub_car_1">### autó parkolt kint. @@@ autó elhajtott. Hány autó maradt parkolva?</string>
+  <string name="Sub_car_2">A versenyen ### autó rajtolt el. @@@ autó korán célba ért. Hányan versenyeztek még?</string>
+  <string name="Sub_bird house_1">### madár ült a madárház közelében. @@@ elrepült. Hány madár maradt?</string>
+  <string name="Sub_bird house_2">### fészek volt a madárházban. @@@ kidőlt. Hány fészek maradt meg?</string>
+  <string name="Sub_ball_1">### labda volt a játszótéren. @@@ labda elgurult. Hány labda volt még ott?</string>
+  <string name="Sub_ball_2">Egy dobozban ### golyó volt. @@@ golyó pattant ki belőle. Hány golyó maradt?</string>
+  <string name="Sub_drum_1">### dob volt a színpadon. @@@ dobot levettek. Hány maradt a színpadon?</string>
+  <string name="Sub_drum_2">A zenekarnak ### dobja volt. @@@ dob elromlott. Hány jó dob maradt?</string>
+  <string name="Sub_cake_1">Ma ### süteményt sütöttek. @@@ süteményt ettek meg. Hány sütemény maradt?</string>
+  <string name="Sub_cake_2">Egy pék ### tortát díszített fel. @@@ torta kelt el. Hány torta volt még meg?</string>
+  <string name="Sub_fruits_1">### gyümölcs volt a kosárban. @@@ gyümölcs esett ki. Hány gyümölcs maradt bent?</string>
+  <string name="Sub_fruits_2">Egy üzletben ### féle gyümölcs volt kiállítva. @@@-ot eladtak. Hány gyümölcs maradt?</string>
+  <string name="Sub_flower_1">### virág nyílt ki a kertben. @@@ virágot szedtek le. Hány virág maradt meg?</string>
+  <string name="Sub_flower_2">### virág volt egy vázában. @@@ elhervadt. Hány volt friss?</string>
+  <string name="Sub_pig_1">### disznó volt a karámban. @@@ disznó menekült ki. Hány disznó maradt?</string>
+  <string name="Sub_pig_2">Egy gazdának ### disznója volt. @@@ disznó került a tóba. Hány disznó maradt?</string>
+  <string name="Sub_top_1">### pörgőcsiga volt a padlón. @@@ abbahagyta a forgást. Hány forgott tovább?</string>
+  <string name="Sub_top_2">### kupak volt a dobozban. @@@-ot kivettek. Hány kupak maradt?</string>
+  <string name="Sub_donut_1">### fánk volt a tálcán. @@@ fánkot ettek meg. Hány fánk maradt?</string>
+  <string name="Sub_donut_2">A bolt ### fánkot sütött. @@@-ot adtak el. Hány fánk maradt?</string>
+  <string name="Sub_giftbox_1">### ajándékdoboz volt az asztalon. @@@-ot kinyitottak. Hány maradt zárva?</string>
+  <string name="Sub_giftbox_2">### ajándékdoboz volt a fa alatt. @@@-ot elvittek. Hány maradt?</string>
+  <string name="Sub_taco_1">### taco volt a tányéron. @@@ tacot ettek meg. Hány taco maradt?</string>
+  <string name="Sub_taco_2">Egy szakács ### tacót készített. @@@-ot szolgáltak fel. Hány taco maradt?</string>
+  <string name="Sub_kite_1">### sárkány repült az égen. @@@ sárkány esett le. Hány sárkány repült még mindig?</string>
+  <string name="Sub_kite_2">### sárkány volt a parton. @@@-ot elszállt. Hány sárkány maradt?</string>
+  <string name="Sub_sandwich_1">### szendvics volt az asztalon. @@@ szendvicset ettek meg. Hány maradt?</string>
+  <string name="Sub_sandwich_2">Egy szakács ### szendvicset készített. @@@-ot szolgáltak fel. Hány szendvics maradt?</string>
+  <string name="Add_Pyramid">Összeadási piramis</string>
+</resources>

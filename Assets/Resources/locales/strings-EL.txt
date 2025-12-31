@@ -1,0 +1,827 @@
+<resources>
+  <string name="txt_more_apps">ΠΕΡΙΣΣΟΤΕΡΕΣ ΕΦΑΡΜΟΓΕΣ</string>
+  <string name="txt_holdfor">Κρατήστε πατημένο για 3 δευτερόλεπτα</string>
+  <string name="txt_title_for_grown_ups">ΓΙΑ ΜΕΓΑΛΟΥΣ</string>
+  <string name="txt_userguide_for_grown_ups">Για πρόσβαση, πληκτρολόγησε τους αριθμούς</string>
+  <string name="txt_digit_Zero">Μηδέν</string>
+  <string name="txt_digit_One">Ένα</string>
+  <string name="txt_digit_Two">Δύο</string>
+  <string name="txt_digit_Three">Τρία</string>
+  <string name="txt_digit_Four">Τέσσερα</string>
+  <string name="txt_digit_Five">Πέντε</string>
+  <string name="txt_digit_Six">Έξι</string>
+  <string name="txt_digit_Seven">Επτά</string>
+  <string name="txt_digit_Eight">Οκτώ</string>
+  <string name="txt_digit_Nine">Εννέα</string>
+  <string name="txt_stickershowcase_toys">ΠΑΙΧΝΙΔΙΑ</string>
+  <string name="txt_stickershowcase_stickers">ΑΥΤΟΚΟΛΛΗΤΑ</string>
+  <string name="txt_stickershowcase_stamps">ΣΦΡΑΓΙΔΕΣ</string>
+  <string name="txt_stickershowcase_notoys">Δεν υπάρχουν παιχνίδια</string>
+  <string name="txt_stickershowcase_nostickers">Δεν υπάρχουν αυτοκόλλητα</string>
+  <string name="txt_stickershowcase_nostamps">Δεν υπάρχουν σφραγίδες</string>
+  <string name="txt_pick_a_stamp">ΔΙΑΛΕΞΕ ΜΙΑ ΣΦΡΑΓΙΔΑ</string>
+  <string name="txt_collectsticker">ΣΥΛΛΕΞΕ ΑΥΤΟΚΟΛΛΗΤΟ</string>
+  <string name="txt_collectyourGift">ΠΑΡΤΕ ΤΟ ΔΩΡΟ ΣΑΣ</string>
+  <string name="txt_rateUsReview_microsoft">Επισκέψου το Κατάστημα για αναθεώρηση</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Επισκέψου το Κατάστημα για αναθεώρηση</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Επισκέψου το Κατάστημα για αναθεώρηση</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Επισκέψου το Κατάστημα για αναθεώρηση</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Επισκέψου το Κατάστημα για αναθεώρηση</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Μουσική Υπόκρουση</string>
+  <string name="text_sound">Ήχος</string>
+  <string name="text_learn_with">Μάθε με</string>
+  <string name="text_level">Επίπεδο ###</string>
+  <string name="text_generate_report">Δημιουργία αναφοράς</string>
+  <string name="text_view_report_card">Προβολή ελέγχου προόδου</string>
+  <string name="text_visible_mode">Ορατή λειτουργία</string>
+  <string name="text_VISIBLE_MODE">Ορατή λειτουργία</string>
+  <string name="text_share">Κοινοποίηση</string>
+  <string name="txt_report_card">Έλεγχος Προόδου</string>
+  <string name="txt_add">ΠΡΟΣΘΗΚΗ</string>
+  <string name="txt_sub">ΑΦΑΙΡΩ</string>
+  <string name="txt_number">Αρ.</string>
+  <string name="txt_date_time">Ημερομηνία/Ώρα</string>
+  <string name="txt_equation">Εξίσωση</string>
+  <string name="txt_mode">Λειτουργία</string>
+  <string name="txt_retry">Επανάληψη</string>
+  <string name="txt_no_report">Καμία αναφορά</string>
+  <string name="txt_yes">ΝΑΙ</string>
+  <string name="txt_no">ΟΧΙ</string>
+  <string name="txt_delete_report">Είστε βέβαιοι ότι θέλετε να διαγράψετε όλα τα δεδομένων ελέγχων προόδου;</string>
+  <string name="txt_press_again_exit">Πατήστε ξανά για έξοδο</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Επιλογή γλώσσας</string>
+  <string name="txt_Select_Language">Επιλογή γλώσσας</string>
+  <string name="txtLanguages">Γλώσσες</string>
+  <string name="txtOtherLanguages">Άλλες γλώσσες</string>
+  <string name="txt_Report_a_Translation_error">Αναφορά λάθους μετάφρασης</string>
+  <string name="txt_send">ΑΠΟΣΤΟΛΗ</string>
+  <string name="txtReadyBundle">Η λήψη θα ξεκινήσει σύντομα.</string>
+  <string name="txtDownloadingBundle">Λήψη πακέτου γλώσσας.</string>
+  <string name="txt_ConnectionError">Σφάλμα σύνδεσης</string>
+  <string name="txt_InstallNow">Εγκατάσταση τώρα</string>
+  <string name="txt_PostSuccess">Το μήνυμα δημοσιεύτηκε επιτυχώς</string>
+  <string name="txt_Play_now">Παιχνίδι τώρα</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Προφίλ παιδιού</string>
+  <string name="txtBtnAdd">ΠΡΟΣΘΗΚΗ ΠΑΙΔΙΟΥ</string>
+  <string name="txtAddHelp">Προσθέστε προφίλ για να αποθηκεύσετε ρυθμίσεις και αναφορές για κάθε ένα από τα παιδιά σας.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Όνομα Παιδιού</string>
+  <string name="txtEnterName">Πληκτρολογήστε το όνομα...</string>
+  <string name="txtMaxLimit">Έως 20 Ονόματα</string>
+  <string name="txtEditProfile">Επεξεργασία Προφίλ</string>
+  <string name="txtDeleteProfile">Διαγραφή Προφίλ</string>
+  <string name="txtDeleteProfileConfirm">Είστε σίγουροι ότι θέλετε να διαγράψετε το προφίλ του/της ###;</string>
+  <string name="txtNo">ΟΧΙ</string>
+  <string name="txtYes">ΝΑΙ</string>
+  <string name="txtNameDuplication">Αυτό το Όνομα Υπάρχει Ήδη!</string>
+  <string name="txtUserChangeMsg">Το προφίλ άλλαξε επιτυχώς.</string>
+  <string name="txtShareWithParents">Κοινοποιήστε το σε γονείς, σχολεία, βρεφονηπιακούς σταθμούς και άλλα</string>
+  <string name="txtBtnUpdate">Ενημέρωση</string>
+  <string name="txtNew">Νέο</string>
+  <string name="txt_DownloadNow">Λήψη τώρα</string>
+  <string name="text_showhint">Προβολή συμβουλής κατά το παιχνίδι</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Αλλαγή γλώσσας</string>
+  <string name="txtInitHelpChangeLangDesc">Επιλέξτε από ### διαφορετικές γλώσσες για χρήση κατά την εκμάθηση.</string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">Προσαρμογή ρυθμίσεων</string>
+  <string name="txtInitHelpCustomSettingDesc">Εξατομικεύστε τις ρυθμίσεις για καλύτερη εκμάθηση.</string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">Η σύνδεση διακόπηκε</string>
+  <string name="txt_connectionlost_detail">Πρόβλημα σύνδεσης στο διαδίκτυο. Έλεγξε τις ρυθμίσεις δικτύου.</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">OK</string>
+  <string name="txtSelectLanguageInfo">Θέλετε να μάθετε στα ### ή στα αγγλικά;</string>
+  <string name="txtShowIntroAtStart">Προβολή εισαγωγής χαρακτήρα στην αρχή</string>
+  <string name="txtLanguages">Γλώσσα</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">Ολοκληρώστε πρώτα την εκμάθηση</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">Δες την ιστορία μας</string>
+  <string ScaleFactor="1" name="txtloading">Φόρτωση...</string>
+  <string ScaleFactor="1" name="txt_gamename">Χρώματα &amp; Σχήματα - Μάθε τα χρώματα</string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">Χρώματα &amp; Σχήματα - Μάθε τα χρώματα</string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">ΠΙΣΩ</string>
+  <string ScaleFactor="1" name="txtBtnSelect">ΕΠΙΛΟΓΗ</string>
+  <string ScaleFactor="1" name="txtBtnDelete">ΔΙΑΓΡΑΦΗ</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">ΠΛΟΗΓΗΣΗ</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Πατήστε ένα πλήκτρο για συνέχεια...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">ΑΠΟΧΩΡΗΣΗ ΑΠΟ ΤΟ ΠΑΙΧΝΙΔΙ;</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Θέλεις σίγουρα να αποχωρήσεις;</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Υποστηρίξτε μας βαθμολογώντας την εφαρμογή.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Βαθμολόγησέ μας</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Αργότερα</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Τρόποι για να μας στηρίξετε</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Ανταμείψτε το παιδί σας με ένα t-shirt, και στηρίξτε μας.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Ο καλύτερος δωρεάν τρόπος για να μας στηρίξετε είναι να κοινοποιήσετε τα παιχνίδια μας για παιδιά σε σχολεία, φίλους, μέσα κοινωνικής δικτύωσης και ΜΜΕ (τηλεόραση &amp; εφημερίδες).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Γιατί να μην ανταμείψετε το παιδί σας αγοράζοντας t-shirt και δείχνοντας πως αγαπάτε τους χαρακτήρες.</string>
+  <string ScaleFactor="1" name="txtShareCap">ΚΟΙΝΟΠΟΙΗΣΗ</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">ΕΠΙΒΕΒΑΙΩΣΗ</string>
+  <string name="txt_shopConfirmDetail">Θα ανακατευθυνθείτε στον ιστότοπο για συνέχεια. Είστε βέβαιοι ότι θέλετε να φύγετε;</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">Μεγαλύτερη επιλογή, παραδόσεις σε όλο τον κόσμο</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Πείτε μας πώς σας φαίνεται το παιχνίδι.</string>
+  <string ScaleFactor="1" name="txtVeryBad">Πολύ κακό</string>
+  <string ScaleFactor="1" name="txtVeryGood">Πολύ καλό</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Ναι, βαθμολογήστε και στηρίξτε μας</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Ευχαριστούμε για τα σχόλια</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">Πιστοποιητικά</string>
+  <string name="txtCertificates">ΠΙΣΤΟΠΟΙΗΤΙΚΆ</string>
+  <string name="txtUnlocked">Ξεκλειδωμένο</string>
+  <string name="txtCongratulations">Συγχαρητήρια</string>
+  <string name="txtCertificateUnlocked">Το νέο πιστοποιητικό ξεκλειδώθηκε!</string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">στις</string>
+  <string name="txtPrint">Εκτύπωση</string>
+  <!--  -->
+  <string name="txt_certi_title_1">ΒΡΑΒΕΙΟ</string>
+  <string name="txt_certi_title_2">ΕΞΑΙΡΕΤΙΚΑ</string>
+  <string name="txt_certi_title_3">ΒΡΑΒΕΙΟ ΑΣΤΕΡΙΟΥ</string>
+  <string name="txt_certi_title_4">ΤΕΛΕΙΑ ΔΟΥΛΕΙΑ</string>
+  <string name="txt_certi_title_5">ΑΡΙΣΤΕΙΟ</string>
+  <string name="txt_certi_title_6">ΦΑΝΤΑΣΤΙΚΑ</string>
+  <string name="txt_certi_title_7">Επίτευγμα</string>
+  <string name="txt_certi_title_8">ΜΠΡΑΒΟ</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">ΕΠΙΒΕΒΑΙΩΣΗ</string>
+  <string name="txt_shopConfirmDetail">Θα ανακατευθυνθείτε στον ιστότοπο για συνέχεια. Είστε βέβαιοι ότι θέλετε να φύγετε;</string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Κέρδισες το πιστοποιητικό!</string>
+  <string name="txtEnterNm">Εισαγάγετε το όνομα του παιδιού.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Εμπνεύστε το παιδί εκτυπώνοντας το πιστοποιητικό</string>
+  <string name="txtGreat">ΤΕΛΕΙΑ</string>
+  <string name="txtTapToGetCerti">Πατήστε για λήψη του πιστοποιητικού.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Μέτρησε αντικείμενα 20 φορές</string>
+  <string name="Math_Task_1_End">Αντικείμενα μετρημένα 20 φορές</string>
+  <string name="Math_Task_2_Start">Λύσε 30 παζλ πρόσθεσης</string>
+  <string name="Math_Task_2_End">Λύθηκαν 30 παζλ πρόσθεσης</string>
+  <string name="Math_Task_3_Start">Πρόσθεσε διασκεδαστικά 30 φορές</string>
+  <string name="Math_Task_3_End">Διασκεδαστική πρόσθεση 30 φορές</string>
+  <string name="Math_Task_4_Start">Ολοκλήρωσε 30 κουίζ πρόσθεσης</string>
+  <string name="Math_Task_4_End">Ολοκληρώθηκαν 30 κουίζ πρόσθεσης</string>
+  <string name="Math_Task_5_Start">Σύγκρινε αντικείμενα 30 φορές</string>
+  <string name="Math_Task_5_End">Συγκρίθηκαν αντικείμενα 30 φορές</string>
+  <string name="Math_Task_6_Start">Λύσε 30 παζλ αφαίρεσης</string>
+  <string name="Math_Task_6_End">Λύθηκαν 30 παζλ αφαίρεσης</string>
+  <string name="Math_Task_7_Start">Αφαίρεσε διασκεδαστικά 30 φορές</string>
+  <string name="Math_Task_7_End">Διασκεδαστική αφαίρεση 30 φορές</string>
+  <string name="Math_Task_8_Start">Ολοκλήρωσε 30 κουίζ αφαίρεσης</string>
+  <string name="Math_Task_8_End">Ολοκληρώθηκαν 30 κουίζ αφαίρεσης</string>
+  <string name="Math_Task_1_Completed">Κέρδισες το πιστοποιητικό! Αντικείμενα μετρημένα 20 φορές</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Κέρδισες το πιστοποιητικό! Λύθηκαν 30 παζλ πρόσθεσης</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Κέρδισες το πιστοποιητικό! Διασκεδαστική πρόσθεση 30 φορές</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Κέρδισες το πιστοποιητικό! Ολοκληρώθηκαν 30 κουίζ πρόσθεσης</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Κέρδισες το πιστοποιητικό! Συγκρίθηκαν αντικείμενα 30 φορές</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Κέρδισες το πιστοποιητικό! Λύθηκαν 30 παζλ αφαίρεσης</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Κέρδισες το πιστοποιητικό! Διασκεδαστική αφαίρεση 30 φορές</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Κέρδισες το πιστοποιητικό! Ολοκληρώθηκαν 30 κουίζ αφαίρεσης</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Σύνδεση στο Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Θα ανακατευθυνθείτε στο Pinterest. Θέλετε σίγουρα να φύγετε;</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">Συνέχεια</string>
+  <string name="txtinspirationbehind">Έμπνευση πίσω από τις παιδικές εφαρμογές</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">ΕΚΤΥΠΩΣΙΜΟ ΥΛΙΚΟ</string>
+  <string name="txtOurStorySettingsNew">Η Ιστορια Μασ</string>
+  <string name="txt_why_its_free">Η ΙΣΤΟΡΙΑ ΜΑΣ</string>
+  <string name="txtAllowCouting">Να επιτρέπεται η μέτρηση</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Μέτρηση</string>
+  <string name="Adding Puzzle">Παζλ Πρόσθεσης</string>
+  <string name="Adding Fun">Διασκεδαστική Πρόσθεση</string>
+  <string name="Adding Quiz">Κουίζ Πρόσθεσης</string>
+  <string name="Compare">Σύγκριση</string>
+  <string name="Subtracting Puzzle">Παζλ Αφαίρεσης</string>
+  <string name="Subtracting Fun">Διασκεδαστική Αφαίρεση</string>
+  <string name="Subtracting Quiz">Κουίζ Αφαίρεσης</string>
+  <string ScaleFactor="1" name="txt_gamename">Μαθηματικά για Παιδιά - Πρόσθεσε, Αφαίρεσε, Μέτρα</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Μαθηματικά για Παιδιά - Πρόσθεσε, Αφαίρεσε, Μέτρα</string>
+  <string name="txtPrintableSmall">Εκτυπωσιμο υλικο</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Αρχική Σελίδα</string>
+  <string name="txt_menuoption_settings">Ρυθμίσεις</string>
+  <string name="txt_menuoption_shop">Κατάστημα</string>
+  <string name="txt_menuoption_kidsapps">Εφαρμογές για παιδιά</string>
+  <string name="txt_menuoption_parentapps">Εφαρμογές για γονείς</string>
+  <string name="txt_menuoption_worksheets">Φύλλα εργασίας</string>
+  <string name="txt_messagefromdave">ΜΗΝΥΜΑ ΑΠΟ</string>
+  <string name="txt_getfeaturedon">ΠΡΟΒΛΗΘΕΙΤΕ ΣΤΟ INSTAGRAM</string>
+  <string name="txt_tagus">Προσθέστε ετικέτα στην @[ΟΝΟΜΑ-ΕΤΑΙΡΙΑΣ] και γίνετε μέρος των ιστοριών μας</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Ιδρυτής της RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Τραβήξτε μια φωτογραφία/ένα βίντεο του παιδιού σας καθώς χρησιμοποιεί την εφαρμογή μας ή καθώς λαμβάνει ένα πιστοποιητικό.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Κοινοποιήστε &amp; προσθέστε μας με ετικέτα στο Instagram @[ΟΝΟΜΑ-ΕΤΑΙΡΙΑΣ] για μια ευκαιρία να προβληθείτε.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Εφαρμογές για παιδιά από την [ΟΝΟΜΑ-ΕΤΑΙΡΙΑΣ]</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Εφαρμογές για γονείς από την [ΟΝΟΜΑ-ΕΤΑΙΡΙΑΣ]</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">ΦΥΛΛΑ ΕΡΓΑΣΙΑΣ</string>
+  <string name="txt_coloringpage">ΣΕΛΙΔΑ ΖΩΓΡΑΦΙΚΗΣ</string>
+  <string name="txt_downloadmoreworksheet">Κατεβάστε περισσότερα φύλλα εργασίας από τη σελίδα μας στο Pinterest</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Με 14 εκατομμύρια μηνιαίες λήψεις των παιχνιδιών μας που προέρχονται από τις δωρεάν παιδικές εφαρμογές μας, έχουμε γίνει ένας από τους μεγαλύτερους δημιουργούς παιδικών εκπαιδευτικών εφαρμογών του κόσμου. "Και συνεχίζουμε να το κάνουμε εντελώς ΔΩΡΕΑΝ."
+
+
+  "Γιατί;" -Όταν έγινα γονιός, ήξερα πως θα έκανα τα πάντα για να προσφέρω στην κόρη μου την καλύτερη εκπαίδευση και τις καλύτερες ευκαιρίες καθώς μεγαλώνει. Πιστεύω πως πολλοί γονείς αναγνωρίζουν τη λαχτάρα να δώσουν στα παιδιά τους περισσότερες ευκαιρίες ή καλύτερη εκπαίδευση από αυτή που είχαν αυτοί.
+
+  Όμως δεν έχουν όλοι οι γονείς τον χρόνο ή την ικανότητα να βοηθήσουν τα παιδιά τους με τα μαθήματά τους. Και όσο κι αν ήθελα το καλύτερο για την κόρη μου, ένιωθα πως ήταν άδικο το γεγονός ότι δεκάδες εκατομμύρια παιδιά σε όλο τον κόσμο δεν θα είχαν την ίδια ευκαιρία ακόμη και για βασική εκπαίδευση ή να μάθουν να διαβάζουν και να γράφουν.
+
+  Συνειδητοποίησα ότι καθώς ήμουν προγραμματιστής εφαρμογών, είχα την ευκαιρία να κάνω κάτι γι' αυτό. - "Όχι για κέρδος", αλλά για να προσφέρω στα παιδιά από όλες τις γωνιές της Γης τις πρώτες απαραίτητες δεξιότητες εκπαίδευσης, όπως αρίθμηση, ορθογραφία και μαθηματικά με διασκεδαστικό τρόπο.
+
+  Για να το επιτύχουμε αυτό, έπρεπε να διατηρήσουμε τις εφαρμογές και τα παιχνίδια ασφαλή για τα παιδιά. Έτσι αποφάσισα να επενδύσω τα κέρδη από την άλλη επιχείρηση προγραμματισμού μας για να δημιουργήσω "100% ΔΩΡΕΑΝ" εφαρμογές για παιδιά "ΧΩΡΙΣ ΔΙΑΦΗΜΙΣΕΙΣ" και "ΧΩΡΙΣ αγορές εντός της εφαρμογής." -Οι μόνοι που πρέπει να επωφελούνται από αυτές τις εφαρμογές είναι τα παιδιά.</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">Συνέχεια</string>
+  <string name="txtinspirationbehind">Έμπνευση πίσω από τις παιδικές εφαρμογές</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">Η ΙΣΤΟΡΙΑ ΜΑΣ</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">Η ΙΣΤΟΡΙΑ ΜΑΣ</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">ΓΙΑΤΊ ΕΊΝΑΙ ΣΗΜΑΝΤΙΚΉ Η ΠΡΟΣΦΟΡΆ;</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">ΠΏς ΔΙΑΤΗΡΟΎΜΕ ΤΙς ΠΑΙΔΙΚΈς ΕΦΑΡΜΟΓΈς ΜΑς ΔΩΡΕΆΝ;</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">Σύνδεση στο Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Θα ανακατευθυνθείτε στο Pinterest. Θέλετε σίγουρα να φύγετε;</string>
+  <string name="txtWatchUsYouTube">Παρακολουθήστε μας στο YouTube</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">Βαθμολόγηση τώρα</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Συνέχεια</string>
+  <string name="txtPrint">Εκτύπωση</string>
+  <string name="txtconnectingPintrest">Σύνδεση στο Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Θα ανακατευθυνθείτε στο Pinterest. Θέλετε σίγουρα να φύγετε;</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">ΛΗΨΗ ΤΩΡΑ</string>
+  <string name="txt_Play_nowCap">ΠΑΙΧΝΙΔΙ ΤΩΡΑ</string>
+  <string name="txt_ConnectionErrorMsg1">Αδύνατη η σύνδεση στο Internet</string>
+  <string name="txt_ConnectionErrorMsg2">δοκίμασε ξανά αργότερα!</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Εξίσωση</string>
+  <string name="txtSubPracticeTitle">Εξάσκηση στην Αφαίρεση</string>
+  <string name="txtAddPracticeTitle">Εξάσκηση στην Πρόσθεση</string>
+  <string name="txtBeginner">Αρχάριος</string>
+  <string name="txtIntermediate">Μεσαίο</string>
+  <string name="txtAdvance">Προχωρημένος</string>
+  <string name="txtSubPracticeTitle">Εξάσκηση στην Αφαίρεση</string>
+  <string name="txtAddPracticeTitle">Εξάσκηση στην Πρόσθεση</string>
+  <string name="txtBeginner">Αρχάριος</string>
+  <string name="txtIntermediate">Μεσαίο</string>
+  <string name="txtAdvance">Προχωρημένος</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+  about where you want them to be in 10, 20 or 30
+  years. What opportunities do you want them to have
+  in life? A good education? A position from where they
+  can make a positive difference for their families and
+  community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+  opportunities we as parents and communities can
+  give them. But not all parents have the time or ability
+  to help their children with their homework. And most
+  of us, as parents, can probably recognize the wish for
+  our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+  give my daughter the best education and the best
+  opportunities as she grows up. But at the same time,
+  I felt it was unfair that tens of millions of kids all over the
+  world, would not get the same opportunity for even a basic
+  education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+  branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+  start learning essential skills like counting, spelling,
+  and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+  having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+  apps that lets children develop their creativity and test
+  their intelligence with fun jigsaw puzzles, challenging
+  memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+  available in all corners of the world.
+  That is our opportunity as app developers to reach
+  and make a positive difference for children
+  who do not have access to schools or books,
+  but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+  corners of the world an educational advantage,
+  but especially to teach those kids who otherwise
+  don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+  ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+  living doing what we love - developing gaming apps
+  (for adults). Now we want to give back to children
+  around the world by investing our company profits
+  into creating some of the most popular apps for
+  toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+  rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+  in-app promotions. That’s why we keep our kids’
+  applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+  learning apps available to all children, is by keeping it
+  100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+  how much their children have developed using our apps
+  and playing our games, it shows us that our tiny
+  contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+  and make a difference. Especially that the children
+  getting a head start through pre-school learning apps,
+  becomes the future leaders of change in their
+  communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+  our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+  two-thirds (12 million) of those downloads come from
+  parents wanting to help their kids begin learning from
+  an early age, effectively reducing the risk of falling
+  behind as they start in school. It’s these millions of
+  children around the world getting a chance for a better
+  future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">ελληνικά</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Περίμενε</string>
+  <string name="txt_langdownloaded">Η λήψη ολοκληρώθηκε</string>
+  <string name="txtInternetIssue">Σφάλμα σύνδεσης στο διαδίκτυο</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">ΆΛΛΕς ΓΛΏΣΣΕς</string>
+  <string name="txt_ContinueIn">Συνέχεια με ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">ΤΑ ΠΑΙΧΝΊΔΙΑ ΜΑς</string>
+  <string name="txt_SuggestedLanguages">Προτεινόμενες γλώσσες</string>
+  <string name="txt_VisitOurChannel">ΕΠΙΣΚΕΦΘΕΊΤΕ ΤΟ ΚΑΝΆΛΙ ΜΑΣ</string>
+  <string name="txt_followusandshare">ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΚΑΙ ΒΟΗΘΗΣΤΕ ΜΑΣ </string>
+  <string name="txt_OurImpact">Ο ΑΝΤΙΚΤΥΠΟΣ ΜΑΣ</string>
+  <string name="txt_OurImpactDesc">RV AppStudios εκπαιδεύει πάνω από &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; παιδιά κάθε μήνα με τις δωρεάν παιδικές εφαρμογές μας.</string>
+  <string name="txt_KidsApp">ΕΦΑΡΜΟΓΗ ΠΑΙΔΙΩΝ</string>
+  <string name="txt_Countries">ΧΩΡΕΣ</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 ΠΑΙΔΙΑ ΘΑ ΧΡΗΣΙΜΟΠΟΙΗΣΟΥΝ ΤΙΣ ΕΦΑΡΜΟΓΕΣ ΜΑΣ.</string>
+  <string name="txt_Hello">Χαίρετε</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Νέο σχέδιο t-shirt προστίθεται κάθε εβδομάδα!</string>
+  <string name="txt_textrhymesYT">ΠΑΙΔΙΚΆ ΠΟΙΉΜΑΤΑ &amp; ΠΑΙΔΙΚΆ ΤΡΑΓΟΎΔΙΑ</string>
+  <string name="txt_rvappstudiosYT">Το RV AppStudios τώρα στο YouTube</string>
+  <string name="txt_AllGamesAreFree">(Όλα τα παιχνίδια είναι δωρεάν και χωρίς διαφημίσεις)</string>
+  <string name="txt_ShowShopBtn">Απόκρυψη του "κουμπιού καταστήματος" από το κύριο μενού</string>
+  <string name="txt_ShowOurStoryBtn">Απόκρυψη "η ιστορια μασ" από το κύριο μενού</string>
+  <string name="txt_ShowMoreappBtn">Απόκρυψη "Περισσότερες εφαρμογές Κουμπί" από το Κύριο μενού</string>
+  <string name="txt_TranslationFeedback">Ανατροφοδότηση Μετάφρασης</string>
+  <string name="txt_TranslationFeedbackInfo">Αναφορά λάθους μετάφρασης. Να μην μοιραστείτε ευαίσθητες πληροφορίες.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">ΜΠΛΟΥΖΑΚΙΑ ΓΙΑ ΠΑΙΔΙΑ</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">ΕΚΠΑΙΔΕΥΤΙΚΑ ΒΙΒΛΙΑ ΓΙΑ ΠΑΙΔΙΑ</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS ΜΠΛΟΥΖΑΚΙΑ &amp; ΕΚΠΑΙΔΕΥΤΙΚΑ ΒΙΒΛΙΑ</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">ΠΡΩΤΑ LUCAS &amp; FRIENDS ΒΙΒΛΙΟ</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">ΜΠΛΟΥΖΑΚΙΑ &amp; ΕΚΠΑΙΔΕΥΤΙΚΑ ΒΙΒΛΙΑ ΓΙΑ ΠΑΙΔΙΑ</string>
+  <string name="txt_VisibleMDstng">Επιλέξτε Λειτουργίες για εμφάνιση</string>
+  <string name="txt_SelectParentGate">Επιλέξτε Επιλογές για ξεκλείδωμα Ρύθμιση</string>
+  <string name="txt_HideButtons">απόκρυψη κουμπιών</string>
+  <string name="txt_HideButtonsFromMenu">Απόκρυψη κουμπιών από το κύριο μενού</string>
+  <string name="txt_rateThanks">Ευχαριστούμε για την αγάπη και την υποστήριξη. Κι εμείς σας αγαπάμε!</string>
+  <string name="txt_rateFeedback">Ευχαριστούμε, θα θέλαμε να μάθουμε τη γνώμη σας. Αφήστε μας σχόλια.</string>
+  <string name="txt_rateLetUsKnow">Πείτε μας πώς φάνηκε η εφαρμογή μας στο παιδί σας.</string>
+  <string name="txt_rateHappySad">Σου αρέσει η εφαρμογή;</string>
+  <string name="txt_rateHappy">Χαρουμενος</string>
+  <string name="txt_rateSad">ΛΥΠΗΜΕΝΟΣ</string>
+  <string name="txtRateDesc1">Θα θέλατε να βαθμολογήσετε την εφαρμογή στο Play Store; Αυτό θα βοηθήσει άλλους γονείς να μάθουν για την εφαρμογή.</string>
+  <string name="txtVeryBadCap">ΠΟΛΥ ΚΑΚΗ</string>
+  <string name="txtGoodCap">ΚΑΛΟ</string>
+  <string name="txtRateAppBtn">Βαθμολόγησέ μας</string>
+  <string name="txtRateHdr">ΒΑΘΜΟΛΟΓΗΣΤΕ ΜΑΣ</string>
+  <string name="english_name">Αγγλικά</string>
+  <string name="Sendfeedback" ScaleFactor="1">Αποστολή σχόλια</string>
+  <string name="UseOurApps">Τα παιδιά χρησιμοποιούν τις εκπαιδευτικές εφαρμογές μας κάθε μήνα.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios είναι στο YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Αναζήτηση RV Appstudios για να βρείτε τις εφαρμογές μας</string>
+  <string name="GiphyStickers" ScaleFactor="1">Κινούμενα GIF και αυτοκόλλητα τώρα διαθέσιμα!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Αναζητήστε το @RVAppStudios στο πληκτρολόγιο GIF</string>
+  <string name="txt_2Digit+">2 Ψηφία +</string>
+  <string name="txt_2Digit-">2 Ψηφία -</string>
+  <string name="Intro_Text" ScaleFactor="1">Επισκεφτείτε το RVAppStudios.com για τα τελευταία νέα!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">Ο ΑΝΤΙΚΤΥΠΟΣ ΜΑΣ - 300+ εκατομμύρια λήψεις κάνουν τη διαφορά</string>
+  <string name="About_Us">ΣΧΕΤΙΚΆ ΜΕ ΕΜΆς</string>
+  <string name="txt_collectGift">ΠΑΡΤΕ ΤΟ ΔΩΡΟ ΣΑΣ</string>
+  <string name="txt_GoodJob">καλή δουλειά</string>
+  <string name="Impact_together">Αντίκτυπος Που Μπορούμε Να Κάνουμε Μαζί</string>
+  <string name="For_Parents">Για Γονείς</string>
+  <string name="Message_Parents">Μήνυμα Για Γονείς</string>
+  <string name="txtShoppingMode">Ψώνια</string>
+  <string name="Math_Task_9_Start">Λύστε 2-ψήφια πρόσθεσης 30 φορές</string>
+  <string name="Math_Task_9_End">Λύθηκαν 2-ψήφια πρόσθεση 30 φορές</string>
+  <string name="Math_Task_10_Start">Λύστε 2-ψήφια αφαίρεση 30 φορές</string>
+  <string name="Math_Task_10_End">Λύθηκε 2-ψήφια αφαίρεση 30 φορές</string>
+  <string name="Math_Task_11_Start">Ολοκλήρωσε 30 Εξάσκηση στην Πρόσθεση</string>
+  <string name="Math_Task_11_End">Ολοκληρώθηκαν 30 Εξάσκηση στην Πρόσθεση</string>
+  <string name="Math_Task_12_Start">Ολοκλήρωσε 30 Εξάσκηση στην Αφαίρεση</string>
+  <string name="Math_Task_12_End">Ολοκληρώθηκαν 30 Εξάσκηση στην Αφαίρεση</string>
+  <string name="Math_Task_13_Start">Λύστε 30 ερωτήσεις ψώνια</string>
+  <string name="Math_Task_13_End">Λύθηκαν 30 ερωτήσεις ψώνια</string>
+  <string name="Math_Task_9_Completed">Κέρδισες το πιστοποιητικό! Λύθηκαν 2-ψήφια πρόσθεση 30 φορές</string>
+  <string name="Math_Task_10_Completed">Κέρδισες το πιστοποιητικό! Λύθηκε 2-ψήφια αφαίρεση 30 φορές</string>
+  <string name="Math_Task_11_Completed">Κέρδισες το πιστοποιητικό! Ολοκληρώθηκαν 30 Εξάσκηση στην Πρόσθεση</string>
+  <string name="Math_Task_12_Completed">Κέρδισες το πιστοποιητικό! Ολοκληρώθηκαν 30 Εξάσκηση στην Αφαίρεση</string>
+  <string name="Math_Task_13_Completed">Κέρδισες το πιστοποιητικό! Λύθηκαν 30 ερωτήσεις ψώνια</string>
+  <string name="January">Ιανουάριος</string>
+  <string name="February">Φεβρουάριος</string>
+  <string name="March">Μάρτιος</string>
+  <string name="April">Απρίλιος</string>
+  <string name="May">Μάιος</string>
+  <string name="June">Ιούνιος</string>
+  <string name="July">Ιούλιος</string>
+  <string name="August">Αύγουστος</string>
+  <string name="September">Σεπτέμβριος</string>
+  <string name="October">Οκτώβριος</string>
+  <string name="November">Νοέμβριος</string>
+  <string name="December">Δεκέμβριος</string>
+  <string name="OurImpactKids1">παιδιά έχουν χρησιμοποιήσει τις εφαρμογές μας</string>
+  <string name="Storage_low">Ανεπαρκής αποθηκευτικός χώρος</string>
+  <string name="OurImpactKids">1 Δισεκατομμύριο</string>
+  <string name="MessageForAdult1">Ο καθένας μας έχει ένα μοναδικό ταλέντο. Εγώ δημιουργώ εφαρμογές. Εσύ μπορεί να είσαι ένας καταπληκτικός δάσκαλος, γιατρός, καλλιτέχνης κ.λπ. Όπως εγώ μοιράζομαι αυτό που αγαπώ δωρεάν, ελπίζω να σε εμπνεύσω να μοιραστείς τις δεξιότητές σου. Όταν βοηθάς τους άλλους, νιώθεις καλά και εμπνέεις τους άλλους ανθρώπους. Σκέψου τον αντίκτυπο που μπορούμε να κάνουμε μαζί! Το Lucas &amp; Friends έχει ως στόχο να εμπνεύσει το καλό στους ανθρώπους. Υποστήριξέ μας προσφέροντας στους άλλους με τον δικό σου τρόπο.</string>
+  <string name="Books_Tshirts">Βιβλία &amp; μπλουζάκια</string>
+  <string name="we_Inspire_msg1">Σας ευχαριστούμε που μας εμπνέετε και μας στηρίζετε.</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends  ξεκίνησε με δωρεάν εκπαιδευτικές εφαρμογές για παιδιά, ως ένα έργο με το οποίο παθιαστήκαμε, χωρίς διαφημίσεις ή αγορές εντός της εφαρμογής. Φιλοδοξούμε να κάνουμε τον κόσμο καλύτερο, να προσφέρουμε πίσω και να κάνουμε τη διαφορά. Περισσότερα από &lt;color=#ff0018&gt;&lt;size=35&gt;1 Δισεκατομμύριο&lt;/size&gt;&lt;/color&gt;  παιδιά έχουν αποκτήσει γνώσεις από τις εκπαιδευτικές εφαρμογές μας. &lt;color=#FF6400&gt;Δεν φανταζόμασταν ποτέ ότι μια μέρα θα δημιουργούσαμε μια μάρκα για παιδιά και θα πωλούσαμε παιχνίδια!&lt;/color&gt;</string>
+  <string name="we_Inspire">Εμπνέουμε το καλό στους ανθρώπους</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Μια αποστολή για να γίνει η μάθηση διασκεδαστική και προσβάσιμη! Δωρεάν εκπαιδευτικές εφαρμογές, χωρίς διαφημίσεις, χωρίς καμία χρέωση ποτέ – απλώς αγνή, χαρούμενη μάθηση για παιδιά.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Σταυρωτά Μαθηματικά</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Ψάρεμα διασκέδαση</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Χιόνι</string>
+  <string name="txt_Addition">Πρόσθεση</string>
+  <string name="txt_Subtraction">Αφαίρεση</string>
+  <string name="FunGames">Παιχνίδια Διασκέδασης</string>
+  <string name="Select_Character" ScaleFactor="1">Επιλέξτε τον Χαρακτήρα</string>
+  <string name="Car_Game" ScaleFactor="1">Παιχνίδι Αυτοκινητό</string>
+  <string name="txtUserChangeMsg1">Το προφίλ του παιδιού άλλαξε με επιτυχία.</string>
+  <string name="txt_1Digit">1 Ψηφίο</string>
+  <string name="txt_2Digit">2 Ψηφία</string>
+  <string name="txt_Play">Παιχνίδι</string>
+  <string name="txtOpponentWon">Ο Αντίπαλος Κερδίζει</string>
+  <string name="txtYouWon">Κερδίσατε!</string>
+  <string name="txtRematch">Επανάληψη Αγώνα</string>
+  <string name="txt_SelectDifficulty">Επιλογή Δυσκολίας</string>
+  <string name="txt_DualMode">Δύο Παίκτες</string>
+  <string name="txt_Correct">Σωστά</string>
+  <string name="Draw">Ισοπαλία</string>
+  <string name="Apparel_Accessories">ΕΝΔΥΜΑΤΑ ΚΑΙ ΑΞΕΣΟΥΑΡ</string>
+  <string name="best_Seller">Μπεστ Σέλερ</string>
+  <string name="RateUsNew">Απολαμβάνετε το παιχνίδι μας; Η κριτική σας βοηθά στη διάδοση της αποστολής και των δωρεάν εφαρμογών μας σε άλλους γονείς.</string>
+  <string name="txt_AdditupMode">Πρόσθεσέ το</string>
+  <string name="txt_SudokuMode">Παζλ</string>
+  <string name="txtBrandTrust">ΜΑΡΚΑ ΠΟΥ ΜΠΟΡΕΙΣ ΝΑ ΕΜΠΙΣΤΕΥΤΕΙΣ</string>
+  <string name="txtMission">Μια αποστολή που μπορείς να εκτιμήσεις</string>
+  <string name="Number_Path">Διαδρομή Αριθμών</string>
+  <string name="Add_butterfly_1">### πεταλούδες κάθονται σε ένα λουλούδι. Έπειτα, @@@ περισσότερες πεταλούδες πετούν και έλα μαζί τους. Πόσες πεταλούδες υπάρχουν συνολικά;</string>
+  <string name="Add_butterfly_2">Ένα παιδί εντοπίζει ### πεταλούδες. Στη συνέχεια, εμφανίζονται περισσότερα @@@. Πόσες πεταλούδες βλέπει το παιδί συνολικά;</string>
+  <string name="Add_cat_1">### γάτες κάθονται σε έναν τοίχο. Άλλη μια @@@ γάτα σκαρφαλώνει. Πόσες γάτες υπάρχουν τώρα στον τοίχο;</string>
+  <string name="Add_cow_1">### οι αγελάδες είναι στον αχυρώνα. @@@ μπαίνουν περισσότερες αγελάδες. Πόσες αγελάδες είναι τώρα στον αχυρώνα;</string>
+  <string name="Add_deer_1">Στο λιβάδι, ### ελάφια τρώνε γρασίδι. Τότε @@@ φτάνουν κι άλλα ελάφια. Πόσα ελάφια τρώνε γρασίδι τώρα;</string>
+  <string name="Add_dog_1">### σκυλιά παίζουν με μια μπάλα. Τότε @@@ περισσότερα σκυλιά ενώθηκαν μαζί τους. Πόσα σκυλιά παίζουν;</string>
+  <string name="Add_giraffe_1">### οι καμηλοπαρδάλεις πίνουν νερό. Τότε @@@ περισσότερες καμηλοπαρδάλεις έρχονται να πιουν. Πόσες καμηλοπαρδάλεις πίνουν;</string>
+  <string name="Add_ladybugs_1">### πασχαλίτσες κάθονται σε ένα φύλλο. @@@ περισσότερες πασχαλίτσες πετούν στο φύλλο. Πόσες πασχαλίτσες υπάρχουν στο φύλλο;</string>
+  <string name="Add_tiger_1">### τίγρεις κάθονται κοντά σε μια σπηλιά. @@@ βγαίνουν κι άλλες τίγρεις. Πόσες τίγρεις υπάρχουν τώρα;</string>
+  <string name="Add_tiger_2">Υπάρχουν ### τίγρεις στη ζούγκλα. @@@ έρχονται περισσότερα. Πόσες τίγρεις υπάρχουν συνολικά;</string>
+  <string name="Add_owl_1">### κουκουβάγιες ξεκουράζονται σε μια φωλιά. @@@ περισσότερες κουκουβάγιες έρχονται στη φωλιά. Πόσες κουκουβάγιες υπάρχουν στη φωλιά;</string>
+  <string name="Add_panda_1">### τα πάντα τρώνε μπαμπού. @@@ έρχονται κι άλλα πάντα. Πόσα πάντα τρώνε μπαμπού;</string>
+  <string name="Add_parrot_1">### παπαγάλοι κάθονται σε μια πέρκα. @@@ περισσότεροι παπαγάλοι πετάνε χαρούμενοι. Πόσοι παπαγάλοι υπάρχουν τώρα;</string>
+  <string name="Add_peacock_1">### παγώνια χορεύουν στον κήπο. @@@ έρχονται κι άλλα παγώνια. Πόσα παγώνια χορεύουν;</string>
+  <string name="Add_rooster_1">Υπάρχουν ### κοκόρια στο αγρόκτημα. @@@ περισσότερα ελάτε κοντά στον αχυρώνα. Πόσα κοκόρια συνολικά;</string>
+  <string name="Add_snail_1">Σε ένα φύλλο ξεκουράζονται ### σαλιγκάρια. @@@ κι άλλοι, γίνετε μέλος. Πόσα σαλιγκάρια συνολικά;</string>
+  <string name="Add_zebra_1">Στο λιβάδι, ### ζέβρες τρώνε. @@@ κι άλλοι, γίνετε μέλος. Πόσες ζέβρες συνολικά;</string>
+  <string name="Add_bicycle_1">Υπάρχουν ### ποδήλατα στο πάρκο. @@@ είναι παρκαρισμένα περισσότερα. Πόσα ποδήλατα υπάρχουν συνολικά;</string>
+  <string name="Add_hippo_1">Το πρωί παίζουν ### ιπποπόταμοι. Αργότερα, περάστε περισσότερα @@@. Ποιος είναι ο συνολικός αριθμός των ιπποπόταμων;</string>
+  <string name="Add_airplane_1">Στον διάδρομο περιμένουν ### αεροπλάνα. @@@ περισσότερη γη. Πόσα αεροπλάνα συνολικά;</string>
+  <string name="Add_airplane_2">Στο αεροδρόμιο περιμένουν ### αεροπλάνα. Σύντομα, @@@ φτάνουν κι άλλα. Πόσα αεροπλάνα συνολικά;</string>
+  <string name="Add_horse_1">Δίπλα στον αχυρώνα στέκονται ### άλογα. @@@ κι άλλοι, γίνετε μέλος. Πόσα άλογα συνολικά;</string>
+  <string name="Add_fish_1">Στο ενυδρείο κολυμπούν ### ψάρια. @@@ προστίθενται περισσότερα. Πόσα ψάρια συνολικά;</string>
+  <string name="Add_goat_1">Υπάρχουν ### κατσίκες στο λόφο. Μετά έρχονται @@@ κι άλλα. Ποιος είναι ο συνολικός αριθμός των κατσικιών;</string>
+  <string name="Add_monkey_1">Υπάρχουν ### πίθηκοι σε ένα δέντρο. @@@ περισσότερα ανεβείτε. Πόσες μαϊμούδες υπάρχουν συνολικά;</string>
+  <string name="Add_carrot_1">Υπάρχουν ### καρότα στο καλάθι. @@@ προστίθενται περισσότερα. Πόσα καρότα υπάρχουν συνολικά;</string>
+  <string name="Add_candies_1">Υπάρχουν ### καραμέλες στο βάζο. @@@ προστίθενται περισσότερα. Πόσες καραμέλες υπάρχουν συνολικά;</string>
+  <string name="Add_cupcake_1">Υπάρχουν ### cupcakes στο τραπέζι. @@@ τοποθετούνται περισσότερα. Πόσα cupcakes υπάρχουν συνολικά;</string>
+  <string name="Add_pinwheel_1">Το πρωί, ### τροχοί καρφίτσας περιστρέφονται στον κήπο. Αργότερα, προστίθενται περισσότερα @@@. Πόσοι ρόδες υπάρχουν τώρα;</string>
+  <string name="Add_broccoli_1">Υπάρχουν ### μπρόκολα στο πιάτο. @@@ προστίθενται περισσότερα. Πόσα μπρόκολα υπάρχουν στο πιάτο;</string>
+  <string name="Add_robot_1">Υπάρχουν ### ρομπότ στο έδαφος. @@@ περισσότερα περπατήστε επάνω. Πόσα ρομπότ υπάρχουν συνολικά;</string>
+  <string name="Add_car_1">Ένα παιδί έχει ### αυτοκίνητα-παιχνίδια. @@@ δίνονται περισσότερα. Πόσα αυτοκίνητα παιχνίδια έχει το παιδί;</string>
+  <string name="Add_bird house_1">Υπάρχουν ### σπιτάκια πουλιών κοντά στον αχυρώνα. @@@ προστίθενται περισσότερα. Πόσα σπιτάκια πουλιών υπάρχουν συνολικά;</string>
+  <string name="Add_ball_1">Υπάρχουν ### μπάλες στο έδαφος. @@@ περισσότερα roll over. Πόσες μπάλες υπάρχουν συνολικά;</string>
+  <string name="Add_drum_1">Στο μάθημα της μουσικής διατηρούνται ### τύμπανα. @@@ προστίθενται περισσότερα. Πόσα τύμπανα συνολικά;</string>
+  <string name="Add_cake_1">Υπάρχουν ### κέικ στο τραπέζι. @@@ προστίθενται περισσότερα. Πόσες τούρτες υπάρχουν συνολικά;</string>
+  <string name="Add_fruits_1">Υπάρχουν ### φρούτα στο καλάθι. @@@ προστίθενται περισσότερα. Πόσα φρούτα υπάρχουν συνολικά;</string>
+  <string name="Add_flower_1">Υπάρχουν ### λουλούδια στον κήπο. @@@ πιο μπλουμ. Πόσα λουλούδια υπάρχουν στον κήπο;</string>
+  <string name="Add_pig_1">Υπάρχουν ### γουρούνια στην αυλή. Μετά έρχονται @@@ κι άλλα. Ποιος είναι ο συνολικός αριθμός των γουρουνιών στην αυλή;</string>
+  <string name="Add_top_1">Υπάρχουν ### σβούρες στο πάτωμα. @@@ προστίθενται περισσότερα. Πόσες σβούρες υπάρχουν συνολικά;</string>
+  <string name="Add_donut_1">Υπάρχουν ### ντόνατς σε ένα πιάτο. @@@ προστίθενται περισσότερα. Πόσοι λουκουμάδες υπάρχουν συνολικά;</string>
+  <string name="Add_giftbox_1">Η Σάρα πήρε ### δώρα. Ο φίλος της της έδωσε @@@ κι άλλα. Πόσα δώρα έχει συνολικά η Σάρα;</string>
+  <string name="Add_giftbox_2">Υπάρχουν ### κουτιά δώρων στο δωμάτιο. Μετά μπαίνουν μέσα @@@ κι άλλα. Πόσα κουτιά δώρου υπάρχουν στο δωμάτιο;</string>
+  <string name="Add_taco_1">Η Sara έκανε ### tacos. Η μαμά της έκανε @@@ περισσότερα tacos. Πόσα tacos έγιναν συνολικά;</string>
+  <string name="Add_taco_2">Ο Τομ έφαγε ### tacos. Έφαγε @@@ περισσότερα tacos. Πόσα τάκο έφαγε ο Τομ συνολικά;</string>
+  <string name="Add_kite_1">### χαρταετοί πετούν στον ουρανό. @@@ περισσότεροι χαρταετοί αρχίζουν να πετούν. Πόσοι χαρταετοί πετούν στον ουρανό;</string>
+  <string name="Add_kite_2">Ο Λέων έφτιαξε ### χαρταετούς. Μετά έκανε @@@ κι άλλους χαρταετούς. Ποιος είναι ο συνολικός αριθμός των χαρταετών που έφτιαξε ο Λέων;</string>
+  <string name="Add_sandwich_1">Ο Σαμ αγόρασε ### σάντουιτς. Μετά αγόρασε @@@ κι άλλα σάντουιτς. Ποιος είναι ο συνολικός αριθμός των σάντουιτς που αγόρασε ο Sam;</string>
+  <string name="Add_leopard_1">### λεοπαρδάλεις είναι σε ένα δέντρο, και @@@ σκαρφαλώνουν ακόμη. Πόσες λεοπαρδάλεις υπάρχουν τώρα στο δέντρο;</string>
+  <string name="WordProblem">Πρόβλημα λέξεων</string>
+  <string name="Carry_Forward">Πρόσθεση</string>
+  <string name="Sub_butterfly_1">Υπήρχαν ### πεταλούδες που πετούσαν στον κήπο. @@@ πεταλούδες πέταξαν μακριά. Πόσες πεταλούδες έχουν απομείνει στον κήπο;</string>
+  <string name="Sub_butterfly_2">Η Έμμα είδε ### πεταλούδες το πρωί. Το απόγευμα, είδε @@@ λιγότερες πεταλούδες. Πόσες πεταλούδες είδε το απόγευμα;</string>
+  <string name="Sub_cat_1">Ο Ήθαν είδε ### γάτες να κάθονται σε έναν φράχτη. @@@ γάτες έφυγαν τρέχοντας όταν γάβγισε ένας σκύλος. Πόσες γάτες είναι ακόμα στον φράχτη;</string>
+  <string name="Sub_cat_2">Η Μία έχει ### γάτες στην αυλή της. @@@ γάτες πήγαν να πιουν γάλα. Πόσες γάτες είναι ακόμα στην αυλή;</string>
+  <string name="Sub_cow_1">Υπήρχαν ### αγελάδες που έπιναν νερό δίπλα στο ποτάμι. @@@ αγελάδες τελείωσαν να πίνουν και έφυγαν. Πόσες αγελάδες είναι ακόμα δίπλα στο ποτάμι;</string>
+  <string name="Sub_cow_2">Υπήρχαν ### αγελάδες που έτρωγαν σανό. @@@ αγελάδες σταμάτησαν να τρώνε. Πόσες αγελάδες τρώνε ακόμα σανό;</string>
+  <string name="Sub_deer_1">Υπήρχαν ### ελάφια που διέσχιζαν τον δρόμο. @@@ ελάφια είχαν ήδη διασχίσει. Πόσα ελάφια περιμένουν ακόμα να περάσουν;</string>
+  <string name="Sub_deer_2">Υπήρχαν ### ελάφια που σκαρφάλωναν σε έναν λόφο. @@@ ελάφια σταμάτησαν και κατέβηκαν πίσω. Πόσα ελάφια σκαρφαλώνουν ακόμα;</string>
+  <string name="Sub_dog_1">Υπήρχαν ### σκυλιά που έπαιζαν στην αυλή. @@@ σκυλιά έτρεξαν μέσα στο σπίτι. Πόσα σκυλιά είναι ακόμα στην αυλή;</string>
+  <string name="Sub_dog_2">Υπήρχαν ### σκυλιά μέσα σε ένα κλουβί. @@@ σκυλιά βγήκαν έξω. Πόσα σκυλιά είναι ακόμα στο κλουβί;</string>
+  <string name="Sub_giraffe_1">Κάτω από ένα σκιερό δέντρο, ### καμηλοπαρδάλεις ξάπλωσαν. Μετά από λίγο, @@@ καμηλοπαρδάλεις σηκώθηκαν και έφυγαν. Πόσες καμηλοπαρδάλεις ξεκουράζονταν ακόμα;</string>
+  <string name="Sub_giraffe_2">Μια ομάδα από ### καμηλοπαρδάλεις περπατούσε στο ψηλό γρασίδι. Ξαφνικά, @@@ καμηλοπαρδάλεις γύρισαν πίσω. Πόσες καμηλοπαρδάλεις συνέχισαν να περπατούν;</string>
+  <string name="Sub_ladybugs_1">### πασχαλίτσες κάθισαν σε ένα μεγάλο πράσινο φύλλο. Μετά @@@ πέταξαν μακριά. Πόσες πασχαλίτσες έμειναν στο φύλλο;</string>
+  <string name="Sub_ladybug_2">Στο ηλιοβασίλεμα, ### πασχαλίτσες πέταξαν μαζί. Οι @@@ προσγειώθηκαν σε ένα κλαδί δέντρου. Πόσες πασχαλίτσες πετούσαν ακόμα;</string>
+  <string name="Sub_owl_1">### κουκουβάγιες πέταξαν κάτω από το λαμπερό φως του φεγγαριού. @@@ κουκουβάγιες προσγειώθηκαν σε ένα δέντρο. Πόσες κουκουβάγιες πετούσαν ακόμα;</string>
+  <string name="Sub_owl_2">Ένα κλαδί είχε ### κουκουβάγιες παραταγμένες στη σειρά. @@@ κουκουβάγιες άνοιξαν τα φτερά τους και έφυγαν. Πόσες κουκουβάγιες έμειναν στο κλαδί;</string>
+  <string name="Sub_panda_1">### πάντα έτρωγαν μπαμπού μαζί. @@@ πάντα τελείωσαν το φαγητό και έφυγαν. Πόσα πάντα έτρωγαν ακόμα μπαμπού;</string>
+  <string name="Sub_panda_2">Μια ομάδα ### πάντα κάθισε μαζί. @@@ πάντα έφυγαν για να βρουν κι άλλο μπαμπού. Πόσα πάντα έμειναν στην ομάδα;</string>
+  <string name="Sub_parrot_1">Ένα σμήνος από ### παπαγάλους πετούσε μαζί. @@@ παπαγάλοι προσγειώθηκαν σε μια στέγη. Πόσοι παπαγάλοι συνέχισαν να πετάνε;</string>
+  <string name="Sub_parrot_2">Ένα δέντρο είχε ### παπαγάλους κοντά στη φωλιά τους. @@@ παπαγάλοι πέταξαν μέσα. Πόσοι παπαγάλοι έμειναν έξω;</string>
+  <string name="Sub_peacock_1">### παγώνια χόρευαν στον κήπο. @@@ παγώνια σταμάτησαν να χορεύουν. Πόσα παγώνια συνέχισαν να χορεύουν;</string>
+  <string name="Sub_peacock_2">Κατά τη δύση του ηλίου, ### παγώνια συγκεντρώθηκαν στο πάρκο. @@@ παγώνια πέταξαν μακριά. Πόσα παγώνια ήταν ακόμα εκεί;</string>
+  <string name="Sub_rooster_1">Το πρωί, ### κόκορες συγκεντρώθηκαν κοντά στο φαγητό. @@@ κόκορες τελείωσαν το φαγητό και έφυγαν. Πόσα κόκορα έτρωγαν ακόμα;</string>
+  <string name="Sub_rooster_2">### κόκορες κάθονταν σε έναν φράχτη. @@@ κόκορες πήδηξαν κάτω. Πόσα κόκορα έμειναν στον φράχτη;</string>
+  <string name="Sub_snail_1">Ένα μονοπάτι κήπου είχε ### σαλιγκάρια που κινούνταν αργά. @@@ σαλιγκάρια μπήκαν στο γρασίδι. Πόσα σαλιγκάρια έμειναν στο μονοπάτι;</string>
+  <string name="Sub_snail_2">### σαλιγκάρια ήταν κοντά σε μερικά λουλούδια. @@@ σαλιγκάρια απομακρύνθηκαν σύρνοντας. Πόσα σαλιγκάρια ήταν ακόμα κοντά στα λουλούδια;</string>
+  <string name="Sub_tiger_1">### τίγρεις ξεκουράζονταν στη ζούγκλα. @@@ τίγρεις έφυγαν. Πόσες τίγρεις έμειναν ξεκουρασμένες;</string>
+  <string name="Sub_tiger_2">### τίγρεις εθεάθησαν να περπατούν στο δάσος. @@@ τίγρεις τράπηκαν σε φυγή. Πόσες τίγρεις περπατούσαν ακόμα;</string>
+  <string name="Sub_zebra_1">Ένα κοπάδι από ### ζέβρες ήρθε να πιει νερό. @@@ ζέβρες έφυγαν αφού ήπιαν. Πόσες ζέβρες έμειναν δίπλα στο ποτάμι;</string>
+  <string name="Sub_zebra_2">Μια ομάδα είχε ### μωρά ζέβρες που έπαιζαν μαζί. @@@ πουλάρια επέστρεψαν στις μητέρες τους. Πόσα μωρά ζέβρες έπαιζαν ακόμα;</string>
+  <string name="Sub_bicycle_1">Υπήρχαν ### ποδήλατα παρκαρισμένα κοντά στην παιδική χαρά. @@@ ποδήλατα μεταφέρθηκαν σπίτι. Πόσα ποδήλατα ήταν ακόμα στην παιδική χαρά;</string>
+  <string name="Sub_bicycle_2">Ένα κατάστημα ποδηλάτων είχε ### ποδήλατα έξω. Πουλήθηκαν @@@ ποδήλατα. Πόσα ποδήλατα έμειναν στην έκθεση;</string>
+  <string name="Sub_hippo_1">### ιπποπόταμοι έτρωγαν χόρτο μαζί. @@@ ιπποπόταμοι σταμάτησαν να τρώνε. Πόσοι ιπποπόταμοι συνέχισαν να τρώνε χόρτο;</string>
+  <string name="Sub_hippo_1">Ένα κοπάδι είχε ### ιπποπόταμους μαζεμένους. @@@ ιπποπόταμοι απομακρύνθηκαν. Πόσοι ιπποπόταμοι έμειναν στο κοπάδι;</string>
+  <string name="Sub_airplane_1">Το πρωί, ### αεροπλάνα ήταν έτοιμα για πτήσεις. @@@ αεροπλάνα έφυγαν σύμφωνα με το πρόγραμμα. Πόσα αεροπλάνα περίμεναν ακόμα;</string>
+  <string name="Sub_airplane_2">Το βράδυ, ήταν προγραμματισμένο να πετάξουν ### αεροπλάνα. @@@ αεροπλάνα είχαν ήδη αναχωρήσει. Πόσα αεροπλάνα περίμεναν ακόμη να αναχωρήσουν;</string>
+  <string name="Sub_horse_1">### άλογα ήταν μέσα στον στάβλο. @@@ άλογα βγήκαν έξω. Πόσα άλογα έμειναν στον στάβλο;</string>
+  <string name="Sub_horse_2">### άλογα εντοπίστηκαν στην κοιλάδα. @@@ άλογα ανέβηκαν τον λόφο. Πόσα άλογα έμειναν στην κοιλάδα;</string>
+  <string name="Sub_fish_1">### ψάρια κολυμπούσαν σε μια λίμνη. @@@ ψάρια κολύμπησαν μακριά. Πόσα ψάρια ήταν ακόμα στη λίμνη;</string>
+  <string name="Sub_fish_2">Ένας ψαράς εντόπισε ### ψάρια κοντά στη βάρκα του. @@@ ψάρια κολύμπησαν μακριά γρήγορα. Πόσα ψάρια έμειναν κοντά στη βάρκα;</string>
+  <string name="Sub_goat_1">Ένας αγρότης είχε ### κατσίκες να βοσκούν στο χωράφι. @@@ κατσίκες απομακρύνθηκαν προς τον λόφο. Πόσες κατσίκες έβοσκαν ακόμα στο χωράφι;</string>
+  <string name="Sub_goat_2">Υπήρχαν ### κατσίκες που ξεκουράζονταν κοντά στον αχυρώνα. @@@ κατσίκες έτρεξαν έξω να παίξουν στην αυλή. Πόσες κατσίκες έμειναν κοντά στον αχυρώνα;</string>
+  <string name="Sub_monkey_1">### πίθηκοι έπαιξαν στο δέντρο μάνγκο. @@@ πίθηκοι πήδηξαν κάτω. Πόσες πίθηκοι έμειναν στο δέντρο;</string>
+  <string name="Sub_monkey_2">Στον ζωολογικό κήπο, ### μαϊμούδες κουνιόντουσαν σε σχοινιά. @@@ μαϊμούδες πήγαν να φάνε. Πόσες μαϊμούδες κουνιόντουσαν ακόμα;</string>
+  <string name="Sub_carrot_1">### καρότα ήταν σε ένα καλάθι. @@@ καρότα φαγώθηκαν. Πόσα καρότα έμειναν;</string>
+  <string name="Sub_carrot_2">Ένα κουνέλι βρήκε ### καρότα. @@@ καρότα κύλησαν μακριά. Πόσα καρότα ήταν ακόμα εκεί;</string>
+  <string name="Sub_candies_1">### καραμέλες υπήρχαν στο βάζο. @@@ καραμέλες βγήκαν έξω. Πόσες καραμέλες έμειναν μέσα;</string>
+  <string name="Sub_candies_2">Υπήρχαν ### καραμέλες στο τραπέζι. @@@ καραμέλες φαγώθηκαν. Πόσες καραμέλες έμειναν;</string>
+  <string name="Sub_cupcake_1">### cupcakes ήταν σε ένα δίσκο. @@@ cupcakes μοιράστηκαν. Πόσα cupcakes έμειναν;</string>
+  <string name="Sub_cupcake_2">Ο ζαχαροπλάστης έφτιαξε ### cupcakes. Πουλήθηκαν @@@ cupcakes. Πόσα cupcakes έμειναν;</string>
+  <string name="Sub_pinwheel_1">### ανεμόμυλοι γύρισαν στον κήπο. @@@ ανεμόμυλοι σταμάτησαν να γύριζαν. Πόσοι γύριζαν ακόμα;</string>
+  <string name="Sub_pinwheel_2">Υπήρχαν ### ανεμόμυλοι δίπλα στον φράχτη. @@@ ανεμόμυλοι εξαφανίστηκαν. Πόσοι έμειναν;</string>
+  <string name="Sub_broccoli_1">### κομμάτια μπρόκολου ήταν στο πιάτο. @@@ κομμάτια φαγώθηκαν. Πόσα κομμάτια έμειναν;</string>
+  <string name="Sub_broccoli_2">Ένας σεφ μαγείρεψε ### κλωνάρια μπρόκολου. Σερβίρονταν τα @@@. Πόσα έμειναν;</string>
+  <string name="Sub_robot_1">### ρομπότ στάθηκαν σε μια ουρά. @@@ ρομπότ έφυγαν. Πόσα ρομπότ έμειναν;</string>
+  <string name="Sub_robot_2">Υπήρχαν ### ρομπότ στο εργαστήριο. @@@ ρομπότ απενεργοποιήθηκαν. Πόσα ήταν ακόμα σε λειτουργία;</string>
+  <string name="Sub_car_1">### αυτοκίνητα ήταν παρκαρισμένα έξω. @@@ αυτοκίνητα έφυγαν. Πόσα αυτοκίνητα έμειναν παρκαρισμένα;</string>
+  <string name="Sub_car_2">Στον αγώνα, ξεκίνησαν ### αυτοκίνητα. @@@ αυτοκίνητα τερμάτισαν νωρίς. Πόσα εξακολουθούσαν να αγωνίζονται;</string>
+  <string name="Sub_bird house_1">### πουλιά κάθισαν κοντά στο σπιτάκι. @@@ πέταξαν μακριά. Πόσα πουλιά έμειναν;</string>
+  <string name="Sub_bird house_2">Υπήρχαν ### φωλιές στο σπιτάκι πουλιών. Οι @@@ έπεσαν. Πόσες φωλιές έμειναν;</string>
+  <string name="Sub_ball_1">### μπάλες ήταν στην παιδική χαρά. @@@ μπάλες κύλησαν μακριά. Πόσες ήταν ακόμα εκεί;</string>
+  <string name="Sub_ball_2">Ένα κουτί είχε ### μπάλες. @@@ μπάλες αναπήδησαν έξω. Πόσες μπάλες έμειναν;</string>
+  <string name="Sub_drum_1">### τύμπανα ήταν στη σκηνή. @@@ τύμπανα αφαιρέθηκαν. Πόσα έμειναν στη σκηνή;</string>
+  <string name="Sub_drum_2">Η μπάντα είχε ### ντραμς. @@@ ντραμς χάλασαν. Πόσα καλά ντραμς είχαν απομείνει;</string>
+  <string name="Sub_cake_1">### κέικ ψήθηκαν σήμερα. @@@ κέικ φαγώθηκαν. Πόσα κέικ έμειναν;</string>
+  <string name="Sub_cake_2">Ένας αρτοποιός στόλισε ### κέικ. Πουλήθηκαν @@@ κέικ. Πόσα κέικ είχαν απομείνει;</string>
+  <string name="Sub_fruits_1">### φρούτα ήταν στο καλάθι. @@@ φρούτα έπεσαν έξω. Πόσα φρούτα έμειναν μέσα;</string>
+  <string name="Sub_fruits_2">Ένα κατάστημα είχε ### φρούτα σε έκθεση. Πουλήθηκαν τα @@@. Πόσα φρούτα έμειναν;</string>
+  <string name="Sub_flower_1">### λουλούδια άνθισαν στον κήπο. @@@ λουλούδια μαζεύτηκαν. Πόσα λουλούδια έμειναν;</string>
+  <string name="Sub_flower_2">Υπήρχαν ### λουλούδια σε ένα βάζο. Τα @@@ μαραμένα. Πόσα ήταν φρέσκα;</string>
+  <string name="Sub_pig_1">### γουρούνια ήταν στο μαντρί. @@@ γουρούνια έφυγαν τρέχοντας. Πόσα γουρούνια έμειναν;</string>
+  <string name="Sub_pig_2">Ένας αγρότης είχε ### γουρούνια. @@@ γουρούνια πήγαν στη λίμνη. Πόσα γουρούνια έμειναν;</string>
+  <string name="Sub_top_1">### σβούρες ήταν στο πάτωμα. Οι @@@ σταμάτησαν να γυρίζουν. Πόσες συνέχισαν να γυρίζουν;</string>
+  <string name="Sub_top_2">Υπήρχαν ### καλύμματα στο κουτί. Τα @@@ αφαιρέθηκαν. Πόσα καλύμματα έμειναν;</string>
+  <string name="Sub_donut_1">### ντόνατς ήταν στο δίσκο. @@@ ντόνατς φαγώθηκαν. Πόσα ντόνατς έμειναν;</string>
+  <string name="Sub_donut_2">Το μαγαζί έφτιαξε ### ντόνατς. Πουλήθηκαν @@@. Πόσα ντόνατς έμειναν;</string>
+  <string name="Sub_giftbox_1">### κουτιά δώρων ήταν στο τραπέζι. @@@ ανοίχτηκαν. Πόσα έμειναν κλειστά;</string>
+  <string name="Sub_giftbox_2">Υπήρχαν ### κουτιά δώρων κάτω από το δέντρο. Τα @@@ κλάπηκαν. Πόσα έμειναν;</string>
+  <string name="Sub_taco_1">### τάκος ήταν στο πιάτο. @@@ τάκος φαγώθηκαν. Πόσα τάκος έμειναν;</string>
+  <string name="Sub_taco_2">Ένας σεφ έφτιαξε ### τάκος. Σερβίρονταν @@@. Πόσα τάκος έμειναν;</string>
+  <string name="Sub_kite_1">### χαρταετοί πέταξαν στον ουρανό. @@@ χαρταετοί έπεσαν κάτω. Πόσοι χαρταετοί πετούσαν ακόμα;</string>
+  <string name="Sub_kite_2">Υπήρχαν ### χαρταετοί στην παραλία. Οι @@@ έπεσαν έξω. Πόσοι χαρταετοί έμειναν;</string>
+  <string name="Sub_sandwich_1">### σάντουιτς ήταν στο τραπέζι. @@@ σάντουιτς φαγώθηκαν. Πόσα έμειναν;</string>
+  <string name="Sub_sandwich_2">Ένας σεφ έφτιαξε ### σάντουιτς. Σερβίρονταν @@@. Πόσα σάντουιτς έμειναν;</string>
+  <string name="Add_Pyramid">Πυραμίδα πρόσθεσης</string>
+</resources>

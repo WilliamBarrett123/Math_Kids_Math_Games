@@ -1,0 +1,829 @@
+<resources>
+  <string name="txt_more_apps">LISÄÄ PIENOISSOVELLUKSIA</string>
+  <string name="txt_holdfor">Paina 3 sekuntia</string>
+  <string name="txt_title_for_grown_ups">AIKUISILLE</string>
+  <string name="txt_userguide_for_grown_ups">Syötä numerot ja pääset käyttämään</string>
+  <string name="txt_digit_Zero">Nolla</string>
+  <string name="txt_digit_One">Yksi</string>
+  <string name="txt_digit_Two">Kaksi</string>
+  <string name="txt_digit_Three">Kolme</string>
+  <string name="txt_digit_Four">Neljä</string>
+  <string name="txt_digit_Five">Viisi</string>
+  <string name="txt_digit_Six">Kuusi</string>
+  <string name="txt_digit_Seven">Seitsemän</string>
+  <string name="txt_digit_Eight">Kahdeksan</string>
+  <string name="txt_digit_Nine">Yhdeksän</string>
+  <string name="txt_stickershowcase_toys">LELUJA</string>
+  <string name="txt_stickershowcase_stickers">TARROJA</string>
+  <string name="txt_stickershowcase_stamps">LEIMOJA</string>
+  <string name="txt_stickershowcase_notoys">Ei yhtään lelua</string>
+  <string name="txt_stickershowcase_nostickers">Ei yhtään tarroja</string>
+  <string name="txt_stickershowcase_nostamps">Ei yhtään postimerkkiä</string>
+  <string name="txt_pick_a_stamp">VALITSE LEIMA</string>
+  <string name="txt_collectsticker">KERÄÄ TARRA</string>
+  <string name="txt_collectyourGift">KERÄÄ LAHJASI</string>
+  <string name="txt_rateUsReview_microsoft">Vieraile kaupassa arvioidaksesi</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Vieraile kaupassa arvioidaksesi</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Vieraile kaupassa arvioidaksesi</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Vieraile kaupassa arvioidaksesi</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Vieraile kaupassa arvioidaksesi</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Taustamusiikki</string>
+  <string name="text_sound">Ääni</string>
+  <string name="text_learn_with">Numeroalue</string>
+  <string name="text_level">Taso ###</string>
+  <string name="text_generate_report">Luo raportti</string>
+  <string name="text_view_report_card">Näytä raporttikortti</string>
+  <string name="text_visible_mode">Näkyvä tila</string>
+  <string name="text_VISIBLE_MODE">Näkyvä tila</string>
+  <string name="text_share">Jaa</string>
+  <string name="txt_report_card">Raporttikortti</string>
+  <string name="txt_add">LISÄTÄ</string>
+  <string name="txt_sub">VÄHENTÄÄ</string>
+  <string name="txt_number">Nro</string>
+  <string name="txt_date_time">Pvm/Aika</string>
+  <string name="txt_equation">Yhtälö</string>
+  <string name="txt_mode">Tila</string>
+  <string name="txt_retry">Yritä uudelleen</string>
+  <string name="txt_no_report">Ei raporttia</string>
+  <string name="txt_yes">KYLLÄ</string>
+  <string name="txt_no">EI</string>
+  <string name="txt_delete_report">Haluatko varmasti poistaa kaikki raporttikorttitiedot?</string>
+  <string name="txt_press_again_exit">Poistu painamalla uudelleen</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Valitse kieli</string>
+  <string name="txt_Select_Language">Valitse kieli</string>
+  <string name="txtLanguages">Kielet</string>
+  <string name="txtOtherLanguages">Muut kielet</string>
+  <string name="txt_Report_a_Translation_error">Ilmoita käännösvirheestä</string>
+  <string name="txt_send">LÄHETÄ</string>
+  <string name="txtReadyBundle">Lataaminen alkaa hetken kuluttua.</string>
+  <string name="txtDownloadingBundle">Ladataan kielipakettia.</string>
+  <string name="txt_ConnectionError">Yhteysvirhe</string>
+  <string name="txt_InstallNow">Asenna nyt</string>
+  <string name="txt_PostSuccess">Viesti lähetetty onnistuneesti</string>
+  <string name="txt_Play_now">Pelaa nyt</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Lapsen profiili</string>
+  <string name="txtBtnAdd">LISÄÄ LAPSI</string>
+  <string name="txtAddHelp">Lisää profiili ja tallenna asetukset ja raportit jokaiselle lapsellesi.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Lapsen nimi</string>
+  <string name="txtEnterName">Syötä nimi...</string>
+  <string name="txtMaxLimit">Enintään 20 nimeä</string>
+  <string name="txtEditProfile">Muokkaa profiilia</string>
+  <string name="txtDeleteProfile">Poista profiili</string>
+  <string name="txtDeleteProfileConfirm">Haluatko varmasti poistaa henkilön ### profiilin?</string>
+  <string name="txtNo">EI</string>
+  <string name="txtYes">KYLLÄ</string>
+  <string name="txtNameDuplication">Tämä nimi on jo olemassa!</string>
+  <string name="txtUserChangeMsg">Profiilin vaihtaminen onnistui.</string>
+  <string name="txtShareWithParents">Jaa vanhemmille, kouluille, päivähoidolle ja muille</string>
+  <string name="txtBtnUpdate">Päivitä</string>
+  <string name="txtNew">Uusi</string>
+  <string name="txt_DownloadNow">Lataa nyt</string>
+  <string name="text_showhint">Näytä vihje oppiessasi</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Vaihda kieltä</string>
+  <string name="txtInitHelpChangeLangDesc">Valitse ### eri kielestä, joita voit käyttää oppiessasi.</string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">Asetusten mukauttaminen</string>
+  <string name="txtInitHelpCustomSettingDesc">Mukauta asetuksia oppimisen parantamiseksi.</string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">Yhteys katkennut</string>
+  <string name="txt_connectionlost_detail">Ongelma yhteyden luomisessa Internetiin. Tarkista verkkoasetukset.</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">OK</string>
+  <string name="txtSelectLanguageInfo">Haluatko oppia kielellä ### vai englanniksi?</string>
+  <string name="txtShowIntroAtStart">Näytä hahmo Johdanto käynnistettäessä</string>
+  <string name="txtLanguages">Kieli</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">Suorita ensin opetusohjelma</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">Tutustu tarinaamme</string>
+  <string ScaleFactor="1" name="txtloading">Ladataan...</string>
+  <string ScaleFactor="1" name="txt_gamename">Värit &amp; Muodot - Opi värit</string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">Värit &amp; Muodot - Opi värit</string>
+  <string ScaleFactor="1" name="txtBtnTab">VÄLILEHTI</string>
+  <string ScaleFactor="1" name="txtBtnBack">TAKAISIN</string>
+  <string ScaleFactor="1" name="txtBtnSelect">VALITSE</string>
+  <string ScaleFactor="1" name="txtBtnDelete">POISTA</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NAVIGOI</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Paina mitä tahansa näppäintä jatkaaksesi...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">POISTU PELISTÄ?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Haluatko varmasti poistua?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Tue meitä arvioimalla sovellus.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Arvioi meidät</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Myöhemmin</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Tapoja tukea meitä</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Palkitse lapsesi t-paidalla ja tue meitä.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Paras ilmainen tapa tukea meitä on jakaa lasten pelejämme koulujen, ystävien, sosiaalisen median ja lehdistön (TV ja sanomalehdet) kautta.</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Mitäpä jos palkitsisit lastasi ostamalla T-paitoja ja näyttämällä rakastamiasi hahmoja.</string>
+  <string ScaleFactor="1" name="txtShareCap">JAA</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">VAHVISTA</string>
+  <string name="txt_shopConfirmDetail">Sinut ohjataan verkkosivulle jatkamaan. Haluatko varmasti poistua?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">Laajempi valikoima, toimitukset kaikkialle maailmaan</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Kerro meille mitä mieltä olet pelistä?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Erittäin huono</string>
+  <string ScaleFactor="1" name="txtVeryGood">Erittäin hyvä</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Kyllä, arvostele &amp; tue meitä</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Kiitos palautteesta</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">Sertifikaatti</string>
+  <string name="txtCertificates">SERTIFIKAATTI</string>
+  <string name="txtUnlocked">Avattu</string>
+  <string name="txtCongratulations">Onnittelut</string>
+  <string name="txtCertificateUnlocked">Uusi sertifikaatti on avattu!</string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">pvm</string>
+  <string name="txtPrint">Tulosta</string>
+  <!--  -->
+  <string name="txt_certi_title_1">PALKINTO</string>
+  <string name="txt_certi_title_2">ERINOMAINEN</string>
+  <string name="txt_certi_title_3">TÄHTIPALKINTO</string>
+  <string name="txt_certi_title_4">HIENOA TYÖTÄ</string>
+  <string name="txt_certi_title_5">HUIPPU</string>
+  <string name="txt_certi_title_6">FANTASTINEN</string>
+  <string name="txt_certi_title_7">SAAVUTUS</string>
+  <string name="txt_certi_title_8">HYVIN TEHTY</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">VAHVISTA</string>
+  <string name="txt_shopConfirmDetail">Sinut ohjataan verkkosivulle jatkamaan. Haluatko varmasti poistua?</string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Olet ansainnut sertifikaatin!</string>
+  <string name="txtEnterNm">Kirjoita lapsen nimi.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Inspiroi lasta tulostamalla sertifikaatti</string>
+  <string name="txtGreat">HIENOA</string>
+  <string name="txtTapToGetCerti">Hae sertifikaatti napauttamalla.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Laske kohteet 20 kertaa</string>
+  <string name="Math_Task_1_End">Laskettiin kohteet 20 kertaa</string>
+  <string name="Math_Task_2_Start">Ratkaise 30 yhteenlaskupulmaa</string>
+  <string name="Math_Task_2_End">Ratkaistu 30 yhteenlaskupulmaa</string>
+  <string name="Math_Task_3_Start">Saa yhteenlaskuhauskaa 30 kertaa</string>
+  <string name="Math_Task_3_End">Saatu yhteenlaskuhauskuutta 30 kertaa</string>
+  <string name="Math_Task_4_Start">Suorita 30 yhteenlaskutehtävää</string>
+  <string name="Math_Task_4_End">Suoritettu 30 yhteenlaskutehtävää</string>
+  <string name="Math_Task_5_Start">Vertaa kohteita 30 kertaa</string>
+  <string name="Math_Task_5_End">Verrattu kohteita 30 kertaa</string>
+  <string name="Math_Task_6_Start">Ratkaise 30 vähennyslaskupulmaa</string>
+  <string name="Math_Task_6_End">Ratkaistu 30 vähennyslaskupulmaa</string>
+  <string name="Math_Task_7_Start">Suorita hupivähennyslaskua 30 kertaa</string>
+  <string name="Math_Task_7_End">Suoritettu hupivähennyslaskua 30 kertaa</string>
+  <string name="Math_Task_8_Start">Suorita 30 vähennyslaskutehtävää</string>
+  <string name="Math_Task_8_End">Suoritettu 30 vähennyslaskutehtävää</string>
+  <string name="Math_Task_1_Completed">Olet ansainnut sertifikaatin! Laskettiin kohteet 20 kertaa</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Olet ansainnut sertifikaatin! Ratkaistu 30 yhteenlaskupulmaa</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Olet ansainnut sertifikaatin! Saatu yhteenlaskuhauskuutta 30 kertaa</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Olet ansainnut sertifikaatin! Suoritettu 30 yhteenlaskutehtävää</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Olet ansainnut sertifikaatin! Verrattu kohteita 30 kertaa</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Olet ansainnut sertifikaatin! Ratkaistu 30 vähennyslaskupulmaa</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Olet ansainnut sertifikaatin! Suoritettu hupivähennyslaskua 30 kertaa</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Olet ansainnut sertifikaatin! Suoritettu 30 vähennyslaskutehtävää</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Yhdistä Pinterestiin</string>
+  <string name="txtconnectingPintrestMsg">Sinut uudelleenohjataan Pinterest. Haluatko varmasti poistua?</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">JATKA</string>
+  <string name="txtinspirationbehind">Inspiraatio lasten sovellusten takana</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Tulostettavat</string>
+  <string name="txtOurStorySettingsNew">Tarinamme</string>
+  <string name="txt_why_its_free">TARINAMME</string>
+  <string name="txtAllowCouting">Salli laskeminen</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Lasketaan</string>
+  <string name="Adding Puzzle">Yhteenlaskupulma</string>
+  <string name="Adding Fun">Yhteenlaskuhupia</string>
+  <string name="Adding Quiz">Yhteenlaskukysely</string>
+  <string name="Compare">Vertailu</string>
+  <string name="Subtracting Puzzle">Vähennyslaskukysely</string>
+  <string name="Subtracting Fun">Vähennyslakuhupia</string>
+  <string name="Subtracting Quiz">Vähennyslaskukysely</string>
+  <string ScaleFactor="1" name="txt_gamename">Matikkaa lapsille - yhteenlasku, vähennyslasku, laskeminen</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Matikkaa lapsille - yhteenlasku, vähennyslasku, laskeminen</string>
+  <string name="txtPrintableSmall">Tulostettavat</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Koti</string>
+  <string name="txt_menuoption_settings">Asetukset</string>
+  <string name="txt_menuoption_shop">Kauppa</string>
+  <string name="txt_menuoption_kidsapps">Lasten sovellukset</string>
+  <string name="txt_menuoption_parentapps">Vanhempien sovellukset</string>
+  <string name="txt_menuoption_worksheets">Laskentataulukot</string>
+  <string name="txt_messagefromdave">VIESTI HENKILÖLTÄ</string>
+  <string name="txt_getfeaturedon">PÄÄSE ESILLE INSTAGRAMISSA</string>
+  <string name="txt_tagus">Merkkaa @RV AppStudios ja ole osa tarinoitamme</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Yhtiön RV AppStudios perustaja)</string>
+  <string name="txt_takeaphoto-videoof">Ota valokuva/video sovellustamme käyttävästä lapsesta tai hänen vastaanottaessaan todistuksen.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Jaa &amp; merkkaa meidät Instagramissa @RV AppStudios ja saa mahdollisuus päästä esille.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Appeja lapsille yhtiöltä RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Appeja vanhemmiille yhtiöltä RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">TEHTÄVÄARKKEJA</string>
+  <string name="txt_coloringpage">VÄRITYSSIVU</string>
+  <string name="txt_downloadmoreworksheet">Lataa lisätehtäväarkki Pinterest-sivultamme</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Peliemme 14 miljoonalla kuukausittaisella ilmaisella lasten appien latauksella meistä on tullut yksi maailman suurimmista lasten opetussovellusten kehittäjistä. "Ja teemme sen edelleen täysin ILMAISEKSI."
+
+  "Miksi?" – Kun minusta tuli vanhempi, tiesin tekeväni kaiken antaakseni tyttärelleni parhaan koulutuksen ja parhaat mahdollisuudet hänen kasvaessaan isoksi. Uskon, että monet vanhemmat tunnustavat kaipuun antaa lapsilleen enemmän mahdollisuuksia tai parempaa koulutusta kuin heillä itsellään oli.
+
+  Kaikilla vanhemmilla ei kuitenkaan ole aikaa tai kykyä auttaa lapsiaan kotitehtävissään. Ja niin paljon kuin halusin parasta tyttärelleni, tunsin olevan epäoikeudenmukaista, että kymmenet miljoonat lapset ympäri maailmaa eivät saisi samanlaista mahdollisuutta edes perusopetukseen tai edes oppia lukemaan ja kirjoittamaan.
+
+  Tajusin, että minulla oli sovelluskehittäjänä mahdollisuus tehdä asialle jotain. – "Voittoa tavoittelematta", vaan antaa lapsille kaikkialla maailmassa aikainen mahdollisuus aloittaa aikaisin välttämättömien taitojen oppiminen: laskeminen, oikeinkirjoittaminen ja matematiikka.
+
+  Tämän saavuttamiseksi meidän oli varmistettava appien ja pelien turvallisuus lapsille. Joten päätin sijoittaa voitot toisesta sovelluskehitysliiketoiminnastamme tehdäksemme "100 % ILMAISIA" lasten appeja "ILMAN MAINOKSIA" ja "ILMAN" apin sisäisiä ostoksia. – Ainoat, joiden pitäisi hyötyä näistä sovelluksista, ovat lapset.</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">JATKA</string>
+  <string name="txtinspirationbehind">Inspiraatio lasten sovellusten takana</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">TARINAMME</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">TARINAMME</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">MIKSI ANTAMINEN TAKAISIN ON TÄRKEÄÄ?</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">MITEN VOIMME PITÄÄ LASTENSOVELLUKSEMME ILMAISINA?</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">Yhdistä Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Sinut uudelleenohjataan Pinterest. Haluatko varmasti poistua?</string>
+  <string name="txtWatchUsYouTube">Katso meitä YouTubessa</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">Arvostele nyt</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">JATKA</string>
+  <string name="txtPrint">Tulosta</string>
+  <string name="txtconnectingPintrest">Yhdistä Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Sinut uudelleenohjataan Pinterest. Haluatko varmasti poistua?</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">LATAA NYT</string>
+  <string name="txt_Play_nowCap">PELAA NYT</string>
+  <string name="txt_ConnectionErrorMsg1">Internet-yhteys epäonnistui</string>
+  <string name="txt_ConnectionErrorMsg2">Yritä myöhemmin uudelleen!</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Yhtälö</string>
+  <string name="txtSubPracticeTitle">Vähennyslaskun harjoittelu</string>
+  <string name="txtAddPracticeTitle">Yhteenlaskun harjoittelu</string>
+  <string name="txtBeginner">Aloittelija</string>
+  <string name="txtIntermediate">Keskitaso</string>
+  <string name="txtAdvance">Edistynyt</string>
+  <string name="txtSubPracticeTitle">Vähennyslaskun harjoittelu</string>
+  <string name="txtAddPracticeTitle">Yhteenlaskun harjoittelu</string>
+  <string name="txtBeginner">Aloittelija</string>
+  <string name="txtIntermediate">Keskitaso</string>
+  <string name="txtAdvance">Edistynyt</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+  about where you want them to be in 10, 20 or 30
+  years. What opportunities do you want them to have
+  in life? A good education? A position from where they
+  can make a positive difference for their families and
+  community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+  opportunities we as parents and communities can
+  give them. But not all parents have the time or ability
+  to help their children with their homework. And most
+  of us, as parents, can probably recognize the wish for
+  our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+  give my daughter the best education and the best
+  opportunities as she grows up. But at the same time,
+  I felt it was unfair that tens of millions of kids all over the
+  world, would not get the same opportunity for even a basic
+  education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+  branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+  start learning essential skills like counting, spelling,
+  and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+  having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+  apps that lets children develop their creativity and test
+  their intelligence with fun jigsaw puzzles, challenging
+  memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+  available in all corners of the world.
+  That is our opportunity as app developers to reach
+  and make a positive difference for children
+  who do not have access to schools or books,
+  but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+  corners of the world an educational advantage,
+  but especially to teach those kids who otherwise
+  don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+  ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+  living doing what we love - developing gaming apps
+  (for adults). Now we want to give back to children
+  around the world by investing our company profits
+  into creating some of the most popular apps for
+  toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+  rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+  in-app promotions. That’s why we keep our kids’
+  applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+  learning apps available to all children, is by keeping it
+  100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+  how much their children have developed using our apps
+  and playing our games, it shows us that our tiny
+  contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+  and make a difference. Especially that the children
+  getting a head start through pre-school learning apps,
+  becomes the future leaders of change in their
+  communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+  our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+  two-thirds (12 million) of those downloads come from
+  parents wanting to help their kids begin learning from
+  an early age, effectively reducing the risk of falling
+  behind as they start in school. It’s these millions of
+  children around the world getting a chance for a better
+  future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">suomi</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Odota</string>
+  <string name="txt_langdownloaded">Lataus valmis</string>
+  <string name="txtInternetIssue">Ongelma Internet-yhteyden muodostamisessa</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">MUUT KIELET</string>
+  <string name="txt_ContinueIn">Jatka kielellä ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">PELIMME</string>
+  <string name="txt_SuggestedLanguages">Ehdotetut kielet</string>
+  <string name="txt_VisitOurChannel">KÄY KANAVALLAMME</string>
+  <string name="txt_followusandshare">SEURAA MEITÄ JA AUTA MEITÄ</string>
+  <string name="txt_OurImpact">VAIKUTUKSEMME</string>
+  <string name="txt_OurImpactDesc">RV AppStudios kouluttaa kuukausittain yli &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; lasta ilmaisilla lastensovelluksillamme.</string>
+  <string name="txt_KidsApp">LASTEN APP</string>
+  <string name="txt_Countries">MAITA</string>
+  <string name="txt_NoOfKidsUseApp">175 000 000 LAPSTA KÄYTTÄVÄT SOVELLUKSEMME</string>
+  <string name="txt_Hello">Hei</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Uusi t-paitadesign lisätään viikoittain!</string>
+  <string name="txt_rvappstudiosYT">RV AppStudios nyt YouTube</string>
+  <string name="txt_textrhymesYT">LASTENTARHAN RYTMEJÄ &amp; LASTENLAULUJA</string>
+  <string name="txt_AllGamesAreFree">(Kaikki pelit ovat ilmaisia ja ilman mainoksia)</string>
+  <string name="txt_ShowShopBtn">Piilota "Shop-painike" päävalikosta</string>
+  <string name="txt_ShowOurStoryBtn">Piilota "Tarinamme-painike" päävalikosta</string>
+  <string name="txt_ShowMoreappBtn">Piilota "Lisää sovelluksia" -painike päävalikosta</string>
+  <string name="txt_TranslationFeedback">Käännös Palautetta</string>
+  <string name="txt_TranslationFeedbackInfo">Ilmoita käännösvirheestä. Älä jaa arkaluontoisia tietoja.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">T-PAIDAT LASTEN</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">OPETUSKIRJAT LASTEN</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS T-PAIDAT &amp; OPETUSKIRJAT</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">ENSIMMÄINEN LUCAS &amp; FRIENDS KIRJA</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">T-PAIDAT &amp; OPETUSKIRJAT LASTEN</string>
+  <string name="txt_VisibleMDstng">Valitse Näytettävät tilat</string>
+  <string name="txt_SelectParentGate">Valitse Valinnat avataksesi asetuksen</string>
+  <string name="txt_HideButtons">Piilota painikkeet</string>
+  <string name="txt_HideButtonsFromMenu">Piilota painikkeet päävalikosta</string>
+  <string name="txt_rateThanks">Kiitos rakkaudestasi ja tuestasi. Mekin rakastamme sinua!</string>
+  <string name="txt_rateFeedback">Kiitos, haluaisimme kuulla mielipiteesi. Anna meille palautetta.</string>
+  <string name="txt_rateLetUsKnow">Kerro meille, miten lapsesi nauttii apistamme.</string>
+  <string name="txt_rateHappySad">Oletko tyytyväinen appiin?</string>
+  <string name="txt_rateHappy">TYYTYVÄINEN</string>
+  <string name="txt_rateSad">PETTYNYT</string>
+  <string name="txtRateDesc1">Voisitko arvostella sovelluksen Play Storessa? Tämä auttaa muita vanhempia saamaan tietoa sovelluksesta.</string>
+  <string name="txtVeryBadCap">ERITTÄIN HUONO</string>
+  <string name="txtGoodCap">HYVÄ</string>
+  <string name="txtRateAppBtn">Arvostele meidät</string>
+  <string name="txtRateHdr">ARVOSTELE MEIDÄT</string>
+  <string name="english_name">Englanti</string>
+  <string name="Sendfeedback" ScaleFactor="1">Lähetä palautetta</string>
+  <string name="UseOurApps">Lapset käyttävät opetussovelluksiamme joka kuukausi.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios on YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Etsi RV Appstudios löytääksesi sovelluksemme</string>
+  <string name="GiphyStickers" ScaleFactor="1">Animoidut GIF-kuvat ja tarrat nyt saatavilla!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Hae @RVAppStudios GIF-näppäimistölläsi</string>
+  <string name="txt_2Digit+">2 numeroa +</string>
+  <string name="txt_2Digit-">2 numeroa -</string>
+  <string name="Intro_Text" ScaleFactor="1">Vieraile osoitteessa RVAppStudios.com saadaksesi viimeisimmät uutiset!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">VAIKUTUKSEMME – yli 300 miljoonalla latausella on merkitystä</string>
+  <string name="About_Us">MEISTÄ</string>
+  <string name="txt_collectGift">KERÄÄ LAHJASI</string>
+  <string name="txt_GoodJob">Hyvää työtä</string>
+  <string name="Impact_together">Vaikutus, Jonka Voimme Tehdä Yhdessä</string>
+  <string name="For_Parents">Vanhemmille</string>
+  <string name="Message_Parents">Vanhemmille Viesti</string>
+  <string name="txtShoppingMode">Ostokset</string>
+  <string name="Math_Task_9_Start">Ratkaise 2-numeroa lisäys 30 kertaa </string>
+  <string name="Math_Task_9_End">Ratkaistu 2-numeroa lisäys 30 kertaa </string>
+  <string name="Math_Task_10_Start">Ratkaise 2-numeroa vähennyslasku 30 kertaa </string>
+  <string name="Math_Task_10_End">Ratkaistu 2-numeroa vähennyslasku 30 kertaa</string>
+  <string name="Math_Task_11_Start">Suorita 30 yhteenlaskun harjoittelu</string>
+  <string name="Math_Task_11_End">Suoritettu 30 yhteenlaskun harjoittelu</string>
+  <string name="Math_Task_12_Start">Suorita 30 vähennyslaskun harjoittelu</string>
+  <string name="Math_Task_12_End">Suoritettu 30 vähennyslaskun harjoittelu</string>
+  <string name="Math_Task_13_Start">Ratkaise 30 ostos kysymystä</string>
+  <string name="Math_Task_13_End">Ratkaistu 30 ostos kysymystä</string>
+  <string name="Math_Task_9_Completed">Olet ansainnut sertifikaatin! Ratkaistu 2-numeroa lisäys 30 kertaa.</string>
+  <string name="Math_Task_10_Completed">Olet ansainnut sertifikaatin! Ratkaistu 2-numeroa vähennyslasku 30 kertaa.</string>
+  <string name="Math_Task_11_Completed">Olet ansainnut sertifikaatin! Suoritettu 30 yhteenlaskun harjoittelu.</string>
+  <string name="Math_Task_12_Completed">Olet ansainnut sertifikaatin! Suoritettu 30 vähennyslaskun harjoittelu.</string>
+  <string name="Math_Task_13_Completed">Olet ansainnut sertifikaatin! Ratkaistu 30 ostos kysymystä.</string>
+  <string name="January">Tammikuu</string>
+  <string name="February">Helmikuu</string>
+  <string name="March">Maaliskuu</string>
+  <string name="April">Huhtikuu</string>
+  <string name="May">Toukokuu</string>
+  <string name="June">Kesäkuu</string>
+  <string name="July">Heinäkuu</string>
+  <string name="August">Elokuu</string>
+  <string name="September">Syyskuu</string>
+  <string name="October">Lokakuu</string>
+  <string name="November">Marraskuu</string>
+  <string name="December">Joulukuu</string>
+  <string name="OurImpactKids1">lasta on käyttänyt appejamme </string>
+  <string name="Storage_low">Ei tarpeeksi tallennustilaa</string>
+  <string name="OurImpactKids">1 Miljardi</string>
+  <string name="MessageForAdult1">Meillä kaikilla on ainutlaatuinen lahjakkuus. Minä teen appeja. Sinä voit olla loistava opettaja, lääkäri, taiteilija jne. Toivon, että innostan sinua jakamaan taitojasi, aivan kuten minäkin jaan ilmaiseksi sitä, mitä rakastan. Toisten auttaminen saa sinut tuntemaan olosi hyväksi ja innostaa muita. Mieti, mitä vaikutuksia voimme yhdessä saada aikaan! Lucas &amp; Friends haluaa innostaa ihmisiä hyvään. Ole hyvä ja tue meitä antamalla takaisin muille omalla tavallasi.
+</string>
+  <string name="Books_Tshirts">Kirjoja &amp; T-paidat</string>
+  <string name="we_Inspire_msg1">Kiitos, että inspiroit ja tuet meitä.</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends aloitti intohimoprojektina ilmaisilla lasten opetusapeilla ilman mainoksia tai apin sisäisiä ostoja. Haluamme tehdä hyvää maailmassa, antaa jotakin takaisin ja vaikuttaa. Yli &lt;color=#ff0018&gt;&lt;size=35&gt;1 Miljardi&lt;/size&gt;&lt;/color&gt;  lasta on oppinut opetusappiemme avulla. &lt;color=#FF6400&gt;Emme koskaan kuvitelleet rakentavamme lasten brändiä ja myyvämme leluja jonain päivänä!&lt;/color&gt;</string>
+  <string name="we_Inspire">Innostamme ihmisiä hyvään</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Missio tehdä oppiminen hauskaksi &amp; Saavutettavaksi! Ilmaiset opetusapit, ei mainoksia, ei koskaan maksuja – vain silkkaa, iloista oppimista lapsille.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Ristiin Matematiikka</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Kalastus hauskaa</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Lumi</string>
+  <string name="txt_Addition">Yhteenlasku</string>
+  <string name="txt_Subtraction">Vähennyslasku</string>
+  <string name="FunGames">Hauskat Pelit</string>
+  <string name="Select_Character" ScaleFactor="1">Valitse Hahmo</string>
+  <string name="Car_Game" ScaleFactor="1">Auto Peli</string>
+  <string name="txtUserChangeMsg1">Lapsen profiilin muuttaminen onnistui.</string>
+  <string name="txt_1Digit">1 numero</string>
+  <string name="txt_2Digit">2 numeroa</string>
+  <string name="txt_Play">Pelaa</string>
+  <string name="txtOpponentWon">Vastustaja voittaa</string>
+  <string name="txtYouWon">Sinä voitit!</string>
+  <string name="txtRematch">Uusinta</string>
+  <string name="txt_SelectDifficulty">Valitse vaikeusaste</string>
+  <string name="txt_DualMode">Kaksi pelaajaa</string>
+  <string name="txt_Correct">Oikein</string>
+  <string name="Draw">Tasapeli</string>
+  <string name="Apparel_Accessories">VAATTEET JA TARVIKKEET</string>
+  <string name="best_Seller">Paras Myyjä</string>
+  <string name="RateUsNew">Nautitko pelistämme? Arvostelusi auttaa levittämään tehtäväämme ja ilmaisia ​​sovelluksiamme muille vanhemmille.</string>
+  <string name="txt_AdditupMode">Lisää se</string>
+  <string name="txt_SudokuMode">Pulmapeli</string>
+  <string name="txtBrandTrust">MERKKI, JOON VOIT LUOTTAA</string>
+  <string name="txtMission">Missio, Jota Voit Arvostaa</string>
+  <string name="Number_Path">Numeropolku</string>
+  <string name="Add_butterfly_1">### perhoset istuvat kukan päällä. Sitten @@@ lentää lisää perhosia ja liity niihin. Kuinka monta perhosta on yhteensä?</string>
+  <string name="Add_butterfly_2">Lapsi näkee ### perhosia. Sitten @@@ tulee näkyviin lisää. Kuinka monta perhosta lapsi näkee yhteensä?</string>
+  <string name="Add_cat_1">### kissat istuvat seinällä. Toinen @@@ kissa kiipeää ylös. Kuinka monta kissaa on nyt seinällä?</string>
+  <string name="Add_cow_1">### lehmät ovat navetassa. @@@ lisää lehmiä kävelee sisään. Kuinka monta lehmää on navetassa nyt?</string>
+  <string name="Add_deer_1">Niityllä ### peurat syövät ruohoa. Sitten @@@ saapuu lisää peuroja. Kuinka moni peura syö ruohoa nyt?</string>
+  <string name="Add_dog_1">### koirat leikkivät pallolla. Sitten @@@ lisää koiria mukaan. Kuinka monta koiraa leikkii?</string>
+  <string name="Add_giraffe_1">### kirahvit juovat vettä. Sitten @@@ tulee lisää kirahveja juomaan. Kuinka monta kirahvia juo?</string>
+  <string name="Add_ladybugs_1">### leppäkerttuja istuvat lehdellä. @@@ lisää leppäkerttuja lentää lehdelle. Kuinka monta leppäkerttua on lehdellä?</string>
+  <string name="Add_tiger_1">### tiikerit istuvat luolan lähellä. @@@ tulee lisää tiikereitä. Kuinka monta tiikeriä siellä on nyt?</string>
+  <string name="Add_tiger_2">Viidakossa on ### tiikereitä. @@@ lisää on tulossa. Kuinka monta tiikereitä on yhteensä?</string>
+  <string name="Add_owl_1">### pöllöt lepäävät pesässä. @@@ lisää pöllöjä tulee pesään. Kuinka monta pöllöä on pesässä?</string>
+  <string name="Add_panda_1">### Pandat syövät bambua. @@@ tulee lisää pandoja. Kuinka monta pandaa syö bambua?</string>
+  <string name="Add_parrot_1">### papukaijat istuvat ahvenella. @@@ lisää papukaijoja lentää iloisina. Kuinka monta papukaijaa on nyt?</string>
+  <string name="Add_peacock_1">### riikinkukot tanssivat puutarhassa. @@@ tulee lisää riikinkukkoja. Kuinka monta riikinkukkoa tanssii?</string>
+  <string name="Add_rooster_1">Tilalla on ### kukkoja. @@@ tule lähelle navetta. Kuinka monta kukkoa yhteensä?</string>
+  <string name="Add_snail_1">Lehdellä lepää ### etanoita. @@@ lisää heihin. Kuinka monta etanaa on yhteensä?</string>
+  <string name="Add_zebra_1">Niityillä ### seeprat syövät. @@@ lisää heihin. Kuinka monta seepraa yhteensä?</string>
+  <string name="Add_bicycle_1">Puistossa on ### polkupyöriä. @@@ lisää on pysäköity. Kuinka monta polkupyörää on yhteensä?</string>
+  <string name="Add_hippo_1">Aamulla ### virtahepot leikkivät. Myöhemmin @@@ kävele lisää. Mikä on virtahepojen kokonaismäärä?</string>
+  <string name="Add_airplane_1">Kiitoradalla ### lentokoneet odottavat. @@@ lisää maata. Kuinka monta lentokonetta yhteensä?</string>
+  <string name="Add_airplane_2">Lentokentällä ### koneet odottavat. Pian @@@ tulee lisää. Kuinka monta lentokonetta yhteensä?</string>
+  <string name="Add_horse_1">Navetan vieressä seisoo ### hevosia. @@@ lisää heihin. Kuinka monta hevosta yhteensä?</string>
+  <string name="Add_fish_1">Akvaariossa ### kalat uivat. @@@ lisää on lisätty. Kuinka monta kalaa yhteensä?</string>
+  <string name="Add_goat_1">Mäellä on ### vuohia. Sitten @@@ tulee lisää. Mikä on vuohien kokonaismäärä?</string>
+  <string name="Add_monkey_1">Puussa on ### apinoita. @@@ lisää nousua. Kuinka monta apinaa on yhteensä?</string>
+  <string name="Add_carrot_1">Korissa on ### porkkanaa. @@@ lisää on lisätty. Kuinka monta porkkanaa on yhteensä?</string>
+  <string name="Add_candies_1">Purkissa on ### karkkeja. @@@ lisää on lisätty. Kuinka monta karkkia on yhteensä?</string>
+  <string name="Add_cupcake_1">Pöydällä on ### kuppikakkuja. @@@ on lisätty. Kuinka monta kuppikakkua on yhteensä?</string>
+  <string name="Add_pinwheel_1">Aamulla ### väkkärit pyörivät puutarhassa. Myöhemmin @@@ lisätään lisää. Kuinka monta pyörää on nyt?</string>
+  <string name="Add_broccoli_1">Lautasella on ### parsakaalia. @@@ lisää on lisätty. Kuinka monta parsakaalia on lautasella?</string>
+  <string name="Add_robot_1">Maan päällä on ### robotteja. @@@ kävele lisää. Kuinka monta robottia on yhteensä?</string>
+  <string name="Add_car_1">Lapsella on ### leluautoja. @@@ annetaan lisää. Kuinka monta leluautoa lapsella on?</string>
+  <string name="Add_bird house_1">Navetan lähellä on ### lintutaloja. @@@ lisää on lisätty. Kuinka monta lintutaloa on yhteensä?</string>
+  <string name="Add_ball_1">Maassa on ### palloa. @@@ lisää kiertokulkua. Kuinka monta palloa on yhteensä?</string>
+  <string name="Add_drum_1">Musiikkiluokassa pidetään ### rummut. @@@ lisää on lisätty. Kuinka monta rumpua yhteensä?</string>
+  <string name="Add_cake_1">Pöydällä on ### kakkuja. @@@ lisää on lisätty. Kuinka monta kakkua on yhteensä?</string>
+  <string name="Add_fruits_1">Korissa on ### hedelmiä. @@@ lisää on lisätty. Kuinka monta hedelmää on yhteensä?</string>
+  <string name="Add_flower_1">Puutarhassa on ### kukkia. @@@ lisää kukkia. Kuinka monta kukkaa puutarhassa on?</string>
+  <string name="Add_pig_1">Pihalla on ### sikoja. Sitten @@@ tulee lisää. Mikä on sikojen kokonaismäärä pihalla?</string>
+  <string name="Add_top_1">Lattialla on ### nyrkkejä. @@@ lisää on lisätty. Kuinka monta spinning toppia on yhteensä?</string>
+  <string name="Add_donut_1">Lautasella on ### munkkeja. @@@ lisää on lisätty. Kuinka monta munkkeja on yhteensä?</string>
+  <string name="Add_giftbox_1">Sara sai ### lahjoja. Hänen ystävänsä antoi hänelle @@@ lisää. Kuinka monta lahjaa Saralla on yhteensä?</string>
+  <string name="Add_giftbox_2">Huoneessa on ### lahjapakkauksia. Sitten @@@ laitetaan lisää. Kuinka monta lahjalaatikkoa huoneessa on?</string>
+  <string name="Add_taco_1">Sara teki ### tacoja. Hänen äitinsä teki @@@ lisää tacoja. Kuinka monta tacoa tehtiin yhteensä?</string>
+  <string name="Add_taco_2">Tom söi ### tacoja. Hän söi @@@ lisää tacoja. Kuinka monta tacoa Tom söi yhteensä?</string>
+  <string name="Add_kite_1">### leijat lentävät taivaalla. @@@ lisää leijoja alkaa lentämään. Kuinka monta leijaa lentää taivaalla?</string>
+  <string name="Add_kite_2">Leo teki ### leijoja. Sitten hän teki @@@ lisää leijoja. Kuinka monta leijaa Leo on tehnyt?</string>
+  <string name="Add_sandwich_1">Sam osti ### voileipiä. Sitten hän osti @@@ lisää voileipiä. Kuinka monta voileipiä sam on ostanut?</string>
+  <string name="Add_leopard_1">### leopardit ovat puussa, ja @@@ lisää kiipeää ylös. Kuinka monta leopardia on nyt puussa?</string>
+  <string name="WordProblem">Sanatehtävä</string>
+  <string name="txt_Tens">Kymmenet</string>
+  <string name="txt_Ones">Ykköset</string>
+  <string name="Carry_Forward">Yhteenlasku</string>
+  <string name="Sub_butterfly_1">Puutarhassa lensi ### perhosta. @@@ perhosta lensi pois. Kuinka monta perhosta puutarhassa on jäljellä?</string>
+  <string name="Sub_butterfly_2">Emma näki aamulla ### perhosta. Iltapäivällä hän näki @@@ perhosta vähemmän. Kuinka monta perhosta hän näki iltapäivällä?</string>
+  <string name="Sub_cat_1">Ethan näki ### kissaa istumassa aidalla. @@@ kissaa juoksi karkuun, kun koira haukahti. Kuinka monta kissaa on vielä aidalla?</string>
+  <string name="Sub_cat_2">Mialla on ### kissaa takapihallaan. @@@ kissaa meni juomaan maitoa. Kuinka monta kissaa on vielä takapihalla?</string>
+  <string name="Sub_cow_1">Joen varrella oli ### lehmää juomassa vettä. @@@ lehmää lopetti juomisen ja lähti. Kuinka monta lehmää on vielä joen varrella?</string>
+  <string name="Sub_cow_2">Heinäsyöjiä oli ###. @@@ lehmää lopetti syömisen. Kuinka monta lehmää syö vielä heinää?</string>
+  <string name="Sub_deer_1">Tien ylitti ### peuraa. @@@ peuraa oli jo ylittänyt tien. Kuinka monta peuraa odottaa vielä ylitystä?</string>
+  <string name="Sub_deer_2">Mäkeä kiipeili ### peuraa. @@@ peuraa pysähtyi ja palasi alas. Kuinka monta peuraa kiipeää edelleen?</string>
+  <string name="Sub_dog_1">Pihalla leikki ### koiraa. Talossa juoksi @@@ koiraa. Kuinka monta koiraa on vielä pihalla?</string>
+  <string name="Sub_dog_2">Koirissa oli ### koiraa. @@@ koiraa meni ulos. Kuinka monta koiraa on vielä kennelissä?</string>
+  <string name="Sub_giraffe_1">Varjoisan puun alle ### kirahvia makasi makuulle. Hetken kuluttua @@@ kirahvia nousi seisomaan ja lähti. Kuinka monta kirahvia vielä lepäsi?</string>
+  <string name="Sub_giraffe_2">### kirahvin ryhmä käveli korkeassa ruohikossa. Yhtäkkiä @@@ kirahvia kääntyi takaisin. Kuinka monta kirahvi jatkoi kävelyä?</string>
+  <string name="Sub_ladybugs_1">### leppäkerttua istui suurella vihreällä lehdellä. Sitten @@@ lensi pois. Kuinka monta leppäkerttua pysyi lehdellä?</string>
+  <string name="Sub_ladybug_2">Auringonlaskun aikaan ### leppäkerttua lensi yhdessä. @@@ laskeutui puun oksalle. Kuinka monta leppäkerttua vielä lensi?</string>
+  <string name="Sub_owl_1">### pöllöä lensi kirkkaassa kuunvalossa. @@@ pöllöä laskeutui puuhun. Kuinka monta pöllöä vielä lensi?</string>
+  <string name="Sub_owl_2">Oksalla oli ### pöllöä rivissä. @@@ pöllöä levitti siipensä ja lähti. Kuinka monta pöllöä oksalle jäi?</string>
+  <string name="Sub_panda_1">### pandaa söi bambua yhdessä. @@@ pandaa lopetti syömisen ja lähti. Kuinka monta pandaa söi vielä bambua?</string>
+  <string name="Sub_panda_2">### pandan ryhmä istui yhdessä. @@@ pandaa lähti etsimään lisää bambua. Kuinka monta pandaa jäi ryhmään?</string>
+  <string name="Sub_parrot_1">### papukaijan parvi lensi yhdessä. @@@ papukaijaa laskeutui katolle. Kuinka monta papukaijaa jatkoi lentoa?</string>
+  <string name="Sub_parrot_2">Puussa oli ### papukaijaa pesänsä lähellä. @@@ papukaijaa lensi sisään. Kuinka monta papukaijaa pysyi ulkona?</string>
+  <string name="Sub_peacock_1">Puutarhassa tanssi ### riikinkukkoa. @@@ riikinkukkoa lopetti tanssimisen. Kuinka monta riikinkukkoa jatkoi tanssimista?</string>
+  <string name="Sub_peacock_2">Auringonlaskun aikaan puistoon kokoontui ### riikinkukkoa. @@@ riikinkukkoa lensi pois. Kuinka monta riikinkukkoa oli vielä jäljellä?</string>
+  <string name="Sub_rooster_1">Aamulla ### kukkoa kokoontui ruoan lähelle. @@@ kukkoa lopetti syömisen ja lähti. Kuinka monta kukkoa oli vielä syömässä?</string>
+  <string name="Sub_rooster_2">Aidalla istui ### kukkoa. @@@ kukkoa hyppäsi alas. Kuinka monta kukkoa pysyi aidalla?</string>
+  <string name="Sub_snail_1">Puutarhapolulla liikkui hitaasti ### etanaa. @@@ etanaa meni ruohikkoon. Kuinka monta etanaa jäi polulle?</string>
+  <string name="Sub_snail_2">Kukkien lähellä oli ### etanaa. @@@ etanaa ryömi pois. Kuinka monta etanaa oli vielä kukkien lähellä?</string>
+  <string name="Sub_tiger_1">Viidakossa lepäsi ### tiikeriä. @@@ tiikeriä käveli pois. Kuinka monta tiikeriä jäi lepäämään?</string>
+  <string name="Sub_tiger_2">Metsässä nähtiin kävelevän ### tiikeriä. @@@ tiikeriä juoksi karkuun. Kuinka monta tiikeriä oli vielä kävelemässä?</string>
+  <string name="Sub_zebra_1">### seepran lauma tuli juomaan vettä. @@@ seepraa lähti juotuaan. Kuinka monta seepraa jäi joen varrelle?</string>
+  <string name="Sub_zebra_2">Ryhmässä oli ### seepranpoikasta leikkimässä yhdessä. @@@ varsaa palasi emonsa luo. Kuinka monta seepranpoikasta vielä leikki?</string>
+  <string name="Sub_bicycle_1">Leikkikentän lähellä oli pysäköitynä ### polkupyörää. @@@ polkupyörää vietiin kotiin. Kuinka monta polkupyörää oli vielä leikkikentällä?</string>
+  <string name="Sub_bicycle_2">Pyöräkauppa oli asettanut ulkona esille ### polkupyörää. @@@ polkupyörää myytiin. Kuinka monta polkupyörää jäi esille?</string>
+  <string name="Sub_hippo_1">### virtahepoa söi ruohoa yhdessä. @@@ virtahepoa lopetti syömisen. Kuinka monta virtahepoa jatkoi ruohon syömistä?</string>
+  <string name="Sub_hippo_1">Laumassa oli ### virtahepoa kokoontuneena. @@@ virtahepoa siirtyi pois. Kuinka monta virtahepoa jäi laumaan?</string>
+  <string name="Sub_airplane_1">Aamulla ### lentokonetta oli valmiina lentoon. @@@ lentokonetta lähti aikataulun mukaisesti. Kuinka monta lentokonetta vielä odotti?</string>
+  <string name="Sub_airplane_2">Illalla ### lentokoneen oli määrä lentää. @@@ lentokonetta oli jo lähtenyt. Kuinka monta lentokonetta vielä odotti lähtöä?</string>
+  <string name="Sub_horse_1">Tallissa oli ### hevosta. Ulos käveli @@@ hevosta. Kuinka monta hevosta jäi talliin?</string>
+  <string name="Sub_horse_2">Laaksossa nähtiin ### hevosta. @@@ hevosta kiipesi ylös mäkeä. Kuinka monta hevosta laaksoon jäi?</string>
+  <string name="Sub_fish_1">Lammessa uisi ### kalaa. @@@ kalaa ui pois. Kuinka monta kalaa oli vielä lammessa?</string>
+  <string name="Sub_fish_2">Kalastaja huomasi veneensä lähellä ### kalaa. @@@ kalaa ui nopeasti pois. Kuinka monta kalaa pysyi veneen lähellä?</string>
+  <string name="Sub_goat_1">Maanviljelijällä oli ### vuohta laiduntamassa pellolla. @@@ vuohta vaelsi pois kohti kukkulaa. Kuinka monta vuohta laidunsi vielä pellolla?</string>
+  <string name="Sub_goat_2">Navetan lähellä lepäsi ### vuohta. @@@ vuohta juoksi ulos leikkimään pihalle. Kuinka monta vuohta pysyi navetan lähellä?</string>
+  <string name="Sub_monkey_1">### apinaa leikki mangopuussa. @@@ apinaa hyppäsi alas. Kuinka monta apinaa pysyi puussa?</string>
+  <string name="Sub_monkey_2">Eläintarhassa ### apinaa keinui köysissä. @@@ apinaa meni syömään. Kuinka monta apinaa vielä keinui?</string>
+  <string name="Sub_carrot_1">Korissa oli ### porkkanaa. @@@ porkkanaa syötiin. Kuinka monta porkkanaa jäi jäljelle?</string>
+  <string name="Sub_carrot_2">Kani löysi ### porkkanaa. @@@ porkkanaa vieri pois. Kuinka monta porkkanaa oli vielä jäljellä?</string>
+  <string name="Sub_candies_1">Purkissa oli ### karkkia. Purkista otettiin pois @@@ karkkia. Kuinka monta karkkia jäi sisään?</string>
+  <string name="Sub_candies_2">Pöydällä oli ### karkkia. @@@ karkkia syötiin. Kuinka monta karkkia jäi jäljelle?</string>
+  <string name="Sub_cupcake_1">Tarjottimella oli ### kuppikakkua. @@@ kuppikakkua annettiin pois. Kuinka monta kuppikakkua jäi?</string>
+  <string name="Sub_cupcake_2">Leipuri leipoi ### kuppikakkua. @@@ kuppikakkua myytiin. Kuinka monta kuppikakkua jäi jäljelle?</string>
+  <string name="Sub_pinwheel_1">Puutarhassa pyöri ### tuulimyllyä. @@@ tuulimyllyä lakkasi pyörimästä. Kuinka monta pyöri vielä?</string>
+  <string name="Sub_pinwheel_2">Aidan vieressä oli ### tuulimyllyä. @@@ tuulimyllyä lensi pois. Kuinka monta jäi?</string>
+  <string name="Sub_broccoli_1">Lautasella oli ### parsakaalinpalaa. @@@ palaa syötiin. Kuinka monta palaa jäi?</string>
+  <string name="Sub_broccoli_2">Kokki kypsensi ### parsakaalin vartta. Niistä @@@ annettiin. Kuinka monta jäi jäljelle?</string>
+  <string name="Sub_robot_1">### robottia seisoi jonossa. @@@ robottia käveli pois. Kuinka monta robottia jäi?</string>
+  <string name="Sub_robot_2">Laboratoriossa oli ### robottia. @@@ robottia oli sammutettu. Kuinka monta oli vielä päällä?</string>
+  <string name="Sub_car_1">Ulkona oli pysäköitynä ### autoa. @@@ autoa ajoi pois. Kuinka monta autoa jäi pysäköitynä?</string>
+  <string name="Sub_car_2">Kilpailussa lähti liikkeelle ### autoa. @@@ autoa pääsi maaliin etuajassa. Kuinka monta autoa oli vielä mukana kilpailussa?</string>
+  <string name="Sub_bird house_1">Linnunpöntön lähellä istui ### lintua. @@@ lensi pois. Kuinka monta lintua jäi?</string>
+  <string name="Sub_bird house_2">Linnunpöntössä oli ### pesää. @@@ putosi alas. Kuinka monta pesää jäi jäljelle?</string>
+  <string name="Sub_ball_1">Leikkikentällä oli ### palloa. @@@ palloa vieri pois. Kuinka monta oli vielä paikalla?</string>
+  <string name="Sub_ball_2">Laatikossa oli ### palloa. @@@ palloa pomppi ulos. Kuinka monta palloa jäi jäljelle?</string>
+  <string name="Sub_drum_1">Lavalla oli ### rumpua. @@@ rumpua otettiin pois. Kuinka monta jäi lavalle?</string>
+  <string name="Sub_drum_2">Bändillä oli ### rumpua. @@@ rumpua meni rikki. Kuinka monta hyvää rumpua oli jäljellä?</string>
+  <string name="Sub_cake_1">Tänään paistettiin ### kakkua. @@@ kakkua syötiin. Kuinka monta kakkua jäi jäljelle?</string>
+  <string name="Sub_cake_2">Leipuri koristeli ### kakkua. @@@ kakkua myytiin. Kuinka monta kakkua oli vielä jäljellä?</string>
+  <string name="Sub_fruits_1">Korissa oli ### hedelmää. @@@ hedelmää putosi ulos. Kuinka monta hedelmää jäi sisään?</string>
+  <string name="Sub_fruits_2">Kaupassa oli esillä ### hedelmää. Niistä myytiin @@@. Kuinka monta hedelmää oli jäljellä?</string>
+  <string name="Sub_flower_1">Puutarhassa kukki ### kukkaa. @@@ kukkaa poimittiin. Kuinka monta kukkaa jäi jäljelle?</string>
+  <string name="Sub_flower_2">Maljakossa oli ### kukkaa. @@@ nuutunutta. Kuinka monta oli tuoretta?</string>
+  <string name="Sub_pig_1">Karsinassa oli ### sikaa. @@@ sikaa juoksi ulos. Kuinka monta sikaa jäi?</string>
+  <string name="Sub_pig_2">Maanviljelijällä oli ### sikaa. @@@ sikaa meni lampeen. Kuinka monta sikaa jäi jäljelle?</string>
+  <string name="Sub_top_1">Lattialla oli ### hyrrää. @@@ lakkasi pyörimästä. Kuinka monta jatkoi pyörimistä?</string>
+  <string name="Sub_top_2">Laatikossa oli ### korkkia. Niistä otettiin pois @@@. Kuinka monta korkkia jäi?</string>
+  <string name="Sub_donut_1">Tarjottimella oli ### donitsia. @@@ donitsia syötiin. Kuinka monta donitsia jäi?</string>
+  <string name="Sub_donut_2">Kauppias teki ### donitsia. Niistä myytiin @@@. Kuinka monta donitsia jäi jäljelle?</string>
+  <string name="Sub_giftbox_1">Pöydällä oli ### lahjarasiaa. Niistä @@@ avattiin. Kuinka monta pysyi suljettuna?</string>
+  <string name="Sub_giftbox_2">Kuusen alla oli ### lahjarasiaa. Niistä @@@ otettiin. Kuinka monta jäi jäljelle?</string>
+  <string name="Sub_taco_1">Lautasella oli ### tacoa. @@@ tacoa syötiin. Kuinka monta tacoa jäi?</string>
+  <string name="Sub_taco_2">Kokki teki ### tacoa. Niistä tarjoiltiin @@@. Kuinka monta tacoa jäi jäljelle?</string>
+  <string name="Sub_kite_1">Taivaalla lensi ### leijaa. @@@ leijaa putosi alas. Kuinka monta leijaa vielä lensi?</string>
+  <string name="Sub_kite_2">Rannalla oli ### leijaa. @@@ lensi pois. Kuinka monta leijaa jäi?</string>
+  <string name="Sub_sandwich_1">Pöydällä oli ### voileipää. @@@ voileipää syötiin. Kuinka monta jäi?</string>
+  <string name="Sub_sandwich_2">Kokki teki ### voileipää. Niistä tarjoiltiin @@@. Kuinka monta voileipää jäi jäljelle?</string>
+  <string name="Add_Pyramid">Lisäyspyramidi</string>
+</resources>

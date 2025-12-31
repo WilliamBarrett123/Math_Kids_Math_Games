@@ -1,0 +1,790 @@
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">DAUGIAU PROGRAMĖLIŲ</string>
+  <string name="txt_holdfor">Laikyk 3 sekundes</string>
+  <string name="txt_title_for_grown_ups">SUAUGUSIESIEMS</string>
+  <string name="txt_userguide_for_grown_ups">Įveskite skaičius, kad įeitumėte</string>
+  <string name="txt_digit_Zero">Nulis</string>
+  <string name="txt_digit_One">Vienas</string>
+  <string name="txt_digit_Two">Du</string>
+  <string name="txt_digit_Three">Trys</string>
+  <string name="txt_digit_Four">Keturi</string>
+  <string name="txt_digit_Five">Penki</string>
+  <string name="txt_digit_Six">Šeši</string>
+  <string name="txt_digit_Seven">Septyni</string>
+  <string name="txt_digit_Eight">Aštuoni</string>
+  <string name="txt_digit_Nine">Devyni</string>
+  <string name="txt_stickershowcase_toys">ŽAISLAI</string>
+  <string name="txt_stickershowcase_stickers">LIPDUKAI</string>
+  <string name="txt_stickershowcase_stamps">SPAUDAI</string>
+  <string name="txt_stickershowcase_notoys">Žaislų nėra</string>
+  <string name="txt_stickershowcase_nostickers">Lipdukų nėra</string>
+  <string name="txt_stickershowcase_nostamps">Spaudų nėra</string>
+  <string name="txt_pick_a_stamp">IŠSIRINK SPAUDĄ</string>
+  <string name="txt_collectsticker">PASIIMK LIPDUKĄ</string>
+  <string name="txt_collectyourGift">PASIIMK DOVANĖLĘ</string>
+  <!--New-->
+  <string name="txt_rateUsReview_microsoft">Įvertink parduotuvėje</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Įvertink parduotuvėje</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Įvertink parduotuvėje</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Įvertink parduotuvėje</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Įvertink parduotuvėje</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Foninė muzika</string>
+  <string name="text_sound">Garsas</string>
+  <string name="text_showhint">Rodyti patarimą mokantis</string>
+  <string name="text_learn_with">Mokymosi kalba</string>
+  <string name="text_level">### lygis</string>
+  <string name="text_generate_report">Kurti pažymį</string>
+  <string name="text_view_report_card">Rodyti pažymių knygelę</string>
+  <string name="text_visible_mode">Matomas režimas</string>
+  <string name="text_VISIBLE_MODE">MATOMAS REŽIMAS</string>
+  <string name="text_share">Dalintis</string>
+  <string name="txt_report_card">PAŽYMIŲ KNYGELĖ</string>
+  <string name="txt_number">Nr.</string>
+  <string name="txt_date_time">Data ir laikas</string>
+  <string name="txt_mode">Režimas</string>
+  <string name="txt_retry">Iš naujo</string>
+  <string name="txt_no_report">Pažymių nėra</string>
+  <string name="txt_yes">TAIP</string>
+  <string name="txt_no">NE</string>
+  <string name="txt_delete_report">Ar tikrai norite ištrinti visus pažymius?</string>
+  <string name="txt_press_again_exit">Norėdamas išeiti, spausk dar kartą</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Pasirink kalbą</string>
+  <string name="txt_Select_Language">Pasirink kalbą</string>
+  <string name="txtLanguages">Kalbos</string>
+  <string name="txtOtherLanguages">Kitos kalbos</string>
+  <string name="txt_Report_a_Translation_error">Pranešk apie vertimo klaidą</string>
+  <string name="txt_send">SIŲSTI</string>
+  <string name="txtReadyBundle">Netrukus pradėsime siuntimą.</string>
+  <string name="txtDownloadingBundle">Atsiunčiamas kalbos paketas.</string>
+  <string name="txt_ConnectionError">Ryšio klaida</string>
+  <string name="txt_InstallNow">Įdiegti dabar</string>
+  <string name="txt_PostSuccess">Pranešimas išsiųstas</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Vaiko profilis</string>
+  <string name="txtBtnAdd">PRIDĖTI VAIKĄ</string>
+  <string name="txtAddHelp">Profiliuose galite išsaugoti skirtingų vaikų nuostatas ir pažymius.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Vaiko vardas</string>
+  <string name="txtEnterName">Įrašykite vardą...</string>
+  <!-- EDIT: Child 1 -->
+  <string name="txtMaxLimit">Ne daugiau 20 vardų</string>
+  <string name="txtEditProfile">Keisti profilį</string>
+  <string name="txtDeleteProfile">Trinti profilį</string>
+  <string name="txtDeleteProfileConfirm">Ar tikrai norite ištrinti ### profilį?</string>
+  <string name="txtNo">NE</string>
+  <string name="txtYes">TAIP</string>
+  <string name="txtNameDuplication">Toks vardas jau yra!</string>
+  <string name="txtUserChangeMsg">Profilis pakeistas.</string>
+  <string name="txtShareWithParents">Papasakokite tėvams, mokykloms, dienos centrams ir pan.</string>
+  <string name="txtBtnUpdate">Atnaujinti</string>
+  <string name="txtNew">Naujas</string>
+  <string name="txt_DownloadNow">Atsisiųsti dabar</string>
+  <string name="txtShowIntroAtStart">Rodyti apie personažą pradžioje</string>
+  <string name="txt_connection_lost">Nutrūko ryšys</string>
+  <string name="txt_connectionlost_detail">Nepavyksta prisijungti prie interneto. Patikrinkite tinklo nuostatas.</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Keisti kalbą</string>
+  <string name="txtInitHelpChangeLangDesc">Rinkitės iš ### kalbų.</string>
+  <string name="txtInitHelpCustomSettingTitle">Keisti nuostatas</string>
+  <string name="txtInitHelpCustomSettingDesc">Pasirinkite tokias nuostatas, kad jums būtų kuo patogiau.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string ScaleFactor="1" name="txtloading">Įkeliama...</string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">ATGAL</string>
+  <string ScaleFactor="1" name="txtBtnSelect">PASIRINKTI</string>
+  <string ScaleFactor="1" name="txtBtnDelete">TRINTI</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NARŠYTI</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Norėdami tęsti, spauskite bet kurį klavišą...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">IŠEITI?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Ar tikrai nori išeiti?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Paremkite mus įvertindami programėlę.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Įvertinkite mus</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Vėliau</string>
+  <!-- T-Shirts Shop - START -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Kaip galite paremti mus</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Įvertinkite vaiko pastangas padovanodami jam marškinėlius – tuo pačiu paremsite mus.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Geriausias nemokamas būdas mus paremti yra papasakoti apie mūsų vaikams skirtus žaidimus mokykloms, draugams, socialiniuose tinkluose ir žiniasklaidoje (TV ir laikraščiuose).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Nupirkite savo vaikui marškinėlius ir parodykite, kad jums patinka jo personažas.</string>
+  <string ScaleFactor="1" name="txtShareCap">DALINTIS</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">PATVIRTINTI</string>
+  <string name="txt_shopConfirmDetail">Būsite nukreipti į svetainę. Ar norite išeiti?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <string ScaleFactor="1" name="txtWiderSelection">Platesnis pasirinkimas, pristatymas į visas šalis</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Pasakykite, kaip jums patiko žaidimas?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Niekam tikęs</string>
+  <string ScaleFactor="1" name="txtVeryGood">Labai šaunus</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Taip, įvertinkite ir paremkite mus</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Ačiū už nuomonę</string>
+  <!-- New Rate US END -->
+  <!-- New Rate US END -->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Pradžia</string>
+  <string name="txt_menuoption_settings">Nuostatos</string>
+  <string name="txt_menuoption_shop">Pirkti</string>
+  <string name="txt_menuoption_kidsapps">Programėlės vaikams</string>
+  <string name="txt_menuoption_parentapps">Programėlės tėvams</string>
+  <string name="txt_menuoption_worksheets">Darbalapiai</string>
+  <string name="txt_messagefromdave">ŽINUTĖ NUO</string>
+  <string name="txt_getfeaturedon">PAMATYKITE SAVE INSTAGRAME</string>
+  <string name="txt_tagus">Pažymėkite @RVAppStudios ir patekite į mūsų istoriją</string>
+  <!-- Tag @RVAppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(RV AppStudios įkūrėjas)</string>
+  <string name="txt_takeaphoto-videoof">Nutraukite arba nufilmuokite, kaip jūsų vaikas žaidžia programėle arba gauna sertifikatą.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Dalinkitės ir žymėkite mus instagrame @RVAppStudios – galbūt pateksite į mūsų istoriją.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">RV AppStudios programėlės vaikams</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">RV AppStudios programėlės tėvams</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">DARBALAPIAI</string>
+  <string name="txt_coloringpage">SPALVINIMO LAPAS</string>
+  <string name="txt_downloadmoreworksheet">Atsiųskite daugiau darbalapių iš mūsų pinteresto puslapio</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Mūsų nemokamas lavinimo programėles kas mėnesį atsisiunčia 14 mln. žmonių, todėl tapome vienu iš didžiausių pasaulyje vaikų lavinimo programėlių kūrėjų. "Ir toliau darome tai visiškai NEMOKAMAI."
+
+„Kodėl?“ - Kai tapau mama, žinojau, kad norėsiu suteikti savo dukrai geriausią išsilavinimą ir geriausių galimybių. Manau, daug tėvų labai nori suteikti savo vaikams daugiau galimybių ir geresnį išsilavinimą, nei gavo jie patys.
+
+Tačiau ne visi tėvai turi laiko ar galimybių padėti vaikams su namų darbais. Nors savo dukrai norėjau paties geriausio, manau, kad nesąžininga, kai milijonai vaikų visame pasaulyje neturi galimybių įgyti net pradinio išsilavinimo ar išmokti skaityti ir rašyti.
+
+Supratau, kad kaip programėlės kūrėjas turėjau progą šiek tiek pakeisti tokią situaciją. - "Ne dėl pelno", bet leisti vaikams bet kuriame pasaulio kampelyje pradėti anksti mokytis pagrindinių dalykų – skaičiuoti, taisyklingai rašyti žaidžiant smagius žaidimus.
+
+Tad įkūriau "RV AppStudios" lavinimo programėlių vaikams padalinį, norėdamas kurti NEMOKAMAS programėles, skirtas lavinti jų kūrybiškumą, atmintį ir loginį mąstymą žaidimų forma.
+
+Tam programėlės ir žaidimai turi būti saugūs vaikams. Tad nusprendžiau pelną, gautą iš kitų programėlių, skirti kurti "100% NEMOKAMAS" programėles vaikams "BE REKLAMŲ" ir "BE PIRKIMŲ". - Programėlės turi būti naudingos tik vaikams, niekam daugiau.
+
+Mūsų siekis yra per programėles padėti vaikams anksti pradėti mokytis ir ilgainiui tapti lyderiais, kurie pakeis bendruomenių gyvenimą. Šį siekį finansuojame mes patys!</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtWatchUsYouTube">Stebėkite mus YouTube</string>
+  <string name="txtRateApp">Įvertinti dabar</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Tęsti</string>
+  <string name="txt_DownloadNowCap">ATSISIŲSTI</string>
+  <string name="txt_Play_nowCap">ŽIŪRĖTI</string>
+  <string name="txt_ConnectionErrorMsg1">Nutrūko interneto ryšys</string>
+  <string name="txt_ConnectionErrorMsg2">Mėginkite vėliau!</string>
+  <string name="txtContinue">Tęsti</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Lygtis</string>
+  <string name="txtSubPracticeTitle">Atimties pratimai</string>
+  <string name="txtAddPracticeTitle">Sudėties pratimai</string>
+  <string name="txtBeginner">Pradedantysis</string>
+  <string name="txtIntermediate">Vidutinis</string>
+  <string name="txtAdvance">Pažengęs</string>
+  <string name="txtSubPracticeTitle">Atimties pratimai</string>
+  <string name="txtAddPracticeTitle">Sudėties pratimai</string>
+  <string name="txtBeginner">Pradedantysis</string>
+  <string name="txtIntermediate">Vidutinis</string>
+  <string name="txtAdvance">Pažengęs</string>
+  <string name="txtCertificate">Sertifikatai</string>
+  <string name="txtCertificates">SERTIFIKATAI</string>
+  <string name="txtUnlocked">Atrakinta</string>
+  <string name="txtCongratulations">Sveikiname</string>
+  <string name="txtCertificateUnlocked">Naujas sertifikatas atrakintas!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">-</string>
+  <string name="txtPrint">Spausdinti</string>
+  <!--  -->
+  <string name="txt_certi_title_1">DOVANA</string>
+  <string name="txt_certi_title_2">PUIKIAI</string>
+  <string name="txt_certi_title_3">ŽVAIGŽDĖ</string>
+  <string name="txt_certi_title_4">PUIKIAI PADIRBĖTA</string>
+  <string name="txt_certi_title_5">ŠAUNIAI</string>
+  <string name="txt_certi_title_6">FANTASTIŠKAI</string>
+  <string name="txt_certi_title_7">PASIEKIMAS</string>
+  <string name="txt_certi_title_8">ŠAUNU</string>
+  <!--  -->
+  <!--EDIT: This product is available only in USA.-->
+  <string name="txt_shopConfirmTitle">PATVIRTINTI</string>
+  <string name="txt_shopConfirmDetail">Būsite nukreipti į svetainę. Ar norite išeiti?</string>
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Uždirbote sertifikatą!</string>
+  <string name="txtEnterNm">Įveskite vaiko vardą.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Įkvėpkite vaiką išspausdindami sertifikatą</string>
+  <string name="txtGreat">PUIKU</string>
+  <string name="txtTapToGetCerti">Palieskite, kad gautumėte sertifikatą.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Suskaičiuok daiktus 20 kartų</string>
+  <string name="Math_Task_1_End">Suskaičiuoti daiktai 20 kartų</string>
+  <string name="Math_Task_2_Start">Išspręsk 30 sudėties užduočių</string>
+  <string name="Math_Task_2_End">Išsprendė 30 sudėties užduočių</string>
+  <string name="Math_Task_3_Start">Užbaik sudėdamas 30 kartų</string>
+  <string name="Math_Task_3_End">Užbaigė sudėdamas 30 kartų</string>
+  <string name="Math_Task_4_Start">Atlik 30 sudėties užduočių</string>
+  <string name="Math_Task_4_End">Atliko 30 sudėties užduočių</string>
+  <string name="Math_Task_5_Start">Palygink daiktus 30 kartų</string>
+  <string name="Math_Task_5_End">Palygino daiktus 30 kartų</string>
+  <string name="Math_Task_6_Start">Išspręsk 30 atimties užduočių</string>
+  <string name="Math_Task_6_End">Išsprendė 30 atimties užduočių</string>
+  <string name="Math_Task_7_Start">Atlik 30 linksmų atimties užduočių</string>
+  <string name="Math_Task_7_End">Atliko 30 linksmų atimties užduočių</string>
+  <string name="Math_Task_8_Start">Atlik 30 atimties užduočių</string>
+  <string name="Math_Task_8_End">Atliko 30 atimties užduočių</string>
+  <string name="Math_Task_1_Completed">Uždirbote sertifikatą! Suskaičiuoti daiktai 20 kartų.</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Uždirbote sertifikatą! Išsprendė 30 sudėties užduočių.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Uždirbote sertifikatą! Užbaigė sudėdamas 30 kartų.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Uždirbote sertifikatą! Atliko 30 sudėties užduočių.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Uždirbote sertifikatą! Palygino daiktus 30 kartų.</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Uždirbote sertifikatą! Išsprendė 30 atimties užduočių.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Uždirbote sertifikatą! Atliko 30 linksmų atimties užduočių.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Uždirbote sertifikatą! Atliko 30 atimties užduočių.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Jungtis prie Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Būsite nukreipti į Pinterest. Ar tikrai norite išeiti?</string>
+  <string name="txtContinue">Tęsti</string>
+  <string name="txtinspirationbehind">Įkvėpimas kurti programėles vaikams</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Spausdiniai</string>
+  <string name="txtOurStorySettingsNew">Mūsų Istorija</string>
+  <string name="txt_why_its_free">MŪSŲ PASAKOJIMAS</string>
+  <string name="txtAllowCouting">Leisti skaičiuoti (Skaičiavimas)</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Skaičiavimas</string>
+  <string name="Adding Puzzle">Sudėties užduotis</string>
+  <string name="Adding Fun">Sudėtis linksmai</string>
+  <string name="Adding Quiz">Sudėties užduotis</string>
+  <string name="Compare">Lyginti</string>
+  <string name="Subtracting Puzzle">Atimties užduotis</string>
+  <string name="Subtracting Fun">Atimtis linksmai</string>
+  <string name="Subtracting Quiz">Atimties užduotis</string>
+  <string ScaleFactor="1" name="txt_gamename">Matematika vaikams – sudėk, atimk, skaičiuok</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Matematika vaikams – sudėk, atimk, skaičiuok</string>
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">RV AppStudios YouTube kanalas</string>
+  <string name="txt_textrhymesYT">MOKOMOSIOS DAINELĖS IR LOPŠINĖS</string>
+  <!-- YouTube NEW - END -->
+  <string name="txt_TitleLanguage">Lietuvių</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">MŪSŲ PASAKOJIMAS</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">KODĖL ATSIDĖKOTI YRA SVARBU?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">KAIP MUMS PAVYKSTA KURTI NEMOKAMAS PROGRAMĖLES VAIKAMS?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txtBtnOK">Gerai</string>
+  <string name="txt_add">SUDĖK</string>
+  <string name="txt_sub">ATIMK</string>
+  <string name="text_level">### lygis</string>
+  <string name="txtInitOurStoryDescTitle" ScaleFactor="1">Susipažinkite su mūsų istorija</string>
+  <string name="txtInitHelpChangeLangMainTitle" ScaleFactor="1">Pirma užbaikite pagalbos pamokėlę</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Laukti</string>
+  <string name="txt_langdownloaded">Atsiuntimas baigtas</string>
+  <string name="txtInternetIssue">Interneto ryšio klaida</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">KITOS KALBOS</string>
+  <string name="txt_ContinueIn">Tęskite ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">MŪSŲ VAIKŲ ŽAIDIMAI</string>
+  <string name="txt_SuggestedLanguages">Siūlomos kalbos</string>
+  <string name="txt_VisitOurChannel">APSILANKYKITE MŪSŲ KANALE</string>
+  <string name="txt_followusandshare">SEKITE MUS IR DALINKITĖS MUMIS</string>
+  <string name="txt_OurImpact">MŪSŲ ĮTAKA</string>
+  <string name="txt_OurImpactDesc">RV AppStudios savo nemokamomis vaikiškomis programėlėmis kas mėnesį ugdo daugiau nei &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; vaikų.</string>
+  <string name="txt_KidsApp">KŪDIKIŲ PROGRAMĖLĖ</string>
+  <string name="txt_Countries">ŠALYS</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 VAIKŲ NAUDOSIS MŪSŲ PROGRAMĖLĖMIS</string>
+  <string name="txt_Hello">Sveiki</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Kas savaitę pridedamas naujas marškinėlių dizainas!</string>
+  <string name="txt_AllGamesAreFree">(Visi žaidimai yra nemokami ir be skelbimų)</string>
+  <string name="txt_ShowShopBtn">Paslėpkite mygtuką „Parduotuvė“ pagrindiniame meniu</string>
+  <string name="txt_ShowOurStoryBtn">Paslėpkite mygtuką „Mūsų istorija“ pagrindiniame meniu</string>
+  <string name="txt_ShowMoreappBtn">Paslėpkite mygtuką „Daugiau programų“ pagrindiniame meniu</string>
+  <string name="txt_TranslationFeedback">Vertimas atsiliepimą</string>
+  <string name="txt_TranslationFeedbackInfo">Pranešk apie vertimo klaidą. Nebendrinkite neskelbtinos informacijos. </string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">MARŠKINĖLIAI MAŽYKLIMS</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">MOKYMOSIOS KNYGOS VAIKAMS</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS MARŠKINĖLIAI &amp; MOKYMOSIOS KNYGOS</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">PIRMAS LUCAS &amp; FRIENDS KNYGA</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">MARŠKINĖLIAI &amp; MOKYMOSIOS KNYGOS VAIKAMS</string>
+  <string name="txt_VisibleMDstng">Pasirinkite režimus, kuriuos norite rodyti</string>
+  <string name="txt_SelectParentGate">Pasirinkite Parinktys, norėdami atrakinti nustatymą</string>
+  <string name="txt_HideButtons">Slėpti mygtukus</string>
+  <string name="txt_HideButtonsFromMenu">Slėpti mygtukus pagrindiniame meniu</string>
+  <string name="txt_rateThanks">Ačiū už meilę ir palaikymą. Mes taip pat tave mylime!</string>
+  <string name="txt_rateFeedback">Ačiū, norėtume išgirsti jūsų nuomonę. Prašome pateikti mums savo atsiliepimą.</string>
+  <string name="txt_rateLetUsKnow">Praneškite mums, kaip jūsų vaikui patinka mūsų programa.</string>
+  <string name="txt_rateHappySad">Ar esate patenkinti programa?</string>
+  <string name="txt_rateHappy">LAIMINGAS</string>
+  <string name="txt_rateSad">LIŪDNAS</string>
+  <string name="txtRateDesc1">Ar galėtumėte peržiūrėti programą Play Store parduotuvėje? Tai padės kitiems tėvams sužinoti apie šią programėlę.</string>
+  <string name="txtVeryBadCap">LABAI BLOGAI</string>
+  <string name="txtGoodCap">GERAI</string>
+  <string name="txtRateAppBtn">Įvertinkite mus</string>
+  <string name="txtRateHdr">ĮVERTINKITE MUS</string>
+  <string name="english_name">Anglų</string>
+  <string name="Sendfeedback" ScaleFactor="1">Siųsti atsiliepimą</string>
+  <string name="UseOurApps">Vaikai kiekvieną mėnesį naudojasi mūsų edukacinėmis programėlėmis.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios yra YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Ieškokite "RV Appstudios" ir raskite mūsų programėles</string>
+  <string name="GiphyStickers" ScaleFactor="1">Animuoti GIF ir lipdukai dabar pasiekiami!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Ieškokite @RVAppStudios savo GIF klaviatūroje</string>
+  <string ScaleFactor="1" name="txt_2Digit+">2 skaitmenų +</string>
+  <string ScaleFactor="1" name="txt_2Digit-">2 skaitmenų -</string>
+  <string name="Intro_Text" ScaleFactor="1">Apsilankykite RVAppStudios.com ir sužinokite naujausias naujienas!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">MŪSŲ POVEIKIS – virš 200 mln. atsisiuntimų kažką reiškia</string>
+  <string name="About_Us">APIE MUS</string>
+  <string name="txt_collectGift">PASIIMK DOVANĖLĘ</string>
+  <string name="txt_GoodJob">Šaunuolis</string>
+  <string name="Impact_together">Poveikis, Kurį Galime Padaryti Kartu</string>
+  <string name="For_Parents">Už Tėvelius</string>
+  <string name="Message_Parents">Žinutė Tėvams</string>
+  <string name="txtShoppingMode">Apsipirkimas</string>
+  <string name="Math_Task_9_Start">Išspręsk 2 skaitmenų sudėties 30 kartų</string>
+  <string name="Math_Task_9_End">Išsprendė 2 skaitmenų sudėties 30 kartų</string>
+  <string name="Math_Task_10_Start">Išspręsk 2 skaitmenų atimties 30 kartų</string>
+  <string name="Math_Task_10_End">Išsprendė 2 skaitmenų atimties 30 kartų</string>
+  <string name="Math_Task_11_Start">Atlik 30 sudėties pratimai</string>
+  <string name="Math_Task_11_End">Atliko 30 sudėties pratimai</string>
+  <string name="Math_Task_12_Start">Atlik 30 atimties pratimai</string>
+  <string name="Math_Task_12_End">Atliko 30 atimties pratimai</string>
+  <string name="Math_Task_13_Start">Išspręsk 30 apsipirkimas klausimų</string>
+  <string name="Math_Task_13_End">Išsprendė 30 apsipirkimas klausimų</string>
+  <string name="Math_Task_9_Completed">Uždirbote sertifikatą! Išsprendė 2 skaitmenų sudėties 30 kartų.</string>
+  <string name="Math_Task_10_Completed">Uždirbote sertifikatą! Išsprendė 2 skaitmenų atimties 30 kartų.</string>
+  <string name="Math_Task_11_Completed">Uždirbote sertifikatą! Atliko 30 sudėties pratimai.</string>
+  <string name="Math_Task_12_Completed">Uždirbote sertifikatą! Atliko 30 atimties pratimai.</string>
+  <string name="Math_Task_13_Completed">Uždirbote sertifikatą! Išsprendė 30 apsipirkimas klausimų.</string>
+  <string name="January">Sausis</string>
+  <string name="February">Vasaris</string>
+  <string name="March">Kovas</string>
+  <string name="April">Balandis</string>
+  <string name="May">Gegužė</string>
+  <string name="June">Birželis</string>
+  <string name="July">Liepa</string>
+  <string name="August">Rugpjūtis</string>
+  <string name="September">Rugsėjis</string>
+  <string name="October">Spalis</string>
+  <string name="November">Lapkritis</string>
+  <string name="December">Gruodis</string>
+  <string name="OurImpactKids1">vaikų pasinaudojo mūsų mobiliosiomis programomis</string>
+  <string name="Storage_low">Nepakanka Saugyklos Vietos</string>
+  <string name="OurImpactKids">1 Milijardas</string>
+  <string name="MessageForAdult1">Kiekvienas iš mūsų turi unikalų talentą. Aš kuriu mobiliąsias programas. Jūs galbūt esate nuostabus mokytojas, gydytojas, menininkas  ir pan. Tikiuosi, kad įkvėpsiu jus pasidalyti savo įgūdžiais, kaip aš nemokamai dalijuosi tuo, kas man patinka. Padėdami kitiems jaučiamės gerai ir įkvepiame kitus. Pagalvokite, kokį poveikį galime padaryti kartu! „Lucas &amp; Friends“ siekia įkvėpti gėrį žmonėse. Prašome paremti mus padedant kitiems savais būdais.
+</string>
+  <string name="Books_Tshirts">Knygos &amp; marškinėliai</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: misija paversti mokymąsi smagia ir prieinama patirtimi! Nemokamos mokomosios mobiliosios programos vaikams be jokių skelbimų, jokių mokesčių – tiesiog grynas, džiaugsmo kupinas mokymasis.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Kryžiaus Matematika</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Žvejyba Linksmas</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Sniegas</string>
+  <string ScaleFactor="1" name="txt_Addition">Sudėti</string>
+  <string ScaleFactor="1" name="txt_Subtraction">Atimti</string>
+  <string name="FunGames">Linksmi Žaidimai</string>
+  <string name="Select_Character" ScaleFactor="1">Pasirinkite Veikėją</string>
+  <string name="Car_Game" ScaleFactor="1">Auto Žaidimas</string>
+  <string name="txtUserChangeMsg1">Vaiko profilis sėkmingai pakeistas.</string>
+  <string ScaleFactor="1" name="txt_1Digit">1 skaitmenų</string>
+  <string ScaleFactor="1" name="txt_2Digit">2 skaitmenų</string>
+  <string ScaleFactor="1" name="txt_Play">Žaisti</string>
+  <string ScaleFactor="1" name="txtOpponentWon">Laimi varžovas!</string>
+  <string ScaleFactor="1" name="txtYouWon">Jūs laimėjote!</string>
+  <string ScaleFactor="1" name="txtRematch">Žaisti iš naujo</string>
+  <string ScaleFactor="1" name="txt_SelectDifficulty">Pasirink sudėtingumą</string>
+  <string ScaleFactor="1" name="txt_DualMode">Du žaidėjai</string>
+  <string ScaleFactor="1" name="txt_Correct">Teisingai</string>
+  <string name="Draw">Lygios</string>
+  <string name="Apparel_Accessories">APRANGA IR AKSESUARAI</string>
+  <string name="best_Seller">Geriausia Parduota</string>
+  <string name="RateUsNew">Ar jums patinka mūsų žaidimas? Jūsų apžvalga padeda paskleisti mūsų misiją ir nemokamas programas kitiems tėvams.</string>
+  <string name="txt_AdditupMode">Pridėk jį</string>
+  <string name="txt_SudokuMode">Dėlionės</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends pradėjo savo veiklą kaip aistringas projektas, kuriant nemokamas edukacines programėles vaikams be reklamų ir pirkimų programėlėje. Mes siekiame daryti gera pasauliui, atsidėkoti ir daryti įtaką. Daugiau nei <![CDATA[<color=#ff0018>1 Milijardas</color>]]> vaikų mokėsi naudodamiesi mūsų edukacinėmis programėlėmis. <![CDATA[<color=#FF6400>Mes niekada nesitikėjome, kad vieną dieną sukursime prekės ženklą vaikams ir parduosime žaislus!</color>]]></string>
+  <string name="we_Inspire_msg1">Dėkojame, kad įkvėpėte mus ir už paramą.</string>
+  <string name="txtBrandTrust">PREKĖS ŽENKLAS GALITE PATIKĖTI</string>
+  <string name="txtMission">Misija, Kurią Gali Vertinti</string>
+  <string name="we_Inspire">Įkvepiame Gėrį Žmonėse</string>
+  <string name="Number_Path">Skaičių Kelias</string>
+  <string name="Add_butterfly_1">### drugeliai sėdi ant gėlės. Tada @@@ skraido daugiau drugelių ir prisijunkite prie jų. Kiek iš viso yra drugelių?</string>
+  <string name="Add_butterfly_2">Vaikas pastebi ### drugelius. Tada atsiranda daugiau @@@. Kiek drugelių iš viso mato vaikas?</string>
+  <string name="Add_cat_1">### katės sėdi ant sienos. Kitos @@@ katės lipa aukštyn. Kiek kačių dabar yra ant sienos?</string>
+  <string name="Add_cow_1">### karvės yra tvarte. @@@ įeina daugiau karvių. Kiek karvių dabar yra tvarte?</string>
+  <string name="Add_deer_1">Pievoje ### elniai ėda žolę. Tada @@@ atkeliauja daugiau elnių. ​​Kiek elnių dabar ėda žolę?</string>
+  <string name="Add_dog_1">### šunys žaidžia su kamuoliu. Tada @@@ prie jų prisijungia daugiau šunų. Kiek šunų žaidžia?</string>
+  <string name="Add_giraffe_1">### žirafos geria vandenį. Tada @@@ ateina gerti daugiau žirafų. Kiek žirafų geria?</string>
+  <string name="Add_ladybugs_1">### boružėlės sėdi ant lapo. @@@ prie lapo skrenda daugiau boružėlių. Kiek boružėlių yra ant lapo?</string>
+  <string name="Add_tiger_1">### tigrai sėdi prie urvo. @@@ pasirodo daugiau tigrų. Kiek tigrų dabar yra?</string>
+  <string name="Add_tiger_2">Džiunglėse yra ### tigrai. @@@ artėja daugiau. Kiek iš viso yra tigrų?</string>
+  <string name="Add_owl_1">### pelėdos ilsisi lizde. @@@ į lizdą ateina daugiau pelėdų. Kiek pelėdų yra lizde?</string>
+  <string name="Add_panda_1">### pandos valgo bambuką. @@@ ateina daugiau pandų. Kiek pandų valgo bambuką?</string>
+  <string name="Add_parrot_1">### papūgos sėdi ant ešerio. @@@ laimingai atskrenda daugiau papūgų. Kiek papūgų dabar yra?</string>
+  <string name="Add_peacock_1">### sode šoka povai. @@@ ateina daugiau povų. Kiek povų šoka?</string>
+  <string name="Add_rooster_1">Ūkyje yra ### gaidžių. @@@ daugiau ateik prie tvarto. Kiek iš viso gaidžių?</string>
+  <string name="Add_snail_1">Ant lapo ### sraigės ilsisi. @@@ prisijunkite prie jų daugiau. Kiek sraigių iš viso?</string>
+  <string name="Add_zebra_1">Pievoje ėda ### zebrai. @@@ prisijunkite prie jų daugiau. Kiek zebrų iš viso?</string>
+  <string name="Add_bicycle_1">Parke yra ### dviračių. @@@ daugiau stovi. Kiek iš viso yra dviračių?</string>
+  <string name="Add_hippo_1">Ryte žaidžia ### begemotai. Vėliau @@@ daugiau užeikite. Koks bendras begemotų skaičius?</string>
+  <string name="Add_airplane_1">Ant kilimo ir tūpimo tako laukia ### lėktuvai. @@@ daugiau žemės. Kiek lėktuvų iš viso?</string>
+  <string name="Add_airplane_2">Oro uoste laukia ### lėktuvai. Netrukus atvyks daugiau @@@. Kiek iš viso lėktuvų?</string>
+  <string name="Add_horse_1">Prie tvarto stovi ### arkliai. @@@ prisijunkite prie jų daugiau. Kiek arklių iš viso?</string>
+  <string name="Add_fish_1">Akvariume plaukioja ### žuvys. @@@ pridėta daugiau. Kiek žuvų iš viso?</string>
+  <string name="Add_goat_1">Ant kalno yra ### ožkos. Tada ateina @@@ daugiau. Koks bendras ožkų skaičius?</string>
+  <string name="Add_monkey_1">Ant medžio yra ### beždžionių. @@@ daugiau lipkite aukštyn. Kiek iš viso yra beždžionių?</string>
+  <string name="Add_carrot_1">Krepšelyje yra ### morkų. @@@ pridėta daugiau. Kiek iš viso yra morkų?</string>
+  <string name="Add_candies_1">Indelyje yra ### saldainių. @@@ pridėta daugiau. Kiek iš viso yra saldainių?</string>
+  <string name="Add_cupcake_1">Ant stalo yra ### keksiukų. Įdėta daugiau @@@. Kiek iš viso yra keksiukų?</string>
+  <string name="Add_pinwheel_1">Ryte sode sukasi ### ratukai. Vėliau bus pridėta daugiau @@@. Kiek ratukų dabar yra?</string>
+  <string name="Add_broccoli_1">Lėkštėje yra ### brokoliai. @@@ pridėta daugiau. Kiek brokolių yra lėkštėje?</string>
+  <string name="Add_robot_1">Ant žemės yra ### robotų. @@@ daugiau eikite. Kiek iš viso yra robotų?</string>
+  <string name="Add_car_1">Vaikas turi ### žaislinių mašinėlių. @@@ duota daugiau. Kiek žaislinių mašinėlių vaikas turi?</string>
+  <string name="Add_bird house_1">Prie tvarto yra ### paukščių nameliai. @@@ pridėta daugiau. Kiek iš viso yra paukščių namelių?</string>
+  <string name="Add_ball_1">Ant žemės yra ### kamuoliukų. @@@ daugiau apversti. Kiek iš viso yra kamuoliukų?</string>
+  <string name="Add_drum_1">Muzikos klasėje laikomi ### būgnai. @@@ pridėta daugiau. Kiek būgnų iš viso?</string>
+  <string name="Add_cake_1">Ant stalo yra ### pyragaičių. @@@ pridėta daugiau. Kiek iš viso yra tortų?</string>
+  <string name="Add_fruits_1">Krepšelyje yra ### vaisių. @@@ pridėta daugiau. Kiek iš viso yra vaisių?</string>
+  <string name="Add_flower_1">Sode yra ### gėlių. @@@ daugiau žydėti. Kiek gėlių yra sode?</string>
+  <string name="Add_pig_1">Kieme yra ### kiaulių. Tada ateina @@@ daugiau. Koks bendras kiaulių skaičius kieme?</string>
+  <string name="Add_top_1">Ant grindų yra ### suktukai. @@@ pridėta daugiau. Kiek iš viso yra suktukų?</string>
+  <string name="Add_donut_1">Lėkštėje yra ### spurgos. @@@ pridėta daugiau. Kiek iš viso yra spurgų?</string>
+  <string name="Add_giftbox_1">Sara gavo ### dovanų. Jos draugas davė jai @@@ daugiau. Kiek dovanų iš viso turi Sara?</string>
+  <string name="Add_giftbox_2">Kambaryje yra ### dovanų dėžutės. Tada @@@ įdedama daugiau. Kiek dovanų dėžučių yra kambaryje?</string>
+  <string name="Add_taco_1">Sara gamino ### tacos. Jos mama gamino @@@ daugiau tacos. Kiek taco buvo pagaminta iš viso?</string>
+  <string name="Add_taco_2">Tomas suvalgė ### tacos. Jis suvalgė @@@ daugiau tacos. Kiek taco iš viso suvalgė Tomas?</string>
+  <string name="Add_kite_1">### danguje skraido aitvarai. @@@ pradeda skraidyti daugiau aitvarų. Kiek aitvarų skraido danguje?</string>
+  <string name="Add_kite_2">Leo pagamino ### aitvarus. Tada jis sukūrė @@@ daugiau aitvarų. Koks bendras Leo pagamintų aitvarų skaičius?</string>
+  <string name="Add_sandwich_1">Samas nusipirko ### sumuštinių. Tada jis nupirko @@@ daugiau sumuštinių. Kiek iš viso sam nupirko sumuštinių?</string>
+  <string name="Add_leopard_1">### leopardai yra ant medžio, o @@@ kopia dar daugiau. Kiek leopardų dabar yra ant medžio?</string>
+  <string name="WordProblem">Žodinis uždavinys</string>
+  <string name="Carry_Forward">Pridėti su nešiojimu</string>
+  <string name="Sub_butterfly_1">Sode skraidė ### drugeliai. @@@ drugelių nuskrido. Kiek drugelių liko sode?</string>
+  <string name="Sub_butterfly_2">Ema ryte pamatė ### drugelius. Po pietų ji pamatė @@@ drugelių mažiau. Kiek drugelių ji pamatė po pietų?</string>
+  <string name="Sub_cat_1">Etanas pamatė ### kates, sėdinčias ant tvoros. @@@ kačių pabėgo, kai sulojo šuo. Kiek kačių vis dar yra ant tvoros?</string>
+  <string name="Sub_cat_2">Mia savo kieme turi ### kates. @@@ kačių nuėjo gerti pieno. Kiek kačių vis dar yra kieme?</string>
+  <string name="Sub_cow_1">Prie upės gėrė ### karvės. @@@ karvių baigė gerti ir išėjo. Kiek karvių vis dar yra prie upės?</string>
+  <string name="Sub_cow_2">Šieną ėdė ### karvės. @@@ karvių nustojo ėsti. Kiek karvių vis dar ėda šieną?</string>
+  <string name="Sub_deer_1">Kelią kirto ### elniai. @@@ elnių jau buvo perėję gatvę. Kiek elnių vis dar laukia, kol galės pereiti?</string>
+  <string name="Sub_deer_2">Į kalną kopė ### elniai. @@@ elnių sustojo ir nusileido žemyn. Kiek elnių vis dar lipa?</string>
+  <string name="Sub_dog_1">Kieme žaidė ### šunys. Į namo vidų bėgiojo @@@ šunų. Kiek šunų vis dar yra kieme?</string>
+  <string name="Sub_dog_2">Volje buvo ### šunys. @@@ šunų išėjo į lauką. Kiek šunų vis dar yra voljere?</string>
+  <string name="Sub_giraffe_1">Po pavėsį teikiančiu medžiu atsigulė ### žirafos. Po kurio laiko @@@ žirafų atsistojo ir išėjo. Kiek žirafų vis dar ilsėjosi?</string>
+  <string name="Sub_giraffe_2">Aukštoje žolėje vaikščiojo ### žirafų grupė. Staiga @@@ žirafų atsisuko. Kiek žirafų toliau ėjo?</string>
+  <string name="Sub_ladybugs_1">Ant didelio žalio lapo tupėjo ### boružės. Tada @@@ nuskrido. Kiek boružėlių liko ant lapo?</string>
+  <string name="Sub_ladybug_2">Saulėlydžio metu kartu skrido ### boružės. @@@ nusileido ant medžio šakos. Kiek boružėlių vis dar skraidė?</string>
+  <string name="Sub_owl_1">### pelėdos praskrido ryškioje mėnesienoje. @@@ pelėdų nutūpė ant medžio. Kiek pelėdų vis dar skraidė?</string>
+  <string name="Sub_owl_2">Ant šakos iš eilės išsirikiavo ### pelėdos. @@@ pelėdų išskleidė sparnus ir nuskrido. Kiek pelėdų liko ant šakos?</string>
+  <string name="Sub_panda_1">### pandos kartu valgė bambuką. @@@ pandų baigė valgyti ir išėjo. Kiek pandų vis dar valgė bambuką?</string>
+  <string name="Sub_panda_2">### pandų grupė sėdėjo kartu. @@@ pandų išėjo ieškoti daugiau bambuko. Kiek pandų liko grupėje?</string>
+  <string name="Sub_parrot_1">### papūgų būrys skraidė kartu. @@@ papūgų nusileido ant stogo. Kiek papūgų toliau skraidė?</string>
+  <string name="Sub_parrot_2">Medyje prie lizdo gyveno ### papūgos. @@@ papūgų įskrido vidun. Kiek papūgų liko lauke?</string>
+  <string name="Sub_peacock_1">Sode šoko ### povai. @@@ povų nustojo šokti. Kiek povų toliau šoko?</string>
+  <string name="Sub_peacock_2">Saulėlydžio metu parke susirinko ### povai. @@@ povų nuskrido. Kiek povų dar buvo ten?</string>
+  <string name="Sub_rooster_1">Ryte prie maisto susirinko ### gaidžiai. @@@ gaidžių baigė valgyti ir išėjo. Kiek gaidžių vis dar ėdė?</string>
+  <string name="Sub_rooster_2">Ant tvoros sėdėjo ### gaidžiai. @@@ gaidžių nušoko žemyn. Kiek gaidžių liko ant tvoros?</string>
+  <string name="Sub_snail_1">Sodo take lėtai judėjo ### sraigės. @@@ sraigių nuvirto ant žolės. Kiek sraigių liko ant tako?</string>
+  <string name="Sub_snail_2">### sraigės buvo netoli gėlių. @@@ sraigių nušliaužė. Kiek sraigių vis dar buvo netoli gėlių?</string>
+  <string name="Sub_tiger_1">Džiunglėse ilsėjosi ### tigrai. @@@ tigrų pasišalino. Kiek tigrų liko ilsėtis?</string>
+  <string name="Sub_tiger_2">Miške buvo pastebėti ### vaikštinėjantys tigrai. @@@ tigrų pabėgo. Kiek tigrų vis dar ėjo?</string>
+  <string name="Sub_zebra_1">### zebrų banda atėjo atsigerti vandens. @@@ zebrų pasišalino atsigėrę. Kiek zebrų liko prie upės?</string>
+  <string name="Sub_zebra_2">Grupėje kartu žaidė ### zebrų jaunikliai. @@@ kumeliukų grįžo pas motinas. Kiek zebrų jaunų gyvūnų vis dar žaidė?</string>
+  <string name="Sub_bicycle_1">Šalia žaidimų aikštelės buvo pastatyti ### dviračiai. @@@ dviračių buvo parnešta namo. Kiek dviračių vis dar buvo žaidimų aikštelėje?</string>
+  <string name="Sub_bicycle_2">Dviračių parduotuvė lauke iškabino ### dviračius. Buvo parduota @@@ dviračių. Kiek dviračių liko eksponuojami?</string>
+  <string name="Sub_hippo_1">### begemotai kartu ėdė žolę. @@@ begemotų nustojo ėsti. Kiek begemotų toliau ėdė žolę?</string>
+  <string name="Sub_hippo_1">Bandoje buvo susirinkę ### begemotai. @@@ begemotų pasitraukė. Kiek begemotų liko bandoje?</string>
+  <string name="Sub_airplane_1">Ryte ### lėktuvai buvo pasiruošę skrydžiams. @@@ lėktuvų išskrido pagal tvarkaraštį. Kiek lėktuvų vis dar laukė?</string>
+  <string name="Sub_airplane_2">Vakare turėjo skristi ### lėktuvai. @@@ lėktuvų jau buvo išskridę. Kiek lėktuvų vis dar laukė išskridimo?</string>
+  <string name="Sub_horse_1">Arklidėje buvo ### arkliai. Išėjo @@@ arklių. Kiek arklių liko arklidėje?</string>
+  <string name="Sub_horse_2">Slėnyje buvo pastebėti ### arkliai. Į kalną užlipo @@@ arklių. Kiek arklių liko slėnyje?</string>
+  <string name="Sub_fish_1">Tvenkinyje plaukiojo ### žuvys. @@@ žuvų nuplaukė. Kiek žuvų vis dar buvo tvenkinyje?</string>
+  <string name="Sub_fish_2">Žvejas netoli savo valties pastebėjo ### žuvis. @@@ žuvų greitai nuplaukė. Kiek žuvų liko prie valties?</string>
+  <string name="Sub_goat_1">Ūkininkas turėjo ### ožkas, ganydamasis lauke. @@@ ožkų nuklydo kalvos link. Kiek ožkų vis dar ganėsi lauke?</string>
+  <string name="Sub_goat_2">Prie tvarto ilsėjosi ### ožkos. @@@ ožkų išbėgo pažaisti į kiemą. Kiek ožkų liko prie tvarto?</string>
+  <string name="Sub_monkey_1">### beždžionės žaidė ant mango medžio. @@@ beždžionių nušoko žemyn. Kiek beždžionių liko ant medžio?</string>
+  <string name="Sub_monkey_2">Zoologijos sode ### beždžionės supėsi ant virvių. @@@ beždžionių nuėjo ėsti. Kiek beždžionių vis dar supėsi?</string>
+  <string name="Sub_carrot_1">Krepšelyje buvo ### morkos. Suvalgyta @@@ morkų. Kiek morkų liko?</string>
+  <string name="Sub_carrot_2">Triušis rado ### morkas. @@@ morkų nuriedėjo. Kiek morkų dar buvo ten?</string>
+  <string name="Sub_candies_1">Stiklainyje buvo ### saldainiai. Ištraukta @@@ saldainių. Kiek saldainių liko viduje?</string>
+  <string name="Sub_candies_2">Ant stalo buvo ### saldainiai. Suvalgyta @@@ saldainių. Kiek saldainių liko?</string>
+  <string name="Sub_cupcake_1">Ant padėklo buvo ### keksiukai. Buvo išdalinta @@@ keksiukų. Kiek keksiukų liko?</string>
+  <string name="Sub_cupcake_2">Kepėjas iškepė ### keksiukus. Buvo parduota @@@ keksiukų. Kiek keksiukų liko?</string>
+  <string name="Sub_pinwheel_1">Sode sukosi ### vėjaračiai. @@@ vėjaračių nustojo suktis. Kiek jų vis dar sukosi?</string>
+  <string name="Sub_pinwheel_2">Prie tvoros buvo ### vėjo malūnėliai. @@@ vėjo malūnėlių nupūtė. Kiek jų liko?</string>
+  <string name="Sub_broccoli_1">Lėkštėje buvo ### brokolių gabalėliai. Suvalgyta @@@ gabalėlių. Kiek gabalėlių liko?</string>
+  <string name="Sub_broccoli_2">Šefas iškepė ### brokolių stiebus. Buvo patiekta @@@. Kiek jų liko?</string>
+  <string name="Sub_robot_1">Eilėje stovėjo ### robotai. @@@ robotų nuėjo. Kiek robotų pasiliko?</string>
+  <string name="Sub_robot_2">Laboratorijoje buvo ### robotai. @@@ robotų buvo išjungti. Kiek jų vis dar buvo įjungti?</string>
+  <string name="Sub_car_1">Lauke buvo pastatyti ### automobiliai. @@@ automobilių nuvažiavo. Kiek automobilių liko pastatyti?</string>
+  <string name="Sub_car_2">Lenktynėse startavo ### automobiliai. @@@ automobilių finišavo anksčiau laiko. Kiek jų vis dar lenktyniavo?</string>
+  <string name="Sub_bird house_1">Prie paukščių namelio tupėjo ### paukščiai. @@@ nuskrido. Kiek paukščių pasiliko?</string>
+  <string name="Sub_bird house_2">Paukščių nameliuke buvo ### lizdai. @@@ nuvirto. Kiek lizdų liko?</string>
+  <string name="Sub_ball_1">Žaidimų aikštelėje buvo ### kamuoliai. @@@ kamuolių nuriedėjo. Kiek jų dar buvo ten?</string>
+  <string name="Sub_ball_2">Dėžėje buvo ### kamuoliukai. Iš jos iššoko @@@ kamuoliukų. Kiek kamuoliukų liko?</string>
+  <string name="Sub_drum_1">Scenoje buvo ### būgnai. @@@ būgnų buvo nuimti. Kiek jų liko scenoje?</string>
+  <string name="Sub_drum_2">Grupė turėjo ### būgnus. Sugedo @@@ būgnų. Kiek gerų būgnų liko?</string>
+  <string name="Sub_cake_1">Šiandien buvo iškeptos ### pyragai. Suvalgyta @@@ pyragų. Kiek pyragų liko?</string>
+  <string name="Sub_cake_2">Kepėjas papuošė ### pyragus. Buvo parduota @@@ pyragų. Kiek pyragų vis dar buvo palikta?</string>
+  <string name="Sub_fruits_1">Krepšelyje buvo ### vaisiai. Iškrito @@@ vaisių. Kiek vaisių liko viduje?</string>
+  <string name="Sub_fruits_2">Parduotuvėje buvo eksponuojami ### vaisiai. @@@ buvo parduota. Kiek vaisių liko?</string>
+  <string name="Sub_flower_1">Sode pražydo ### gėlės. Buvo nuskinta @@@ gėlių. Kiek gėlių liko?</string>
+  <string name="Sub_flower_2">Vazoje buvo ### gėlės. @@@ nuvytusių. Kiek buvo šviežių?</string>
+  <string name="Sub_pig_1">Garde buvo ### kiaulės. Išbėgo @@@ kiaulių. Kiek kiaulių liko?</string>
+  <string name="Sub_pig_2">Ūkininkas turėjo ### kiaules. @@@ kiaulių nuėjo į tvenkinį. Kiek kiaulių liko?</string>
+  <string name="Sub_top_1">Ant grindų gulėjo ### vilkeliai. @@@ nustojo suktis. Kiek jų sukosi toliau?</string>
+  <string name="Sub_top_2">Dėžėje buvo ### dangteliai. @@@ buvo ištraukta. Kiek dangtelių liko?</string>
+  <string name="Sub_donut_1">Ant padėklo buvo ### spurgos. Buvo suvalgyta @@@ spurgų. Kiek spurgų liko?</string>
+  <string name="Sub_donut_2">Parduotuvė iškepė ### spurgas. @@@ buvo parduota. Kiek spurgų liko?</string>
+  <string name="Sub_giftbox_1">Ant stalo buvo ### dovanų dėžutės. @@@ buvo atidarytos. Kiek liko uždarytų?</string>
+  <string name="Sub_giftbox_2">Po eglute buvo ### dovanų dėžutės. @@@ buvo paimtos. Kiek liko?</string>
+  <string name="Sub_taco_1">Lėkštėje buvo ### takai. Suvalgyta @@@ takų. Kiek takų liko?</string>
+  <string name="Sub_taco_2">Šefas pagamino ### tako. Buvo patiekta @@@. Kiek tako liko?</string>
+  <string name="Sub_kite_1">Danguje pakilo ### aitvarai. Nukrito @@@ aitvarų. Kiek aitvarų vis dar skraidė?</string>
+  <string name="Sub_kite_2">Paplūdimyje buvo ### aitvarai. @@@ nupūtė. Kiek aitvarų liko?</string>
+  <string name="Sub_sandwich_1">Ant stalo buvo ### sumuštiniai. Suvalgyta @@@ sumuštinių. Kiek liko?</string>
+  <string name="Sub_sandwich_2">Virėjas pagamino ### sumuštinius. Buvo patiekta @@@. Kiek sumuštinių liko?</string>
+  <string name="Add_Pyramid">Sudėties piramidė</string>
+</resources>

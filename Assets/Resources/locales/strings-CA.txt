@@ -1,0 +1,795 @@
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">MÉS APPS</string>
+  <string name="txt_holdfor">Prem 3 segons</string>
+  <string name="txt_title_for_grown_ups">PER ALS GRANS</string>
+  <string name="txt_userguide_for_grown_ups">Introdueix els números per accedir</string>
+  <string name="txt_digit_Zero">Zero</string>
+  <string name="txt_digit_One">Un</string>
+  <string name="txt_digit_Two">Dos</string>
+  <string name="txt_digit_Three">Tres</string>
+  <string name="txt_digit_Four">Quatre</string>
+  <string name="txt_digit_Five">Cinc</string>
+  <string name="txt_digit_Six">Sis</string>
+  <string name="txt_digit_Seven">Set</string>
+  <string name="txt_digit_Eight">Vuit</string>
+  <string name="txt_digit_Nine">Nou</string>
+  <string name="txt_stickershowcase_toys">JOGUINES</string>
+  <string name="txt_stickershowcase_stickers">ADHESIUS</string>
+  <string name="txt_stickershowcase_stamps">SEGELLS</string>
+  <string name="txt_stickershowcase_notoys">Cap joguina</string>
+  <string name="txt_stickershowcase_nostickers">Cap adhesiu</string>
+  <string name="txt_stickershowcase_nostamps">Cap segell</string>
+  <string name="txt_pick_a_stamp">ESCULL UN SEGELL</string>
+  <string name="txt_collectsticker">AGAFA UN ADHESIU</string>
+  <string name="txt_collectyourGift">AGAFA EL TEU REGAL</string>
+  <!--New-->
+  <string name="txt_rateUsReview_microsoft">Valora'l a la botiga</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Valora'l a la botiga</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Valora'l a la botiga</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Valora'l a la botiga</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Valora'l a la botiga</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Música de fons</string>
+  <string name="text_sound">So</string>
+  <string name="text_showhint">Mostra ajuda quan s'aprèn</string>
+  <string name="text_learn_with">Aprèn en</string>
+  <string name="text_level">Nivell ###</string>
+  <string name="text_generate_report">Genera informe</string>
+  <string name="text_view_report_card">Mostra l'informe</string>
+  <string name="text_visible_mode">Mode visible</string>
+  <string name="text_VISIBLE_MODE">MODE VISIBLE</string>
+  <string name="text_share">Comparteix</string>
+  <string name="txt_report_card">INFORME</string>
+  <string name="txt_number">Núm.</string>
+  <string name="txt_date_time">Dia/hora</string>
+  <string name="txt_mode">Mode</string>
+  <string name="txt_retry">Reintenta</string>
+  <string name="txt_no_report">Cap informe</string>
+  <string name="txt_yes">SÍ</string>
+  <string name="txt_no">NO</string>
+  <string name="txt_delete_report">Vols esborrar totes les dades de l'informe?</string>
+  <string name="txt_press_again_exit">Prem un altre cop per sortir</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Selecció d'idioma</string>
+  <string name="txt_Select_Language">Selecció d'idioma</string>
+  <string name="txtLanguages">Idiomes</string>
+  <string name="txtOtherLanguages">Altres idiomes</string>
+  <string name="txt_Report_a_Translation_error">Informa d'error de traducció</string>
+  <string name="txt_send">ENVÍA</string>
+  <string name="txtReadyBundle">La descàrrega començar ben aviat.</string>
+  <string name="txtDownloadingBundle">Descarregant paquet d'idioma</string>
+  <string name="txt_ConnectionError">Error de connexió</string>
+  <string name="txt_InstallNow">Instal·la ara</string>
+  <string name="txt_PostSuccess">Missatge publicat correctament</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Perfil infant</string>
+  <string name="txtBtnAdd">AFEGEIX INFANT</string>
+  <string name="txtAddHelp">Afegeix perfils per desar els ajustaments i informes de tota la mainada.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Nom de l'infant</string>
+  <string name="txtEnterName">Introdueix el nom...</string>
+  <!-- EDIT: Child 1 -->
+  <string name="txtMaxLimit">20 noms màxim</string>
+  <string name="txtEditProfile">Edita el perfil</string>
+  <string name="txtDeleteProfile">Esborra el perfil</string>
+  <string name="txtDeleteProfileConfirm">###: vols esborrar aquest perfil?</string>
+  <string name="txtNo">NO</string>
+  <string name="txtYes">SÍ</string>
+  <string name="txtNameDuplication">Aquest nom ja existeix!</string>
+  <string name="txtUserChangeMsg">Perfil canviat correctament.</string>
+  <string name="txtShareWithParents">Comparteix amb les famílies, l'escola, la llar d'infants i més</string>
+  <string name="txtBtnUpdate">Actualitza</string>
+  <string name="txtNew">Nou</string>
+  <string name="txt_DownloadNow">Descarrega ara</string>
+  <string name="txtShowIntroAtStart">Mostra la introducció del personatge en començar</string>
+  <string name="txt_connection_lost">S'ha perdut la connexió.</string>
+  <string name="txt_connectionlost_detail">Problema en connectar a internet. Comprova els ajustaments de xarxa.</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Canvia l'idioma</string>
+  <string name="txtInitHelpChangeLangDesc">Pots escollir aprendre en ### idiomes diferents.</string>
+  <string name="txtInitHelpCustomSettingTitle">Personalització dels ajustaments</string>
+  <string name="txtInitHelpCustomSettingDesc">Personalitza els teus ajustaments per obtenir la millor experiència d'aprenentatge possible.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string ScaleFactor="1" name="txtloading">Carregant...</string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">ENRERE</string>
+  <string ScaleFactor="1" name="txtBtnSelect">SELECCIONA</string>
+  <string ScaleFactor="1" name="txtBtnDelete">ESBORRA</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NAVEGA</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Prem qualsevol botó per continuar...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">SORTIR DEL JOC?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Vols sortir?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Dona'ns suport i valora l'app.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Valora'ns</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Més endavant</string>
+  <!-- T-Shirts Shop - START -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Com donar-nos suport</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Regala una samarreta als teus petits i dona'ns suport.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">La millor manera de donar-nos suport sense haver-te de rascar la butxaca és compartir els nostres jocs infantils amb l'escola, els amics, a les xarxes socials i als mitjans (TV i diaris).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Compra una samarreta als petits i que presumeixin de personatges divertits.</string>
+  <string ScaleFactor="1" name="txtShareCap">COMPARTEIX</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">CONFIRMA</string>
+  <string name="txt_shopConfirmDetail">Et redirigirem al lloc web per continuar. Vols sortir?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <string ScaleFactor="1" name="txtWiderSelection">Gran selecció i enviaments a tot el món</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Què n'opines del joc?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Molt dolent</string>
+  <string ScaleFactor="1" name="txtVeryGood">Molt bo</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Sí, volara i ajuda'ns</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Gràcies pels comentaris</string>
+  <!-- New Rate US END -->
+  <!-- New Rate US END -->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Inici</string>
+  <string name="txt_menuoption_settings">Ajustaments</string>
+  <string name="txt_menuoption_shop">Botiga</string>
+  <string name="txt_menuoption_kidsapps">Apps per als petits</string>
+  <string name="txt_menuoption_parentapps">Apps per als grans</string>
+  <string name="txt_menuoption_worksheets">Fulls d'exercicis</string>
+  <string name="txt_messagefromdave">QUELCOM A DIR</string>
+  <string name="txt_getfeaturedon">APAREIX A INSTAGRAM</string>
+  <string name="txt_tagus">Etiqueta @RVAppStudios i apareix a les nostres stories</string>
+  <!-- Tag @RVAppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Fundador de RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Fes una foto o un vídeo de la teva mainada fent servir l'app o rebent el certificat.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Etiqueta i comparteix el nostre perfil a Instagram @RVAppStudios i podràs aparèixer al nostre perfil.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Apps de RV AppStudios per a petits</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Apps de RV AppStudios per a grans</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">FULLS D'EXERCICIS</string>
+  <string name="txt_coloringpage">PÀGINA PER ACOLORIR</string>
+  <string name="txt_downloadmoreworksheet">Descarrega més fulls d'exercicis del nostre Pinterest</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Amb 14 milions de descàrregues mensuals dels jocs inclosos a les nostres apps infantils, hem esdevingut un dels principals desenvolupadors d'apps educatives per a infants. "I seguirem essent-ho sempre GRATIS."
+
+   "Per què?" -En ser pare, sabia que faria tot el possible per garantir a la meva filla la millor educació i les millors oportunitats. Molts pares som conscients del desig de donar als nostres fills més oportunitats i una millor educació que la rebuda.
+
+   Però no totes les famílies tenen el temps o la capacitat d'ajudar la mainda amb els deures. I com volia el millor per a la meva filla, veia que era injust que desenes de milions de nens de tot el món no tinguessin les mateixes oportunitats ni tan sols per rebre l'educació bàsica i aprendre a llegir i escriure.
+
+   Essent desenvolupador d'aplicacions em vaig adonar que tenia l'oportunitat de fer alguna cosa al respecte."Sense ànim de lucre" però amb ganes de treballar perquè tots els nens del món aprenguin habilitats bàsiques de ben menuts com comptar, l'ortografia i les matemàtiques d'una manera divertida.
+
+   Així que vaig llançar la línia d'aplicacions educatives infantils de "RV AppStudios" amb el propòsit d'oferir apps GRATUÏTES que ajudin a la mainada a desenvolupar la seva creativitat, la memòria i el pensament lògic de manera lúdica.
+
+   Per aconseguir-ho, calia que les apps i jocs fossin segurs per als petits. Així que vaig decidir invertir els beneficis generats per les nostres altres apps per fer-ne d'infantils "100 % GRATIS", "SENSE ANUNCIS" i "SENSE compres integrades". Els únics beneficiaris d'aquestes apps serien la mainada.
+
+   Volem veure com els menuts comencen a fer servir aplicacions educatives preescolars. D'aquesta manera, podran liderar el canvi del seu entorn. Nosaltres mateixos financem aquesta passió per fer-la realitat!</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtWatchUsYouTube">Mira'ns a YouTube</string>
+  <string name="txtRateApp">Valora ara</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Continuar</string>
+  <string name="txt_DownloadNowCap">DESCARREGA ARA</string>
+  <string name="txt_Play_nowCap">REPRODUEIX</string>
+  <string name="txt_ConnectionErrorMsg1">Error de connexió a internet</string>
+  <string name="txt_ConnectionErrorMsg2">Prova-ho més tard.</string>
+  <string name="txtContinue">Continuar</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Equació</string>
+  <string name="txtSubPracticeTitle">Pràctiques de restes</string>
+  <string name="txtAddPracticeTitle">Pràctiques de sumes</string>
+  <string name="txtBeginner">Principiant</string>
+  <string name="txtIntermediate">Mig</string>
+  <string name="txtAdvance">Avançat</string>
+  <string name="txtSubPracticeTitle">Pràctiques de restes</string>
+  <string name="txtAddPracticeTitle">Pràctiques de sumes</string>
+  <string name="txtBeginner">Principiant</string>
+  <string name="txtIntermediate">Mig</string>
+  <string name="txtAdvance">Avançat</string>
+  <string name="txtCertificate">Certificat</string>
+  <string name="txtCertificates">CERTIFICAT</string>
+  <string name="txtUnlocked">Desblocat</string>
+  <string name="txtCongratulations">Felicitats</string>
+  <string name="txtCertificateUnlocked">Nous certificat desblocat!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">el</string>
+  <string name="txtPrint">Imprimeix</string>
+  <!--  -->
+  <string name="txt_certi_title_1">PREMI</string>
+  <string name="txt_certi_title_2">INCREÏBLE</string>
+  <string name="txt_certi_title_3">PREMI ESTRELLA</string>
+  <string name="txt_certi_title_4">BONA FEINA</string>
+  <string name="txt_certi_title_5">EXCEL·LÈNCIA</string>
+  <string name="txt_certi_title_6">FANTÀSTIC</string>
+  <string name="txt_certi_title_7">ASSOLIMENT</string>
+  <string name="txt_certi_title_8">BEN FET</string>
+  <!--  -->
+  <!--EDIT: This product is available only in USA.-->
+  <string name="txt_shopConfirmTitle">CONFIRMA</string>
+  <string name="txt_shopConfirmDetail">Et redirigirem al lloc web per continuar. Vols sortir?</string>
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Has obtingut un certificat!</string>
+  <string name="txtEnterNm">Introdueix el nom de l'infant.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Inspira als menuts imprimint el certificat</string>
+  <string name="txtGreat">BONÍSSIM</string>
+  <string name="txtTapToGetCerti">Toca per obtenir el certificat.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Compta elements 20 cops</string>
+  <string name="Math_Task_1_End">Comptats elements 20 cops</string>
+  <string name="Math_Task_2_Start">Resol 30 trencacloses</string>
+  <string name="Math_Task_2_End">30 trencaclosques resolts</string>
+  <string name="Math_Task_3_Start">Acaba les Sumes divertides 30 cops</string>
+  <string name="Math_Task_3_End">Acabat Sumes divertides 30 cops</string>
+  <string name="Math_Task_4_Start">Completa 30 preguntes de sumes</string>
+  <string name="Math_Task_4_End">Completades 30 preguntes de sumes</string>
+  <string name="Math_Task_5_Start">Compara elements 30 cops</string>
+  <string name="Math_Task_5_End">Comparats elements 30 cops</string>
+  <string name="Math_Task_6_Start">Resol 30 trencaclosques de traç</string>
+  <string name="Math_Task_6_End">Resolts 30 trencaclosques de traç</string>
+  <string name="Math_Task_7_Start">Acaba Restes divertides 30 cops</string>
+  <string name="Math_Task_7_End">Acabat Restes divertides 30 cops</string>
+  <string name="Math_Task_8_Start">Completa 30 preguntes de restes</string>
+  <string name="Math_Task_8_End">Completades 30 preguntes de restes</string>
+  <string name="Math_Task_1_Completed">Has obtingut un certificat! Comptats elements 20 cops.</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Has obtingut un certificat! 30 trencaclosques resolts.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Has obtingut un certificat! Acabat Sumes divertides 30 cops.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Has obtingut un certificat! Completades 30 preguntes de sumes.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Has obtingut un certificat! Comparats elements 30 cops.</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Has obtingut un certificat! Resolts 30 trencaclosques de traç.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Has obtingut un certificat! Acabat Restes divertides 30 cops.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Has obtingut un certificat! Completades 30 preguntes de restes.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Connecta amb Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Et redirigirem a la Pinterest. Vols sortir?</string>
+  <string name="txtContinue">Continuar</string>
+  <string name="txtinspirationbehind">Què ha inspirat aquestes apps per a la canalla</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Imprimibles</string>
+  <string name="txtOurStorySettingsNew">La Nostra Història</string>
+  <string name="txt_why_its_free">LA NOSTRA HISTÒRIA</string>
+  <string name="txtAllowCouting">Permet comptar (Comptar)</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Comptar</string>
+  <string name="Adding Puzzle">Trencaclosques de sumes</string>
+  <string name="Adding Fun">Sumes divertides</string>
+  <string name="Adding Quiz">Preguntes de sumes</string>
+  <string name="Compare">Compara</string>
+  <string name="Subtracting Puzzle">Trencaclosques de restes</string>
+  <string name="Subtracting Fun">Restes divertides</string>
+  <string name="Subtracting Quiz">Preguntes de restes</string>
+  <string ScaleFactor="1" name="txt_gamename">Matemàtiques infantils: sumes, restes, comptes</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Matemàtiques infantils: sumes, restes, comptes</string>
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">RV AppStudios és ara a YouTube</string>
+  <string name="txt_textrhymesYT">CANÇONS INFANTILS I EDUCATIVES</string>
+  <!-- YouTube NEW - END -->
+  <string name="txt_TitleLanguage">Català</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">D'ON VENIM</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">PER QUÈ ÉS IMPORTANT AJUDAR ALS DEMÉS?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">COM FEM PERQUÈ LES NOSTRES APPS INFANTILS SIGUIN GRATUÏTES?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txtBtnOK">Accepta</string>
+  <string name="txt_add">SUMES</string>
+  <string name="txt_sub">RESTES</string>
+  <string name="text_level">Nivell ###</string>
+  <string name="txtInitOurStoryDescTitle" ScaleFactor="1">La nostra història</string>
+  <string name="txtInitHelpChangeLangMainTitle" ScaleFactor="1">Acaba primer el tutorial</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Espera, si us plau</string>
+  <string name="txt_langdownloaded">Descàrrega completada</string>
+  <string name="txtInternetIssue">Problema en connectar a internet</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">ALTRES IDIOMES</string>
+  <string name="txt_ContinueIn">Continuar en ###</string>
+  <string name="txt_OurKidsGames">ELS NOSTRES JOCS</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_SuggestedLanguages">Idiomes Suggerits</string>
+  <string name="txt_VisitOurChannel">VISITA EL NOSTRE CANAL</string>
+  <string name="txt_followusandshare">SEGUEIX-NOS I AJUDA'NS</string>
+  <string name="txt_OurImpact">EL NOSTRE IMPACTE</string>
+  <string name="txt_OurImpactDesc">RV AppStudios educa més de &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; de nens mensualment amb les nostres aplicacions gratuïtes per a nens.</string>
+  <string name="txt_KidsApp">APP INFANTIL</string>
+  <string name="txt_Countries">PAÏSOS</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 NENS UTILITZARAN LES NOSTRES APLICACIONS</string>
+  <string name="txt_Hello">Hola</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Nou disseny de samarreta afegit setmanalment!</string>
+  <string name="txt_AllGamesAreFree">(Tots els jocs són gratuïts i sense anuncis)</string>
+  <string name="txt_ShowShopBtn">Amaga "botó botiga" del menú principal</string>
+  <string name="txt_ShowOurStoryBtn">Amaga el "botó La nostra història" al menú principal</string>
+  <string name="txt_ShowMoreappBtn">Amaga el "botó Més aplicacions" del menú principal</string>
+  <string name="txt_TranslationFeedback">Traducció Suggeriments</string>
+  <string name="txt_TranslationFeedbackInfo">Informa d'error de traducció. No comparteixis informació sensible.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">SAMARRETES PER A NENS</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">LLIBRES EDUCATIUS PER A NENS</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS SAMARRETES &amp; LLIBRES EDUCATIUS</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">PRIMER LUCAS &amp; FRIENDS LLIBRE</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">SAMARRETES &amp; LLIBRES EDUCATIUS PER A NENS</string>
+  <string name="txt_VisibleMDstng">Seleccioneu Modes per mostrar</string>
+  <string name="txt_SelectParentGate">Seleccioneu Opcions per desbloquejar la configuració</string>
+  <string name="txt_HideButtons">Oculta botons</string>
+  <string name="txt_HideButtonsFromMenu">Amaga els botons del menú principal</string>
+  <string name="txt_rateThanks">Gràcies pel vostre amor i suport. Nosaltres també us estimem!</string>
+  <string name="txt_rateFeedback">Gràcies, ens encantaria saber què en penseu. Envieu-nos els vostres comentaris.</string>
+  <string name="txt_rateLetUsKnow">Feu-nos saber si al vostre fill li agrada la nostra app.</string>
+  <string name="txt_rateHappySad">T'agrada l'app?</string>
+  <string name="txt_rateHappy">CONTENT</string>
+  <string name="txt_rateSad">TRIST</string>
+  <string name="txtRateDesc1">Et faries res deixar una valoració de l'app a Play Store? Així ajudes a informar les famílies quant a l'app.</string>
+  <string name="txtVeryBadCap">MOLT MALAMENT</string>
+  <string name="txtGoodCap">BÉ</string>
+  <string name="txtRateAppBtn">Avaluans</string>
+  <string name="txtRateHdr">AVALUA'NS</string>
+  <string name="english_name">Anglès</string>
+  <string name="Sendfeedback" ScaleFactor="1">Enviar comentaris</string>
+  <string name="UseOurApps">Els nens utilitzen les nostres aplicacions educatives cada mes.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios és a YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Cerca RV Appstudios per trobar les nostres aplicacions</string>
+  <string name="GiphyStickers" ScaleFactor="1">Els GIF animats i els adhesius ja estan disponibles!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Cerca @RVAppStudios al teu teclat GIF</string>
+  <string name="txt_2Digit+">2 Dígits +</string>
+  <string name="txt_2Digit-">2 Dígits -</string>
+  <string name="Intro_Text" ScaleFactor="1">Visiteu RVAppStudios.com per obtenir les últimes notícies!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">IMPACTE: més de 200 milions de descàrregues és tota una fita</string>
+  <string name="About_Us">SOBRE NOSALTRES</string>
+  <string name="txt_collectGift">AGAFA EL TEU REGAL</string>
+  <string name="txt_GoodJob">bona feina</string>
+  <string name="Impact_together">Impacte Que Podem Fer Junts</string>
+  <string name="For_Parents">Per Als Pares</string>
+  <string name="Message_Parents">Missatge Per Als Pares</string>
+  <string name="txtShoppingMode">Compres</string>
+  <string name="Math_Task_9_Start">Completa la suma de 2 dígits 30 vegades</string>
+  <string name="Math_Task_9_End">Completat la suma de 2 dígits 30 vegades</string>
+  <string name="Math_Task_10_Start">Completar la resta de 2 dígits 30 vegades</string>
+  <string name="Math_Task_10_End">Completat la resta de 2 dígits 30 vegades</string>
+  <string name="Math_Task_11_Start">Completa 30 pràctiques de sumes</string>
+  <string name="Math_Task_11_End">Completat 30 pràctiques de sumes</string>
+  <string name="Math_Task_12_Start">Completa 30 pràctiques de resta</string>
+  <string name="Math_Task_12_End">Completat 30 pràctiques de resta</string>
+  <string name="Math_Task_13_Start">Resoldre 30 preguntes sobre compres</string>
+  <string name="Math_Task_13_End">S'han resolt 30 preguntes sobre compres</string>
+  <string name="Math_Task_9_Completed">Has obtingut un certificat!
+  Completat la suma de 2 dígits 30 vegades</string>
+  <string name="Math_Task_10_Completed">Has obtingut un certificat!
+  Completat la resta de 2 dígits 30 vegades</string>
+  <string name="Math_Task_11_Completed">Has obtingut un certificat!
+  Completat 30 pràctiques de sumes</string>
+  <string name="Math_Task_12_Completed">Has obtingut un certificat!
+  Completat 30 pràctiques de resta</string>
+  <string name="Math_Task_13_Completed">Has obtingut un certificat!
+  S'han resolt 30 preguntes sobre compres</string>
+  <string name="January">Gener</string>
+  <string name="February">Febrer</string>
+  <string name="March">Març</string>
+  <string name="April">Abril</string>
+  <string name="May">Maig</string>
+  <string name="June">Juny</string>
+  <string name="July">Juliol</string>
+  <string name="August">Agost</string>
+  <string name="September">Setembre</string>
+  <string name="October">Octubre</string>
+  <string name="November">Novembre</string>
+  <string name="December">Desembre</string>
+  <string name="Storage_low">No hi ha prou espai d'emmagatzematge</string>
+  <string name="MessageForAdult1">Tots tenim un talent únic. Jo faig apps. Tu potser et dediques a la docència, la medicina o l’art. Així com jo comparteixo el que m'agrada fer de manera gratuïta, vull animar-te a compartir les teves habilitats. Ajudar els altres et fa sentir bé i serveix d’inspiració per a altres persones. Pensa en l'impacte que podem tenir junts! Lucas &amp; Friends té l’objectiu d’inspirar el bé de les persones. Ajudeu-nos donant als altres. A la teva manera.
+</string>
+  <string name="OurImpactKids">1 Mil Milions</string>
+  <string name="OurImpactKids1">infants han fet servir les nostres apps</string>
+  <string name="Books_Tshirts">Llibres &amp; Samarretes</string>
+  <string name="we_Inspire_msg1">Gràcies per inspirar-nos i donar-nos suport!</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends va començar com un projecte sorgit de la passió creant aplicacions infantils gratuïtes sense anuncis ni compres a l'aplicació. Pretenem aportar un impacte positiu al món de manera altruista. Més de &lt;color=#ff0018&gt;&lt;size=35&gt;1 Mil Milions&lt;/size&gt;&lt;/color&gt;  d'infants han après amb les nostres aplicacions educatives. &lt;color=#FF6400&gt;Mai vam imaginar que crearíem una marca infantil i que acabaríem venent joguines.&lt;/color&gt;</string>
+  <string name="we_Inspire">Inspirem el bé en les persones</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Una missió per fer que aprendre sigui divertit i accessible! Aplicacions educatives gratuïtes, sense anuncis i sense càrrecs: pur aprenentatge i pura diversió per als infants.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Matemàtiques Creuades</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Diversió de pesca</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Neu</string>
+  <string name="txt_Addition">Sumes</string>
+  <string name="txt_Subtraction">Restes</string>
+  <string name="FunGames">Jocs Divertits</string>
+  <string name="Select_Character" ScaleFactor="1">Seleccioneu el Caràcter</string>
+  <string name="Car_Game" ScaleFactor="1">Joc de Cotxes</string>
+  <string name="txtUserChangeMsg1">El perfil del nen ha canviat correctament.</string>
+  <string name="txt_1Digit">1 Dígit</string>
+  <string name="txt_2Digit">2 Dígits</string>
+  <string name="txt_Play">Juga</string>
+  <string name="txtOpponentWon">Ha guanyar l'adversari!</string>
+  <string name="txtYouWon">Has guanyat!</string>
+  <string name="txtRematch">Repeteix</string>
+  <string name="txt_SelectDifficulty">Selecciona la dificultat</string>
+  <string name="txt_DualMode">Dos jugadors</string>
+  <string name="txt_Correct">Correcte</string>
+  <string name="Draw">Empat</string>
+  <string name="Apparel_Accessories">ROBA I ACCESSORIS</string>
+  <string name="best_Seller">El Més Venut</string>
+  <string name="RateUsNew">Estàs gaudint del nostre joc? La teva ressenya ajuda a difondre la nostra missió i les aplicacions gratuïtes a altres pares.</string>
+  <string name="txt_AdditupMode">Afegiu-lo</string>
+  <string name="txt_SudokuMode">Trencaclosques</string>
+  <string name="txtBrandTrust">MARCA EN QUÈ POTS CONFIAR</string>
+  <string name="txtMission">Una Missió Que Pots Apreciar</string>
+  <string name="Number_Path">Camí Numèric</string>
+  <string name="Add_butterfly_1">### papallones estan posades sobre una flor. Després, @@@ papallones més volen i s\'hi uneixen. Quantes papallones hi ha en total?</string>
+  <string name="Add_butterfly_2">Un nen veu ### papallones. Després, en apareixen @@@ més. Quantes papallones veu el nen en total?</string>
+  <string name="Add_cat_1">### gats estan asseguts en una paret. Altres @@@ gats hi pugen. Quants gats hi ha a la paret ara?</string>
+  <string name="Add_cow_1">### vaques són al graner. @@@ vaques més entren. Quantes vaques hi ha al graner ara?</string>
+  <string name="Add_deer_1">Al prat, ### cérvols estan menjant herba. Aleshores arriben @@@ cérvols més. Quants cérvols estan menjant herba ara?</string>
+  <string name="Add_dog_1">### gossos estan jugant amb una pilota. Aleshores @@@ gossos més se'ls uneixen. Quants gossos estan jugant?</string>
+  <string name="Add_giraffe_1">### girafes estan bevent aigua. Aleshores @@@ girafes més venen a beure. Quantes girafes estan bevent?</string>
+  <string name="Add_ladybugs_1">### marietes estan posades sobre una fulla. @@@ marietes més volen a la fulla. Quantes marietes hi ha a la fulla?</string>
+  <string name="Add_tiger_1">### tigres estan asseguts prop d\'una cova. @@@ tigres més surten. Quants tigres hi ha ara?</string>
+  <string name="Add_tiger_2">Hi ha ### tigres a la jungla. @@@ més s'acosten. Quants tigres hi ha en total?</string>
+  <string name="Add_owl_1">### mussols estan descansant en un niu. @@@ mussols més venen al niu. Quants mussols hi ha al niu?</string>
+  <string name="Add_panda_1">### pandes estan menjant bambú. @@@ pandes més venen. Quants pandes estan menjant bambú?</string>
+  <string name="Add_parrot_1">### lloros estan asseguts en un pal. @@@ lloros més volen feliçment. Quants lloros hi ha ara?</string>
+  <string name="Add_peacock_1">### paons estan ballant al jardí. @@@ paons més venen. Quants paons estan ballant?</string>
+  <string name="Add_rooster_1">Hi ha ### galls a la granja. @@@ més s'acosten al graner. Quants galls hi ha en total?</string>
+  <string name="Add_snail_1">En una fulla, ### cargols estan descansant. @@@ més se'ls uneixen. Quants cargols hi ha en total?</string>
+  <string name="Add_zebra_1">A la sabana, ### zebres estan menjant. @@@ més s'hi uneixen. Quantes zebres hi ha en total?</string>
+  <string name="Add_bicycle_1">Hi ha ### bicicletes al parc. @@@ més estan aparcades. Quantes bicicletes hi ha en total?</string>
+  <string name="Add_hippo_1">Al matí, ### hipopòtams estan jugant. Més tard, @@@ més s'apropen. Quin és el nombre total d'hipopòtams?</string>
+  <string name="Add_airplane_1">A la pista, ### avions estan esperant. @@@ més aterren. Quants avions hi ha en total?</string>
+  <string name="Add_airplane_2">A l'aeroport, ### avions estan esperant. Aviat, @@@ més arriben. Quants avions hi ha en total?</string>
+  <string name="Add_horse_1">Al costat del graner, ### cavalls estan dempeus. @@@ més s'hi uneixen. Quants cavalls hi ha en total?</string>
+  <string name="Add_fish_1">A l'aquari, ### peixos estan nedant. @@@ més s'hi afegeixen. Quants peixos hi ha en total?</string>
+  <string name="Add_goat_1">Hi ha ### cabres al turó. Després en vénen @@@ més. Quin és el nombre total de cabres?</string>
+  <string name="Add_monkey_1">Hi ha ### micos en un arbre. @@@ més pugen. Quants micos hi ha en total?</string>
+  <string name="Add_carrot_1">Hi ha ### pastanagues a la cistella. @@@ més s'hi afegeixen. Quantes pastanagues hi ha en total?</string>
+  <string name="Add_candies_1">Hi ha ### caramels al pot. @@@ més s'hi afegeixen. Quants caramels hi ha en total?</string>
+  <string name="Add_cupcake_1">Hi ha ### magdalenes a la taula. @@@ més s'hi col·loquen. Quantes magdalenes hi ha en total?</string>
+  <string name="Add_pinwheel_1">Al matí, ### molinets de vent giren al jardí. Més tard, se n'hi afegeixen @@@ més. Quants molinets de vent hi ha ara?</string>
+  <string name="Add_broccoli_1">Hi ha ### bròcoli al plat. @@@ més s'hi afegeixen. Quant de bròcoli hi ha al plat?</string>
+  <string name="Add_robot_1">Hi ha ### robots a terra. @@@ més s'apropen. Quants robots hi ha en total?</string>
+  <string name="Add_car_1">Un nen té ### cotxes de joguina. Se li en donen @@@ més. Quants cotxes de joguina té el nen?</string>
+  <string name="Add_bird house_1">Hi ha ### casetes d\'ocells prop del graner. @@@ més s'hi afegeixen. Quantes casetes d\'ocells hi ha en total?</string>
+  <string name="Add_ball_1">Hi ha ### pilotes a terra. @@@ més roden cap allà. Quantes pilotes hi ha en total?</string>
+  <string name="Add_drum_1">A la classe de música, hi ha ### tambors. @@@ més s'hi afegeixen. Quants tambors hi ha en total?</string>
+  <string name="Add_cake_1">Hi ha ### pastissos a la taula. @@@ més s'hi afegeixen. Quants pastissos hi ha en total?</string>
+  <string name="Add_fruits_1">Hi ha ### fruites a la cistella. @@@ més s'hi afegeixen. Quantes fruites hi ha en total?</string>
+  <string name="Add_flower_1">Hi ha ### flors al jardí. @@@ més floreixen. Quantes flors hi ha al jardí?</string>
+  <string name="Add_pig_1">Hi ha ### porcs al pati. Després en venen @@@ més. Quin és el nombre total de porcs al pati?</string>
+  <string name="Add_top_1">Hi ha ### baldufes al terra. @@@ més s'hi afegeixen. Quantes baldufes hi ha en total?</string>
+  <string name="Add_donut_1">Hi ha ### dònuts en un plat. @@@ més s'hi afegeixen. Quants dònuts hi ha en total?</string>
+  <string name="Add_giftbox_1">La Sara va rebre ### regals. La seva amiga li'n va donar @@@ més. Quants regals té la Sara en total?</string>
+  <string name="Add_giftbox_2">Hi ha ### caixes de regal a l\'habitació. Després @@@ més es posen a dins. Quantes caixes de regal hi ha a l\'habitació?</string>
+  <string name="Add_taco_1">La Sara va fer ### tacs. La seva mare va fer @@@ tacs més. Quants tacs es van fer en total?</string>
+  <string name="Add_taco_2">En Tom va menjar ### tacs. Va menjar @@@ tacs més. Quants tacs va menjar en Tom en total?</string>
+  <string name="Add_kite_1">### estels estan volant al cel. @@@ estels més comencen a volar. Quants estels estan volant al cel?</string>
+  <string name="Add_kite_2">En Leo va fer ### estels. Després va fer @@@ estels més. Quin és el nombre total d'estels que en Leo va fer?</string>
+  <string name="Add_sandwich_1">En Sam va comprar ### entrepans. Després va comprar @@@ entrepans més. Quin és el nombre total d'entrepans que en Sam va comprar?</string>
+  <string name="Add_leopard_1">### lleopards estan en un arbre, i @@@ més hi pugen. Quants lleopards hi ha a l'arbre ara?</string>
+  <string name="WordProblem">Problema de Paraules</string>
+  <string name="Carry_Forward">Sumar</string>
+  <string name="Sub_butterfly_1">Hi havia ### papallones volaven al jardí. @@@ papallones van marxar volant. Quantes papallones queden al jardí?</string>
+  <string name="Sub_butterfly_2">L'Emma va veure ### papallones al matí. A la tarda, va veure @@@ papallones menys. Quantes papallones va veure a la tarda?</string>
+  <string name="Sub_cat_1">L'Ethan va veure ### gats asseguts en una tanca. @@@ gats van fugir quan un gos va bordar. Quants gats encara hi ha a la tanca?</string>
+  <string name="Sub_cat_2">La Mia té ### gats al seu pati del darrere. @@@ gats van anar a beure llet. Quants gats encara hi ha al pati del darrere?</string>
+  <string name="Sub_cow_1">Hi havia ### vaques bevent aigua a la vora del riu. @@@ vaques van acabar de beure i van marxar. Quantes vaques queden encara a la vora del riu?</string>
+  <string name="Sub_cow_2">Hi havia ### vaques menjant fenc. @@@ vaques van deixar de menjar. Quantes vaques encara mengen fenc?</string>
+  <string name="Sub_deer_1">Hi havia ### cérvols que creuaven la carretera. @@@ cérvols ja havien creuat. Quants cérvols encara esperen per creuar?</string>
+  <string name="Sub_deer_2">Hi havia ### cérvols pujant un turó. @@@ cérvols es van aturar i van tornar a baixar. Quants cérvols encara continuen pujant?</string>
+  <string name="Sub_dog_1">Hi havia ### gossos jugant al pati. @@@ gossos van córrer dins de la casa. Quants gossos hi ha encara al pati?</string>
+  <string name="Sub_dog_2">Hi havia ### gossos dins d'una gossera. @@@ gossos van sortir a fora. Quants gossos encara hi ha a la gossera?</string>
+  <string name="Sub_giraffe_1">Sota un arbre amb ombra, ### girafes es van estirar. Al cap d'una estona, @@@ girafes es van aixecar i van marxar. Quantes girafes encara descansaven?</string>
+  <string name="Sub_giraffe_2">Un grup de ### girafes caminava per l'herba alta. De sobte, @@@ girafes es van girar. Quantes girafes van continuar caminant?</string>
+  <string name="Sub_ladybugs_1">### marietes es van asseure en una gran fulla verda. Després @@@ van marxar volant. Quantes marietes es van quedar a la fulla?</string>
+  <string name="Sub_ladybug_2">Al capvespre, ### marietes van volar juntes. @@@ van aterrar en una branca d'arbre. Quantes marietes encara volaven?</string>
+  <string name="Sub_owl_1">### mussols van volar sota la llum brillant de la lluna. @@@ mussols van aterrar en un arbre. Quants mussols encara volaven?</string>
+  <string name="Sub_owl_2">Una branca tenia ### mussols alineats en fila. @@@ mussols van desplegar les ales i van marxar. Quants mussols van quedar a la branca?</string>
+  <string name="Sub_panda_1">### pandes menjaven bambú junts. @@@ pandes van acabar de menjar i van marxar. Quants pandes encara menjaven bambú?</string>
+  <string name="Sub_panda_2">Un grup de ### pandes seien junts. @@@ pandes van marxar a buscar més bambú. Quants pandes es van quedar al grup?</string>
+  <string name="Sub_parrot_1">Un estol de ### lloros volaven junts. @@@ lloros van aterrar en una teulada. Quants lloros van continuar volant?</string>
+  <string name="Sub_parrot_2">Un arbre tenia ### lloros a prop del seu niu. @@@ lloros van volar a dins. Quants lloros es van quedar a fora?</string>
+  <string name="Sub_peacock_1">### paons ballaven al jardí. @@@ paons van deixar de ballar. Quants paons van continuar ballant?</string>
+  <string name="Sub_peacock_2">A la posta de sol, ### paons es van reunir al parc. @@@ paons van marxar volant. Quants paons hi havia encara?</string>
+  <string name="Sub_rooster_1">Al matí, ### galls es van reunir a prop del menjar. @@@ galls van acabar de menjar i van marxar. Quants galls encara menjaven?</string>
+  <string name="Sub_rooster_2">### galls estaven asseguts en una tanca. @@@ galls van saltar avall. Quants galls es van quedar a la tanca?</string>
+  <string name="Sub_snail_1">Un camí de jardí tenia ### cargols que es movien lentament. @@@ cargols van anar a parar a l'herba. Quants cargols van quedar al camí?</string>
+  <string name="Sub_snail_2">### cargols eren a prop d'unes flors. @@@ cargols es van arrossegar i van marxar. Quants cargols encara hi havia a prop de les flors?</string>
+  <string name="Sub_tiger_1">### tigres descansaven a la selva. @@@ tigres van marxar. Quants tigres es van quedar descansant?</string>
+  <string name="Sub_tiger_2">Es van veure ### tigres caminant pel bosc. @@@ tigres van fugir. Quants tigres encara caminaven?</string>
+  <string name="Sub_zebra_1">Un ramat de ### zebres va venir a beure aigua. @@@ zebres van marxar després de beure. Quantes zebres es van quedar a la vora del riu?</string>
+  <string name="Sub_zebra_2">Un grup tenia ### zebres petites jugant juntes. @@@ poltres van tornar amb les seves mares. Quantes zebres petites encara jugaven?</string>
+  <string name="Sub_bicycle_1">Hi havia ### bicicletes aparcades a prop del parc infantil. Se'n van endur @@@ bicicletes a casa. Quantes bicicletes encara hi havia al parc infantil?</string>
+  <string name="Sub_bicycle_2">Una botiga de bicicletes exposava ### bicicletes a l'exterior. Se'n van vendre @@@. Quantes bicicletes van quedar exposades?</string>
+  <string name="Sub_hippo_1">### hipopòtams menjaven herba junts. @@@ hipopòtams van deixar de menjar. Quants hipopòtams van continuar menjant herba?</string>
+  <string name="Sub_hippo_1">Un ramat tenia ### hipopòtams reunits. @@@ hipopòtams es van allunyar. Quants hipopòtams es van quedar al ramat?</string>
+  <string name="Sub_airplane_1">Al matí, ### avions estaven llestos per al vol. @@@ avions van sortir a l'hora prevista. Quants avions encara estaven esperant?</string>
+  <string name="Sub_airplane_2">Al vespre, hi havia previst que ### avions enlairessin. @@@ avions ja havien sortit. Quants avions encara estaven esperant per sortir?</string>
+  <string name="Sub_horse_1">Hi havia ### cavalls dins l'estable. @@@ cavalls van sortir. Quants cavalls es van quedar a l'estable?</string>
+  <string name="Sub_horse_2">Es van veure ### cavalls a la vall. @@@ cavalls van pujar el turó. Quants cavalls van quedar a la vall?</string>
+  <string name="Sub_fish_1">### peixos nedaven en un estany. @@@ peixos van nedar lluny. Quants peixos encara hi havia a l'estany?</string>
+  <string name="Sub_fish_2">Un pescador va veure ### peixos prop del seu vaixell. @@@ peixos van nedar ràpidament. Quants peixos es van quedar prop del vaixell?</string>
+  <string name="Sub_goat_1">Un pagès tenia ### cabres pasturant al camp. @@@ cabres van marxar cap al turó. Quantes cabres encara pasturaven al camp?</string>
+  <string name="Sub_goat_2">Hi havia ### cabres descansant a prop del graner. @@@ cabres van sortir corrents a jugar al pati. Quantes cabres es van quedar a prop del graner?</string>
+  <string name="Sub_monkey_1">### micos jugaven al mango. @@@ micos van saltar avall. Quants micos es van quedar a l'arbre?</string>
+  <string name="Sub_monkey_2">Al zoo, ### micos es gronxaven amb cordes. @@@ micos van anar a menjar. Quants micos encara es gronxaven?</string>
+  <string name="Sub_carrot_1">Hi havia ### pastanagues en un cistell. Se'n van menjar @@@ pastanagues. Quantes pastanagues van quedar?</string>
+  <string name="Sub_carrot_2">Un conill va trobar ### pastanagues. @@@ pastanagues van rodolar. Quantes pastanagues hi havia encara?</string>
+  <string name="Sub_candies_1">Hi havia ### caramels al pot. Se'n van treure @@@. Quants caramels van quedar a dins?</string>
+  <string name="Sub_candies_2">Hi havia ### caramels a la taula. Se'n van menjar @@@. Quants caramels en van quedar?</string>
+  <string name="Sub_cupcake_1">Hi havia ### magdalenes en una safata. Es van regalar @@@ magdalenes. Quantes magdalenes van quedar?</string>
+  <string name="Sub_cupcake_2">El forner va fer ### magdalenes. Se'n van vendre @@@. Quantes magdalenes van quedar?</string>
+  <string name="Sub_pinwheel_1">### molinets de vent van girar al jardí. @@@ molinets van deixar de girar. Quants encara giraven?</string>
+  <string name="Sub_pinwheel_2">Hi havia ### molinets de vent a la tanca. @@@ molinets de vent se'n van endur. Quants se'n van quedar?</string>
+  <string name="Sub_broccoli_1">Hi havia ### trossos de bròquil al plat. Se'n van menjar @@@. Quants trossos van quedar?</string>
+  <string name="Sub_broccoli_2">Un xef va cuinar ### tiges de bròquil. Se'n van servir @@@. Quantes en van quedar?</string>
+  <string name="Sub_robot_1">### robots estaven en fila. @@@ robots van marxar. Quants robots es van quedar?</string>
+  <string name="Sub_robot_2">Hi havia ### robots al laboratori. @@@ robots estaven apagats. Quants encara estaven encesos?</string>
+  <string name="Sub_car_1">Hi havia ### cotxes aparcats a fora. @@@ cotxes van marxar. Quants cotxes van quedar aparcats?</string>
+  <string name="Sub_car_2">A la cursa, van sortir ### cotxes. @@@ cotxes van acabar abans. Quants encara competien?</string>
+  <string name="Sub_bird house_1">### ocells es van asseure a prop de la niu per a ocells. @@@ van marxar volant. Quants ocells es van quedar?</string>
+  <string name="Sub_bird house_2">Hi havia ### nius a la caseta d'ocells. @@@ van caure. Quants nius van quedar?</string>
+  <string name="Sub_ball_1">Hi havia ### pilotes al pati de joc. @@@ pilotes van rodar. Quantes n'hi havia encara?</string>
+  <string name="Sub_ball_2">Una caixa tenia ### pilotes. Van rebotar @@@ pilotes. Quantes pilotes van quedar?</string>
+  <string name="Sub_drum_1">Hi havia ### tambors a l'escenari. Se'n van treure @@@. Quants van romandre a l'escenari?</string>
+  <string name="Sub_drum_2">La banda tenia ### tambors. Es van trencar @@@ tambors. Quants tambors bons van quedar?</string>
+  <string name="Sub_cake_1">Avui s'han fet ### pastissos. Se n'han menjat @@@. Quants pastissos han quedat?</string>
+  <string name="Sub_cake_2">Un forner va decorar ### pastissos. Se'n van vendre @@@. Quants pastissos encara hi havia?</string>
+  <string name="Sub_fruits_1">Hi havia ### fruites al cistell. Van caure @@@ fruites. Quantes fruites van quedar a dins?</string>
+  <string name="Sub_fruits_2">Una botiga tenia ### fruites en exposició. Se'n van vendre @@@. Quantes fruites van quedar?</string>
+  <string name="Sub_flower_1">Van florir ### flors al jardí. Es van collir @@@ flors. Quantes flors van quedar?</string>
+  <string name="Sub_flower_2">Hi havia ### flors en un gerro. @@@ es van pansir. Quantes eren fresques?</string>
+  <string name="Sub_pig_1">Hi havia ### porcs al corral. @@@ porcs van sortir corrents. Quants porcs es van quedar?</string>
+  <string name="Sub_pig_2">Un granger tenia ### porcs. @@@ porcs van anar a l'estany. Quants porcs van quedar?</string>
+  <string name="Sub_top_1">Hi havia ### baldufes a terra. @@@ van deixar de girar. Quantes van continuar girant?</string>
+  <string name="Sub_top_2">Hi havia ### baldufes a la caixa. Se'n van treure @@@. Quantes baldufes van quedar?</string>
+  <string name="Sub_donut_1">Hi havia ### dònuts a la safata. Se'n van menjar @@@. Quants dònuts van quedar?</string>
+  <string name="Sub_donut_2">La botiga va fer ### dònuts. Se'n van vendre @@@. Quants dònuts van quedar?</string>
+  <string name="Sub_giftbox_1">Hi havia ### caixes de regal sobre la taula. @@@ estaven obertes. Quantes van romandre tancades?</string>
+  <string name="Sub_giftbox_2">Hi havia ### caixes de regal sota l'arbre. Se'n van prendre @@@. Quantes en van quedar?</string>
+  <string name="Sub_taco_1">Hi havia ### tacos al plat. Se'n van menjar @@@. Quants tacos van quedar?</string>
+  <string name="Sub_taco_2">Un xef va fer ### tacos. Se'n van servir @@@. Quants tacos van quedar?</string>
+  <string name="Sub_kite_1">### estels van volar al cel. @@@ estels van caure. Quants estels encara volaven?</string>
+  <string name="Sub_kite_2">Hi havia ### estels a la platja. @@@ van volar. Quants estels es van quedar?</string>
+  <string name="Sub_sandwich_1">Hi havia ### entrepans a la taula. Se'n van menjar @@@. Quants en van quedar?</string>
+  <string name="Sub_sandwich_2">Un xef va fer ### entrepans. Se'n van servir @@@. Quants entrepans van quedar?</string>
+  <string name="Add_Pyramid">Piràmide de suma</string>
+</resources>

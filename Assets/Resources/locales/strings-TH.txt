@@ -1,0 +1,844 @@
+<resources>
+  <string name="txt_more_apps">แอปเพิ่มเติม</string>
+  <string name="txt_holdfor">กดค้างไว้ 3 วินาที</string>
+  <string name="txt_title_for_grown_ups">สำหรับผู้ใหญ่</string>
+  <string name="txt_userguide_for_grown_ups">หากต้องการเข้าถึง ให้ป้อนตัวเลข</string>
+  <string name="txt_digit_Zero">ศูนย์</string>
+  <string name="txt_digit_One">หนึ่ง</string>
+  <string name="txt_digit_Two">สอง</string>
+  <string name="txt_digit_Three">สาม</string>
+  <string name="txt_digit_Four">สี่</string>
+  <string name="txt_digit_Five">ห้า</string>
+  <string name="txt_digit_Six">หก</string>
+  <string name="txt_digit_Seven">เจ็ด</string>
+  <string name="txt_digit_Eight">แปด</string>
+  <string name="txt_digit_Nine">เก้า</string>
+  <string name="txt_stickershowcase_toys">ของเล่น</string>
+  <string name="txt_stickershowcase_stickers">สติ๊กเกอร์</string>
+  <string name="txt_stickershowcase_stamps">ตราปั๊ม</string>
+  <string name="txt_stickershowcase_notoys">ไม่มีของเล่น</string>
+  <string name="txt_stickershowcase_nostickers">ไม่มีสติ๊กเกอร์</string>
+  <string name="txt_stickershowcase_nostamps">ไม่มีสแตมป์</string>
+  <string name="txt_pick_a_stamp">เลือกตราปั๊ม</string>
+  <string name="txt_collectsticker">รับสติ๊กเกอร์</string>
+  <string name="txt_collectyourGift">รับของขวัญของคุณ</string>
+  <string name="txt_rateUsReview_microsoft">เยี่ยมชมร้านค้าเพื่อตรวจสอบ</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">เยี่ยมชมร้านค้าเพื่อตรวจสอบ</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">เยี่ยมชมร้านค้าเพื่อตรวจสอบ</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">เยี่ยมชมร้านค้าเพื่อตรวจสอบ</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">เยี่ยมชมร้านค้าเพื่อตรวจสอบ</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">เพลงประกอบ</string>
+  <string name="text_sound">เสียง</string>
+  <string name="text_learn_with">เรียนรู้ด้วย</string>
+  <string name="text_level">ด่าน ###</string>
+  <string name="text_generate_report">สร้างรายงาน</string>
+  <string name="text_view_report_card">ดูบัตรรายงาน</string>
+  <string name="text_visible_mode">โหมดการมองเห็น</string>
+  <string name="text_VISIBLE_MODE">โหมดการมองเห็น</string>
+  <string name="text_share">Share</string>
+  <string name="txt_report_card">บัตรรายงาน</string>
+  <string name="txt_add">เพิ่ม</string>
+  <string name="txt_sub">ลบ</string>
+  <string name="txt_number">เลขที่</string>
+  <string name="txt_date_time">วันที่/เวลา</string>
+  <string name="txt_equation">สมการ</string>
+  <string name="txt_mode">โหมด</string>
+  <string name="txt_retry">ลองใหม่</string>
+  <string name="txt_no_report">ไม่มีรายงาน</string>
+  <string name="txt_yes">ใช่</string>
+  <string name="txt_no">NO</string>
+  <string name="txt_delete_report">คุณแน่ใจไหมว่าต้องการลบข้อมูลของบัตรรายงานทั้งหมด?</string>
+  <string name="txt_press_again_exit">กดอีกครั้งเพื่อออก</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">เลือกภาษา</string>
+  <string name="txt_Select_Language">เลือกภาษา</string>
+  <string name="txtLanguages">ภาษา</string>
+  <string name="txtOtherLanguages">ภาษาอื่นๆ</string>
+  <string name="txt_Report_a_Translation_error">รายงานคำแปลผิดพลาด</string>
+  <string name="txt_send">ส่ง</string>
+  <string name="txtReadyBundle">การดาวน์โหลดจะเริ่มในอีกสักครู่</string>
+  <string name="txtDownloadingBundle">กำลังดาวน์โหลดแพ็กภาษา</string>
+  <string name="txt_ConnectionError">เกิดข้อผิดพลาดในการเชื่อมต่อ</string>
+  <string name="txt_InstallNow">ติดตั้งเลย</string>
+  <string name="txt_PostSuccess">โพสต์ข้อความเรียบร้อยแล้ว</string>
+  <string name="txt_Play_now">เล่นเลย</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">โปรไฟล์เด็ก</string>
+  <string name="txtBtnAdd">เพิ่มบุตรหลาน</string>
+  <string name="txtAddHelp">เพิ่มโปรไฟล์ เพื่อบันทึกการตั้งค่าและรายงานของบุตรหลานแต่ละคน</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">ชื่อบุตรหลาน</string>
+  <string name="txtEnterName">ใส่ชื่อ...</string>
+  <string name="txtMaxLimit">สูงสุด 20 ชื่อ</string>
+  <string name="txtEditProfile">แก้ไขโปรไฟล์</string>
+  <string name="txtDeleteProfile">ลบโปรไฟล์</string>
+  <string name="txtDeleteProfileConfirm">คุณแน่ใจไหมว่าต้องการลบโปรไฟล์ของ ###?</string>
+  <string name="txtNo">NO</string>
+  <string name="txtYes">ใช่</string>
+  <string name="txtNameDuplication">มีชื่อนี้อยู่แล้ว!</string>
+  <string name="txtUserChangeMsg">เปลี่ยนโปรไฟล์สำเร็จแล้ว</string>
+  <string name="txtShareWithParents">แชร์กับผู้ปกครอง โรงเรียน ศูนย์ดูแลเด็ก และอื่นๆ</string>
+  <string name="txtBtnUpdate">อัปเดต</string>
+  <string name="txtNew">ใหม่</string>
+  <string name="txt_DownloadNow">ดาวน์โหลดเลย</string>
+  <string name="text_showhint">แสดงคำใบ้ขณะเรียนรู้</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">เปลี่ยนภาษา</string>
+  <string name="txtInitHelpChangeLangDesc">บทเรียนได้รับการแปลถึง ### ภาษา</string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">ตั้งค่า</string>
+  <string name="txtInitHelpCustomSettingDesc">ตั้งค่าตามความต้องการส่วนตัวเพื่อการเรียนรู้ที่มีประสิทธิภาพยิ่งขึ้น</string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">ขาดการเชื่อมต่อ</string>
+  <string name="txt_connectionlost_detail">เกิดปัญหาในการเชื่อมต่อกับอินเทอร์เน็ต โปรดตรวจสอบการตั้งค่าเครือข่าย</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">OK</string>
+  <string name="txtSelectLanguageInfo">คุณต้องการเรียนรู้เป็นภาษา###หรือภาษาอังกฤษ?</string>
+  <string name="txtShowIntroAtStart">แสดงบทแนะนำตัวละครในตอนเริ่มต้น</string>
+  <string name="txtLanguages">Language</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">เล่นบทฝึกสอนให้จบก่อน</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">อ่านเรื่องราวของเรา</string>
+  <string ScaleFactor="1" name="txtloading">กำลังโหลด...</string>
+  <string ScaleFactor="1" name="txt_gamename">สีและรูปร่าง - เรียนรู้เรื่องสี</string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">สีและรูปร่าง - เรียนรู้เรื่องสี</string>
+  <string ScaleFactor="1" name="txtBtnTab">แท็บ</string>
+  <string ScaleFactor="1" name="txtBtnBack">กลับ</string>
+  <string ScaleFactor="1" name="txtBtnSelect">เลือก</string>
+  <string ScaleFactor="1" name="txtBtnDelete">ลบ</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">นำทาง</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">กดปุ่มใดก็ได้เพื่อไปต่อ...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">ออกจากเกม?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">คุณแน่ใจไหมว่าจะออก?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">สนับสนุนเราโดยเขียนรีวิวแอป</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Rate Us</string>
+  <string ScaleFactor="1" name="txtLaterBtn">ไว้ทีหลัง</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">วิธีสนับสนุนพวกเรา</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">มอบเสื้อยืดให้บุตรหลานของคุณเป็นรางวัล พร้อมสนับสนุนเราไปด้วย</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">วิธีที่ดีที่สุดในการสนับสนุนเราโดยที่คุณไม่ต้องเสียค่าใช้จ่ายใดๆ ก็คือแชร์เกมสำหรับเด็กของเรากับโรงเรียน เพื่อนฝูง โซเชียลมีเดีย และสื่อมวลชน (โทรทัศน์และหนังสือพิมพ์)</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">มาซื้อเสื้อยืดให้บุตรหลานของคุณเป็นรางวัลพร้อมแสดงความรักให้ตัวละครในเกม</string>
+  <string ScaleFactor="1" name="txtShareCap">Share</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">ยืนยัน</string>
+  <string name="txt_shopConfirmDetail">ระบบจะพาคุณไปยังเว็บไซต์เพื่อดำเนินการต่อ แน่ใจไหมว่าจะออก?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">ตัวเลือกมากกว่า จัดส่งทั่วโลก</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">ช่วยบอกเราหน่อยได้ไหม ว่าคุณรู้สึกอย่างไรกับเกม?</string>
+  <string ScaleFactor="1" name="txtVeryBad">แย่มาก</string>
+  <string ScaleFactor="1" name="txtVeryGood">ดีมาก</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">ได้ เขียนรีวิวและสนับสนุนเรา</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">ขอบคุณสำหรับความคิดเห็น</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">ประกาศนียบัตร</string>
+  <string name="txtCertificates">ประกาศนียบัตร</string>
+  <string name="txt_gameplay_123">๑๒๓</string>
+  <string name="txtUnlocked">Unlocked</string>
+  <string name="txtCongratulations">Congratulations</string>
+  <string name="txtCertificateUnlocked">ปลดล็อกประกาศนียบัตรใหม่แล้ว!</string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">ในวันที่</string>
+  <string name="txtPrint">พิมพ์</string>
+  <!--  -->
+  <string name="txt_certi_title_1">รางวัล</string>
+  <string name="txt_certi_title_2">ยอดเยี่ยมมาก</string>
+  <string name="txt_certi_title_3">รางวัลดาวเด่น</string>
+  <string name="txt_certi_title_4">ทำได้ดีมาก</string>
+  <string name="txt_certi_title_5">ยอดเยี่ยม</string>
+  <string name="txt_certi_title_6">มหัศจรรย์</string>
+  <string name="txt_certi_title_7">ความสำเร็จ</string>
+  <string name="txt_certi_title_8">ยอดมาก</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">ยืนยัน</string>
+  <string name="txt_shopConfirmDetail">ระบบจะพาคุณไปยังเว็บไซต์เพื่อดำเนินการต่อ แน่ใจไหมว่าจะออก?</string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">คุณได้รับประกาศนียบัตร!</string>
+  <string name="txtEnterNm">ใส่ชื่อของบุตรหลาน</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">สร้างแรงบันดาลใจให้เด็กโดยพิมพ์ประกาศนียบัตร</string>
+  <string name="txtGreat">เยี่ยม</string>
+  <string name="txtTapToGetCerti">แตะเพื่อรับประกาศนียบัตร</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">นับสิ่งของ 20 ครั้ง</string>
+  <string name="Math_Task_1_End">นับสิ่งของ 20 ครั้งแล้ว</string>
+  <string name="Math_Task_2_Start">แก้พัซเซิลการบวก 30 ข้อ</string>
+  <string name="Math_Task_2_End">แก้พัซเซิลการบวก 30 ข้อแล้ว</string>
+  <string name="Math_Task_3_Start">เคลียร์เกมบวกเลขแสนสนุก 30 ครั้ง</string>
+  <string name="Math_Task_3_End">เคลียร์เกมบวกเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <string name="Math_Task_4_Start">ตอบคำถามการบวก 30 ข้อ</string>
+  <string name="Math_Task_4_End">ตอบคำถามการบวก 30 ข้อแล้ว</string>
+  <string name="Math_Task_5_Start">เปรียบเทียบสิ่งของ 30 ครั้ง</string>
+  <string name="Math_Task_5_End">เปรียบเทียบสิ่งของ 30 ครั้งแล้ว</string>
+  <string name="Math_Task_6_Start">แก้พัซเซิลการลบ 30 ข้อ</string>
+  <string name="Math_Task_6_End">แก้พัซเซิลการลบ 30 ข้อแล้ว</string>
+  <string name="Math_Task_7_Start">เคลียร์เกมลบเลขแสนสนุก 30 ครั้ง</string>
+  <string name="Math_Task_7_End">เคลียร์เกมลบเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <string name="Math_Task_8_Start">เคลียร์เกมลบเลขแสนสนุก 30 ครั้ง</string>
+  <string name="Math_Task_8_End">เคลียร์เกมลบเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <string name="Math_Task_1_Completed">คุณได้รับประกาศนียบัตร! นับสิ่งของ 20 ครั้งแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">คุณได้รับประกาศนียบัตร! แก้พัซเซิลการบวก 30 ข้อแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">คุณได้รับประกาศนียบัตร! เคลียร์เกมบวกเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">คุณได้รับประกาศนียบัตร! ตอบคำถามการบวก 30 ข้อแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">คุณได้รับประกาศนียบัตร! เปรียบเทียบสิ่งของ 30 ครั้งแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">คุณได้รับประกาศนียบัตร! แก้พัซเซิลการลบ 30 ข้อแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">คุณได้รับประกาศนียบัตร! เคลียร์เกมลบเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">คุณได้รับประกาศนียบัตร! เคลียร์เกมลบเลขแสนสนุก 30 ครั้งแล้ว</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">เชื่อมต่อกับ Pinterest</string>
+  <string name="txtconnectingPintrestMsg">คุณจะถูกพาไปที่ Pinterest แน่ใจไหมว่าจะออก?</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">ไปต่อ</string>
+  <string name="txtinspirationbehind">แรงบันดาลใจเบื้องหลังแอปสำหรับเด็ก</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">พิมพ์ได้</string>
+  <string name="txtOurStorySettingsNew">เรื่องราวของเรา</string>
+  <string name="txt_why_its_free">เรื่องราวของเรา</string>
+  <string name="txtAllowCouting">อนุญาตให้นับ</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">การนับ</string>
+  <string name="Adding Puzzle">พัซเซิลการบวก</string>
+  <string name="Adding Fun">สนุกกับการบวก</string>
+  <string name="Adding Quiz">โจทย์ปัญหาการบวก</string>
+  <string name="Compare">เปรียบเทียบ</string>
+  <string name="Subtracting Puzzle">พัซเซิลการลบ</string>
+  <string name="Subtracting Fun">สนุกกับการลบ</string>
+  <string name="Subtracting Quiz">โจทย์ปัญหาการลบ</string>
+  <string ScaleFactor="1" name="txt_gamename">เลขคณิตสำหรับเด็ก - บวก ลบ นับเลข</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">เลขคณิตสำหรับเด็ก - บวก ลบ นับเลข</string>
+  <string name="txtPrintableSmall">พิมพ์ได้</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">หน้าแรก</string>
+  <string name="txt_menuoption_settings">การตั้งค่า</string>
+  <string name="txt_menuoption_shop">ร้านค้า</string>
+  <string name="txt_menuoption_kidsapps">แอปสำหรับเด็ก</string>
+  <string name="txt_menuoption_parentapps">แอปสำหรับผู้ปกครอง</string>
+  <string name="txt_menuoption_worksheets">แผ่นงาน</string>
+  <string name="txt_messagefromdave">สารจาก</string>
+  <string name="txt_getfeaturedon">รับโอกาสปรากฏตัวใน INSTAGRAM</string>
+  <string name="txt_tagus">แท็ก @RV AppStudios และเป็นส่วนหนึ่งในเรื่องราวของเรา</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(ผู้ก่อตั้ง RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">ถ่ายภาพ / วิดีโอบุตรหลานของคุณ  กำลังใช้แอปของเราห  รือรับประกาศนียบัตร</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">แชร์และแท็กเราทาง Instagram @RV AppStudios เพื่อรับโอกาสปรากฏตัว</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">แอปสำหรับเด็กโดย RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">แอปสำหรับผู้ปกครองโดย RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">แผ่นงาน</string>
+  <string name="txt_coloringpage">หน้าสำหรับระบายสี</string>
+  <string name="txt_downloadmoreworksheet">ดาวน์โหลดแผ่นงานเพิ่มเติมจากเพจ Pinterest ของเรา</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">ด้วยยอดดาวน์โหลดเกมฟรีสำหรับเด็กของเรา 14 ล้านครั้งต่อเดือน เราจึงกลายเป็นนักพัฒนาแอปเพื่อก ารศึกษาสำหรับเด็กรายใหญ่ที่ส ุดรายหนึ่งของโลก  "และเราจะยังคงเปิดให้แอ ปของเราใช้งานได้ฟรีต่อไป"
+
+  "ทำไมล่ะ?" - พอได้มาเป็นพ่อคนแล้ว ผมรู้ทันทีว่าผมยินดีทำทุกอย่างเพื่อมอบ การศึกษาและโอกาสที่ดีที่สุดให้แก ่ลูกสาวของผมตลอดเส้นทางก ารเติบโตของเธอ ผมเชื่อว่าผู้ปกครองหลายท่านเข้าใจความรู้สึก ที่ต้องการมอบการศึกษาและโอกาสซึ่งดีกว่าที่ตัวเอ งเคยได้รับให้แก่ลูกๆ
+
+  แต่ไม่ใช่ผู้ปกครองทุกท่านที่มีเวลาหรือคว ามสามารถที่จะช่วยทำการบ้านให้ลูกๆ ได้ และแม้ว่าผมต้องการมอบสิ่งที่ดีที่สุดให้กับลูกสาว แต่ผมก็คิดว่ามันไม่ยุติธรรมที ่เด็กอีกหลายสิบล้านคนทั่วโ ลกจะไม่ได้รับโอกา สแม้กระทั่งการศึกษาขั้นพื้นฐาน หรือการเรียนอ่านเขียนเบื้องต้น
+
+ผมตระหนักว่าในฐานะผู้พัฒนาแอป ผมมีโอกาสที่จะแก้ไขปัญหานี้ได้ -"โดยไม่ทำเพื่อผลกำไร" แต่เพื่อให้เด็กๆ จากทั่วทุกมุมโลกได้รับทักษะพื้ นฐานเพื่อการเรียนรู้ตั้งแต่เนิ่นๆ เช่น การนับเลข การสะกดคำ และคณิตศาสตร์ ในรูปแบบที่สนุกสนาน
+
+  เพื่อบรรลุเป้าหมายดังกล่าว เราจำเป็นต้องดูแลให้แอปแ ละเกมของเราปลอดภัยสำหรับเด็ก ดังนั้นจึงตัดสินใจนำกำไรจากธุรกิจพัฒนาแอปอื่นๆ ของเรามาลงทุนเพื่อสร้า งแอปพลิเคชันสำหรับเด็กที่ "ฟรี 100%" พร้อมทั้ง "ไม่มีโฆษณา" และ "ไม่มีการซื้อสินค้าในแอป" - บุคคลกลุ่มเดียวที่ควรได้รับประโ ยชน์จากแอปเหล่านี้คือบุตรหลานของคุณ</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">ไปต่อ</string>
+  <string name="txtinspirationbehind">แรงบันดาลใจเบื้องหลังแอปสำหรับเด็ก</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">เรื่องราวของเรา</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">เรื่องราวของเรา</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">ทำไมการให้ตอบแทนถึงสำคัญ?</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">เราให้บริการแอปสำหรับเด็กฟรีได้อย่างไร?</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">เชื่อมต่อกับ Pinterest</string>
+  <string name="txtconnectingPintrestMsg">คุณจะถูกพาไปที่ Pinterest แน่ใจไหมว่าจะออก?</string>
+  <string name="txtWatchUsYouTube">รับชมเราทาง YouTube</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">ให้คะแนนเลย</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">ไปต่อ</string>
+  <string name="txtPrint">พิมพ์</string>
+  <string name="txtconnectingPintrest">เชื่อมต่อกับ Pinterest</string>
+  <string name="txtconnectingPintrestMsg">คุณจะถูกพาไปที่ Pinterest แน่ใจไหมว่าจะออก?</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">ดาวน์โหลดเลย</string>
+  <string name="txt_Play_nowCap">เล่นเลย</string>
+  <string name="txt_ConnectionErrorMsg1">การเชื่อมต่ออินเทอร์เน็ตล้มเหลว</string>
+  <string name="txt_ConnectionErrorMsg2">โปรดลองใหม่ภายหลัง</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">สมการ</string>
+  <string name="txtSubPracticeTitle">ฝึกการลบ</string>
+  <string name="txtAddPracticeTitle">ฝึกการบวก</string>
+  <string name="txtBeginner">มือใหม่</string>
+  <string name="txtIntermediate">ปานกลาง</string>
+  <string name="txtAdvance">ขั้นสูง</string>
+  <string name="txtSubPracticeTitle">ฝึกการลบ</string>
+  <string name="txtAddPracticeTitle">ฝึกการบวก</string>
+  <string name="txtBeginner">มือใหม่</string>
+  <string name="txtIntermediate">ปานกลาง</string>
+  <string name="txtAdvance">ขั้นสูง</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">ภาษาไทย</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_0">๐</string>
+  <string name="txt_1">๑</string>
+  <string name="txt_2">๒</string>
+  <string name="txt_3">๓</string>
+  <string name="txt_4">๔</string>
+  <string name="txt_5">๕</string>
+  <string name="txt_6">๖</string>
+  <string name="txt_7">๗</string>
+  <string name="txt_8">๘</string>
+  <string name="txt_9">๙</string>
+  <string name="txt_10">๑๐</string>
+  <string name="txt_20">๒๐</string>
+  <string name="txt_LetterSelectTitle">เลือกเลข</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">โปรดรอสักครู่</string>
+  <string name="txt_langdownloaded">ดาวน์โหลดเสร็จสิ้น</string>
+  <string name="txtInternetIssue">การปัญหาในการเชื่อมต่อกับอินเทอร์เน็ต</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">ภาษาอื่นๆ</string>
+  <string name="txt_ContinueIn">ดำเนินการต่อด้วย ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">เกมของเรา</string>
+  <string name="txt_SuggestedLanguages">ภาษาที่แนะนำ</string>
+  <string name="txt_VisitOurChannel">เยี่ยมชมช่องของเรา</string>
+  <string name="txt_followusandshare">ติดตามเราและแบ่งปันเรา</string>
+  <string name="txt_OurImpact">ผลกระทบของเรา</string>
+  <string name="txt_OurImpactDesc">RV AppStudios ให้ความรู้แก่เด็ก ๆ กว่า &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; คนต่อเดือนด้วยแอพสำหรับเด็กฟรีของเรา</string>
+  <string name="txt_KidsApp">แอพสำหรับเด็ก</string>
+  <string name="txt_Countries">ประเทศ</string>
+  <string name="txt_NoOfKidsUseApp">เด็ก 175,000,000 คนจะใช้แอพของเรา</string>
+  <string name="txt_Hello">สวัสดี</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">เพิ่มการออกแบบเสื้อยืดใหม่ทุกสัปดาห์!</string>
+  <string name="NumberHelp" ScaleFactor="1">เปลี่ยนเบอร์จากที่นี่</string>
+  <string name="txt_textrhymesYT">บทอาขยานสำหรับเด็กเล็กและเพลงสำหรับเด็ก </string>
+  <string name="txt_rvappstudiosYT">RV AppStudios ตอนนี้บน YouTube</string>
+  <string name="txt_AllGamesAreFree">(เกมทั้งหมดฟรีและไม่มีโฆษณา)</string>
+  <string name="txt_ShowShopBtn">ซ่อน "ปุ่มร้านค้า" จากเมนูหลัก</string>
+  <string name="txt_ShowOurStoryBtn">ซ่อน "ปุ่มเรื่องราวของเรา" จากเมนูหลัก</string>
+  <string name="txt_ShowMoreappBtn">ซ่อน "ปุ่มแอปเพิ่มเติม" จากเมนูหลัก</string>
+  <string name="txt_TranslationFeedback">คำติชมการแปล</string>
+  <string name="txt_TranslationFeedbackInfo">รายงานข้อผิดพลาดในการแปล โปรดอย่าเปิดเผยข้อมูลที่ละเอียดอ่อน</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">เสื้อยืดสำหรับเด็กวัยหัดเดิน</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">หนังสือการศึกษาสำหรับเด็ก</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS เสื้อยืด &amp; หนังสือการศึกษา</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">แรก LUCAS &amp; FRIENDS หนังสือ</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">เสื้อยืด &amp; หนังสือการศึกษาสำหรับเด็ก</string>
+  <string name="txt_VisibleMDstng">เลือกโหมดเพื่อแสดง</string>
+  <string name="txt_SelectParentGate">เลือกตัวเลือกเพื่อปลดล็อกการตั้งค่า</string>
+  <string name="txt_HideButtons">ซ่อนปุ่ม</string>
+  <string name="txt_HideButtonsFromMenu">ซ่อนปุ่มจากเมนูหลัก</string>
+  <string name="txt_rateThanks">ขอขอบคุณสำหรับความรักและการสนับสนุน เราก็รักคุณเช่นกัน!</string>
+  <string name="txt_rateFeedback">ขอบคุณมาก เรายินดีรับฟังความคิดเห็นของคุณ โปรดเขียนความเห็นถึงเรา</string>
+  <string name="txt_rateLetUsKnow">ช่วยบอกเราหน่อยได้ไหม ว่าคุณรู้สึกอย่างไรกับเกม?</string>
+  <string name="txt_rateHappySad">คุณพอใจกับแอปไหม?</string>
+  <string name="txt_rateHappy">มีความสุข</string>
+  <string name="txt_rateSad">เสียใจ</string>
+  <string name="txtRateDesc1">คุณจะช่วยรีวิวแอปของเราใน Play Store ได้ไหม? การทำเช่นนี้จะช่วยให้ผู้ปกครองท่านอื่นรู้จักแอปของเรา</string>
+  <string name="txtVeryBadCap">แย่มาก</string>
+  <string name="txtGoodCap">ดี</string>
+  <string name="txtRateAppBtn">ให้คะแนนเรา</string>
+  <string name="txtRateHdr">ให้คะแนนเรา</string>
+  <string name="english_name">ภาษาอังกฤษ</string>
+  <string name="Sendfeedback" ScaleFactor="1">ส่งความคิดเห็น</string>
+  <string name="UseOurApps">เด็ก ๆ ใช้แอพเพื่อการศึกษาของเราทุกเดือน.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios อยู่บน YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">ค้นหา RV Appstudios เพื่อค้นหาแอปของเรา</string>
+  <string name="GiphyStickers" ScaleFactor="1">GIF และสติ๊กเกอร์แบบเคลื่อนไหวได้แล้ววันนี้!</string>
+  <string name="GiphyTenor" ScaleFactor="1">ค้นหา @RVAppStudios ด้วยแป้นพิมพ์ GIF ของคุณ</string>
+  <string ScaleFactor="1" name="txt_2Digit+">2 หลัก +</string>
+  <string ScaleFactor="1" name="txt_2Digit-">2 หลัก -</string>
+  <string name="Intro_Text" ScaleFactor="1">เยี่ยมชม RVAppStudios.com เพื่อรับข่าวสารล่าสุด!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">ผลกระทบของเรา - ยอดดาวน์โหลดมากกว่า 300 ล้านครั้งสร้างความแตกต่างได้</string>
+  <string name="About_Us">เกี่ยวกับเรา</string>
+  <string name="MessageForAdult1">พวกเราแต่ละคนล้วนมีสิ่งที่ตัวเองทำได้ดีไม่เหมือนใคร ฉันสร้างแอป คุณอาจเป็นคุณครู คุณหมอ ศิลปิน และอีกมากมาย เช่นเดียวกับที่ฉันแบ่งปันสิ่งที่ฉันรักโดยไม่คิดค่าใช้จ่าย ฉันหวังว่าฉันจะเป็นแรงบันดาลใจให้คุณแบ่งปันทักษะของคุณ การช่วยเหลือผู้อื่นทำให้คุณรู้สึกดีและเป็นแรงบันดาลใจให้ผู้อื่น ลองคิดดูสิว่าเมื่อรวมพลังกันแล้วเราจะสร้างอิมแพกต์ได้มากแค่ไหน! Lucas &amp; Friends มุ่งหวังที่จะเป็นแรงบันดาลใจให้ผู้คนสร้างสิ่งที่ดี โปรดสนับสนุนเราด้วยการตอบแทนผู้อื่นในแบบของคุณเอง
+</string>
+  <string name="MessageForAdultTitle">ข้อความสำหรับผู้ใหญ่  </string>
+  <string name="MessageForAdult">ข้อความสำหรับผู้ใหญ่</string>
+  <string name="txt_collectGift">รับของขวัญของคุณ</string>
+  <string name="txt_GoodJob">งานที่ดี</string>
+  <string name="Impact_together">ผลกระทบที่เราสร้างร่วมกันได้</string>
+  <string name="For_Parents">สำหรับผู้ปกครอง</string>
+  <string name="Message_Parents">ข้อความสำหรับผู้ปกครอง</string>
+  <string name="txtShoppingMode">ช้อปปิ้ง</string>
+  <string name="Math_Task_9_Start">แก้ การบวก 2 หลัก 30 ครั้ง</string>
+  <string name="Math_Task_9_End">แก้การบวก 2 หลัก 30 ครั้ง แล้ว</string>
+  <string name="Math_Task_10_Start">แก้การลบ 2 หลัก 30 ครั้ง</string>
+  <string name="Math_Task_10_End">แก้การลบ 2 หลัก 30 ครั้ง แล้ว</string>
+  <string name="Math_Task_11_Start">ทำแบบฝึกหัดเพิ่มเติม 30 ข้อ</string>
+  <string name="Math_Task_11_End">สำเร็จแบบฝึกหัดเพิ่มเติม 30 ข้อแล้ว</string>
+  <string name="Math_Task_12_Start">ทำแบบฝึกหัดการลบ 30 ข้อ</string>
+  <string name="Math_Task_12_End">สำเร็จแบบฝึกหัดการลบ 30 ข้อแล้ว</string>
+  <string name="Math_Task_13_Start">แก้คำถามช้อปปิ้ง 30 ครั้ง</string>
+  <string name="Math_Task_13_End">แก้คำถามช้อปปิ้ง 30 ครั้ง แล้ว</string>
+  <string name="Math_Task_9_Completed">คุณได้รับประกาศนียบัตร! แก้การบวก 2 หลัก 30 ครั้ง แล้ว</string>
+  <string name="Math_Task_10_Completed">คุณได้รับประกาศนียบัตร! แก้การลบ 2 หลัก 30 ครั้ง แล้ว</string>
+  <string name="Math_Task_11_Completed">คุณได้รับประกาศนียบัตร! สำเร็จแบบฝึกหัดเพิ่มเติม 30 ข้อแล้ว</string>
+  <string name="Math_Task_12_Completed">คุณได้รับประกาศนียบัตร! สำเร็จแบบฝึกหัดการลบ 30 ข้อแล้ว</string>
+  <string name="Math_Task_13_Completed">คุณได้รับประกาศนียบัตร! แก้คำถามช้อปปิ้ง 30 ครั้ง แล้ว</string>
+  <string name="January">มกราคม</string>
+  <string name="February">กุมภาพันธ์</string>
+  <string name="March">มีนาคม</string>
+  <string name="April">เมษายน</string>
+  <string name="May">พฤษภาคม</string>
+  <string name="June">มิถุนายน</string>
+  <string name="July">กรกฎาคม</string>
+  <string name="August">สิงหาคม</string>
+  <string name="September">กันยายน</string>
+  <string name="October">ตุลาคม</string>
+  <string name="November">พฤศจิกายน</string>
+  <string name="December">ธันวาคม</string>
+  <string name="OurImpactKids1">เด็กคนได้ใช้แอปของเราแล้ว</string>
+  <string name="Storage_low">อุปกรณ์เหลือเนื้อที่เก็บข้อมูลน้อย</string>
+  <string name="OurImpactKids">1 พันล้าน</string>
+  <string name="Books_Tshirts">หนังสือ &amp; เสื้อยืด</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends เริ่มต้นจากการทำโปรเจกต์แอปฟรีเพื่อการศึกษาของเด็ก นี่เป็นงานที่ทำด้วยใจซึ่งไม่มีโฆษณาและการซื้อสินค้าในแอป เรามุ่งมั่นที่จะสร้างสิ่งดีๆ ให้โลก เพื่อตอบแทนและสร้างความเปลี่ยนแปลง และในตอนนี้เด็กๆ มากกว่า &lt;color=#ff0018&gt;&lt;size=35&gt;1 พันล้าน&lt;/size&gt;&lt;/color&gt;   ก็ได้เรียนรู้จากแอปเพื่อการศึกษาของเรา เราไม่เคยคิดที่จะสร้างแบรนด์สินค้าสำหรับเด็กหรือขายของเล่นเลยแม้แต่น้อย! ขอขอบคุณอย่างยิ่งที่เป็นแรงบันดาลใจให้เราและคอยสนับสนุนเราเสมอมา</string>
+  <string name="we_Inspire">เราเป็นแรงบันดาลใจให้ผู้คนทำสิ่งที่ดี</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: ภารกิจที่จะทำให้การเรียนรู้เป็นเรื่องสนุกและเข้าถึงได้! แอปการศึกษาฟรี ไม่มีโฆษณา ไม่คิดค่าใช้จ่ายใดๆ มีแค่การเรียนรู้แสนสนุกสำหรับเด็กๆ</string>
+  <string name="txt_CrossMath" ScaleFactor="1">คณิตศาสตร์ข้าม</string>
+  <string name="txt_FishingMode" ScaleFactor="1">ตกปลาสนุก</string>
+  <string name="txt_SnowMode" ScaleFactor="1">หิมะ</string>
+  <string ScaleFactor="1" name="txt_Addition">การบวก</string>
+  <string ScaleFactor="1" name="txt_Subtraction">การลบ</string>
+  <string name="FunGames">เกมที่สนุก</string>
+  <string name="Select_Character" ScaleFactor="1">เลือกผู้เล่น</string>
+  <string name="Car_Game" ScaleFactor="1">เกมรถ</string>
+  <string name="txtUserChangeMsg1">เปลี่ยนโปรไฟล์ของเด็กเรียบร้อยแล้ว</string>
+  <string ScaleFactor="1" name="txt_1Digit">2 หลัก</string>
+  <string ScaleFactor="1" name="txt_2Digit">2 หลัก</string>
+  <string ScaleFactor="1" name="txt_Play">เล่นเลย</string>
+  <string ScaleFactor="1" name="txtOpponentWon">คู่ต่อสู้ชนะ</string>
+  <string ScaleFactor="1" name="txtYouWon">คุณชนะแล้ว!</string>
+  <string ScaleFactor="1" name="txtRematch">แข่งใหม่</string>
+  <string ScaleFactor="1" name="txt_SelectDifficulty">เลือกระดับความยาก</string>
+  <string ScaleFactor="1" name="txt_DualMode">ผู้เล่น 2 คน</string>
+  <string ScaleFactor="1" name="txt_Correct">ถูกต้อง</string>
+  <string name="Draw">เสมอกัน</string>
+  <string name="Apparel_Accessories">เสื้อผ้าและเครื่องประดับ</string>
+  <string name="best_Seller">สินค้าขายดี</string>
+  <string name="RateUsNew">คุณสนุกกับเกมของเราหรือไม่? บทวิจารณ์ของคุณช่วยเผยแพร่ภารกิจของเราและแอปฟรีไปยังผู้ปกครองคนอื่นๆ</string>
+  <string name="txt_AdditupMode">เพิ่มมัน</string>
+  <string name="txt_SudokuMode">ปริศนา</string>
+  <string name="we_Inspire_msg1">ขอบคุณสำหรับการสร้างแรงบันดาลใจให้เราและการสนับสนุนของคุณ</string>
+  <string name="txtBrandTrust">แบรนด์ที่คุณวางใจได้</string>
+  <string name="txtMission">ภารกิจที่คุณชื่นชม</string>
+  <string name="Number_Path">เส้นทางตัวเลข</string>
+  <string name="Add_butterfly_1">### ผีเสื้อกำลังเกาะอยู่บนดอกไม้ จากนั้น มีผีเสื้อบินมาสมทบอีก @@@ ตัว มีผีเสื้อทั้งหมดกี่ตัว?</string>
+  <string name="Add_butterfly_2">เด็กคนหนึ่งเห็นผีเสื้อ ### ตัว จากนั้น มีผีเสื้อปรากฏขึ้นอีก @@@ ตัว เด็กคนนั้นเห็นผีเสื้อทั้งหมดกี่ตัว?</string>
+  <string name="Add_cat_1">### ตัว กำลังนั่งอยู่บนกำแพง มีแมวอีก @@@ ตัวปีนขึ้นมา ตอนนี้มีแมวอยู่บนกำแพงกี่ตัว?</string>
+  <string name="Add_cow_1">มีวัว ### ตัวอยู่ในโรงนา มีวัวเดินเข้ามาอีก @@@ ตัว ตอนนี้มีวัวอยู่ในโรงนากี่ตัว?</string>
+  <string name="Add_deer_1">ในทุ่งหญ้า มีกวาง ### ตัวกำลังกินหญ้า จากนั้น มีกวางมาถึงอีก @@@ ตัว ตอนนี้มีกวางกำลังกินหญ้ากี่ตัว?</string>
+  <string name="Add_dog_1">### ตัว กำลังเล่นลูกบอลอยู่ จากนั้น มีสุนัขอีก @@@ ตัวมาร่วมเล่นด้วย มีสุนัขกำลังเล่นอยู่กี่ตัว?</string>
+  <string name="Add_giraffe_1">### ตัว กำลังดื่มน้ำอยู่ จากนั้น มียีราฟมาดื่มน้ำอีก @@@ ตัว มีีราฟกำลังดื่มน้ำกี่ตัว?</string>
+  <string name="Add_ladybugs_1">### ตัว กำลังเกาะอยู่บนใบไม้ มีเต่าทองอีก @@@ ตัวบินมาที่ใบไม้ มีเต่าทองอยู่บนใบไม้กี่ตัว?</string>
+  <string name="Add_tiger_1">### ตัว กำลังนั่งอยู่ใกล้ถ้ำ มีเสืออีก @@@ ตัวออกมา ตอนนี้มีเสืออยู่กี่ตัว?</string>
+  <string name="Add_tiger_2">มีเสือ ### ตัวในป่า จากนั้นมีเสือเข้ามาใกล้อีก @@@ ตัว มีเสือทั้งหมดกี่ตัว?</string>
+  <string name="Add_owl_1">### ตัว กำลังพักอยู่ในรัง มีนกฮูกอีก @@@ ตัวมาที่รัง มีนกฮูกอยู่ในรังกี่ตัว?</string>
+  <string name="Add_panda_1">### ตัว กำลังกินไผ่ มีแพนด้ามาเพิ่มอีก @@@ ตัว มีแพนด้ากำลังกินไผ่กี่ตัว?</string>
+  <string name="Add_parrot_1">### ตัว กำลังเกาะอยู่บนคอน มีนกแก้วอีก @@@ ตัวบินเข้ามาอย่างมีความสุข ตอนนี้มีนกแก้วอยู่กี่ตัว?</string>
+  <string name="Add_peacock_1">### ตัว กำลังเต้นรำอยู่ในสวน มีนกยูงมาเพิ่มอีก @@@ ตัว มีนกยูงกำลังเต้นรำอยู่กี่ตัว?</string>
+  <string name="Add_rooster_1">มีไก่ชน ### ตัวอยู่ในฟาร์ม มีไก่ชนมาอยู่ใกล้โรงนาอีก @@@ ตัว มีไก่ชนทั้งหมดกี่ตัว?</string>
+  <string name="Add_snail_1">บนใบไม้ มีหอยทาก ### ตัวกำลังพักผ่อนอยู่ มีมาสมทบอีก @@@ ตัว มีหอยทากทั้งหมดกี่ตัว?</string>
+  <string name="Add_zebra_1">ในทุ่งหญ้า มีม้าลาย ### ตัวกำลังกินหญ้าอยู่ มีมาสมทบอีก @@@ ตัว มีม้าลายทั้งหมดกี่ตัว?</string>
+  <string name="Add_bicycle_1">มีจักรยาน ### คันในสวนสาธารณะ มีจักรยานถูกนำมาจอดเพิ่มอีก @@@ คัน มีจักรยานทั้งหมดกี่คัน?</string>
+  <string name="Add_hippo_1">ในตอนเช้า มีฮิปโป ### ตัวกำลังเล่นน้ำอยู่ ต่อมา มีฮิปโปเดินเข้ามาอีก @@@ ตัว มีฮิปโปทั้งหมดกี่ตัว?</string>
+  <string name="Add_airplane_1">บนรันเวย์ มีเครื่องบิน ### ลำกำลังรออยู่ มีเครื่องบินลงจอดเพิ่มอีก @@@ ลำ มีเครื่องบินทั้งหมดกี่ลำ?</string>
+  <string name="Add_airplane_2">ที่สนามบิน มีเครื่องบิน ### ลำกำลังรออยู่ ไม่นานก็มีมาถึงอีก @@@ ลำ มีเครื่องบินทั้งหมดกี่ลำ?</string>
+  <string name="Add_horse_1">ที่โรงนา มีม้า ### ตัวกำลังยืนอยู่ มีม้ามาสมทบอีก @@@ ตัว มีม้าทั้งหมดกี่ตัว?</string>
+  <string name="Add_fish_1">ในตู้ปลา มีปลา ### ตัวกำลังว่ายน้ำอยู่ มีถูกเพิ่มเข้ามาอีก @@@ ตัว มีปลาทั้งหมดกี่ตัว?</string>
+  <string name="Add_goat_1">มีแพะ ### ตัวอยู่บนเนินเขา จากนั้น มีแพะมาอีก @@@ ตัว มีแพะทั้งหมดกี่ตัว?</string>
+  <string name="Add_monkey_1">มีลิง ### ตัวอยู่บนต้นไม้ มีลิงปีนขึ้นมาอีก @@@ ตัว มีลิงทั้งหมดกี่ตัว?</string>
+  <string name="Add_carrot_1">มีแครอท ### หัวอยู่ในตะกร้า มีเพิ่มเข้ามาอีก @@@ หัว มีแครอททั้งหมดกี่หัว?</string>
+  <string name="Add_candies_1">มีลูกอม ### เม็ดอยู่ในโหล มีเพิ่มเข้ามาอีก @@@ เม็ด มีลูกอมทั้งหมดกี่เม็ด?</string>
+  <string name="Add_cupcake_1">มีคัพเค้ก ### ชิ้นบนโต๊ะ มีวางเพิ่มอีก @@@ ชิ้น มีคัพเค้กทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_pinwheel_1">ในตอนเช้า มีกังหันลม ### อันหมุนอยู่ในสวน ต่อมา มีเพิ่มเข้ามาอีก @@@ อัน ตอนนี้มีกังหันลมอยู่กี่อัน?</string>
+  <string name="Add_broccoli_1">มีบรอกโคลี ### ต้นอยู่บนจาน มีเพิ่มเข้ามาอีก @@@ ต้น มีบรอกโคลีอยู่บนจานกี่ต้น?</string>
+  <string name="Add_robot_1">มีหุ่นยนต์ ### ตัวอยู่บนพื้น มีหุ่นยนต์เดินเข้ามาอีก @@@ ตัว มีหุ่นยนต์ทั้งหมดกี่ตัว?</string>
+  <string name="Add_car_1">เด็กคนหนึ่งมีรถของเล่น ### คัน ได้รับเพิ่มอีก @@@ คัน เด็กคนนั้นมีรถของเล่นกี่คัน?</string>
+  <string name="Add_bird house_1">มีบ้านนก ### หลังอยู่ใกล้โรงนา มีเพิ่มเข้ามาอีก @@@ หลัง มีบ้านนกทั้งหมดกี่หลัง?</string>
+  <string name="Add_ball_1">มีลูกบอล ### ลูกอยู่บนพื้น มีลูกบอลกลิ้งมาเพิ่มอีก @@@ ลูก มีลูกบอลทั้งหมดกี่ลูก?</string>
+  <string name="Add_drum_1">ในชั้นเรียนดนตรี มีกลอง ### ตัวถูกวางไว้ มีเพิ่มเข้ามาอีก @@@ ตัว มีกลองทั้งหมดกี่ตัว?</string>
+  <string name="Add_cake_1">มีเค้ก ### ชิ้นบนโต๊ะ มีเพิ่มเข้ามาอีก @@@ ชิ้น มีเค้กทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_fruits_1">มีผลไม้ ### ชนิดอยู่ในตะกร้า มีเพิ่มเข้ามาอีก @@@ ชนิด มีผลไม้ทั้งหมดกี่ชนิด?</string>
+  <string name="Add_flower_1">มีดอกไม้ ### ดอกในสวน มีดอกไม้บานเพิ่มอีก @@@ ดอก มีดอกไม้อยู่ในสวนกี่ดอก?</string>
+  <string name="Add_pig_1">มีหมู ### ตัวอยู่ในสวน จากนั้นมีมาเพิ่มอีก @@@ ตัว มีหมูอยู่ในสวนทั้งหมดกี่ตัว?</string>
+  <string name="Add_top_1">มีลูกข่าง ### อันอยู่บนพื้น มีเพิ่มเข้ามาอีก @@@ อัน มีลูกข่างทั้งหมดกี่อัน?</string>
+  <string name="Add_donut_1">มีโดนัท ### ชิ้นอยู่บนจาน มีเพิ่มเข้ามาอีก @@@ ชิ้น มีโดนัททั้งหมดกี่ชิ้น?</string>
+  <string name="Add_giftbox_1">ซาร่าได้ของขวัญ ### ชิ้น เพื่อนของเธอให้เพิ่มอีก @@@ ชิ้น ซาร่ามีของขวัญทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_giftbox_2">ในห้องมีกล่องของขวัญอยู่ ### กล่อง แล้วก็ใส่เพิ่มอีก @@@ ในห้องมีกล่องของขวัญกี่กล่อง?</string>
+  <string name="Add_taco_1">ซาร่าทำทาโก้ ### ชิ้น แม่ของเธอทำเพิ่มอีก @@@ ชิ้น มีทาโก้ถูกทำขึ้นทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_taco_2">ทอมกินทาโก้ไปแล้ว ### ชิ้น เขากินเพิ่มอีก @@@ ชิ้น ทอมกินทาโก้ทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_kite_1">### ตัว กำลังลอยอยู่ในท้องฟ้า มีว่าวอีก @@@ ตัวเริ่มลอยขึ้นไป มีว่าวลอยอยู่ในท้องฟ้ากี่ตัว?</string>
+  <string name="Add_kite_2">ลีโอทำว่าว ### ตัว จากนั้น เขาทำเพิ่มอีก @@@ ตัว ลีโอทำว่าวทั้งหมดกี่ตัว?</string>
+  <string name="Add_sandwich_1">แซมซื้อแซนด์วิช ### ชิ้น จากนั้น เขาก็ซื้อเพิ่มอีก @@@ ชิ้น แซมซื้อแซนด์วิชทั้งหมดกี่ชิ้น?</string>
+  <string name="Add_leopard_1">### เสือดาวอยู่บนต้นไม้ และมีอีก @@@ ปีนขึ้นไป ตอนนี้มีเสือดาวอยู่บนต้นไม้กี่ตัวแล้ว</string>
+  <string name="WordProblem">ปัญหาคำศัพท์</string>
+  <string name="Carry_Forward">บวกด้วยการพก</string>
+  <string name="Sub_butterfly_1">มีผีเสื้อบินอยู่ในสวน ### ตัว @@@ ตัวบินหนีไป มีผีเสื้อเหลืออยู่ในสวนกี่ตัว?</string>
+  <string name="Sub_butterfly_2">เอ็มม่าเห็นผีเสื้อ ### ตัวในตอนเช้า ในตอนบ่าย เธอเห็นน้อยกว่า @@@ ตัว เธอเห็นผีเสื้อกี่ตัวในตอนบ่าย?</string>
+  <string name="Sub_cat_1">อีธานเห็นแมว ### ตัวนั่งอยู่บนรั้ว แมว @@@ ตัววิ่งหนีไปเมื่อสุนัขเห่า มีแมวเหลืออยู่บนรั้วกี่ตัว?</string>
+  <string name="Sub_cat_2">มีอาเลี้ยงแมว ### ตัวในสวนหลังบ้านของเธอ แมว @@@ ตัวไปดื่มนม มีแมวเหลืออยู่ในสวนหลังบ้านกี่ตัว?</string>
+  <string name="Sub_cow_1">มีวัว ### ตัวกำลังดื่มน้ำอยู่ริมแม่น้ำ วัว @@@ ตัวดื่มเสร็จแล้วก็จากไป มีวัวเหลืออยู่ริมแม่น้ำกี่ตัว?</string>
+  <string name="Sub_cow_2">มีวัว ### ตัวกำลังกินหญ้าแห้ง วัว @@@ ตัวหยุดกิน มีวัวที่ยังกินหญ้าแห้งอยู่กี่ตัว?</string>
+  <string name="Sub_deer_1">มีกวาง ### ตัวกำลังข้ามถนน กวาง @@@ ตัวข้ามไปแล้ว มีกวางที่ยังรอข้ามถนนอยู่กี่ตัว?</string>
+  <string name="Sub_deer_2">มีกวาง ### ตัวกำลังปีนขึ้นเนิน กวาง @@@ ตัวหยุดแล้วเดินกลับลงมา มีกวางที่ยังปีนอยู่กี่ตัว?</string>
+  <string name="Sub_dog_1">มีสุนัข ### ตัวกำลังเล่นอยู่ในสนาม สุนัข @@@ ตัววิ่งเข้าไปในบ้าน มีสุนัขเหลืออยู่ในสนามกี่ตัว?</string>
+  <string name="Sub_dog_2">มีสุนัข ### ตัวอยู่ข้างในกรง สุนัข @@@ ตัวออกไปข้างนอก มีสุนัขเหลืออยู่ในกรงกี่ตัว?</string>
+  <string name="Sub_giraffe_1">ใต้ต้นไม้ร่มรื่น ยีราฟ ### ตัวนอนลง หลังจากนั้นไม่นาน ยีราฟ @@@ ตัวยืนขึ้นและจากไป มี­ยีราฟที่ยังพักผ่อนอยู่กี่ตัว?</string>
+  <string name="Sub_giraffe_2">ยีราฟกลุ่มหนึ่งมี ### ตัวกำลังเดินอยู่ในทุ่งหญ้าสูง ทันใดนั้น ยีราฟ @@@ ตัวหันหลังกลับ มี­ยีราฟที่ยังเดินต่อไปกี่ตัว?</string>
+  <string name="Sub_ladybugs_1">เต่าทอง ### ตัวเกาะอยู่บนใบไม้สีเขียวใหญ่ จากนั้น @@@ ตัวก็บินหนีไป มีเต่าทองที่ยังอยู่บนใบไม้กี่ตัว?</string>
+  <string name="Sub_ladybug_2">ตอนพระอาทิตย์ตกดิน เต่าทอง ### ตัวบินอยู่ด้วยกัน @@@ ตัวลงจอดบนกิ่งไม้ มีเต่าทองที่ยังบินอยู่กี่ตัว?</string>
+  <string name="Sub_owl_1">นกฮูก ### ตัวบินอยู่ใต้แสงจันทร์สว่าง นกฮูก @@@ ตัวลงเกาะบนต้นไม้ มีนกฮูกที่ยังบินอยู่กี่ตัว?</string>
+  <string name="Sub_owl_2">นกฮูก ### ตัวเรียงกันอยู่บนกิ่งไม้ นกฮูก @@@ ตัวกางปีกและบินจากไป มีนกฮูกเหลืออยู่บนกิ่งไม้กี่ตัว?</string>
+  <string name="Sub_panda_1">หมีแพนด้า ### ตัวกำลังกินไผ่ด้วยกัน หมีแพนด้า @@@ ตัวกินเสร็จแล้วก็จากไป มีหมีแพนด้าที่ยังกินไผ่อยู่กี่ตัว?</string>
+  <string name="Sub_panda_2">หมีแพนด้ากลุ่มหนึ่งมี ### ตัวนั่งอยู่ด้วยกัน หมีแพนด้า @@@ ตัวออกไปหาไผ่เพิ่ม มีหมีแพนด้าที่ยังอยู่ในกลุ่มกี่ตัว?</string>
+  <string name="Sub_parrot_1">นกแก้วฝูงหนึ่งมี ### ตัวกำลังบินอยู่ด้วยกัน นกแก้ว @@@ ตัวลงจอดบนหลังคา มีนกแก้วที่ยังบินอยู่กี่ตัว?</string>
+  <string name="Sub_parrot_2">มีนกแก้ว ### ตัวอยู่ใกล้รังของพวกมันบนต้นไม้ นกแก้ว @@@ ตัวบินเข้าไปข้างใน มีนกแก้วที่ยังอยู่ข้างนอกกี่ตัว?</string>
+  <string name="Sub_peacock_1">นกยูง ### ตัวกำลังรำแพนอยู่ในสวน นกยูง @@@ ตัวหยุดรำแพน มีนกยูงที่ยังรำแพนอยู่กี่ตัว?</string>
+  <string name="Sub_peacock_2">ตอนพระอาทิตย์ตกดิน นกยูง ### ตัวรวมตัวกันอยู่ในสวนสาธารณะ นกยูง @@@ ตัวบินหนีไป มีนกยูงเหลืออยู่ที่นั่นกี่ตัว?</string>
+  <string name="Sub_rooster_1">ในตอนเช้า ไก่โต้ง ### ตัวรวมตัวกันใกล้กองอาหาร ไก่โต้ง @@@ ตัวกินเสร็จแล้วก็จากไป มีไก่โต้งที่ยังกินอยู่กี่ตัว?</string>
+  <string name="Sub_rooster_2">มีไก่โต้ง ### ตัวนั่งอยู่บนรั้ว ไก่โต้ง @@@ ตัวกระโดดลงไป มีไก่โต้งที่ยังอยู่บนรั้วกี่ตัว?</string>
+  <string name="Sub_snail_1">หอยทาก ### ตัวกำลังเคลื่อนที่ช้าๆ อยู่บนทางเดินในสวน หอยทาก @@@ ตัวคลานเข้าไปในหญ้า มีหอยทากเหลืออยู่บนทางเดินกี่ตัว?</string>
+  <string name="Sub_snail_2">มีหอยทาก ### ตัวอยู่ใกล้ดอกไม้ หอยทาก @@@ ตัวคลานหนีไป มีหอยทากที่ยังอยู่ใกล้ดอกไม้กี่ตัว?</string>
+  <string name="Sub_tiger_1">เสือ ### ตัวกำลังพักผ่อนอยู่ในป่า เสือ @@@ ตัวเดินจากไป มีเสือที่ยังพักผ่อนอยู่กี่ตัว?</string>
+  <string name="Sub_tiger_2">พบเสือ ### ตัวกำลังเดินอยู่ในป่า เสือ @@@ ตัววิ่งหนีไป มีเสือที่ยังเดินอยู่กี่ตัว?</string>
+  <string name="Sub_zebra_1">ฝูงม้าลาย ### ตัวมาดื่มน้ำ ม้าลาย @@@ ตัวจากไปหลังจากดื่มน้ำเสร็จ มีม้าลายที่ยังอยู่ริมแม่น้ำกี่ตัว?</string>
+  <string name="Sub_zebra_2">กลุ่มหนึ่งมีลูกม้าลาย ### ตัวกำลังเล่นด้วยกัน ลูกม้าลาย @@@ ตัวกลับไปหาแม่ของพวกมัน มีลูกม้าลายที่ยังเล่นอยู่กี่ตัว?</string>
+  <string name="Sub_bicycle_1">มีจักรยาน ### คันจอดอยู่ใกล้สนามเด็กเล่น จักรยาน @@@ คันถูกนำกลับบ้าน มีจักรยานเหลืออยู่ที่สนามเด็กเล่นกี่คัน?</string>
+  <string name="Sub_bicycle_2">ร้านจักรยานแสดงจักรยาน ### คันไว้ข้างนอก จักรยาน @@@ คันถูกขายไป มีจักรยานเหลือจัดแสดงกี่คัน?</string>
+  <string name="Sub_hippo_1">ฮิปโป ### ตัวกำลังกินหญ้าด้วยกัน ฮิปโป @@@ ตัวหยุดกิน มีฮิปโปที่ยังกินหญ้าอยู่กี่ตัว?</string>
+  <string name="Sub_hippo_1">ฝูงหนึ่งมีฮิปโป ### ตัวรวมตัวกัน ฮิปโป @@@ ตัวเคลื่อนตัวออกไป มีฮิปโปที่ยังอยู่ในฝูงกี่ตัว?</string>
+  <string name="Sub_airplane_1">ในตอนเช้า เครื่องบิน ### ลำพร้อมสำหรับการบิน เครื่องบิน @@@ ลำออกเดินทางตามกำหนด มีเครื่องบินที่ยังรออยู่กี่ลำ?</string>
+  <string name="Sub_airplane_2">ในตอนเย็น เครื่องบิน ### ลำมีกำหนดจะบิน เครื่องบิน @@@ ลำออกเดินทางไปแล้ว มีเครื่องบินที่ยังรอจะออกเดินทางกี่ลำ?</string>
+  <string name="Sub_horse_1">มีม้า ### ตัวอยู่ข้างในคอก ม้า @@@ ตัวเดินออกไป มีม้าที่ยังอยู่ในคอกกี่ตัว?</string>
+  <string name="Sub_horse_2">พบม้า ### ตัวในหุบเขา ม้า @@@ ตัวปีนขึ้นเนิน มีม้าที่ยังเหลืออยู่ในหุบเขากี่ตัว?</string>
+  <string name="Sub_fish_1">มีปลา ### ตัวกำลังว่ายอยู่ในบ่อ ปลา @@@ ตัวว่ายหนีไป มีปลาที่ยังอยู่ในบ่อกี่ตัว?</string>
+  <string name="Sub_fish_2">ชาวประมงเห็นปลา ### ตัวอยู่ใกล้เรือของเขา ปลา @@@ ตัวว่ายน้ำหนีไปอย่างรวดเร็ว มีปลาที่ยังอยู่ใกล้เรือกี่ตัว?</string>
+  <string name="Sub_goat_1">ชาวนามีแพะ ### ตัวกำลังเล็มหญ้าอยู่ในทุ่ง แพะ @@@ ตัวเดินเตลิดไปทางเนินเขา มีแพะที่ยังเล็มหญ้าอยู่ในทุ่งกี่ตัว?</string>
+  <string name="Sub_goat_2">มีแพะ ### ตัวกำลังพักผ่อนอยู่ใกล้โรงนา แพะ @@@ ตัววิ่งออกไปเล่นในลาน มีแพะที่ยังอยู่ใกล้โรงนากี่ตัว?</string>
+  <string name="Sub_monkey_1">ลิง ### ตัวเล่นอยู่บนต้นมะม่วง ลิง @@@ ตัวกระโดดลงมา มีลิงที่ยังอยู่บนต้นไม้กี่ตัว?</string>
+  <string name="Sub_monkey_2">ที่สวนสัตว์ ลิง ### ตัวกำลังโหนเชือก ลิง @@@ ตัวไปกินอาหาร มีลิงที่ยังโหนอยู่กี่ตัว?</string>
+  <string name="Sub_carrot_1">มีแครอท ### หัวอยู่ในตะกร้า แครอท @@@ หัวถูกกินไป มีแครอทเหลืออยู่กี่หัว?</string>
+  <string name="Sub_carrot_2">กระต่ายพบแครอท ### หัว แครอท @@@ หัวกลิ้งหลุดไป มีแครอทเหลืออยู่ที่นั่นกี่หัว?</string>
+  <string name="Sub_candies_1">มีลูกอม ### เม็ดอยู่ในโหล ลูกอม @@@ เม็ดถูกนำออกมา มีลูกอมเหลืออยู่ข้างในกี่เม็ด?</string>
+  <string name="Sub_candies_2">มีลูกอม ### เม็ดอยู่บนโต๊ะ ลูกอม @@@ เม็ดถูกกินไป มีลูกอมเหลืออยู่กี่เม็ด?</string>
+  <string name="Sub_cupcake_1">มีคัพเค้ก ### ชิ้นอยู่บนถาด คัพเค้ก @@@ ชิ้นถูกแจกไป มีคัพเค้กเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_cupcake_2">คนทำขนมปังทำคัพเค้ก ### ชิ้น คัพเค้ก @@@ ชิ้นถูกขายไป มีคัพเค้กเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_pinwheel_1">กังหันลม ### อันกำลังหมุนอยู่ในสวน กังหันลม @@@ อันหยุดหมุน มีกังหันลมที่ยังหมุนอยู่กี่อัน?</string>
+  <string name="Sub_pinwheel_2">มีกังหันลม ### อันอยู่ใกล้รั้ว กังหันลม @@@ อันปลิวหายไป มีกังหันลมที่ยังอยู่กี่อัน?</string>
+  <string name="Sub_broccoli_1">มีบรอกโคลี ### ชิ้นอยู่บนจาน บรอกโคลี @@@ ชิ้นถูกกินไป มีบรอกโคลีเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_broccoli_2">พ่อครัวทำบรอกโคลี ### ต้น @@@ ต้นถูกเสิร์ฟไป มีบรอกโคลีเหลืออยู่กี่ต้น?</string>
+  <string name="Sub_robot_1">หุ่นยนต์ ### ตัวยืนเข้าแถวกัน หุ่นยนต์ @@@ ตัวเดินจากไป มีหุ่นยนต์ที่ยังอยู่กี่ตัว?</string>
+  <string name="Sub_robot_2">มีหุ่นยนต์ ### ตัวอยู่ในห้องทดลอง หุ่นยนต์ @@@ ตัวถูกปิดเครื่อง มีหุ่นยนต์ที่ยังเปิดอยู่กี่ตัว?</string>
+  <string name="Sub_car_1">มีรถยนต์ ### คันจอดอยู่ข้างนอก รถยนต์ @@@ คันขับออกไป มีรถยนต์ที่ยังจอดอยู่กี่คัน?</string>
+  <string name="Sub_car_2">ในการแข่งขัน รถยนต์ ### คันเริ่มต้น รถยนต์ @@@ คันเข้าเส้นชัยก่อนเวลา มีรถยนต์ที่ยังแข่งอยู่กี่คัน?</string>
+  <string name="Sub_bird house_1">นก ### ตัวนั่งอยู่ใกล้รังนก @@@ ตัวบินหนีไป มีนกที่ยังอยู่กี่ตัว?</string>
+  <string name="Sub_bird house_2">มีรัง ### รังอยู่ในบ้านนก @@@ รังตกลงมา มีรังเหลืออยู่กี่รัง?</string>
+  <string name="Sub_ball_1">มีลูกบอล ### ลูกอยู่ในสนามเด็กเล่น ลูกบอล @@@ ลูกกลิ้งหลุดไป มีลูกบอลที่ยังอยู่ที่นั่นกี่ลูก?</string>
+  <string name="Sub_ball_2">กล่องหนึ่งมีลูกบอล ### ลูก ลูกบอล @@@ ลูกกระเด้งออกมา มีลูกบอลเหลืออยู่กี่ลูก?</string>
+  <string name="Sub_drum_1">มีกลอง ### ใบอยู่บนเวที กลอง @@@ ใบถูกนำลงมา มีกลองเหลืออยู่บนเวทีกี่ใบ?</string>
+  <string name="Sub_drum_2">วงดนตรีมีกลอง ### ใบ กลอง @@@ ใบแตก มีกลองดีๆ เหลืออยู่กี่ใบ?</string>
+  <string name="Sub_cake_1">วันนี้อบเค้ก ### ชิ้น เค้ก @@@ ชิ้นถูกกินไป มีเค้กเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_cake_2">คนทำขนมปังตกแต่งเค้ก ### ชิ้น เค้ก @@@ ชิ้นถูกขายไป มีเค้กเหลืออยู่ที่นั่นกี่ชิ้น?</string>
+  <string name="Sub_fruits_1">มีผลไม้ ### ลูกอยู่ในตะกร้า ผลไม้ @@@ ลูกตกลงมา มีผลไม้เหลืออยู่ข้างในกี่ลูก?</string>
+  <string name="Sub_fruits_2">ร้านค้าจัดแสดงผลไม้ ### ลูก @@@ ลูกถูกขายไป มีผลไม้เหลืออยู่กี่ลูก?</string>
+  <string name="Sub_flower_1">ดอกไม้ ### ดอกบานอยู่ในสวน ดอกไม้ @@@ ดอกถูกเด็ดไป มีดอกไม้เหลืออยู่กี่ดอก?</string>
+  <string name="Sub_flower_2">มีดอกไม้ ### ดอกอยู่ในแจกัน ดอกไม้ @@@ ดอกเหี่ยวแห้งไป มีดอกไม้สดอยู่กี่ดอก?</string>
+  <string name="Sub_pig_1">มีหมู ### ตัวอยู่ในคอก หมู @@@ ตัววิ่งหนีออกไป มีหมูที่ยังอยู่ในคอกกี่ตัว?</string>
+  <string name="Sub_pig_2">ชาวนามีหมู ### ตัว หมู @@@ ตัวไปที่บ่อน้ำ มีหมูเหลืออยู่กี่ตัว?</string>
+  <string name="Sub_top_1">ลูกข่าง ### อันกำลังหมุนอยู่บนพื้น ลูกข่าง @@@ อันหยุดหมุน มีลูกข่างที่ยังหมุนอยู่กี่อัน?</string>
+  <string name="Sub_top_2">มีลูกข่าง ### อันอยู่ในกล่อง ลูกข่าง @@@ อันถูกนำออกมา มีลูกข่างเหลืออยู่กี่อัน?</string>
+  <string name="Sub_donut_1">มีโดนัท ### ชิ้นอยู่บนถาด โดนัท @@@ ชิ้นถูกกินไป มีโดนัทเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_donut_2">ร้านทำโดนัท ### ชิ้น @@@ ชิ้นถูกขายไป มีโดนัทเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_giftbox_1">มีกล่องของขวัญ ### กล่องอยู่บนโต๊ะ @@@ กล่องถูกเปิดออก มีกล่องที่ยังปิดอยู่กี่กล่อง?</string>
+  <string name="Sub_giftbox_2">มีกล่องของขวัญ ### กล่องอยู่ใต้ต้นไม้ @@@ กล่องถูกหยิบไป มีกล่องเหลืออยู่กี่กล่อง?</string>
+  <string name="Sub_taco_1">มีทาโก้ ### ชิ้นอยู่บนจาน ทาโก้ @@@ ชิ้นถูกกินไป มีทาโก้เหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_taco_2">พ่อครัวทำทาโก้ ### ชิ้น @@@ ชิ้นถูกเสิร์ฟไป มีทาโก้เหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_kite_1">ว่าว ### ตัวลอยอยู่บนฟ้า ว่าว @@@ ตัวตกลงมา มีว่าวที่ยังลอยอยู่กี่ตัว?</string>
+  <string name="Sub_kite_2">มีว่าว ### ตัวอยู่ที่ชายหาด ว่าว @@@ ตัวปลิวหายไป มีว่าวที่ยังอยู่กี่ตัว?</string>
+  <string name="Sub_sandwich_1">มีแซนด์วิช ### ชิ้นอยู่บนโต๊ะ แซนด์วิช @@@ ชิ้นถูกกินไป มีแซนด์วิชเหลืออยู่กี่ชิ้น?</string>
+  <string name="Sub_sandwich_2">พ่อครัวทำแซนด์วิช ### ชิ้น @@@ ชิ้นถูกเสิร์ฟไป มีแซนด์วิชเหลืออยู่กี่ชิ้น?</string>
+  <string name="Add_Pyramid">พีระมิดการบวก</string>
+</resources>

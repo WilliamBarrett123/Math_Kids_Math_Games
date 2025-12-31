@@ -1,0 +1,830 @@
+<resources>
+  <string name="txt_more_apps">他のアプリ</string>
+  <string name="txt_holdfor">3秒お待ちください</string>
+  <string name="txt_title_for_grown_ups">大人向け</string>
+  <string name="txt_userguide_for_grown_ups">アクセスするには、数字を入力してください</string>
+  <string name="txt_digit_Zero">ゼロ</string>
+  <string name="txt_digit_One">一</string>
+  <string name="txt_digit_Two">二</string>
+  <string name="txt_digit_Three">三</string>
+  <string name="txt_digit_Four">四</string>
+  <string name="txt_digit_Five">五</string>
+  <string name="txt_digit_Six">六</string>
+  <string name="txt_digit_Seven">七</string>
+  <string name="txt_digit_Eight">八</string>
+  <string name="txt_digit_Nine">九</string>
+  <string name="txt_stickershowcase_toys">玩具</string>
+  <string name="txt_stickershowcase_stickers">ステッカー</string>
+  <string name="txt_stickershowcase_stamps">スタンプ</string>
+  <string name="txt_stickershowcase_notoys">おもちゃなし</string>
+  <string name="txt_stickershowcase_nostickers">ステッカーなし</string>
+  <string name="txt_stickershowcase_nostamps">スタンプなし</string>
+  <string name="txt_pick_a_stamp">スタンプを選択</string>
+  <string name="txt_collectsticker">ステッカーを収集</string>
+  <string name="txt_collectyourGift">ギフトを受け取ってください</string>
+  <string name="txt_rateUsReview_microsoft">レビューするにはストアへ行ってください</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">レビューするにはストアへ行ってください</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">レビューするにはストアへ行ってください</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">レビューするにはストアへ行ってください</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">レビューするにはストアへ行ってください</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">バックグランドミュージック</string>
+  <string name="text_sound">サウンド</string>
+  <string name="text_learn_with">数値範囲</string>
+  <string name="text_level">Level ###</string>
+  <string name="text_generate_report">成績を作成する</string>
+  <string name="text_view_report_card">成績表を表示する</string>
+  <string name="text_visible_mode">ビジュアルモード</string>
+  <string name="text_VISIBLE_MODE">ビジュアルモード</string>
+  <string name="text_share">共有</string>
+  <string name="txt_report_card">成績表</string>
+  <string name="txt_add">追加</string>
+  <string name="txt_sub">減算</string>
+  <string name="txt_number">いいえ。</string>
+  <string name="txt_date_time">日／時</string>
+  <string name="txt_equation">方程式</string>
+  <string name="txt_mode">モード</string>
+  <string name="txt_retry">再試行</string>
+  <string name="txt_no_report">成績なし</string>
+  <string name="txt_yes">はい</string>
+  <string name="txt_no">NO</string>
+  <string name="txt_delete_report">本当に全ての成績表データを削除しますか？</string>
+  <string name="txt_press_again_exit">終了するには再度押してください</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">言語を選択</string>
+  <string name="txt_Select_Language">言語を選択</string>
+  <string name="txtLanguages">言語</string>
+  <string name="txtOtherLanguages">他の言語</string>
+  <string name="txt_Report_a_Translation_error">翻訳エラーを報告</string>
+  <string name="txt_send">送信</string>
+  <string name="txtReadyBundle">ダウンロードはまもなく開始されます。</string>
+  <string name="txtDownloadingBundle">言語パックをダウンロード中。</string>
+  <string name="txt_ConnectionError">接続エラー</string>
+  <string name="txt_InstallNow">今すぐインストール</string>
+  <string name="txt_PostSuccess">メッセージの投稿に成功しました</string>
+  <string name="txt_Play_now">今すぐプレイ</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">子プロファイル</string>
+  <string name="txtBtnAdd">子供を追加</string>
+  <string name="txtAddHelp">プロフィールを追加して、設定とお子様一人づつの成績表を保存してください。</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">子供の名前</string>
+  <string name="txtEnterName">名前を記入...</string>
+  <string name="txtMaxLimit">最大２０の名前</string>
+  <string name="txtEditProfile">プロフィールを編集</string>
+  <string name="txtDeleteProfile">プロフィールを削除</string>
+  <string name="txtDeleteProfileConfirm">###のプロフィールを削除します。よろしいですか？</string>
+  <string name="txtNo">NO</string>
+  <string name="txtYes">はい</string>
+  <string name="txtNameDuplication">この名前はすでに存在しています！</string>
+  <string name="txtUserChangeMsg">プロフィールが変更されました。</string>
+  <string name="txtShareWithParents">両親、学校、デイケアなどとシェア</string>
+  <string name="txtBtnUpdate">更新</string>
+  <string name="txtNew">新規</string>
+  <string name="txt_DownloadNow">今すぐダウンロード</string>
+  <string name="text_showhint">学習中にヒントを表示</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">言語を変更</string>
+  <string name="txtInitHelpChangeLangDesc">学習中に使用する###つの異なる言語から選択。</string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">設定をカスタマイズ</string>
+  <string name="txtInitHelpCustomSettingDesc">より良い学習のために設定をパーソナライズ。</string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">接続エラー</string>
+  <string name="txt_connectionlost_detail">インターネット接続に問題があります。ネットワーク設定を確認してください。</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">OK</string>
+  <string name="txtSelectLanguageInfo">###と英語のどちらで学びますか？</string>
+  <string name="txtShowIntroAtStart">開始時にキャラクターの紹介を表示</string>
+  <string name="txtLanguages">言語</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">最初にヘルプチュートリアルを完了</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">当社のストーリーをチェック</string>
+  <string ScaleFactor="1" name="txtloading">ロード中…</string>
+  <string ScaleFactor="1" name="txt_gamename">色と形 - 色を学ぶ</string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">色と形 - 色を学ぶ</string>
+  <string ScaleFactor="1" name="txtBtnTab">タブ</string>
+  <string ScaleFactor="1" name="txtBtnBack">戻る</string>
+  <string ScaleFactor="1" name="txtBtnSelect">選択</string>
+  <string ScaleFactor="1" name="txtBtnDelete">削除</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">ナビゲート</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">何かキーを押すと続行します ...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">ゲームを終了しますか？</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">ゲームをやめます。よろしいですか？</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">アプリを評価して私たちを応援してください。</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">評価して下さい</string>
+  <string ScaleFactor="1" name="txtLaterBtn">後で</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">弊社をサポートする方法</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">お子様にTシャツのご褒美をあげて、応援してください。</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">当社をサポートするための最良の無料の方法は、子供のゲームを学校、友人、ソーシャルメディア、報道機関（TVや新聞）と共有することです。</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Tシャツを購入してお子様に報酬を与え、キャラクターが大好きであることを示してみましょう。</string>
+  <string ScaleFactor="1" name="txtShareCap">シェア</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">確認</string>
+  <string name="txt_shopConfirmDetail">続行するには、ウェブサイトにリダイレクトされます。去りますか？</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">より幅広い選択、世界中に出荷</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">ゲームについてどう思いますか？</string>
+  <string ScaleFactor="1" name="txtVeryBad">ひどい</string>
+  <string ScaleFactor="1" name="txtVeryGood">とても良い</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">はい、レビュー&amp; 弊社を応援</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">フィードバックをありがとう</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">証明書</string>
+  <string name="txtCertificates">証明書</string>
+  <string name="txtUnlocked">Unlocked</string>
+  <string name="txtCongratulations">おめでとうございます</string>
+  <string name="txtCertificateUnlocked">新しい証明書がアンロックされました！</string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">日付</string>
+  <string name="txtPrint">印刷</string>
+  <!--  -->
+  <string name="txt_certi_title_1">賞</string>
+  <string name="txt_certi_title_2">ずば抜けて優秀</string>
+  <string name="txt_certi_title_3">スターアワード</string>
+  <string name="txt_certi_title_4">素晴らしい</string>
+  <string name="txt_certi_title_5">優秀</string>
+  <string name="txt_certi_title_6">素晴らしい</string>
+  <string name="txt_certi_title_7">成果</string>
+  <string name="txt_certi_title_8">よくできました</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">確認</string>
+  <string name="txt_shopConfirmDetail">続行するには、ウェブサイトにリダイレクトされます。去りますか？</string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">証明書を獲得しました！</string>
+  <string name="txtEnterNm">お子様名を入力してください。</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">証明書を印刷してお子様を刺激</string>
+  <string name="txtGreat">素晴らしい</string>
+  <string name="txtTapToGetCerti">タップして証明書を取得。</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">アイテムを20回数える</string>
+  <string name="Math_Task_1_End">アイテムを20回カウントしました</string>
+  <string name="Math_Task_2_Start">30個のパズルの追加を解く</string>
+  <string name="Math_Task_2_End">30個のパズルの追加を解きました</string>
+  <string name="Math_Task_3_Start">楽しみを30回追加し終える</string>
+  <string name="Math_Task_3_End">楽しみを30回追加し終えました</string>
+  <string name="Math_Task_4_Start">クイズの追加を30回完了</string>
+  <string name="Math_Task_4_End">クイズの追加を30回完了しました</string>
+  <string name="Math_Task_5_Start">アイテムを30回比較</string>
+  <string name="Math_Task_5_End">アイテムを30回比較済み</string>
+  <string name="Math_Task_6_Start">30の減算パズルを解く</string>
+  <string name="Math_Task_6_End">30の減算パズルを解き済み</string>
+  <string name="Math_Task_7_Start">楽しい30回の減算を終了</string>
+  <string name="Math_Task_7_End">楽しい30回の減算を終了済み</string>
+  <string name="Math_Task_8_Start">減算クイズを30回完了</string>
+  <string name="Math_Task_8_End">減算クイズを30回完了済み</string>
+  <string name="Math_Task_1_Completed">証明書を獲得しました！ アイテムを20回カウントしました</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">証明書を獲得しました！ 30個のパズルの追加を解きました</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">証明書を獲得しました！ 楽しみを30回追加し終えました</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">証明書を獲得しました！ クイズの追加を30回完了しました</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">証明書を獲得しました！ アイテムを30回比較済み</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">証明書を獲得しました！ 30の減算パズルを解き済み</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">証明書を獲得しました！ 楽しい30回の減算を終了済み</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">証明書を獲得しました！ 減算クイズを30回完了済み</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Pinterestに接続</string>
+  <string name="txtconnectingPintrestMsg">Pinterestストアにリダイレクトされます。よろしいですか？</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">続行</string>
+  <string name="txtinspirationbehind">キッズアプリの背後にあるインスピレーション</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">印刷物</string>
+  <string name="txtOurStorySettingsNew">私たちの物語</string>
+  <string name="txt_why_its_free">私たちの物語</string>
+  <string name="txtAllowCouting">計算を許可</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">数える</string>
+  <string name="Adding Puzzle">パズルを追加</string>
+  <string name="Adding Fun">面白くする</string>
+  <string name="Adding Quiz">クイズを追加</string>
+  <string name="Compare">比較</string>
+  <string name="Subtracting Puzzle">引き算パズル</string>
+  <string name="Subtracting Fun">面白い引き算</string>
+  <string name="Subtracting Quiz">引き算クイズ</string>
+  <string ScaleFactor="1" name="txt_gamename">算数キッズ - 足し算、引き算、カウント</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">算数キッズ - 足し算、引き算、カウント</string>
+  <string name="txtPrintableSmall">印刷物</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">ホーム</string>
+  <string name="txt_menuoption_settings">設定</string>
+  <string name="txt_menuoption_shop">ショップ</string>
+  <string name="txt_menuoption_kidsapps">キッズアプリ</string>
+  <string name="txt_menuoption_parentapps">親のアプリ</string>
+  <string name="txt_menuoption_worksheets">ワークシート</string>
+  <string name="txt_messagefromdave">からのメッセージ</string>
+  <string name="txt_getfeaturedon">Instagramで紹介</string>
+  <string name="txt_tagus">@RV AppStudios をタグし、弊社のストーリーに参加</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(RV AppStudios創立者)</string>
+  <string name="txt_takeaphoto-videoof">当アプリを使用して、または証明書を受け取っているお子様の写真/動画を撮影。</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">共有し &amp; instagramで@RV AppStudiosをタグすると紹介されるかも。</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">RV AppStudiosによるキッズアプリ</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">RV AppStudiosによる親のアプリ</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">ワークシート</string>
+  <string name="txt_coloringpage">ぬりえ</string>
+  <string name="txt_downloadmoreworksheet">Pinterestページからその他のワークシートをダウンロード</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">無料の子供向けアプリからのゲームの月間ダウンロード数が14百万に達し、弊社は、子供向け教育アプリの世界最大の開発者の1つです。"そして完全に無料で続けています。"
+
+  "なぜですか？" -私が親になったとき、娘が成長するにつれて最高の教育と最高の機会を与えるためにあらゆることをするつもりでした。多くの親は、自分たちよりも子供たちに多くの機会やより良い教育を提供したいと切望していると思います。
+
+  しかし、すべての親が子供たちの宿題を手伝う時間や能力を持っているわけではありません。自分の娘のために最善を尽くしたいと思っていたのと同じくらい、世界中の何千万人もの子供たちが基礎教育や読み書きを学ぶ機会さえも得られないのは不公平だと感じました。
+
+  アプリ開発者として、何かをする機会があることに気づきました。-"非営利"ですが、世界中の子供たちに、数え方、つづり、数学などの基本的なスキルを面白い方法で早く学び始めるようにします。
+
+  そのためには、アプリやゲームを子供たちにとって安全に保つ必要がありました。そこで、他のアプリ開発事業からの利益を投資して、"広告なし"、"アプリ内購入なし"、"100％無料"の子供向けアプリを作ることにしました。 -これらのアプリの恩恵を受けるべきは子供だけです。</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">続行</string>
+  <string name="txtinspirationbehind">キッズアプリの背後にあるインスピレーション</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">私たちの物語</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">私たちの物語</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">なぜ恩返しが重要なのですか？</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">子供向けアプリを無料に保つには？</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">Pinterest に接続する</string>
+  <string name="txtconnectingPintrestMsg">Pinterestストアにリダイレクトされます。よろしいですか？</string>
+  <string name="txtWatchUsYouTube">弊社のYouTubeをご覧ください</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">今すぐ評価する</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">続行</string>
+  <string name="txtPrint">印刷</string>
+  <string name="txtconnectingPintrest">Pinterest に接続する</string>
+  <string name="txtconnectingPintrestMsg">Pinterestストアにリダイレクトされます。よろしいですか？</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">今すぐダウンロード</string>
+  <string name="txt_Play_nowCap">今すぐプレイ</string>
+  <string name="txt_ConnectionErrorMsg1">インターネットの接続に失敗しました</string>
+  <string name="txt_ConnectionErrorMsg2">あとで再度お試しください。</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">教育</string>
+  <string name="txtSubPracticeTitle">引き算の練習</string>
+  <string name="txtAddPracticeTitle">足し算の練習</string>
+  <string name="txtBeginner">ビギナー</string>
+  <string name="txtIntermediate">中級</string>
+  <string name="txtAdvance">高度</string>
+  <string name="txtSubPracticeTitle">引き算の練習</string>
+  <string name="txtAddPracticeTitle">足し算の練習</string>
+  <string name="txtBeginner">ビギナー</string>
+  <string name="txtIntermediate">中級</string>
+  <string name="txtAdvance">高度</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+  about where you want them to be in 10, 20 or 30
+  years. What opportunities do you want them to have
+  in life? A good education? A position from where they
+  can make a positive difference for their families and
+  community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+  opportunities we as parents and communities can
+  give them. But not all parents have the time or ability
+  to help their children with their homework. And most
+  of us, as parents, can probably recognize the wish for
+  our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+  give my daughter the best education and the best
+  opportunities as she grows up. But at the same time,
+  I felt it was unfair that tens of millions of kids all over the
+  world, would not get the same opportunity for even a basic
+  education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+  branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+  start learning essential skills like counting, spelling,
+  and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+  having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+  apps that lets children develop their creativity and test
+  their intelligence with fun jigsaw puzzles, challenging
+  memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+  available in all corners of the world.
+  That is our opportunity as app developers to reach
+  and make a positive difference for children
+  who do not have access to schools or books,
+  but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+  corners of the world an educational advantage,
+  but especially to teach those kids who otherwise
+  don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+  ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+  living doing what we love - developing gaming apps
+  (for adults). Now we want to give back to children
+  around the world by investing our company profits
+  into creating some of the most popular apps for
+  toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+  rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+  in-app promotions. That’s why we keep our kids’
+  applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+  learning apps available to all children, is by keeping it
+  100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+  how much their children have developed using our apps
+  and playing our games, it shows us that our tiny
+  contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+  and make a difference. Especially that the children
+  getting a head start through pre-school learning apps,
+  becomes the future leaders of change in their
+  communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+  our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+  two-thirds (12 million) of those downloads come from
+  parents wanting to help their kids begin learning from
+  an early age, effectively reducing the risk of falling
+  behind as they start in school. It’s these millions of
+  children around the world getting a chance for a better
+  future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">日本語</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">お待ちください</string>
+  <string name="txt_langdownloaded">ダウンロード完了</string>
+  <string name="txtInternetIssue">インターネット接続エラーが発生しました。</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">他の言語</string>
+  <string name="txt_ContinueIn">###で続行する</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">弊社のゲーム</string>
+  <string name="txt_SuggestedLanguages">推奨言語</string>
+  <string name="txt_VisitOurChannel">私たちのチャンネルをご覧ください</string>
+  <string name="txt_followusandshare">私たちに従ってくださいそして私たちを助けてください</string>
+  <string name="txt_OurImpact">私たちの影響</string>
+  <string name="txt_OurImpactDesc">RV AppStudiosは、無料のキッズアプリで毎月 &lt;color=#EB0000&gt;14,000,000&lt;/color&gt;万人以上の子供たちを教育しています。</string>
+  <string name="txt_KidsApp">キッズアプリ</string>
+  <string name="txt_Countries">国</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000人の子供が私たちのアプリを使用します</string>
+  <string name="txt_Hello">こんにちは</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">毎週新しいTシャツのデザインが追加されました！</string>
+  <string name="txt_textrhymesYT">童謡とキッズソング、でご覧ください！</string>
+  <string name="txt_rvappstudiosYT">RVAppStudiosがYouTubeに登場</string>
+  <string name="txt_textrhymesYT">童謡とキッズソング、でご覧ください！</string>
+  <string name="txt_AllGamesAreFree">(すべてのゲームは無料 &amp; 広告なし)</string>
+  <string name="txt_ShowShopBtn">メインメニューから「ショップボタン」を隠す</string>
+  <string name="txt_ShowOurStoryBtn">メインメニューから「私たちのストーリーボタン」を隠す</string>
+  <string name="txt_ShowMoreappBtn">メインメニューから「その他のアプリボタン」を隠す</string>
+  <string name="txt_TranslationFeedback">翻訳 フィードバック</string>
+  <string name="txt_TranslationFeedbackInfo">翻訳エラーを報告 個人情報は含めないようお願いいたします</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">幼児用Tシャツ</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">子供向け教育本</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS Tシャツ &amp; 教育書</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">最初 LUCAS &amp; FRIENDS 本</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">Tシャツ &amp; 子供向け教育本</string>
+  <string name="txt_VisibleMDstng">表示するモードを選択</string>
+  <string name="txt_SelectParentGate">オプションを選択して設定をロック解除する</string>
+  <string name="txt_HideButtons">ボタンを隠す</string>
+  <string name="txt_HideButtonsFromMenu">メインメニューからボタンを隠す</string>
+  <string name="txt_rateThanks">応援ありがとう。みんなが大好きです！</string>
+  <string name="txt_rateFeedback">ありがとう。ご意見をよろしく。 フィードバックをお寄せください。</string>
+  <string name="txt_rateLetUsKnow">ゲームについてどう思いますか？</string>
+  <string name="txt_rateHappySad">ご満足ですか?</string>
+  <string name="txt_rateHappy">ハッピー</string>
+  <string name="txt_rateSad">悲しい</string>
+  <string name="txtRateDesc1">Playストアで当アプリをレビューしてください。他の親がアプリについて知るのに役立ちます。</string>
+  <string name="txtVeryBadCap">とても悪い</string>
+  <string name="txtGoodCap">良い</string>
+  <string name="txtRateAppBtn">評価して下さい</string>
+  <string name="txtRateHdr">評価して下さい</string>
+  <string name="english_name">英語</string>
+  <string name="Sendfeedback" ScaleFactor="1">フィードバックを送信する</string>
+  <string name="UseOurApps">子供たちは毎月当社の教育アプリを使用しています。</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV AppstudiosがYouTubeに登場</string>
+  <string name="FindOurApp" ScaleFactor="1">RV Appstudiosを検索して、私たちのアプリを見つける。</string>
+  <string name="GiphyStickers" ScaleFactor="1">アニメーションGIFとステッカーが利用可能になりました！</string>
+  <string name="GiphyTenor" ScaleFactor="1">GIF キーボードで @RVAppStudios を検索します</string>
+  <string name="txt_2Digit+">2 桁 +</string>
+  <string name="txt_2Digit-">2 桁 -</string>
+  <string name="Intro_Text" ScaleFactor="1">最新ニュースについては、RVAppStudios.com にアクセスしてください。</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">私たちの影響 - 3億回以上のダウンロードが違いを生む</string>
+  <string name="About_Us">私たちについて</string>
+  <string name="MessageForAdult1">私たちは皆、ユニークな才能を持っています。 アプリを作っています。 あなたは素晴らしい教師、医師、アーティストなどかもしれません。私が好きなものを無料で共有しているように、私もあなたにあなたのスキルを共有するよう促すことを願っています。 他の人を助けると自分も気分が良くなり、他の人にインスピレーションを与えます。 私たちが一緒に生み出せる影響を考えてみましょう。 Lucas &amp; Friends は、人々の善意を刺激することを目的としています。 あなたなりの方法で他の人に恩返しをして、私たちをサポートしてください。
+</string>
+  <string name="MessageForAdultTitle">大人へのメッセージ </string>
+  <string name="MessageForAdult">大人へのメッセージ</string>
+  <string name="txt_collectGift">ギフトを受け取ってください</string>
+  <string name="txt_GoodJob">よくやった</string>
+  <string name="Impact_together">私たちが一緒に生み出せるインパクト</string>
+  <string name="For_Parents">保護者向け</string>
+  <string name="Message_Parents">保護者向けメッセージ</string>
+  <string name="txtShoppingMode">買い物</string>
+  <string name="Math_Task_9_Start">2桁の足し算を30回解く</string>
+  <string name="Math_Task_9_End">2桁の足し算を30回解いた</string>
+  <string name="Math_Task_10_Start">2桁の引き算を30回解く</string>
+  <string name="Math_Task_10_End">2桁の引き算を30回解いた</string>
+  <string name="Math_Task_11_Start">30 個の足し算の練習を完了する</string>
+  <string name="Math_Task_11_End">30 回の足し算の練習を完了しました</string>
+  <string name="Math_Task_12_Start">30 回の引き算の練習を完了する</string>
+  <string name="Math_Task_12_End">30 回の引き算の練習を完了しました</string>
+  <string name="Math_Task_13_Start">買い物に関する 30 の質問を解決する</string>
+  <string name="Math_Task_13_End">買い物に関する 30 の質問を解決しました</string>
+  <string name="Math_Task_9_Completed">証明書を獲得しました！2桁の足し算を30回解いた</string>
+  <string name="Math_Task_10_Completed">証明書を獲得しました！2桁の引き算を30回解いた</string>
+  <string name="Math_Task_11_Completed">証明書を獲得しました！30 回の足し算の練習を完了しました</string>
+  <string name="Math_Task_12_Completed">証明書を獲得しました！30 回の引き算の練習を完了しました</string>
+  <string name="Math_Task_13_Completed">証明書を獲得しました！買い物に関する 30 の質問を解決しました</string>
+  <string name="January">1月</string>
+  <string name="February">2月</string>
+  <string name="March">３月３</string>
+  <string name="April">4月</string>
+  <string name="May">5月</string>
+  <string name="June">6月</string>
+  <string name="July">7月</string>
+  <string name="August">8月</string>
+  <string name="September">9月</string>
+  <string name="October">10月</string>
+  <string name="November">11月</string>
+  <string name="December">12月</string>
+  <string name="OurImpactKids1">人の子供たちが当社のアプリを使用</string>
+  <string name="Storage_low">デバイスの容量が少なくなっています</string>
+  <string name="OurImpactKids">10億</string>
+  <string name="Books_Tshirts">本 &amp; T シャツ</string>
+  <string name="we_Inspire_msg1">インスピレーションを与えてくれて、そしてサポートをありがとうございます。</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends は、情熱を注ぐプロジェクトとして、広告やアプリ内購入のない無料の教育用お子様向けアプリを開始しました。当社は、世の中に貢献し、恩返しをし、影響を与えることを目指しています。 &lt;color=#ff0018&gt;&lt;size=45&gt;1 十億&lt;/size&gt;&lt;/color&gt; 子どもたちが当社の教育アプリから学習しています。&lt;color=#FF6400&gt;当社は、子ども向けブランドを構築し、おもちゃを販売する日が来るとは想像していませんでした。&lt;/color&gt;</string>
+  <string name="we_Inspire">当社は人々に良い影響を与えます</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: 楽しく学ぶのが使命; アクセス簡単！無料の教育アプリ、広告なし、永久に無料 – お子様にとって純粋で楽しい学習。</string>
+  <string name="txt_CrossMath" ScaleFactor="1">クロス数学</string>
+  <string name="txt_FishingMode" ScaleFactor="1">釣りの楽しみ</string>
+  <string name="txt_SnowMode" ScaleFactor="1">雪</string>
+  <string name="txt_Addition">たし算</string>
+  <string name="txt_Subtraction">ひき算</string>
+  <string name="FunGames">楽しいゲーム</string>
+  <string name="Select_Character" ScaleFactor="1">キャラクターを選択</string>
+  <string name="Car_Game" ScaleFactor="1">カーゲーム</string>
+  <string name="txtUserChangeMsg1">子供のプロフィールは正常に変更されました。</string>
+  <string name="txt_1Digit">1 桁</string>
+  <string name="txt_2Digit">2 桁</string>
+  <string name="txt_Play">プレイ</string>
+  <string name="txtOpponentWon">対戦者は勝ちました</string>
+  <string name="txtYouWon">あなたの勝ち！</string>
+  <string name="txtRematch">再戦</string>
+  <string name="txt_SelectDifficulty">難易度を選択</string>
+  <string name="txt_DualMode">２人用</string>
+  <string name="txt_Correct">正解</string>
+  <string name="Draw">引き分け</string>
+  <string name="Apparel_Accessories">アパレルとアクセサリー</string>
+  <string name="best_Seller">ベストセラー</string>
+  <string name="RateUsNew">私たちのゲームを楽しんでいますか？あなたのレビューは、私たちの使命と無料アプリを他の保護者に広めるのに役立ちます。</string>
+  <string name="txt_AdditupMode">追加する</string>
+  <string name="txt_SudokuMode">パズル</string>
+  <string name="txtBrandTrust">信頼できるブランド</string>
+  <string name="txtMission">共感できるミッション</string>
+  <string name="Number_Path">番号経路</string>
+  <string name="Add_butterfly_1">### 匹の蝶が花に止まっています。それから、さらに @@@ 匹の蝶が飛んできて、彼らに加わります。全部で何匹の蝶がいるでしょうか？</string>
+  <string name="Add_butterfly_2">子どもが###匹の蝶を見つけました。それからさらに@@@匹の蝶が現れました。子どもは全部で何匹の蝶を見たでしょうか？</string>
+  <string name="Add_cat_1">### 匹の猫が壁に座っています。別の @@@ 匹の猫が上に登っています。今、壁には何匹の猫がいるでしょうか？</string>
+  <string name="Add_cow_1">### 頭の牛が納屋にいます。@@@ さらに牛が入ってきます。納屋には現在何頭の牛がいますか?</string>
+  <string name="Add_deer_1">牧草地では、### 頭の鹿が草を食べています。それからさらに @@@ 頭の鹿がやって来ます。今、何頭の鹿が草を食べていますか？</string>
+  <string name="Add_dog_1">### 匹の犬がボールで遊んでいます。それから @@@ 匹の犬が加わります。何匹の犬が遊んでいるでしょうか？</string>
+  <string name="Add_giraffe_1">### 頭のキリンが水を飲んでいます。それから @@@ もっと多くのキリンが水を飲みにやって来ます。何頭のキリンが水を飲んでいるでしょうか？</string>
+  <string name="Add_ladybugs_1">### てんとう虫が葉の上に止まっています。 @@@ もっとたくさんのてんとう虫が葉に飛んできます。葉の上には何匹のてんとう虫がいますか？</string>
+  <string name="Add_tiger_1">### 頭のトラが洞窟の近くに座っています。@@@ もっとトラが出てきます。今、何頭のトラがいるでしょうか？</string>
+  <string name="Add_tiger_2">ジャングルには ### 頭のトラがいます。@@@ もっと近づいてきます。全部で何頭のトラがいるのでしょうか？</string>
+  <string name="Add_owl_1">### 羽のフクロウが巣で休んでいます。 @@@ もっと多くのフクロウが巣にやって来ます。巣には何羽のフクロウがいますか？</string>
+  <string name="Add_panda_1">### パンダが竹を食べています。 @@@ もっとパンダが来ます。何頭のパンダが竹を食べているでしょうか？</string>
+  <string name="Add_parrot_1">### オウムが止まり木に止まっています。@@@ もっと多くのオウムが楽しそうに飛んできます。今、オウムは何羽いるでしょうか？</string>
+  <string name="Add_peacock_1">### 孔雀が庭で踊っています。 @@@ もっと孔雀が来ます。何羽の孔雀が踊っているのでしょうか？</string>
+  <string name="Add_rooster_1">農場には ### 羽の雄鶏がいます。さらに @@@ 羽が納屋の近くに来ます。全部で何羽の雄鶏がいますか？</string>
+  <string name="Add_snail_1">葉の上で、### 匹のカタツムリが休んでいます。さらに @@@ 匹が加わります。全部で何匹のカタツムリがいるでしょうか?</string>
+  <string name="Add_zebra_1">草原では、### 頭のシマウマが食事をしています。さらに @@@ 頭が加わります。全部で何頭のシマウマでしょうか?</string>
+  <string name="Add_bicycle_1">公園には ### 台の自転車があります。さらに @@@ 台が駐車されています。全部で何台の自転車がありますか?</string>
+  <string name="Add_hippo_1">午前中、### 頭のカバが遊んでいます。その後、さらに @@@ 頭が歩いてやって来ます。カバの総数はいくつですか？</string>
+  <string name="Add_airplane_1">滑走路には###機の飛行機が待機しています。さらに@@@機が着陸しました。全部で何機の飛行機がありますか？</string>
+  <string name="Add_airplane_2">空港では、### 機の飛行機が待機しています。もうすぐ @@@ 機が到着します。全部で何機の飛行機がありますか？</string>
+  <string name="Add_horse_1">納屋のそばに、### 頭の馬が立っています。さらに @@@ 頭が加わります。全部で何頭の馬がいますか?</string>
+  <string name="Add_fish_1">水槽には###匹の魚が泳いでいます。@@@ さらに追加されました。全部で何匹の魚がいますか？</string>
+  <string name="Add_goat_1">丘には ### 匹のヤギがいます。それから @@@ 匹増えます。ヤギの総数はいくつですか。</string>
+  <string name="Add_monkey_1">木に猿が ### 匹います。あと @@@ 匹登らなければなりません。全部で何匹の猿がいるでしょうか。</string>
+  <string name="Add_carrot_1">かごの中には ### 本のニンジンが入っています。さらに @@@ 本追加します。全部で何本のニンジンがありますか?</string>
+  <string name="Add_candies_1">瓶の中には ### 個のキャンディーが入っています。さらに @@@ 個追加します。全部でいくつのキャンディーがありますか?</string>
+  <string name="Add_cupcake_1">テーブルの上には ### 個のカップケーキがあります。さらに @@@ 個置かれています。全部で何個のカップケーキがありますか?</string>
+  <string name="Add_pinwheel_1">朝、庭で風車が###個回ります。その後、さらに@@@個追加されます。今、風車は何個ありますか？</string>
+  <string name="Add_broccoli_1">お皿にはブロッコリーが ### 個あります。さらに @@@ 個追加します。お皿にはブロッコリーがいくつありますか?</string>
+  <string name="Add_robot_1">地上には ### 台のロボットがいます。さらに @@@ 台が歩いてきます。全部で何台のロボットがいるでしょうか？</string>
+  <string name="Add_car_1">ある子供は ### 台のおもちゃの車を持っています。さらに @@@ 台のおもちゃの車があります。その子供はおもちゃの車を何台持っていますか?</string>
+  <string name="Add_bird house_1">納屋の近くに鳥の巣箱が ### 個あります。@@@ さらに追加されました。全部でいくつの鳥の巣箱がありますか？</string>
+  <string name="Add_ball_1">地面にボールが ### 個あります。さらに @@@ 個転がります。全部でいくつのボールがありますか?</string>
+  <string name="Add_drum_1">音楽の授業では、### 台のドラムが保管されています。さらに @@@ 台追加されました。全部で何台のドラムがありますか?</string>
+  <string name="Add_cake_1">テーブルの上には ### 個のケーキがあります。さらに @@@ 個追加されます。全部でいくつのケーキがありますか?</string>
+  <string name="Add_fruits_1">かごの中には ### 個の果物が入っています。さらに @@@ 個追加します。全部で果物は何個ありますか?</string>
+  <string name="Add_flower_1">庭には ### 本の花が咲いています。 @@@ もっと咲きそうです。 庭には花がいくつありますか。</string>
+  <string name="Add_pig_1">庭には###匹の豚がいます。それからさらに@@@匹来ます。庭にいる豚の総数はいくつですか？</string>
+  <string name="Add_top_1">床に ### 個のこまがあります。さらに @@@ 個追加します。全部で何個のこまがあるでしょうか。</string>
+  <string name="Add_donut_1">お皿には ### 個のドーナツがあります。@@@ さらに追加されました。全部でいくつのドーナツがありますか?</string>
+  <string name="Add_giftbox_1">サラは###個のプレゼントをもらいました。彼女の友達は彼女にさらに@@@個プレゼントをくれました。サラは全部でいくつプレゼントを持っていますか？</string>
+  <string name="Add_giftbox_2">部屋にはギフトボックスが ### 個あります。さらに @@@ 個が中に入れられています。部屋にはギフトボックスがいくつありますか？</string>
+  <string name="Add_taco_1">サラは###個のタコスを作りました。彼女のお母さんはさらに@@@個のタコスを作りました。全部で何個のタコスが作られましたか？</string>
+  <string name="Add_taco_2">トムは###個のタコスを食べました。さらに@@@個のタコスを食べました。トムは全部で何個のタコスを食べましたか？</string>
+  <string name="Add_kite_1">### 凧が空に上がっています。 @@@ もっと凧が上がり始めます。 空には何凧上がっていますか？</string>
+  <string name="Add_kite_2">レオは###枚の凧を作りました。それからさらに@@@枚の凧を作りました。レオが作った凧の総数はいくつですか？</string>
+  <string name="Add_sandwich_1">サムは###個のサンドイッチを買いました。それからさらに@@@個のサンドイッチを買いました。サムが買ったサンドイッチの総数はいくつですか？</string>
+  <string name="Add_leopard_1">### 匹のヒョウが木の上にいて、さらに @@@ 匹が登っています。今、木の上には何匹のヒョウがいますか？</string>
+  <string name="WordProblem">単語問題</string>
+  <string name="Carry_Forward">繰り上がり加算</string>
+  <string name="Sub_butterfly_1">庭には ### 匹のちょうちょが飛んでいました。@@@ 匹が飛んでいきました。庭には何匹のちょうちょが残っていますか？</string>
+  <string name="Sub_butterfly_2">エマは朝に ### 匹のちょうちょを見ました。午後には @@@ 匹少なく見ました。午後には何匹見ましたか？</string>
+  <string name="Sub_cat_1">イーサンは ### 匹のねこがフェンスに座っているのを見ました。犬がほえたとき、@@@ 匹が逃げました。フェンスには何匹のねこが残っていますか？</string>
+  <string name="Sub_cat_2">ミアの裏庭には###匹の猫がいます。そのうち@@@匹はミルクを飲みに行きました。まだ何匹の猫が裏庭にいるでしょうか？</string>
+  <string name="Sub_cow_1">川のそばで ### 頭のうしが水を飲んでいました。@@@ 頭が飲み終えて去りました。まだ川のそばにいるのは何頭ですか？</string>
+  <string name="Sub_cow_2">### 頭のうしが えさを食べていました。@@@ 頭が食べるのをやめました。まだ食べているうしは何頭ですか？</string>
+  <string name="Sub_deer_1">### 頭のしかが道をわたっていました。@@@ 頭はすでにわたり終えました。まだ待っているのは何頭ですか？</string>
+  <string name="Sub_deer_2">### 頭のしかが丘をのぼっていました。@@@ 頭が止まって下におりました。まだのぼっているのは何頭ですか？</string>
+  <string name="Sub_dog_1">### 匹の犬が庭で遊んでいました。@@@ 匹が家の中に入りました。まだ庭にいる犬は何匹ですか？</string>
+  <string name="Sub_dog_2">### 匹の犬が犬小屋の中にいました。@@@ 匹が外に出ました。犬小屋に残っているのは何匹ですか？</string>
+  <string name="Sub_giraffe_1">木の下で ### 頭のキリンが休んでいました。しばらくして @@@ 頭が立って去りました。まだ休んでいるのは何頭ですか？</string>
+  <string name="Sub_giraffe_2">### 頭のキリンの群れが高い草の中を歩いていました。急に @@@ 頭が戻りました。まだ歩いているのは何頭ですか？</string>
+  <string name="Sub_ladybugs_1">### 匹のてんとう虫が大きな緑の葉にいました。@@@ 匹が飛んでいきました。葉に残ったのは何匹ですか？</string>
+  <string name="Sub_ladybug_2">夕方、### 匹のてんとう虫が一緒に飛んでいました。@@@ 匹が木のえだにとまりました。まだ飛んでいるのは何匹ですか？</string>
+  <string name="Sub_owl_1">### 羽のふくろうが明るい月の下を飛んでいました。@@@ 羽が木にとまりました。まだ飛んでいるのは何羽ですか？</string>
+  <string name="Sub_owl_2">えだの上に ### 羽のふくろうが並んでいました。@@@ 羽が羽を広げて飛びました。えだに残ったのは何羽ですか？</string>
+  <string name="Sub_panda_1">### 頭のパンダが一緒にたけを食べていました。@@@ 頭が食べ終えて去りました。まだ食べているのは何頭ですか？</string>
+  <string name="Sub_panda_2">### 頭のパンダのグループが座っていました。@@@ 頭がもっとたけを探しに行きました。残っているのは何頭ですか？</string>
+  <string name="Sub_parrot_1">### 羽のオウムが一緒に飛んでいました。@@@ 羽が屋根にとまりました。まだ飛んでいるのは何羽ですか？</string>
+  <string name="Sub_parrot_2">木に ### 羽のオウムがすの近くにいました。@@@ 羽が中に飛びました。外に残ったのは何羽ですか？</string>
+  <string name="Sub_peacock_1">### 羽のクジャクが庭でおどっていました。@@@ 羽がおどるのをやめました。まだおどっているのは何羽ですか？</string>
+  <string name="Sub_peacock_2">夕方、### 羽のクジャクが公園に集まりました。@@@ 羽が飛び去りました。まだそこにいるのは何羽ですか？</string>
+  <string name="Sub_rooster_1">朝、### 羽のオンドリがえさのそばに集まりました。@@@ 羽が食べ終えて去りました。まだ食べているのは何羽ですか？</string>
+  <string name="Sub_rooster_2">### 羽のオンドリがフェンスに座っていました。@@@ 羽が下にとびおりました。残ったのは何羽ですか？</string>
+  <string name="Sub_snail_1">庭の道に ### 匹のかたつむりがゆっくり動いていました。@@@ 匹が草の中に入りました。道に残ったのは何匹ですか？</string>
+  <string name="Sub_snail_2">### 匹のかたつむりが花の近くにいました。@@@ 匹がはって行きました。まだ花のそばにいるのは何匹ですか？</string>
+  <string name="Sub_tiger_1">### 頭のトラが森で休んでいました。@@@ 頭が歩いて行きました。まだ休んでいるのは何頭ですか？</string>
+  <string name="Sub_tiger_2">### 頭のトラが森を歩いていました。@@@ 頭が走り去りました。まだ歩いているのは何頭ですか？</string>
+  <string name="Sub_zebra_1">### 頭のシマウマが水を飲みに来ました。@@@ 頭が飲んで去りました。まだ川のそばにいるのは何頭ですか？</string>
+  <string name="Sub_zebra_2">### 頭の子シマウマが遊んでいました。@@@ 頭が母親のところへ帰りました。まだ遊んでいるのは何頭ですか？</string>
+  <string name="Sub_bicycle_1">遊び場のそばに ### 台の自転車がとまっていました。@@@ 台が家に持ち帰られました。まだ残っているのは何台ですか？</string>
+  <string name="Sub_bicycle_2">自転車屋が ### 台の自転車を外に展示していました。@@@ 台が売れました。展示に残っているのは何台ですか？</string>
+  <string name="Sub_hippo_1">### 頭のカバが草を食べていました。@@@ 頭が食べるのをやめました。まだ食べているのは何頭ですか？</string>
+  <string name="Sub_hippo_1">### 頭のカバの群れが集まっていました。@@@ 頭が離れました。群れに残っているのは何頭ですか？</string>
+  <string name="Sub_airplane_1">朝、### 機の飛行機が出発の準備をしていました。@@@ 機が出発しました。まだ待っているのは何機ですか？</string>
+  <string name="Sub_airplane_2">夕方、### 機の飛行機が飛ぶ予定でした。@@@ 機がすでに出発しました。まだ待っているのは何機ですか？</string>
+  <string name="Sub_horse_1">### 頭の馬がうまごやの中にいました。@@@ 頭が外に出ました。残っているのは何頭ですか？</string>
+  <string name="Sub_horse_2">谷で ### 頭の馬が見られました。@@@ 頭が丘を登りました。谷に残っているのは何頭ですか？</string>
+  <string name="Sub_fish_1">池に ### 匹の魚が泳いでいました。@@@ 匹が泳ぎ去りました。まだ池にいるのは何匹ですか？</string>
+  <string name="Sub_fish_2">漁師が ### 匹の魚をボートのそばで見ました。@@@ 匹がすぐ泳ぎ去りました。残ったのは何匹ですか？</string>
+  <string name="Sub_goat_1">農夫が ### 頭のヤギを飼っていました。@@@ 頭が丘の方へ行きました。まだ草を食べているのは何頭ですか？</string>
+  <string name="Sub_goat_2">### 頭のヤギが小屋のそばで休んでいました。@@@ 頭が外に走り出ました。残っているのは何頭ですか？</string>
+  <string name="Sub_monkey_1">### 匹のサルがマンゴーの木で遊んでいました。@@@ 匹が下にとびおりました。木に残ったのは何匹ですか？</string>
+  <string name="Sub_monkey_2">動物園で ### 匹のサルがロープで遊んでいました。@@@ 匹が食事に行きました。まだ遊んでいるのは何匹ですか？</string>
+  <string name="Sub_carrot_1">かごに ### 本のにんじんがありました。@@@ 本が食べられました。残っているのは何本ですか？</string>
+  <string name="Sub_carrot_2">ウサギが ### 本のにんじんを見つけました。@@@ 本が転がって行きました。まだ残っているのは何本ですか？</string>
+  <string name="Sub_candies_1">びんに ### 個のキャンディーがありました。@@@ 個が取り出されました。中に残っているのは何個ですか？</string>
+  <string name="Sub_candies_2">テーブルに ### 個のキャンディーがありました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_cupcake_1">トレイに ### 個のカップケーキがありました。@@@ 個が配られました。残っているのは何個ですか？</string>
+  <string name="Sub_cupcake_2">パン屋が ### 個のカップケーキを作りました。@@@ 個が売れました。残っているのは何個ですか？</string>
+  <string name="Sub_pinwheel_1">庭で ### 個の風車が回っていました。@@@ 個が止まりました。まだ回っているのは何個ですか？</string>
+  <string name="Sub_pinwheel_2">フェンスのそばに ### 個の風車がありました。@@@ 個が飛んで行きました。残っているのは何個ですか？</string>
+  <string name="Sub_broccoli_1">皿に ### 個のブロッコリーがありました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_broccoli_2">シェフが ### 本のブロッコリーをゆでました。@@@ 本が出されました。残っているのは何本ですか？</string>
+  <string name="Sub_robot_1">### 体のロボットが並んで立っていました。@@@ 体が歩き去りました。残っているのは何体ですか？</string>
+  <string name="Sub_robot_2">研究室に ### 体のロボットがいました。@@@ 体が電源を切りました。まだ動いているのは何体ですか？</string>
+  <string name="Sub_car_1">外に ### 台の車がとまっていました。@@@ 台が出発しました。残っているのは何台ですか？</string>
+  <string name="Sub_car_2">レースで ### 台の車がスタートしました。@@@ 台が早くゴールしました。まだ走っているのは何台ですか？</string>
+  <string name="Sub_bird house_1">鳥小屋の近くに ### 羽の鳥がいました。@@@ 羽が飛び去りました。残っているのは何羽ですか？</string>
+  <string name="Sub_bird house_2">鳥小屋に ### 個の巣がありました。@@@ 個が落ちました。残っているのは何個ですか？</string>
+  <string name="Sub_ball_1">遊び場に ### 個のボールがありました。@@@ 個が転がって行きました。残っているのは何個ですか？</string>
+  <string name="Sub_ball_2">箱に ### 個のボールがありました。@@@ 個がはねて出ました。残っているのは何個ですか？</string>
+  <string name="Sub_drum_1">ステージに ### 台のドラムがありました。@@@ 台が取り除かれました。残っているのは何台ですか？</string>
+  <string name="Sub_drum_2">バンドに ### 台のドラムがありました。@@@ 台がこわれました。残っているのは何台ですか？</string>
+  <string name="Sub_cake_1">今日 ### 個のケーキが焼かれました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_cake_2">パン屋が ### 個のケーキをかざりました。@@@ 個が売れました。残っているのは何個ですか？</string>
+  <string name="Sub_fruits_1">かごに ### 個のくだものがありました。@@@ 個が落ちました。残っているのは何個ですか？</string>
+  <string name="Sub_fruits_2">店に ### 個のくだものがならんでいました。@@@ 個が売れました。残っているのは何個ですか？</string>
+  <string name="Sub_flower_1">庭に ### 本の花がさいていました。@@@ 本がつまれました。残っているのは何本ですか？</string>
+  <string name="Sub_flower_2">花びんに ### 本の花がありました。@@@ 本がしおれました。まだ元気なのは何本ですか？</string>
+  <string name="Sub_pig_1">### 頭のぶたがおりの中にいました。@@@ 頭が走って出ました。残っているのは何頭ですか？</string>
+  <string name="Sub_pig_2">農夫が ### 頭のぶたを飼っていました。@@@ 頭が池へ行きました。残っているのは何頭ですか？</string>
+  <string name="Sub_top_1">床に ### 個のコマが回っていました。@@@ 個が止まりました。まだ回っているのは何個ですか？</string>
+  <string name="Sub_top_2">箱に ### 個のコマがありました。@@@ 個が取り出されました。残っているのは何個ですか？</string>
+  <string name="Sub_donut_1">トレイに ### 個のドーナツがありました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_donut_2">店が ### 個のドーナツを作りました。@@@ 個が売れました。残っているのは何個ですか？</string>
+  <string name="Sub_giftbox_1">テーブルに ### 個のプレゼントの箱がありました。@@@ 個が開けられました。まだ閉じているのは何個ですか？</string>
+  <string name="Sub_giftbox_2">木の下に ### 個のプレゼントの箱がありました。@@@ 個が取られました。残っているのは何個ですか？</string>
+  <string name="Sub_taco_1">皿に ### 個のタコスがありました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_taco_2">シェフが ### 個のタコスを作りました。@@@ 個が出されました。残っているのは何個ですか？</string>
+  <string name="Sub_kite_1">空に ### 個のたこが飛んでいました。@@@ 個が落ちました。まだ飛んでいるのは何個ですか？</string>
+  <string name="Sub_kite_2">海辺に ### 個のたこがありました。@@@ 個が飛ばされました。残っているのは何個ですか？</string>
+  <string name="Sub_sandwich_1">テーブルに ### 個のサンドイッチがありました。@@@ 個が食べられました。残っているのは何個ですか？</string>
+  <string name="Sub_sandwich_2">シェフが ### 個のサンドイッチを作りました。@@@ 個が出されました。残っているのは何個ですか？</string>
+  <string name="Add_Pyramid">足し算ピラミッド</string>
+</resources>

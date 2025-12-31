@@ -1,0 +1,827 @@
+<resources>
+  <string name="txt_more_apps">Meer Apps</string>
+  <string name="txt_holdfor">3 seconden ingedrukt houden</string>
+  <string name="txt_title_for_grown_ups">VOOR VOLWASSENEN</string>
+  <string name="txt_userguide_for_grown_ups">Voor toegang moet je de getallen invoeren </string>
+  <string name="txt_digit_Zero">Nul</string>
+  <string name="txt_digit_One">Eén </string>
+  <string name="txt_digit_Two">Twee </string>
+  <string name="txt_digit_Three">Drie </string>
+  <string name="txt_digit_Four">Vier </string>
+  <string name="txt_digit_Five">Vijf </string>
+  <string name="txt_digit_Six">Zes </string>
+  <string name="txt_digit_Seven">Zeven</string>
+  <string name="txt_digit_Eight">Acht  </string>
+  <string name="txt_digit_Nine">Negen </string>
+  <string name="txt_stickershowcase_toys">SPEELGOED </string>
+  <string name="txt_stickershowcase_stickers">STICKERS</string>
+  <string name="txt_stickershowcase_stamps">POSTZEGELS </string>
+  <string name="txt_stickershowcase_notoys">Geen speelgoed </string>
+  <string name="txt_stickershowcase_nostickers">Geen stickers </string>
+  <string name="txt_stickershowcase_nostamps">Geen stempels </string>
+  <string name="txt_pick_a_stamp">KIES EEN POSTZEGEL </string>
+  <string name="txt_collectsticker">STICKERS VERZAMELEN</string>
+  <string name="txt_collectyourGift">HAAL JE GESCHENK OP</string>
+  <string name="txt_rateUsReview_microsoft">Bezoek onze Store om een beoordeling na te laten </string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Bezoek onze Store om een beoordeling na te laten </string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Bezoek onze Store om een beoordeling na te laten </string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Bezoek onze Store om een beoordeling na te laten </string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Bezoek onze Store om een beoordeling na te laten </string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Achtergrondmuziek </string>
+  <string name="text_sound">Geluid</string>
+  <string name="text_learn_with">Leren met</string>
+  <string name="text_level">Level ###</string>
+  <string name="text_generate_report">Rapport genereren </string>
+  <string name="text_view_report_card">Rapportkaart bekijken </string>
+  <string name="text_visible_mode">Zichtbare modus </string>
+  <string name="text_VISIBLE_MODE">Zichtbare modus </string>
+  <string name="text_share">Delen</string>
+  <string name="txt_report_card">Rapport</string>
+  <string name="txt_add">TOEVOEGEN</string>
+  <string name="txt_sub">AFTREKKEN</string>
+  <string name="txt_number">Nee.</string>
+  <string name="txt_date_time">Datum/tijd</string>
+  <string name="txt_equation">Vergelijking</string>
+  <string name="txt_mode">Modus </string>
+  <string name="txt_retry">Opnieuw proberen</string>
+  <string name="txt_no_report">Geen rapport</string>
+  <string name="txt_yes">JA</string>
+  <string name="txt_no">NEE</string>
+  <string name="txt_delete_report">Weet je zeker dat je alle gegevens van de rapportkaarten wil verwijderen? </string>
+  <string name="txt_press_again_exit">Druk nogmaals om af te sluiten</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Taal selecteren </string>
+  <string name="txt_Select_Language">Taal selecteren </string>
+  <string name="txt_why_its_free">ONS VERHAAL</string>
+  <string name="txtOurStorySettingsNew">Ons Verhaal</string>
+  <string name="txtLanguages">Talen</string>
+  <string name="txtOtherLanguages">Andere talen</string>
+  <string name="txt_Report_a_Translation_error">Vertaalfout rapporteren</string>
+  <string name="txt_send">VERZENDEN</string>
+  <string name="txtReadyBundle">Het downloaden zal straks beginnen. </string>
+  <string name="txtDownloadingBundle">Taalpakket downloaden.</string>
+  <string name="txt_ConnectionError">Geen verbinding</string>
+  <string name="txt_InstallNow">Nu installeren</string>
+  <string name="txt_PostSuccess">Bericht plaatsen is gelukt</string>
+  <string name="txt_Play_now">Nu spelen</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Kindprofiel  </string>
+  <string name="txtBtnAdd">KIND TOEVOEGEN  </string>
+  <string name="txtAddHelp">Voeg profielen toe om instellingen en rapporten voor elk van je kinderen op te slaan.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Naam van het kind</string>
+  <string name="txtEnterName">Naam invoeren...</string>
+  <string name="txtMaxLimit">Maximum 20 namen </string>
+  <string name="txtEditProfile">Profiel bewerken</string>
+  <string name="txtDeleteProfile">Profiel verwijderen </string>
+  <string name="txtDeleteProfileConfirm">Weet je zeker dat je het profiel van ### wilt verwijderen? </string>
+  <string name="txtNo">NEE</string>
+  <string name="txtYes">JA</string>
+  <string name="txtNameDuplication">Deze naam bestaat al!</string>
+  <string name="txtUserChangeMsg">Profiel succesvol gewijzigd </string>
+  <string name="txtShareWithParents">Delen met ouders, scholen, opvang enzovoort </string>
+  <string name="txtBtnUpdate">Update</string>
+  <string name="txtNew">Nieuw</string>
+  <string name="txt_DownloadNow">Nu downloaden</string>
+  <string name="text_showhint">Hint weergeven terwijl je leert </string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Taal wijzigen</string>
+  <string name="txtInitHelpChangeLangDesc">Kies uit ### verschillenden talen terwijl je leert. </string>
+  <!--Choose from 8 different display languages to use while learning.-->
+  <!--Making kids apps is our #PassionProject and our mission is to create Free educational apps without ads and in-app purchases.-->
+  <string name="txtInitHelpCustomSettingTitle">Instellingen aanpassen </string>
+  <string name="txtInitHelpCustomSettingDesc">Pas de instellingen aan voor een beter leerproces. </string>
+  <!-- Personalize your settings to help deliver the best learning experience possible.-->
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <!--<string name="txtWith_Audio">with audio</string>-->
+  <!--Download Limit Reached-->
+  <!--Come back after-->
+  <!--Parents can download new photos by going to the settings screen-->
+  <!--It may time a few minutes to complete. Meanwhile, you can play other puzzles.-->
+  <!--It seems like downloading is already running, please try after some time.-->
+  <string name="txt_connection_lost">Verbinding verbroken</string>
+  <string name="txt_connectionlost_detail">Kon niet verbinden met internet. Kijk aub je netwerkinstellingen na.</string>
+  <!--There was a problem connecting to the internet. Please check your network settings.-->
+  <!--Your new puzzles have been downloaded! Access them from the main menu.-->
+  <!--More pictures are coming soon!-->
+  <string name="txtBtnOK">Ok</string>
+  <string name="txtSelectLanguageInfo">Wil je leren in het ### of het Engels?</string>
+  <string name="txtShowIntroAtStart">Personage-intro weergeven bij het begin </string>
+  <string name="txtLanguages">Taal</string>
+  <string ScaleFactor="1" name="txtInitHelpChangeLangMainTitle">Voltooi eerst de handleiding</string>
+  <string ScaleFactor="1" name="txtInitOurStoryDescTitle">Lees ons verhaal</string>
+  <string ScaleFactor="1" name="txtloading">Laden...</string>
+  <string ScaleFactor="1" name="txt_gamename">Kleuren &amp; Vormen - Leer kleuren </string>
+  <string ScaleFactor="1" name="txt_gamenameiOS">Kleuren &amp; Vormen - Leer kleuren </string>
+  <string ScaleFactor="1" name="txtBtnTab">TAB</string>
+  <string ScaleFactor="1" name="txtBtnBack">TERUG</string>
+  <string ScaleFactor="1" name="txtBtnSelect">SELECTEREN </string>
+  <string ScaleFactor="1" name="txtBtnDelete">Delete</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">NAVIGEREN</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Tik op een toets om door te gaan...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">Spel verlaten?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Weet je zeker dat je wilt afsluiten?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Steun ons en beoordeel de app.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Rate Us</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Later</string>
+  <!-- EDIT: make it small -->
+  <!-- EDIT: make it uppercase -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Manieren om ons te ondersteunen</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Beloon je kind met een t-shirt en steun ons.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">De beste gratis manier om ons te steunen is door onze kinderspelletjes te delen met scholen, vrienden, sociale media en de pers (TV &amp; kranten).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Waarom beloon je je kind niet door T-shirts te kopen en te tonen dat je van de personages houdt.</string>
+  <string ScaleFactor="1" name="txtShareCap">Delen</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">BEVESTIGEN </string>
+  <string name="txt_shopConfirmDetail">Je zult doorgestuurd worden naar de website om door te gaan. Weet je zeker dat je wilt afsluiten? </string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <!-- EDIT: AMAZON -->
+  <!-- EDIT: TEESPRING -->
+  <string ScaleFactor="1" name="txtWiderSelection">Breder aanbod, verzendt wereldwijd </string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Vertel ons wat je van het spel vindt? </string>
+  <string ScaleFactor="1" name="txtVeryBad">Heel slecht</string>
+  <string ScaleFactor="1" name="txtVeryGood">Heel goed </string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Ja, schrijf een beoordeling &amp; steun ons </string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Dank je voor je feedback</string>
+  <!-- New Rate US END -->
+  <!-- EDIT: Do you mind reviewing the app in the Microsoft Store? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the Amazon Appstore? &#13;&#10; This will help other parent learn about the app. -->
+  <!-- EDIT: Do you mind reviewing the app in the App Store? &#13;&#10; This will help other parent learn about the app. -->
+  <string name="txtCertificate">Certificaten</string>
+  <string name="txtCertificates">CERTIFICATEN</string>
+  <string name="txtUnlocked">Ontgrendeld</string>
+  <string name="txtCongratulations">Gefeliciteerd</string>
+  <string name="txtCertificateUnlocked">Nieuw certificaat ontgrendeld! </string>
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">op</string>
+  <string name="txtPrint">Afdrukken </string>
+  <!--  -->
+  <string name="txt_certi_title_1">PRIJS </string>
+  <string name="txt_certi_title_2">UITSTEKEND </string>
+  <string name="txt_certi_title_3">STERRENBELONING</string>
+  <string name="txt_certi_title_4">GOED GEDAAN</string>
+  <string name="txt_certi_title_5">UITMUNTENDHEID</string>
+  <string name="txt_certi_title_6">FANTASTISCH</string>
+  <string name="txt_certi_title_7">PRESTATIE</string>
+  <string name="txt_certi_title_8">Goed gedaan</string>
+  <!--  -->
+  <!--Character Selection-->
+  <!--Edit: Make it capital-->
+  <!--English: This product is available only in USA.-->
+  <!--Edit: remove Full-->
+  <!--English: New character has been downloaded!-->
+  <!--EDIT: Make it capital and remove ...-->
+  <!-- Edit: Combine both -->
+  <!--English: This may take a few minutes to complete. You can play other game modes while waiting.-->
+  <string name="txt_shopConfirmTitle">BEVESTIGEN </string>
+  <string name="txt_shopConfirmDetail">Je zult doorgestuurd worden naar de website om door te gaan. Weet je zeker dat je wilt afsluiten? </string>
+  <!--Edit: Make it capital.-->
+  <!--English: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Je hebt een certificaat verdiend!</string>
+  <string name="txtEnterNm">Voer de naam van het kind in. </string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Inspireer je kind door het certificaat af te drukken</string>
+  <string name="txtGreat">Geweldig</string>
+  <string name="txtTapToGetCerti">Tik om het certificaat te ontvangen </string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Tel de items 20 keer </string>
+  <string name="Math_Task_1_End">Items die je 20 keer geteld hebt </string>
+  <string name="Math_Task_2_Start">30 puzzels met optellingen oplossen </string>
+  <string name="Math_Task_2_End">30 puzzels met optellingen opgelost </string>
+  <string name="Math_Task_3_Start">Leuke quiz met optellingen 30 keer oplossen </string>
+  <string name="Math_Task_3_End">Leuke quiz met optellingen 30 keer opgelost </string>
+  <string name="Math_Task_4_Start">30 quizzen met optellingen oplossen </string>
+  <string name="Math_Task_4_End">30 quizzen met optellingen opgelost </string>
+  <string name="Math_Task_5_Start">Vergelijk de items 30 keer</string>
+  <string name="Math_Task_5_End">Items die je 30 keer vergeleken hebt</string>
+  <string name="Math_Task_6_Start">30 puzzels met aftrekkingen oplossen </string>
+  <string name="Math_Task_6_End">30 puzzels met aftrekkingen opgelost</string>
+  <string name="Math_Task_7_Start">Leuke quiz met aftrekkingen 30 keer voltooien </string>
+  <string name="Math_Task_7_End">Leuke quiz met aftrekkingen 30 keer voltooid</string>
+  <string name="Math_Task_8_Start">Voltooi 30 aftrekkings-quizzen </string>
+  <string name="Math_Task_8_End">30 aftrekkings-quizzen voltooid</string>
+  <string name="Math_Task_1_Completed">Je hebt een certificaat verdiend! Items die je 20 keer geteld hebt </string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Je hebt een certificaat verdiend! 30 puzzels met optellingen opgelost </string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Je hebt een certificaat verdiend! Leuke quiz met optellingen 30 keer opgelost </string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Je hebt een certificaat verdiend! 30 quizzen met optellingen opgelost </string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Je hebt een certificaat verdiend! Items die je 30 keer vergeleken hebt</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Je hebt een certificaat verdiend! 30 puzzels met aftrekkingen opgelost</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Je hebt een certificaat verdiend! Leuke quiz met aftrekkingen 30 keer voltooid</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Je hebt een certificaat verdiend! 30 aftrekkings-quizzen voltooid</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Verbinden met Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Je wordt doorgestuurd naar Pinterest. Ben je zeker dat je wilt afsluiten?</string>
+  <!-- EDIT: add  Pinterest - You'll be redirected to Pinterest. Are you sure you want to leave? -->
+  <string name="txtContinue">DOORGAAN</string>
+  <string name="txtinspirationbehind">De inspiratie achter de apps voor kinderen</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">AFDRUKBARE ARTIKELEN</string>
+  <string name="txtAllowCouting">Tellen toelaten</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- <string name="txtYT_Banner">Nursery Rhymes &amp; Kids Songs, Watch Us on YouTube!</string> -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Aan het tellen</string>
+  <string name="Adding Puzzle">Puzzel met optellingen</string>
+  <string name="Adding Fun">Optelplezier </string>
+  <string name="Adding Quiz">Optel-quiz</string>
+  <string name="Compare">Vergelijken </string>
+  <string name="Subtracting Puzzle">Puzzel met aftrekkingen</string>
+  <string name="Subtracting Fun">Plezier met aftrekkingen</string>
+  <string name="Subtracting Quiz">Quiz met aftrekkingen</string>
+  <string ScaleFactor="1" name="txt_gamename">Wiskunde voor kinderen - Optellen, aftrekken, tellen </string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Wiskunde voor kinderen - Optellen, aftrekken, tellen </string>
+  <string name="txtPrintableSmall">Afdrukbare artikelen</string>
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Startpagina </string>
+  <string name="txt_menuoption_settings">Instellingen</string>
+  <string name="txt_menuoption_shop">Shop</string>
+  <string name="txt_menuoption_kidsapps">Apps voor kinderen</string>
+  <string name="txt_menuoption_parentapps">Apps voor ouders </string>
+  <string name="txt_menuoption_worksheets">Werkbladen</string>
+  <string name="txt_messagefromdave">BERICHT VAN</string>
+  <string name="txt_getfeaturedon">WORD VERMELD OP INSTAGRAM</string>
+  <string name="txt_tagus">Tag @RV AppStudios en maak deel uit van onze verhalen</string>
+  <!-- Tag @RV AppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Stichter van RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Neem een foto / maak een video van het kind dat onze app gebruikt of een certificaat ontvangt. </string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Deel &amp; tag ons op Instagram @RV AppStudios voor een kans om vermeld te worden.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Apps voor kinderen door RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Apps voor ouders door RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">WERKBLADEN</string>
+  <string name="txt_coloringpage">KLEURPLATEN</string>
+  <string name="txt_downloadmoreworksheet">Download meer werkbladen van onze Pinterest-pagina</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">Met 14 miljoen maandelijkse downloads van onze games afkomstig van onze gratis apps voor kinderen, zijn we uitgegroeid tot een van 's werelds grootste ontwikkelaars van educatieve apps voor kinderen. "En we blijven het volledig GRATIS doen."
+
+  "Waarom?" -Toen ik een ouder werd, wist ik dat ik er alles aan zou doen om mijn dochter de beste opvoeding en de beste kansen te geven terwijl ze opgroeit. Ik denk dat veel ouders het verlangen herkennen om hun kinderen meer kansen of een betere opleiding te geven dan zij zelf destijds hebben gehad.
+
+  Toch hebben niet alle ouders de tijd of de mogelijkheid om hun kinderen met hun huiswerk te helpen. En hoe erg ik ook het beste voor mijn eigen dochter wilde, ik vond het oneerlijk dat tientallen miljoenen kinderen ter wereld niet dezelfde kans kregen om zelfs maar basisonderwijs te volgen of om te leren lezen en schrijven.
+
+  Ik realiseerde me dat ik me als app-ontwikkelaar in de positie bevond om daar iets aan te doen. -"Niet voor de winst", maar om kinderen uit alle hoeken van de wereld een vroege start te bieden in het leren van essentiële vaardigheden zoals tellen, spelling en wiskunde en dat op een vermakelijke manier.
+
+  Om dat te bereiken, moesten we de apps en games veilig houden voor de kinderen. Daarom besloot ik de winst van onze andere app-ontwikkelingsbusiness te investeren in het maken van "100% GRATIS" applicaties voor kinderen met het label "GEEN RECLAME" en "GEEN in-app-aankopen." -De enigen die voordeel uit deze apps zouden moeten halen, zijn de kinderen.</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtContinue">DOORGAAN</string>
+  <string name="txtinspirationbehind">De inspiratie achter de apps voor kinderen</string>
+  <!-- Download, print, and practice free worksheets for kids to make learning fun. -->
+  <!-- A great way to learn &amp; practice -->
+  <!-- WHY FREE -->
+  <!-- Why Its Free Banner Text -->
+  <string ScaleFactor="1" name="txtOurStoryBtnTxt">ONS VERHAAL</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage1Title">ONS VERHAAL</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage2Title">WAAROM IS IETS TERUGGEVEN ZO BELANGRIJK?</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage3Title">HOE HOUDEN WE ONZE APPS VOOR KINDEREN GRATIS?</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtconnectingPintrest">Verbind met Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Je wordt doorgestuurd naar Pinterest. Ben je zeker dat je wilt afsluiten?</string>
+  <string name="txtWatchUsYouTube">Bekijk ons op YouTube</string>
+  <!-- <string name="txtOurStorySettings" comment="This is a button text to view our story.">Our Story</string> -->
+  <string name="txtRateApp">Nu beoordelen</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">DOORGAAN</string>
+  <string name="txtPrint">Afdrukken </string>
+  <string name="txtconnectingPintrest">Verbind met Pinterest</string>
+  <string name="txtconnectingPintrestMsg">Je wordt doorgestuurd naar Pinterest. Ben je zeker dat je wilt afsluiten?</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txt_DownloadNowCap">NU DOWNLOADEN</string>
+  <string name="txt_Play_nowCap">Nu spelen</string>
+  <string name="txt_ConnectionErrorMsg1">Internetverbinding doet het niet</string>
+  <string name="txt_ConnectionErrorMsg2">Probeer het later nog eens!</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Vergelijking </string>
+  <string name="txtSubPracticeTitle">Aftrekkingen oefenen</string>
+  <string name="txtAddPracticeTitle">Optellingen oefenen </string>
+  <string name="txtBeginner">Beginner</string>
+  <string name="txtIntermediate">Middelmatig </string>
+  <string name="txtAdvance">Geavanceerd </string>
+  <string name="txtSubPracticeTitle">Aftrekkingen oefenen</string>
+  <string name="txtAddPracticeTitle">Optellingen oefenen </string>
+  <string name="txtBeginner">Beginner</string>
+  <string name="txtIntermediate">Middelmatig </string>
+  <string name="txtAdvance">Geavanceerd </string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">Why Giving Back Is Important?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">How do we keep our kids' apps free?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+  about where you want them to be in 10, 20 or 30
+  years. What opportunities do you want them to have
+  in life? A good education? A position from where they
+  can make a positive difference for their families and
+  community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+  opportunities we as parents and communities can
+  give them. But not all parents have the time or ability
+  to help their children with their homework. And most
+  of us, as parents, can probably recognize the wish for
+  our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+  give my daughter the best education and the best
+  opportunities as she grows up. But at the same time,
+  I felt it was unfair that tens of millions of kids all over the
+  world, would not get the same opportunity for even a basic
+  education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+  branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+  start learning essential skills like counting, spelling,
+  and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+  having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+  apps that lets children develop their creativity and test
+  their intelligence with fun jigsaw puzzles, challenging
+  memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+  available in all corners of the world.
+  That is our opportunity as app developers to reach
+  and make a positive difference for children
+  who do not have access to schools or books,
+  but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+  corners of the world an educational advantage,
+  but especially to teach those kids who otherwise
+  don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+  ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+  living doing what we love - developing gaming apps
+  (for adults). Now we want to give back to children
+  around the world by investing our company profits
+  into creating some of the most popular apps for
+  toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+  rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+  in-app promotions. That’s why we keep our kids’
+  applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+  learning apps available to all children, is by keeping it
+  100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+  how much their children have developed using our apps
+  and playing our games, it shows us that our tiny
+  contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+  and make a difference. Especially that the children
+  getting a head start through pre-school learning apps,
+  becomes the future leaders of change in their
+  communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+  our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+  two-thirds (12 million) of those downloads come from
+  parents wanting to help their kids begin learning from
+  an early age, effectively reducing the risk of falling
+  behind as they start in school. It’s these millions of
+  children around the world getting a chance for a better
+  future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_TitleLanguage">Nederlands</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Even wachten aub</string>
+  <string name="txt_langdownloaded">Download voltooid </string>
+  <string name="txtInternetIssue">Probleem met de internetverbinding</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">ANDERE TALEN</string>
+  <string name="txt_ContinueIn">Doorgaan in het ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">ONZE SPELLEN</string>
+  <string name="txt_OurKidsGames">ONZE SPELLEN</string>
+  <string name="txt_VisitOurChannel">BEZOEK ONS KANAAL</string>
+  <string name="txt_followusandshare">VOLG ONS EN HELP ONS </string>
+  <string name="txt_OurImpact">ONZE IMPACT</string>
+  <string name="txt_OurImpactDesc">RV AppStudios onderwijst maandelijks meer dan &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; kinderen met onze gratis apps voor kinderen.</string>
+  <string name="txt_KidsApp">APP KINDEREN</string>
+  <string name="txt_Countries">LANDEN</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 KINDEREN ZULLEN ONZE APPS GEBRUIKEN</string>
+  <string name="txt_Hello">Hallo</string>
+  <string name="txt_SuggestedLanguages">VOORGESTELDE TALEN</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Nieuwe t-shirts worden wekelijks toegevoegd!</string>
+  <string name="txt_textrhymesYT">KINDERVERSJES &amp; KINDERLIEDJES</string>
+  <string name="txt_rvappstudiosYT">RV AppStudios nu op YouTube</string>
+  <string name="txt_AllGamesAreFree">(Alle spellen zijn gratis en geen advertenties)</string>
+  <string name="txt_ShowShopBtn">Verberg "Winkelknop" in het hoofdmenu</string>
+  <string name="txt_ShowOurStoryBtn">Verberg "Onze Verhaalknop" in het hoofdmenu</string>
+  <string name="txt_ShowMoreappBtn">Verberg "Meer apps-knop" in het hoofdmenu</string>
+  <string name="txt_TranslationFeedback">Vertaling Feedback</string>
+  <string name="txt_TranslationFeedbackInfo">Vertaalfout rapporteren. Deel geen gevoelige informatie.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">T-SHIRTS VOOR KINDEREN</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">EDUCATIEVE BOEKEN VOOR KINDEREN</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS T-SHIRTS &amp; EDUCATIEVE BOEKEN</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">EERST LUCAS &amp; FRIENDS BOEK</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">T-SHIRTS &amp; EDUCATIEVE BOEKEN VOOR KINDEREN</string>
+  <string name="txt_VisibleMDstng">Selecteer modi voor weergave</string>
+  <string name="txt_SelectParentGate">Selecteer Opties om de instelling te ontgrendelen</string>
+  <string name="txt_HideButtons">Knoppen verbergen</string>
+  <string name="txt_HideButtonsFromMenu">Verberg knoppen in het hoofdmenu</string>
+  <string name="txt_rateThanks">Bedankt voor je liefde en steun! We zien je ook graag!</string>
+  <string name="txt_rateFeedback">Bedankt, we zouden graag horen wat je ervan vindt. Geef ons feedback.</string>
+  <string name="txt_rateLetUsKnow">Laat ons weten hoe je kind geniet van onze app. </string>
+  <string name="txt_rateHappySad">Ben je blij met de app? </string>
+  <string name="txt_rateHappy">Gelukkig</string>
+  <string name="txt_rateSad">TRIEST</string>
+  <string name="txtRateDesc1">Zou je de app in de Play Store willen beoordelen? Dat zal andere ouders helpen om de app te leren kennen. </string>
+  <string name="txtVeryBadCap">HEEL SLECHT </string>
+  <string name="txtGoodCap">Goed</string>
+  <string name="txtRateAppBtn">Beoordeel Ons</string>
+  <string name="txtRateHdr">BEOORDEEL ONS</string>
+  <string name="english_name">Engels</string>
+  <string name="Sendfeedback" ScaleFactor="1">Feedback sturen</string>
+  <string name="UseOurApps">Kinderen gebruiken onze educatieve apps elke maand.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios staat op YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Zoek RV Appstudios om onze apps te vinden</string>
+  <string name="GiphyStickers" ScaleFactor="1">Geanimeerde GIF's en stickers nu beschikbaar!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Zoek @RVAppStudios op uw GIF-toetsenbord</string>
+  <string name="txt_2Digit+">2 cijfers +</string>
+  <string name="txt_2Digit-">2 cijfers -</string>
+  <string name="Intro_Text" ScaleFactor="1">Bezoek RVAppStudios.com voor het laatste nieuws!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">ONZE IMPACT - meer dan 300 miljoen downloads maken een verschil </string>
+  <string name="About_Us">OVER ONS</string>
+  <string name="txt_collectGift"></string>
+  <string name="txt_GoodJob">Goed gedaan</string>
+  <string name="Impact_together">Impact Die We Samen Kunnen Maken</string>
+  <string name="For_Parents">Voor Ouders</string>
+  <string name="Message_Parents">Bericht Voor Ouders</string>
+  <string name="txtShoppingMode">Winkelen</string>
+  <string name="Math_Task_9_Start">Oplossen 2-cijfers optelling 30 keer</string>
+  <string name="Math_Task_9_End">Opgelost 2-cijfers optelling 30 keer</string>
+  <string name="Math_Task_10_Start">Oplossen 2-cijfers aftrekking 30 keer</string>
+  <string name="Math_Task_10_End">Opgelost 2-cijfers aftrekking 30 keer</string>
+  <string name="Math_Task_11_Start">Oplossen 30 optellingen oefenen</string>
+  <string name="Math_Task_11_End">Opgelost 30 optellingen oefenen</string>
+  <string name="Math_Task_12_Start">Opgelost 30 aftrekkingen oefenen</string>
+  <string name="Math_Task_12_End">Opgelost 30 winkelvragen</string>
+  <string name="Math_Task_13_Start">Opgelost 30 winkelvragen</string>
+  <string name="Math_Task_13_End">Opgelost 30 winkelvragen</string>
+  <string name="Math_Task_9_Completed">Je hebt een certificaat verdiend! Opgelost 2-cijfers optelling 30 keer</string>
+  <string name="Math_Task_10_Completed">Je hebt een certificaat verdiend! Opgelost 2-cijfers aftrekking 30 keer</string>
+  <string name="Math_Task_11_Completed">Je hebt een certificaat verdiend! Opgelost 30 optellingen oefenen</string>
+  <string name="Math_Task_12_Completed">Je hebt een certificaat verdiend! Opgelost 30 winkelvragen</string>
+  <string name="Math_Task_13_Completed">Je hebt een certificaat verdiend! Opgelost 30 winkelvragen</string>
+  <string name="January">Januari</string>
+  <string name="February">Februari</string>
+  <string name="March">Maart </string>
+  <string name="April">April</string>
+  <string name="May">Mei</string>
+  <string name="June">Juni</string>
+  <string name="July">Juli</string>
+  <string name="August">Augustus</string>
+  <string name="September">September</string>
+  <string name="October">Oktober</string>
+  <string name="November">November</string>
+  <string name="December">December</string>
+  <string name="OurImpactKids1">kinderen hebben tot nu toe onze apps gebruikt</string>
+  <string name="Storage_low">Maak Opslagruimte Vrij</string>
+  <string name="OurImpactKids">1 Miljard</string>
+  <string name="MessageForAdult1">Ieder van ons heeft een uniek talent. Ik maak apps. Je bent misschien een geweldige leraar, dokter, kunstenaar, enz. Net zoals ik gratis deel waar ik van hou, hoop ik dat ik je inspireer om je vaardigheden te delen. Door mensen te helpen, krijg je een goed gevoel en inspireer je anderen. Denk eens aan de impact die we samen kunnen maken! Lucas &amp; Friends heeft tot doel het goede in mensen naar boven te halen. Steun ons alsjeblieft door op je eigen manier iets terug te geven aan anderen. </string>
+  <string name="Books_Tshirts">Boeken &amp; T-shirts</string>
+  <string name="we_Inspire_msg1">Bedankt voor jullie inspiratie en steun.</string>
+  <string comment="No need to translate texts which are in []" name="we_Inspire_msg">Lucas &amp; Friends is begonnen met gratis educatieve apps voor kinderen als  gepassioneerd project zonder advertenties of in-app aankopen. We streven ernaar goed te doen in de wereld, iets terug te doen en impact uit te oefenen. Meer dan &lt;color=#ff0018&gt;&lt;size=35&gt;1 Miljard&lt;/size&gt;&lt;/color&gt;  kinderen hebben bijgeleerd van onze educatieve apps. &lt;color=#FF6400&gt;We hadden nooit gedacht dat we op een dag een kindermerk zouden creëren en speelgoed zouden verkopen!&lt;/color&gt;</string>
+  <string name="we_Inspire">We inspireren het goede in mensen</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: Een missie om leren leuk te maken &amp; toegankelijk! Gratis educatieve apps, geen advertenties, nooit kosten – gewoon puur en plezierig leren voor kinderen.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">kruis Wiskunde</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Visvangst Plezier</string>
+  <string name="txt_SnowMode" ScaleFactor="1">sneeuw</string>
+  <string name="txt_Addition">Optellen</string>
+  <string name="txt_Subtraction">Aftrekken</string>
+  <string name="FunGames">Leuke Spellen</string>
+  <string name="Select_Character" ScaleFactor="1">Selecteer het Karakter</string>
+  <string name="Car_Game" ScaleFactor="1">Auto Spel</string>
+  <string name="txtUserChangeMsg1">Het profiel van het kind is succesvol gewijzigd.</string>
+  <string name="txt_1Digit">1 cijfer</string>
+  <string name="txt_2Digit">2 cijfers</string>
+  <string name="txt_Play">Spelen</string>
+  <string name="txtOpponentWon">De tegenstander heeft gewonnen </string>
+  <string name="txtYouWon">Jij hebt gewonnen!</string>
+  <string name="txtRematch">Nieuwe wedstrijd</string>
+  <string name="txt_SelectDifficulty">Moeilijkheidsgraad selecteren</string>
+  <string name="txt_DualMode">Twee spelers </string>
+  <string name="txt_Correct">CORRECT</string>
+  <string name="Draw">Gelijkspel</string>
+  <string name="Apparel_Accessories">KLEDING EN ACCESSOIRES</string>
+  <string name="best_Seller">Bestseller</string>
+  <string name="RateUsNew">Geniet je van ons spel? Jouw recensie helpt onze missie en gratis apps onder andere ouders te verspreiden.</string>
+  <string name="txt_AdditupMode">Voeg het</string>
+  <string name="txt_SudokuMode">Puzzel</string>
+  <string name="txtBrandTrust">MERK JE KUNT VERTROUWEN</string>
+  <string name="txtMission">Een Missie Je Kunt Waarderen</string>
+  <string name="Number_Path">Nummerpad</string>
+  <string name="Add_butterfly_1">### vlinders zitten op een bloem. Dan vliegen er nog @@@ vlinders bij. Hoeveel vlinders zijn er in totaal?</string>
+  <string name="Add_butterfly_2">Een kind ziet ### vlinders. Dan verschijnen er nog @@@. Hoeveel vlinders ziet het kind in totaal?</string>
+  <string name="Add_cat_1">### katten zitten op een muur. Nog @@@ katten klimmen omhoog. Hoeveel katten zijn er nu op de muur?</string>
+  <string name="Add_cow_1">### koeien zijn in de schuur. Nog @@@ koeien lopen naar binnen. Hoeveel koeien zijn er nu in de schuur?</string>
+  <string name="Add_deer_1">In de wei eten ### herten gras. Dan komen er nog @@@ herten bij. Hoeveel herten eten er nu gras?</string>
+  <string name="Add_dog_1">### honden spelen met een bal. Dan sluiten @@@ meer honden zich bij hen aan. Hoeveel honden spelen er?</string>
+  <string name="Add_giraffe_1">### giraffen drinken water. Dan komen er nog @@@ giraffen om te drinken. Hoeveel giraffen drinken er?</string>
+  <string name="Add_ladybugs_1">### lieveheersbeestjes zitten op een blad. Nog @@@ lieveheersbeestjes vliegen naar het blad. Hoeveel lieveheersbeestjes zijn er op het blad?</string>
+  <string name="Add_tiger_1">### tijgers zitten bij een grot. Nog @@@ tijgers komen naar buiten. Hoeveel tijgers zijn er nu?</string>
+  <string name="Add_tiger_2">Er zijn ### tijgers in de jungle. Nog @@@ komen dichterbij. Hoeveel tijgers zijn er in totaal?</string>
+  <string name="Add_owl_1">### uilen rusten in een nest. Nog @@@ uilen komen naar het nest. Hoeveel uilen zijn er in het nest?</string>
+  <string name="Add_panda_1">### pandas eten bamboe. Nog @@@ pandas komen erbij. Hoeveel panda\'s eten er bamboe?</string>
+  <string name="Add_parrot_1">### papegaaien zitten op een stok. Nog @@@ papegaaien vliegen vrolijk binnen. Hoeveel papegaaien zijn er nu?</string>
+  <string name="Add_peacock_1">### pauwen dansen in de tuin. Nog @@@ pauwen komen eraan. Hoeveel pauwen dansen er?</string>
+  <string name="Add_rooster_1">Er zijn ### hanen op de boerderij. Nog @@@ komen bij de schuur. Hoeveel hanen zijn er in totaal?</string>
+  <string name="Add_snail_1">Op een blad rusten ### slakken. Nog @@@ sluiten zich bij hen aan. Hoeveel slakken zijn er bij elkaar?</string>
+  <string name="Add_zebra_1">In het grasland eten ### zebra\'s. Nog @@@ sluiten zich bij hen aan. Hoeveel zebra\'s zijn er bij elkaar?</string>
+  <string name="Add_bicycle_1">Er zijn ### fietsen in het park. Nog @@@ worden geparkeerd. Hoeveel fietsen zijn er in totaal?</string>
+  <string name="Add_hippo_1">In de ochtend spelen ### nijlpaarden. Later komen er nog @@@ aan. Wat is het totale aantal nijlpaarden?</string>
+  <string name="Add_airplane_1">Op de landingsbaan wachten ### vliegtuigen. Nog @@@ landen er. Hoeveel vliegtuigen zijn er bij elkaar?</string>
+  <string name="Add_airplane_2">Op het vliegveld wachten ### vliegtuigen. Al snel komen er nog @@@ aan. Hoeveel vliegtuigen zijn er in totaal?</string>
+  <string name="Add_horse_1">Bij de schuur staan ### paarden. Nog @@@ paarden sluiten zich bij hen aan. Hoeveel paarden zijn er bij elkaar?</string>
+  <string name="Add_fish_1">In het aquarium zwemmen ### vissen. Nog @@@ worden er toegevoegd. Hoeveel vissen zijn er bij elkaar?</string>
+  <string name="Add_goat_1">Er zijn ### geiten op de heuvel. Dan komen er nog @@@ bij. Wat is het totale aantal geiten?</string>
+  <string name="Add_monkey_1">Er zijn ### apen in een boom. Nog @@@ klimmen omhoog. Hoeveel apen zijn er in totaal?</string>
+  <string name="Add_carrot_1">Er zijn ### wortels in het mandje. Nog @@@ worden toegevoegd. Hoeveel wortels zijn er in totaal?</string>
+  <string name="Add_candies_1">Er zijn ### snoepjes in de pot. Nog @@@ worden toegevoegd. Hoeveel snoepjes zijn er in totaal?</string>
+  <string name="Add_cupcake_1">Er zijn ### cupcakes op tafel. Nog @@@ worden erbij gezet. Hoeveel cupcakes zijn er in totaal?</string>
+  <string name="Add_pinwheel_1">'s Ochtends draaien er ### windmolentjes in de tuin. Later kwamen er @@@ meer bij. Hoeveel windmolentjes zijn er nu?</string>
+  <string name="Add_broccoli_1">Er zijn ### broccoli op het bord. Nog @@@ worden toegevoegd. Hoeveel broccoli is er op het bord?</string>
+  <string name="Add_robot_1">Er zijn ### robots op de grond. Nog @@@ lopen dichterbij. Hoeveel robots zijn er in totaal?</string>
+  <string name="Add_car_1">Een kind heeft ### speelgoedauto\'s. Er worden nog @@@ gegeven. Hoeveel speelgoedauto\'s heeft het kind?</string>
+  <string name="Add_bird house_1">Er zijn ### vogelhuisjes bij de schuur. Nog @@@ worden toegevoegd. Hoeveel vogelhuisjes zijn er in totaal?</string>
+  <string name="Add_ball_1">Er zijn ### ballen op de grond. Nog @@@ rollen aan. Hoeveel ballen zijn er in totaal?</string>
+  <string name="Add_drum_1">In de muziekles staan ### trommels. Nog @@@ worden toegevoegd. Hoeveel trommels bij elkaar?</string>
+  <string name="Add_cake_1">Er zijn ### taarten op tafel. Nog @@@ worden toegevoegd. Hoeveel taarten zijn er in totaal?</string>
+  <string name="Add_fruits_1">Er zijn ### vruchten in het mandje. Nog @@@ worden toegevoegd. Hoeveel vruchten zijn er in totaal?</string>
+  <string name="Add_flower_1">Er zijn ### bloemen in de tuin. Nog @@@ bloemen bloeien. Hoeveel bloemen zijn er in de tuin?</string>
+  <string name="Add_pig_1">Er zijn ### varkens in de tuin. Dan komen er nog @@@ bij. Wat is het totale aantal varkens in de tuin?</string>
+  <string name="Add_top_1">Er zijn ### tolletjes op de vloer. Nog @@@ worden toegevoegd. Hoeveel tolletjes zijn er in totaal?</string>
+  <string name="Add_donut_1">Er zijn ### donuts op een bord. Nog @@@ worden toegevoegd. Hoeveel donuts zijn er in totaal?</string>
+  <string name="Add_giftbox_1">Sara kreeg ### cadeaus. Haar vriendin gaf haar nog @@@. Hoeveel cadeaus heeft Sara in totaal?</string>
+  <string name="Add_giftbox_2">Er zijn ### cadeauboxen in de kamer. Dan worden er nog @@@ binnengezet. Hoeveel cadeauboxen zijn er in de kamer?</string>
+  <string name="Add_taco_1">Sara maakte ### taco\'s. Haar moeder maakte nog @@@ taco\'s. Hoeveel taco\'s werden er bij elkaar gemaakt?</string>
+  <string name="Add_taco_2">Tom at ### taco's. Hij at @@@ meer taco's. Hoeveel taco's heeft Tom in totaal gegeten?</string>
+  <string name="Add_kite_1">### vliegers vliegen in de lucht. Nog @@@ vliegers beginnen te vliegen. Hoeveel vliegers vliegen er in de lucht?</string>
+  <string name="Add_kite_2">Leo maakte ### vliegers. Daarna maakte hij nog @@@ vliegers. Wat is het totale aantal vliegers dat Leo heeft gemaakt?</string>
+  <string name="Add_sandwich_1">Sam kocht ### broodjes. Daarna kocht hij nog @@@ broodjes. Wat is het totale aantal broodjes dat Sam heeft gekocht?</string>
+  <string name="Add_leopard_1">### luipaarden zitten in een boom, en nog @@@ klimmen omhoog. Hoeveel luipaarden zijn er nu in de boom?</string>
+  <string name="WordProblem">Woordproblem</string>
+  <string name="Carry_Forward">Carry Optellen</string>
+  <string name="Sub_butterfly_1">Er vlogen ### vlinders in de tuin. @@@ vlinders vlogen weg. Hoeveel vlinders zijn er nog in de tuin?</string>
+  <string name="Sub_butterfly_2">Emma zag 's ochtends ### vlinders. 's Middags zag ze er @@@ minder. Hoeveel vlinders zag ze 's middags?</string>
+  <string name="Sub_cat_1">Ethan zag ### katten op een hek zitten. @@@ katten renden weg toen een hond blafte. Hoeveel katten zitten er nog op het hek?</string>
+  <string name="Sub_cat_2">Mia heeft ### katten in haar achtertuin. @@@ katten gingen melk drinken. Hoeveel katten zijn er nog in de achtertuin?</string>
+  <string name="Sub_cow_1">Er waren ### koeien die aan de rivier dronken. @@@ koeien waren klaar met drinken en vertrokken. Hoeveel koeien staan ​​er nog aan de rivier?</string>
+  <string name="Sub_cow_2">Er waren ### koeien die hooi aten. @@@ koeien stopten met eten. Hoeveel koeien eten er nog hooi?</string>
+  <string name="Sub_deer_1">Er staken ### herten de weg over. @@@ herten waren al overgestoken. Hoeveel herten wachten er nog om over te steken?</string>
+  <string name="Sub_deer_2">Er waren ### herten die een heuvel beklommen. @@@ herten stopten en gingen weer naar beneden. Hoeveel herten klimmen er nog?</string>
+  <string name="Sub_dog_1">Er speelden ### honden in de tuin. Er renden @@@ honden het huis in. Hoeveel honden zijn er nog in de tuin?</string>
+  <string name="Sub_dog_2">Er zaten ### honden in een kennel. @@@ honden gingen naar buiten. Hoeveel honden zitten er nog in de kennel?</string>
+  <string name="Sub_giraffe_1">Onder een schaduwrijke boom lagen ### giraffen. Na een tijdje stonden @@@ giraffen op en vertrokken. Hoeveel giraffen lagen er nog te rusten?</string>
+  <string name="Sub_giraffe_2">Een groep van ### giraffen liep door het hoge gras. Plotseling draaiden @@@ giraffen zich om. Hoeveel giraffen bleven doorlopen?</string>
+  <string name="Sub_ladybugs_1">### lieveheersbeestjes zaten op een groot groen blad. Toen vlogen er @@@ weg. Hoeveel lieveheersbeestjes bleven op het blad zitten?</string>
+  <string name="Sub_ladybug_2">Bij zonsondergang vlogen ### lieveheersbeestjes tegelijk. @@@ landden op een boomtak. Hoeveel lieveheersbeestjes vlogen er nog?</string>
+  <string name="Sub_owl_1">### uilen vlogen onder het heldere maanlicht. @@@ uilen landden in een boom. Hoeveel uilen vlogen er nog?</string>
+  <string name="Sub_owl_2">Op een tak stonden ### uilen op een rij. @@@ uilen spreidden hun vleugels en vertrokken. Hoeveel uilen bleven er op de tak achter?</string>
+  <string name="Sub_panda_1">### panda's aten samen bamboe. @@@ panda's aten hun laatste restje en vertrokken. Hoeveel panda's aten er nog bamboe?</string>
+  <string name="Sub_panda_2">Een groep van ### panda's zat bij elkaar. @@@ panda's vertrokken om meer bamboe te zoeken. Hoeveel panda's bleven er in de groep?</string>
+  <string name="Sub_parrot_1">Een zwerm van ### papegaaien vloog samen. @@@ papegaaien landden op een dak. Hoeveel papegaaien bleven vliegen?</string>
+  <string name="Sub_parrot_2">Er zaten ### papegaaien in een boom bij hun nest. @@@ papegaaien vlogen naar binnen. Hoeveel papegaaien bleven buiten?</string>
+  <string name="Sub_peacock_1">### pauwen dansten in de tuin. @@@ pauwen stopten met dansen. Hoeveel pauwen bleven dansen?</string>
+  <string name="Sub_peacock_2">Bij zonsondergang verzamelden zich ### pauwen in het park. @@@ pauwen vlogen weg. Hoeveel pauwen waren er nog?</string>
+  <string name="Sub_rooster_1">'s Ochtends verzamelden zich ### hanen bij het voer. @@@ hanen waren klaar met eten en vertrokken. Hoeveel hanen aten er nog?</string>
+  <string name="Sub_rooster_2">### hanen zaten op een hek. @@@ hanen sprongen naar beneden. Hoeveel hanen bleven op het hek?</string>
+  <string name="Sub_snail_1">Op een tuinpad liepen ### slakken langzaam rond. @@@ slakken belandden in het gras. Hoeveel slakken bleven er over op het pad?</string>
+  <string name="Sub_snail_2">### slakken zaten bij een paar bloemen. @@@ slakken kropen weg. Hoeveel slakken zaten er nog bij de bloemen?</string>
+  <string name="Sub_tiger_1">### tijgers rustten in de jungle. @@@ tijgers liepen weg. Hoeveel tijgers bleven rusten?</string>
+  <string name="Sub_tiger_2">Er werden ### tijgers in het bos gezien. @@@ tijgers renden weg. Hoeveel tijgers liepen er nog rond?</string>
+  <string name="Sub_zebra_1">Een kudde van ### zebra's kwam water drinken. @@@ zebra's vertrokken na het drinken. Hoeveel zebra's bleven er bij de rivier?</string>
+  <string name="Sub_zebra_2">In een groep speelden ### zebraveulens samen. @@@ veulens gingen terug naar hun moeders. Hoeveel zebraveulens speelden er nog?</string>
+  <string name="Sub_bicycle_1">Er stonden ### fietsen geparkeerd bij de speeltuin. @@@ fietsen zijn meegenomen. Hoeveel fietsen stonden er nog op de speeltuin?</string>
+  <string name="Sub_bicycle_2">Een fietsenwinkel stelde ### fietsen tentoon. Er werden @@@ fietsen verkocht. Hoeveel fietsen bleven er staan?</string>
+  <string name="Sub_hippo_1">### nijlpaarden aten samen gras. @@@ nijlpaarden stopten met eten. Hoeveel nijlpaarden bleven gras eten?</string>
+  <string name="Sub_hippo_1">Een kudde bestond uit ### nijlpaarden. @@@ nijlpaarden vertrokken. Hoeveel nijlpaarden bleven er in de kudde?</string>
+  <string name="Sub_airplane_1">'s Ochtends stonden er ### vliegtuigen klaar voor vertrek. @@@ vliegtuigen vertrokken volgens schema. Hoeveel vliegtuigen stonden er nog te wachten?</string>
+  <string name="Sub_airplane_2">'s Avonds zouden er ### vliegtuigen vertrekken. Er waren al @@@ vliegtuigen vertrokken. Hoeveel vliegtuigen stonden er nog te wachten?</string>
+  <string name="Sub_horse_1">Er stonden ### paarden in de stal. @@@ paarden liepen naar buiten. Hoeveel paarden bleven er in de stal?</string>
+  <string name="Sub_horse_2">Er werden ### paarden in de vallei gespot. @@@ paarden klommen de heuvel op. Hoeveel paarden bleven er in de vallei achter?</string>
+  <string name="Sub_fish_1">Er zwommen ### vissen in een vijver. @@@ vissen zwommen weg. Hoeveel vissen zaten er nog in de vijver?</string>
+  <string name="Sub_fish_2">Een visser spotte ### vissen bij zijn boot. @@@ vissen zwommen snel weg. Hoeveel vissen bleven in de buurt van de boot?</string>
+  <string name="Sub_goat_1">Een boer had ### geiten die op het veld graasden. @@@ geiten liepen richting de heuvel. Hoeveel geiten graasden er nog op het veld?</string>
+  <string name="Sub_goat_2">Er stonden ### geiten te rusten bij de schuur. @@@ geiten renden naar buiten om in de tuin te spelen. Hoeveel geiten bleven er bij de schuur?</string>
+  <string name="Sub_monkey_1">### apen speelden in de mangoboom. @@@ apen sprongen naar beneden. Hoeveel apen bleven in de boom?</string>
+  <string name="Sub_monkey_2">In de dierentuin slingerden ### apen aan touwen. @@@ apen gingen eten. Hoeveel apen slingerden er nog?</string>
+  <string name="Sub_carrot_1">Er zaten ### wortels in een mandje. Er werden @@@ wortels opgegeten. Hoeveel wortels waren er nog over?</string>
+  <string name="Sub_carrot_2">Een konijn vond ### wortels. @@@ wortels rolden weg. Hoeveel wortels waren er nog?</string>
+  <string name="Sub_candies_1">Er zaten ### snoepjes in de pot. Er werden er @@@ uitgehaald. Hoeveel snoepjes bleven er in?</string>
+  <string name="Sub_candies_2">Er lagen ### snoepjes op tafel. Er werden @@@ snoepjes opgegeten. Hoeveel snoepjes waren er nog over?</string>
+  <string name="Sub_cupcake_1">Er lagen ### cupcakes op een dienblad. Er werden @@@ cupcakes weggegeven. Hoeveel cupcakes bleven er over?</string>
+  <string name="Sub_cupcake_2">De bakker heeft ### cupcakes gebakken. Er zijn @@@ cupcakes verkocht. Hoeveel cupcakes waren er nog over?</string>
+  <string name="Sub_pinwheel_1">### windmolentjes draaiden in de tuin. @@@ windmolentjes stopten met draaien. Hoeveel draaiden er nog?</string>
+  <string name="Sub_pinwheel_2">Er stonden ### windmolentjes bij het hek. @@@ windmolentjes zijn weggewaaid. Hoeveel zijn er gebleven?</string>
+  <string name="Sub_broccoli_1">Er lagen ### stukken broccoli op het bord. Er werden er @@@ opgegeten. Hoeveel bleven er over?</string>
+  <string name="Sub_broccoli_2">Een kok kookte ### broccolistengels. Er werden er @@@ geserveerd. Hoeveel bleven er over?</string>
+  <string name="Sub_robot_1">### robots stonden op een rij. @@@ robots liepen weg. Hoeveel robots bleven er?</string>
+  <string name="Sub_robot_2">Er waren ### robots in het lab. @@@ robots waren uitgeschakeld. Hoeveel stonden er nog aan?</string>
+  <string name="Sub_car_1">Er stonden ### auto's buiten geparkeerd. @@@ auto's reden weg. Hoeveel auto's bleven staan?</string>
+  <string name="Sub_car_2">Er gingen ### auto's van start. @@@ auto's finishten eerder. Hoeveel waren er nog in de race?</string>
+  <string name="Sub_bird house_1">### vogels zaten bij het vogelhuisje. @@@ vlogen weg. Hoeveel vogels bleven?</string>
+  <string name="Sub_bird house_2">Er zaten ### nesten in het vogelhuisje. Er zijn er @@@ ingestort. Hoeveel nesten zijn er overgebleven?</string>
+  <string name="Sub_ball_1">Er lagen ### ballen op het speelplein. @@@ ballen rolden weg. Hoeveel lagen er nog?</string>
+  <string name="Sub_ball_2">Er zaten ### ballen in een doos. Er stuiterden @@@ ballen uit. Hoeveel ballen waren er nog over?</string>
+  <string name="Sub_drum_1">Er stonden ### drums op het podium. @@@ drums werden eraf gehaald. Hoeveel bleven er op het podium?</string>
+  <string name="Sub_drum_2">De band had ### drums. Er gingen @@@ kapot. Hoeveel goede drums waren er nog over?</string>
+  <string name="Sub_cake_1">Er zijn vandaag ### taarten gebakken. Er zijn @@@ taarten gegeten. Hoeveel taarten zijn er nog over?</string>
+  <string name="Sub_cake_2">Een bakker versierde ### taarten. Er werden @@@ taarten verkocht. Hoeveel taarten waren er nog?</string>
+  <string name="Sub_fruits_1">Er zaten ### vruchten in de mand. Er vielen er @@@ uit. Hoeveel vruchten bleven er in?</string>
+  <string name="Sub_fruits_2">In een winkel stonden ### stuks fruit uitgestald. Er werden er @@@ verkocht. Hoeveel stuks waren er nog over?</string>
+  <string name="Sub_flower_1">Er bloeiden ### bloemen in de tuin. Er werden @@@ bloemen geplukt. Hoeveel bloemen bleven er over?</string>
+  <string name="Sub_flower_2">Er stonden ### bloemen in een vaas. @@@ waren verwelkt. Hoeveel waren er vers?</string>
+  <string name="Sub_pig_1">Er zaten ### varkens in de stal. @@@ varkens liepen eruit. Hoeveel varkens bleven er over?</string>
+  <string name="Sub_pig_2">Een boer had ### varkens. Er gingen @@@ varkens naar de vijver. Hoeveel varkens waren er nog over?</string>
+  <string name="Sub_top_1">Er lagen ### tollen op de grond. @@@ stopten met draaien. Hoeveel bleven draaien?</string>
+  <string name="Sub_top_2">Er zaten ### topjes in de doos. Er zijn er @@@ uitgehaald. Hoeveel topjes zijn er gebleven?</string>
+  <string name="Sub_donut_1">Er lagen ### donuts op de schaal. Er werden @@@ donuts opgegeten. Hoeveel donuts bleven er over?</string>
+  <string name="Sub_donut_2">De winkel heeft ### donuts gemaakt. Er zijn er @@@ verkocht. Hoeveel donuts waren er nog over?</string>
+  <string name="Sub_giftbox_1">Er stonden ### geschenkdozen op tafel. @@@ werden geopend. Hoeveel bleven gesloten?</string>
+  <string name="Sub_giftbox_2">Er lagen ### geschenkdozen onder de boom. Er zijn er @@@ meegenomen. Hoeveel zijn er nog over?</string>
+  <string name="Sub_taco_1">Er lagen ### taco's op het bord. Er werden @@@ taco's opgegeten. Hoeveel taco's bleven er over?</string>
+  <string name="Sub_taco_2">Een chef-kok maakte ### taco's. Er werden er @@@ geserveerd. Hoeveel taco's waren er nog over?</string>
+  <string name="Sub_kite_1">### vliegers vlogen in de lucht. @@@ vliegers vielen naar beneden. Hoeveel vliegers vlogen er nog?</string>
+  <string name="Sub_kite_2">Er waren ### vliegers op het strand. @@@ zijn weggewaaid. Hoeveel vliegers zijn er gebleven?</string>
+  <string name="Sub_sandwich_1">Er stonden ### broodjes op tafel. Er werden @@@ broodjes gegeten. Hoeveel bleven er liggen?</string>
+  <string name="Sub_sandwich_2">Een kok maakte ### sandwiches. Er werden er @@@ geserveerd. Hoeveel sandwiches waren er nog over?</string>
+  <string name="Add_Pyramid">Optelpiramide</string>
+</resources>

@@ -1,0 +1,789 @@
+<resources>
+  <!-- Math Kids -->
+  <string name="txt_more_apps">JOŠ APLIKACIJA</string>
+  <string name="txt_holdfor">Zadržite 3 sekunde</string>
+  <string name="txt_title_for_grown_ups">ZA ODRASLE</string>
+  <string name="txt_userguide_for_grown_ups">Za pristup, upišite brojeve</string>
+  <string name="txt_digit_Zero">Nula</string>
+  <string name="txt_digit_One">Jedan</string>
+  <string name="txt_digit_Two">Dva</string>
+  <string name="txt_digit_Three">Tri</string>
+  <string name="txt_digit_Four">Četiri</string>
+  <string name="txt_digit_Five">Pet</string>
+  <string name="txt_digit_Six">Šest</string>
+  <string name="txt_digit_Seven">Sedam</string>
+  <string name="txt_digit_Eight">Osam</string>
+  <string name="txt_digit_Nine">Devet</string>
+  <string name="txt_stickershowcase_toys">IGRAČKE</string>
+  <string name="txt_stickershowcase_stickers">NALJEPNICE</string>
+  <string name="txt_stickershowcase_stamps">ŽIGOVI</string>
+  <string name="txt_stickershowcase_notoys">Nema nijedne igračke</string>
+  <string name="txt_stickershowcase_nostickers">Nema nijedne naljepnice</string>
+  <string name="txt_stickershowcase_nostamps">Nema nijednog žiga</string>
+  <string name="txt_pick_a_stamp">IZABERI ŽIG</string>
+  <string name="txt_collectsticker">PRIKUPI NALJEPNICU</string>
+  <string name="txt_collectyourGift">UZMI SVOJ DAR</string>
+  <!--New-->
+  <string name="txt_rateUsReview_microsoft">Posjeti trgovinu i ocijeni</string>
+  <!-- Please Visit Microsoft Store To Review -->
+  <string name="txt_rateUsReview_amazon">Posjeti trgovinu i ocijeni</string>
+  <!-- Please Visit Amazon Appstore To Review -->
+  <string name="txt_rateUsReview_ios">Posjeti trgovinu i ocijeni</string>
+  <!-- Please Visit App Store To Review -->
+  <string name="txt_rateUsReview_google">Posjeti trgovinu i ocijeni</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="txt_rateUsReview">Posjeti trgovinu i ocijeni</string>
+  <!-- Please Visit Google Play Store To Review -->
+  <string name="text_background_music">Glazba u pozadini</string>
+  <string name="text_sound">Zvuk</string>
+  <string name="text_showhint">Pokaži savjet tijekom učenja</string>
+  <string name="text_learn_with">Učite sa</string>
+  <string name="text_level">Razina ###</string>
+  <string name="text_generate_report">Izradi izvještaj</string>
+  <string name="text_view_report_card">Pogledaj karticu izvještaja</string>
+  <string name="text_visible_mode">Vidljivi način rada</string>
+  <string name="text_VISIBLE_MODE">VIDLJIVI NAČIN RADA</string>
+  <string name="text_share">Podijeli</string>
+  <string name="txt_report_card">KARTICA IZVJEŠTAJA</string>
+  <string name="txt_number">Br.</string>
+  <string name="txt_date_time">Datum/Vrijeme</string>
+  <string name="txt_mode">Način rada</string>
+  <string name="txt_retry">Pokušaj ponovno</string>
+  <string name="txt_no_report">Nema izvještaja</string>
+  <string name="txt_yes">DA</string>
+  <string name="txt_no">NE</string>
+  <string name="txt_delete_report">Želite li doista izbrisati sve podatke kartice izvještaja?</string>
+  <string name="txt_press_again_exit">Pritisni još jednom za izlaz</string>
+  <!-- MORE APPS BY RV APPSTUDIOS -->
+  <string name="txt_Select_Languages">Izaberi jezik</string>
+  <string name="txt_Select_Language">Izaberi jezik</string>
+  <string name="txtLanguages">Jezici</string>
+  <string name="txtOtherLanguages">Drugi jezici</string>
+  <string name="txt_Report_a_Translation_error">Prijavi pogrešku u prijevodu</string>
+  <string name="txt_send">POŠALJI</string>
+  <string name="txtReadyBundle">Preuzimanje će uskoro početi.</string>
+  <string name="txtDownloadingBundle">Preuzmi jezični paket.</string>
+  <string name="txt_ConnectionError">Pogreška u povezivanju</string>
+  <string name="txt_InstallNow">Instaliraj sad</string>
+  <string name="txt_PostSuccess">Poruka je uspješno poslana</string>
+  <!--Multi Kids User-->
+  <!--Multi Kids User-->
+  <string name="txtChildProfiles">Profil djeteta</string>
+  <string name="txtBtnAdd">DODAJ DIJETE</string>
+  <string name="txtAddHelp">Dodajte profile kako bi postavke i izvještaji bili spremljeni za svako vaše dijete.</string>
+  <!--Add multiple children plus save settings for each child and view customized reports for each child.-->
+  <string name="txtAddProfileName">Ime djeteta</string>
+  <string name="txtEnterName">Upišite ime...</string>
+  <!-- EDIT: Child 1 -->
+  <string name="txtMaxLimit">Najviše 20 imena</string>
+  <string name="txtEditProfile">Uredi profil</string>
+  <string name="txtDeleteProfile">Izbriši profil</string>
+  <string name="txtDeleteProfileConfirm">Želite li doista obrisati profil ###?</string>
+  <string name="txtNo">NE</string>
+  <string name="txtYes">DA</string>
+  <string name="txtNameDuplication">To ime već postoji!</string>
+  <string name="txtUserChangeMsg">Profil je uspješno izmijenjen.</string>
+  <string name="txtShareWithParents">Podijelite s roditeljima, školama, vrtićima i ostalima</string>
+  <string name="txtBtnUpdate">Ažuriraj</string>
+  <string name="txtNew">Novo</string>
+  <string name="txt_DownloadNow">Preuzmi sad</string>
+  <string name="txtShowIntroAtStart">Pokaži uvod sa likovima na početku</string>
+  <string name="txt_connection_lost">Veza je prekinuta</string>
+  <string name="txt_connectionlost_detail">Problem u povezivanju s internetom. Provjerite mrežne postavke.</string>
+  <!--Initial Help - START-->
+  <string name="txtInitHelpChangeLangTitle">Promijeni jezik</string>
+  <string name="txtInitHelpChangeLangDesc">Izaberite neki od ### različitih jezika koji ćete rabiti tijekom učenja.</string>
+  <string name="txtInitHelpCustomSettingTitle">Prilagodi postavke</string>
+  <string name="txtInitHelpCustomSettingDesc">Personalizirajte svoje postavke kako biste imali najbolji moguć ugođaj tijekom učenja.</string>
+  <!--We have other free kids' learning apps! They're all FREE, with no ads and no purchases.-->
+  <!--Initial Help - END-->
+  <string ScaleFactor="1" name="txtloading">Učitavanje...</string>
+  <string ScaleFactor="1" name="txtBtnTab">TABULATOR</string>
+  <string ScaleFactor="1" name="txtBtnBack">NATRAG</string>
+  <string ScaleFactor="1" name="txtBtnSelect">IZABERI</string>
+  <string ScaleFactor="1" name="txtBtnDelete">IZBRIŠI</string>
+  <string ScaleFactor="1" name="txtBtnNavigate">KRETANJE</string>
+  <string ScaleFactor="1" name="txtPressKeyToContinue">Pritisni bilo koju tipku za nastavak...</string>
+  <string ScaleFactor="1" name="title_quitConfirm">IZLAZIŠ IZ IGRE?</string>
+  <string ScaleFactor="1" name="msg_quitConfirm">Želiš li doista napustiti igru?</string>
+  <string ScaleFactor="1" name="txtSupportUsByReview">Pružite nam potporu ocjenjujući ovu aplikaciju.</string>
+  <string ScaleFactor="1" name="txtRateUsBtn">Ocijeni nas</string>
+  <string ScaleFactor="1" name="txtLaterBtn">Kasnije</string>
+  <!-- T-Shirts Shop - START -->
+  <!-- T-Shirts Shop - START -->
+  <string ScaleFactor="1" name="txtWaysToSupportUs">Kako nam pružiti potporu</string>
+  <string ScaleFactor="1" name="txtTshirtSizeDesc">Nagradite svoje dijete majicom, a nama pružite potporu.</string>
+  <!-- Reward your child with a t-shirt, and support us -->
+  <string ScaleFactor="1" name="txtTshirtSupportPopup">Najbolji besplatan način da nam pružite potporu jest da podijelite naše igre sa školama, prijateljima, društvenim medijima i tiskom (TV i novine).</string>
+  <!-- The best free way to support us is to share our kids' games with schools, friends, social media, and even press (TV &amp; newspapers). -->
+  <string ScaleFactor="1" name="txtBuyTshirtDesc">Zašto ne biste nagradili svoje dijete kupnjom majice i tako pokazali da volite te likove.</string>
+  <string ScaleFactor="1" name="txtShareCap">PODIJELI</string>
+  <!-- T-Shirts Shop - END -->
+  <string name="txt_shopConfirmTitle">POTVRDI</string>
+  <string name="txt_shopConfirmDetail">Za nastavak ćete biti preusmjereni na web lokaciju. Želite li doista otići?</string>
+  <!-- <string name="txtEarlyAccess" ScaleFactor="1" comment="This text informs user that they .">EARLY ACCESS</string> -->
+  <string ScaleFactor="1" name="txtWiderSelection">Veći izbor, s isporukom diljem svijeta</string>
+  <!-- New Rate US Start -->
+  <string ScaleFactor="1" name="txtTellUs">Kažite nam šta mislite o igri?</string>
+  <string ScaleFactor="1" name="txtVeryBad">Vrlo loša</string>
+  <string ScaleFactor="1" name="txtVeryGood">Vrlo dobra</string>
+  <string ScaleFactor="1" name="txtReviewAndSupport">Da, ocijenite i podržite nas</string>
+  <string ScaleFactor="1" name="txtThanksForFeedBack">Hvala za dojmove</string>
+  <!-- New Rate US END -->
+  <!-- New Rate US END -->
+  <!-- New Settings -->
+  <!--Home with Vs Audio-->
+  <string name="txt_menuoption_home">Na početak</string>
+  <string name="txt_menuoption_settings">Postavke</string>
+  <string name="txt_menuoption_shop">Trgovina</string>
+  <string name="txt_menuoption_kidsapps">Dječje aplikacije</string>
+  <string name="txt_menuoption_parentapps">Aplikacije za roditelje</string>
+  <string name="txt_menuoption_worksheets">Radni listovi</string>
+  <string name="txt_messagefromdave">PORUKA OD</string>
+  <string name="txt_getfeaturedon">BUDITE ISTAKNUTI NA INSTAGRAMU</string>
+  <string name="txt_tagus">Označite @RVAppStudios i budite dio naših priča</string>
+  <!-- Tag @RVAppStudios and be a part of our stories -->
+  <!--Home with Non English Country-->
+  <string name="txt_founderof">(Osnivač tvrtke RV AppStudios)</string>
+  <string name="txt_takeaphoto-videoof">Fotografirajte svoje dijete dok rabi našu aplikaciju ili uzima potvrdu.</string>
+  <!-- Take a photo/video of your child using our app or receiving a certificate. -->
+  <string name="txt_sharetagusonInstagram">Podijelite i označite nas na Instagramu @RVAppStudios kako bismo vas mogli istaknuti.</string>
+  <!--you-tube-banner-->
+  <!--Kids Apps-->
+  <string name="txt_appsforkidsby">Aplikacije za djecu tvrtke RV AppStudios</string>
+  <!--Parent Apps-->
+  <string name="txt_appsforparentsby">Aplikacije za roditelje tvrtke RV AppStudios</string>
+  <!--Printables Worksheet-->
+  <string name="txt_worksheets">RADNI LISTOVI</string>
+  <string name="txt_coloringpage">BOJANKA</string>
+  <string name="txt_downloadmoreworksheet">Preuzmite još listova s naše Pinterest stranice</string>
+  <!-- Download More Worksheet from Our Pinterest Page -->
+  <string name="txtOurStorySettings">S 14 milijuna mjesečnih preuzimanja naših igara u okviru naših besplatnih dječjih aplikacija, postali smo jedan od najvećih svjetskih izdavača dječjih obrazovnih aplikacija. „I nastavljamo to da radimo i dalje, potpuno BESPLATNO.“
+
+„Zašto?“ — Kad sam postao roditelj, znao sam da ću uraditi sve kako bih svojoj kćerki pružio najbolje obrazovanje i najbolje prilike dok odrasta. Vjerujem da mnogi roditelji prepoznaju tu želju da svojoj djeci omoguće više prilika ili bolje obrazovanje nego što su ih oni sami imali.
+
+Ali, nemaju baš svi roditelji vremena ili mogućnosti da svojoj djeci pomognu sa zadaćama. I koliko god da sa želio najbolje za svoju kćerku, smatrao sam da je nepravično da desetine miljuna djece diljem svijeta ne dobiju istu priliku čak niti za osnovno obrazovanje, ili samo da nauče čitati i pisati.
+
+Shvatio sam da kao programer aplikacija imam priliku uraditi nešto po tom pitanju. – „Ne da bih zaradio“, nego da bih djeci iz svih kutova svijeta pružio mogućnost da rano počnu učiti osnovne vještine kao što su brojanje, sricanje i matematika, i to na zabavan način.
+
+Tako sam pokrenuo ogranak tvrtke „RV AppStudios“ za dječje obrazovne aplikacije, s ciljem da stvaramo BESPLATNE aplikacije koje djeci pomažu u razvoju kreativnosti, pamćenja i logičkog razmišljanja, igrajući igre.
+
+Da bismo to postigli, trebalo je da aplikacije i igre za djecu učinimo sigurnim za djecu. Tako sam odlučio zaradu od razvoja naših drugih aplikacija uložiti kako bih dječje aplikacije učinio „100% BESPLATNIM“ i to „BEZ OGLASA“ i „BEZ kupnje u aplikacijama.“ – Jedini koji bi trebali imati korist od ovih aplikacija jesu djeca.
+
+Naša strast jeste vidjeti djecu kako napreduju uz pomoć aplikacija za predškolsko učenje, kako postaju budući stvaratelji promjena u svojim zajednicama. A da bi se to desilo, svoju strast financiramo sami!</string>
+  <string name="txt_messagefromdave1">Dave</string>
+  <string name="txt_tagus1">@rvappstudios</string>
+  <string name="txtOurGoal">1. Our Goal</string>
+  <string name="txtFindingPurpose">2. Finding Our Purpose</string>
+  <string name="txtPayForward">3. Pay It Forward</string>
+  <string name="txtNoDonation">4. No Donations</string>
+  <string name="txtImpactStatement">5. Impact Statements</string>
+  <string name="txtSupportDevel">6. Supporting Kid's Developers</string>
+  <string name="txtWatchUsYouTube">Gledajte naš YouTube kanal</string>
+  <string name="txtRateApp">Ocijenite sad</string>
+  <!-- Rate App -->
+  <!-- Check out our kids' rhymes and educational videos -->
+  <string name="txtContinueBtn">Nastavi</string>
+  <string name="txt_DownloadNowCap">PREUZMI SAD</string>
+  <string name="txt_Play_nowCap">POKRENI SAD</string>
+  <string name="txt_ConnectionErrorMsg1">Povezivanje s internetom nije uspjelo</string>
+  <string name="txt_ConnectionErrorMsg2">Pokušajte ponovno kasnije!</string>
+  <string name="txtContinue">Nastavi</string>
+  <!-- NEW FOR MATH KIDS -->
+  <string name="txt_equation">Jednadžba</string>
+  <string name="txtSubPracticeTitle">Vježbanje oduzimanja</string>
+  <string name="txtAddPracticeTitle">Vježbanje zbrajanja</string>
+  <string name="txtBeginner">Početnik</string>
+  <string name="txtIntermediate">Srednji</string>
+  <string name="txtAdvance">Napredni</string>
+  <string name="txtSubPracticeTitle">Vježbanje oduzimanja</string>
+  <string name="txtAddPracticeTitle">Vježbanje zbrajanja</string>
+  <string name="txtBeginner">Početnik</string>
+  <string name="txtIntermediate">Srednji</string>
+  <string name="txtAdvance">Napredni</string>
+  <string name="txtCertificate">Potvrda</string>
+  <string name="txtCertificates">POTVRDA</string>
+  <string name="txtUnlocked">Otključano</string>
+  <string name="txtCongratulations">Čestitamo</string>
+  <string name="txtCertificateUnlocked">Otključana je nova potvrda!</string>
+  <!--EDIT: A new learning certificate is unlocked!-->
+  <!--English: A new learning certificate is unlocked!-->
+  <string name="txtCertificateOn">na dan</string>
+  <string name="txtPrint">Printај</string>
+  <!--  -->
+  <string name="txt_certi_title_1">NAGRADA</string>
+  <string name="txt_certi_title_2">IZNIMNO</string>
+  <string name="txt_certi_title_3">DODIJELJENA ZVIJEZDA</string>
+  <string name="txt_certi_title_4">SJAJAN RAD</string>
+  <string name="txt_certi_title_5">ODLIČNO</string>
+  <string name="txt_certi_title_6">FANTASTIČNO</string>
+  <string name="txt_certi_title_7">POSTIGNUĆE</string>
+  <string name="txt_certi_title_8">DOBRO ODRAĐENO</string>
+  <!--  -->
+  <!--EDIT: This product is available only in USA.-->
+  <string name="txt_shopConfirmTitle">POTVRDI</string>
+  <string name="txt_shopConfirmDetail">Za nastavak ćete biti preusmjereni na web lokaciju. Želite li doista otići?</string>
+  <!--EDIT: There was a problem connecting to the internet. Please check your network settings.-->
+  <string name="txt_CertificateGot">Zaslužuješ potvrdu!</string>
+  <string name="txtEnterNm">Upišite ime djeteta.</string>
+  <!-- EDIT: Send us the picture to @rvappstudios on Instagram with a certificate wall and we may repost. -->
+  <string name="txtCertiInspire">Ispišite potvrdu i podstaknite svoje dijete</string>
+  <string name="txtGreat">SJAJNO</string>
+  <string name="txtTapToGetCerti">Dotakni za uzimanje potvrde.</string>
+  <!-- Tap here to get your certificate. -->
+  <!-- Tap here to get your Worksheets. -->
+  <!--Math Kids-->
+  <string name="Math_Task_1_Start">Prebroj predmete 20 puta</string>
+  <string name="Math_Task_1_End">Prebrojani predmeti 20 puta</string>
+  <string name="Math_Task_2_Start">Riješi 30 zadataka zbrajanja</string>
+  <string name="Math_Task_2_End">Riješeno 30 zadataka zbrajanja</string>
+  <string name="Math_Task_3_Start">Dovrši zabavno zbrajanje 30 puta</string>
+  <string name="Math_Task_3_End">Dovršeno zabavno zbrajanje 30 puta</string>
+  <string name="Math_Task_4_Start">Dovrši 30 kvizova zbrajanja</string>
+  <string name="Math_Task_4_End">Dovršeno 30 kvizova zbrajanja</string>
+  <string name="Math_Task_5_Start">Usporedi predmete 30 puta</string>
+  <string name="Math_Task_5_End">Uspoređeni predmeti 30 puta</string>
+  <string name="Math_Task_6_Start">Riješi 30 zadataka oduzimanja</string>
+  <string name="Math_Task_6_End">Riješeno 30 zadataka oduzimanja</string>
+  <string name="Math_Task_7_Start">Dovrši zabavno oduzimanje 30 puta</string>
+  <string name="Math_Task_7_End">Dovršeno zabavno oduzimanje 30 puta</string>
+  <string name="Math_Task_8_Start">Dovrši 30 kvizova oduzimanja</string>
+  <string name="Math_Task_8_End">Dovršeno 30 kvizova oduzimanja</string>
+  <string name="Math_Task_1_Completed">Zaslužuješ potvrdu! Prebrojani predmeti 20 puta.</string>
+  <!-- EDIT: Combine both - You got a certificate for counting items 20 times. -->
+  <string name="Math_Task_2_Completed">Zaslužuješ potvrdu! Riješeno 30 zadataka zbrajanja.</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 adding puzzles. -->
+  <string name="Math_Task_3_Completed">Zaslužuješ potvrdu! Dovršeno zabavno zbrajanje 30 puta.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing adding fun 30 times. -->
+  <string name="Math_Task_4_Completed">Zaslužuješ potvrdu! Dovršeno 30 kvizova zbrajanja.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 adding quizzes. -->
+  <string name="Math_Task_5_Completed">Zaslužuješ potvrdu! Uspoređeni predmeti 30 puta.</string>
+  <!-- EDIT: Combine both - You got a certificate for comparing items 30 times. -->
+  <string name="Math_Task_6_Completed">Zaslužuješ potvrdu! Riješeno 30 zadataka oduzimanja</string>
+  <!-- EDIT: Combine both - You got a certificate for solving 30 Subtracting puzzles. -->
+  <string name="Math_Task_7_Completed">Zaslužuješ potvrdu! Dovršeno zabavno oduzimanje 30 puta.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing subtracting fun 30 times. -->
+  <string name="Math_Task_8_Completed">Zaslužuješ potvrdu! Dovršeno 30 kvizova oduzimanja.</string>
+  <!-- EDIT: Combine both - You got a certificate for completing 30 subtracting quizzes. -->
+  <string name="txtconnectingPintrest">Poveži se s Pinterestom</string>
+  <string name="txtconnectingPintrestMsg">Bit ćete preusmjereni na trgovinu Pinterest. Želite li doista otići?</string>
+  <string name="txtContinue">Nastavi</string>
+  <string name="txtinspirationbehind">Nadahnuće iza dječjih aplikacija</string>
+  <!-- Download and print free practice worksheets. -->
+  <string name="txtPrintableSmall">Materijali za ispisivanje</string>
+  <string name="txtOurStorySettingsNew">Naša Priča</string>
+  <string name="txt_why_its_free">NAŠA PRIČA</string>
+  <string name="txtAllowCouting">Dopusti brojanje (Brojanje)</string>
+  <!-- EDIT: Allow Counting (for Counting Mode) combine both  -->
+  <!-- Month Name -->
+  <!-- MODE NAME -->
+  <string name="Counting">Brojanje</string>
+  <string name="Adding Puzzle">Zadaci zbrajanja</string>
+  <string name="Adding Fun">Zabavno zbrajanje</string>
+  <string name="Adding Quiz">Kviz zbrajanja</string>
+  <string name="Compare">Usporedi</string>
+  <string name="Subtracting Puzzle">Zadaci oduzimanja</string>
+  <string name="Subtracting Fun">Zabavno oduzimanje</string>
+  <string name="Subtracting Quiz">Kviz oduzimanja</string>
+  <string ScaleFactor="1" name="txt_gamename">Dječja matematika – zbrajaj, oduzimaj, broj</string>
+  <!-- Math Kids - Add, Subtract, Count, and Learn -->
+  <string ScaleFactor="1" name="txt_gamenameiOS">Dječja matematika – zbrajaj, oduzimaj, broj</string>
+  <!-- YouTube NEW - START -->
+  <string name="txt_rvappstudiosYT">RV AppStudios sad i na YouTubeu</string>
+  <string name="txt_textrhymesYT">OBRAZOVNE PJESMICE I USPAVANKE</string>
+  <!-- YouTube NEW - END -->
+  <string name="txt_TitleLanguage">Hrvatski</string>
+  <!-- NO NEED TO DO LOCALIZATION -->
+  <string name="txt_objectname_King">King</string>
+  <string name="txt_objectname_Dinosaur">Dinosaur</string>
+  <string name="txt_objectname_Fish">Fish</string>
+  <string name="txt_objectname_Horse">Horse</string>
+  <string name="txt_objectname_Octopus">Octopus</string>
+  <string name="txt_objectname_Crocodiles">Crocodiles</string>
+  <string name="txt_objectname_Jars">Jars</string>
+  <string name="txt_objectname_Buses">Buses</string>
+  <string name="txt_objectname_Strollers">Strollers</string>
+  <string name="txt_objectname_Giraffes">Giraffes</string>
+  <string name="txt_objectname_Goats">Goats</string>
+  <string name="txt_objectname_Jokers">Jokers</string>
+  <string name="txt_objectname_Beds">Beds</string>
+  <string name="txt_objectname_Peacocks">Peacocks</string>
+  <string name="txt_objectname_Cubs">Cubs</string>
+  <string name="txt_objectname_Foxes">Foxes</string>
+  <string name="txt_objectname_Boats">Boats</string>
+  <string name="txt_objectname_Cycles">Cycles</string>
+  <string name="txt_objectname_Caterpillars">Caterpillars</string>
+  <string name="txt_objectname_Dogs">Dogs</string>
+  <string name="txt_objectname_Cats">Cats</string>
+  <string name="txt_objectname_Chameleon">Chameleon</string>
+  <string name="txt_objectname_Eagles">Eagles</string>
+  <string name="txt_objectname_Globes">Globes</string>
+  <string name="txt_objectname_Toys">Toys</string>
+  <string name="txt_objectname_Airplanes">Airplanes</string>
+  <string name="txt_objectname_Vans">Vans</string>
+  <string name="txt_objectname_Hamsters">Hamsters</string>
+  <string name="txt_objectname_Hens">Hens</string>
+  <string name="txt_objectname_Tortoises">Tortoises</string>
+  <string name="txt_objectname_Hammers">Hammers</string>
+  <string name="txt_objectname_Butterflies">Butterflies</string>
+  <string name="txt_objectname_Eggs">Eggs</string>
+  <string name="txt_objectname_Trees">Trees</string>
+  <string name="txt_objectname_Lamps">Lamps</string>
+  <string name="txt_objectname_Kites">Kites</string>
+  <string name="txt_objectname_Cars">Cars</string>
+  <string name="txt_objectname_Drums">Drums</string>
+  <string name="txt_objectname_Grapes">Grapes</string>
+  <string name="txt_objectname_Flowers">Flowers</string>
+  <string name="txt_objectname_Gifts">Gifts</string>
+  <string name="txt_objectname_Locks">Locks</string>
+  <string name="txt_objectname_Mailboxes">Mailboxes</string>
+  <string name="txt_objectname_Acorns">Acorns</string>
+  <string name="txt_objectname_Rockets">Rockets</string>
+  <string name="txt_objectname_Guitars">Guitars</string>
+  <string name="txt_objectname_Umbrellas">Umbrellas</string>
+  <string name="txt_objectname_Hourglasses">Hourglasses</string>
+  <string name="txt_objectname_Mangoes">Mangoes</string>
+  <string name="txt_objectname_Teddy Bears">Teddy Bears</string>
+  <string name="txt_objectname_Tins">Tins</string>
+  <string name="txt_objectname_Cans">Cans</string>
+  <string name="txt_objectname_Caps">Caps</string>
+  <string name="txt_objectname_Snails">Snails</string>
+  <string name="txt_objectname_Whistles">Whistles</string>
+  <string name="txt_objectname_Diamonds">Diamonds</string>
+  <string name="txt_objectname_Ducks">Ducks</string>
+  <string name="txt_objectname_Bulbs">Bulbs</string>
+  <string name="txt_objectname_Leaves">Leaves</string>
+  <string name="txt_objectname_Magnets">Magnets</string>
+  <string name="txt_objectname_Owls">Owls</string>
+  <string name="txt_objectname_Parrots">Parrots</string>
+  <string name="txt_objectname_Pinwheels">Pinwheels</string>
+  <string name="txt_objectname_Santa Caps">Santa Caps</string>
+  <string name="txt_objectname_Ties">Ties</string>
+  <string name="txt_objectname_Bugs">Bugs</string>
+  <string name="txt_objectname_Trumpets">Trumpets</string>
+  <string name="txt_objectname_Lotuses">Lotuses</string>
+  <string name="txt_objectname_Strawberries">Strawberries</string>
+  <string name="txt_objectname_Bananas">Bananas</string>
+  <string name="txt_objectname_Fishes">Fishes</string>
+  <string name="txt_objectname_Jugs">Jugs</string>
+  <string name="txt_objectname_Oranges">Oranges</string>
+  <string name="txt_objectname_Buns">Buns</string>
+  <string name="txt_objectname_Cups">Cups</string>
+  <string name="txt_objectname_Frogs">Frogs</string>
+  <string name="txt_objectname_Homes">Homes</string>
+  <string name="txt_objectname_IceCreams">IceCreams</string>
+  <string name="txt_objectname_Balls">Balls</string>
+  <string name="txt_objectname_Bags">Bags</string>
+  <string name="txt_objectname_Teapots">Teapots</string>
+  <string name="txt_objectname_Milk Bottles">Milk Bottles</string>
+  <string name="txt_objectname_Alarm Clocks">Alarm Clocks</string>
+  <string name="txt_objectname_Apples">Apples</string>
+  <string name="txt_objectname_Trophies">Trophies</string>
+  <string name="txt_objectname_Keys">Keys</string>
+  <string name="txt_objectname_Mushrooms">Mushrooms</string>
+  <string name="txt_objectname_Pigs">Pigs</string>
+  <string name="txt_objectname_Pots">Pots</string>
+  <string name="txt_objectname_Flags">Flags</string>
+  <string name="txt_objectname_Candies">Candies</string>
+  <string name="txt_objectname_Crowns">Crowns</string>
+  <string name="txt_objectname_Mugs">Mugs</string>
+  <string name="txt_objectname_Cupcakes">Cupcakes</string>
+  <string name="txt_objectname_Tops">Tops</string>
+  <string name="txt_objectname_Birds">Birds</string>
+  <string name="txt_objectname_Rattles">Rattles</string>
+  <string name="txt_objectname_Bees">Bees</string>
+  <string name="txt_objectname_Carrots">Carrots</string>
+  <string name="txt_objectname_Wobble Toys">Wobble Toys</string>
+  <string name="txtDearParents">Dear Parents,</string>
+  <string name="txtTeamName">RV AppStudios Team</string>
+  <string name="txtPassionProjectDesc" ScaleFactor="1">Our kids apps are our #PassionProject and our mission is to create amazing free kids apps with no ads or paywall. If you support our cause, we would really appreciate your support by sharing app!</string>
+  <string name="txtPassionProjectHeader" ScaleFactor="1">Our Mission</string>
+  <string name="txtPassionProjectShare" ScaleFactor="1">Share if you support education</string>
+  <string name="txtOurStoryBtnTxt" ScaleFactor="1">NAŠA PRIČA</string>
+  <string name="txtWhyItsFreeBannerPage1Title" ScaleFactor="1">OUR STORY</string>
+  <string name="txtWhyItsFreeBannerPage2Title" ScaleFactor="1">ZAŠTO JE VAŽNO UZVRATITI?</string>
+  <string name="txtWhyItsFreeBannerPage3Title" ScaleFactor="1">KAKO ODRŽAVAMO SVOJE APLIKACIJE BESPLATNIM?</string>
+  <string name="txtWhyItsFreeBannerPage1Txt1" ScaleFactor="1">Take a moment to look at your children and think
+about where you want them to be in 10, 20 or 30
+years. What opportunities do you want them to have
+in life? A good education? A position from where they
+can make a positive difference for their families and
+community? </string>
+  <string name="txtWhyItsFreeBannerPage1Txt2" ScaleFactor="1">Our children are our future, and they deserve the best
+opportunities we as parents and communities can
+give them. But not all parents have the time or ability
+to help their children with their homework. And most
+of us, as parents, can probably recognize the wish for
+our kids to receive a better education than we had. </string>
+  <string name="txtWhyItsFreeBannerPage1Txt3" ScaleFactor="1">When I became a parent, I knew I would do everything to
+give my daughter the best education and the best
+opportunities as she grows up. But at the same time,
+I felt it was unfair that tens of millions of kids all over the
+world, would not get the same opportunity for even a basic
+education or learning to read and write.</string>
+  <string name="txtWhyItsFreeBannerPage1Txt4" ScaleFactor="1">That’s why I decided to launch the educational apps
+branch of <![CDATA[<b>RV AppStudios</b>]]> to help children get an early
+start learning essential skills like counting, spelling,
+and math… And giving those apps away for <![CDATA[<b>FREE!</b>]]></string>
+  <string name="txtWhyItsFreeBannerPage1Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage2Txt1" ScaleFactor="1">Children are meant to learn by playing games and
+having fun! So we develop entertaining <![CDATA[<b>FREE</b>]]> kids’
+apps that lets children develop their creativity and test
+their intelligence with fun jigsaw puzzles, challenging
+memory games, and much more.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt2" ScaleFactor="1">Mobile devices and internet connection is becoming
+available in all corners of the world.
+That is our opportunity as app developers to reach
+and make a positive difference for children
+who do not have access to schools or books,
+but whose parents have a smartphone. </string>
+  <string name="txtWhyItsFreeBannerPage2Txt3" ScaleFactor="1">Our apps are developed to give preschoolers from all
+corners of the world an educational advantage,
+but especially to teach those kids who otherwise
+don’t have the opportunity to get a basic education.</string>
+  <string name="txtWhyItsFreeBannerPage2Txt4" ScaleFactor="1">Because getting an early start learning universal skills cre-
+ates better opportunities for children everywhere! </string>
+  <string name="txtWhyItsFreeBannerPage3Txt1" ScaleFactor="1">My team and I have been blessed to be able to make a
+living doing what we love - developing gaming apps
+(for adults). Now we want to give back to children
+around the world by investing our company profits
+into creating some of the most popular apps for
+toddlers and children eager to have fun and learn.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt1-1" ScaleFactor="1">- We simply find making a difference much more
+rewarding than getting rich ourselves.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt2" ScaleFactor="1">We believe that kids shouldn't be influenced by ads or
+in-app promotions. That’s why we keep our kids’
+applications <![CDATA[<b>100% AD FREE</b>]]> and with <![CDATA[<b>No in-app</b>]]><![CDATA[<b>purchases.</b>]]> The only way we can make preschool
+learning apps available to all children, is by keeping it
+100% free to use.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt3" ScaleFactor="1">Every time we read reviews from happy parents, telling us
+how much their children have developed using our apps
+and playing our games, it shows us that our tiny
+contribution to our local and global society are worth it!</string>
+  <string name="txtWhyItsFreeBannerPage3Txt4" ScaleFactor="1">We hope our efforts can inspire others to give back
+and make a difference. Especially that the children
+getting a head start through pre-school learning apps,
+becomes the future leaders of change in their
+communities.</string>
+  <string name="txtWhyItsFreeBannerPage3Txt5" ScaleFactor="1">- Founder of RV AppStudios</string>
+  <string name="txtWhyItsFreeBannerPage4Txt1" ScaleFactor="1">So far, more than 250 million people have downloaded
+our mobile games and Free Kids’ Apps. <![CDATA[<b>- Currently</b>]]><![CDATA[<b> that’s over 15 million downloads every month!</b>]]> More than
+two-thirds (12 million) of those downloads come from
+parents wanting to help their kids begin learning from
+an early age, effectively reducing the risk of falling
+behind as they start in school. It’s these millions of
+children around the world getting a chance for a better
+future that fuels our passion to continue!</string>
+  <string name="123_Numbers" ScaleFactor="1">123 Numbers</string>
+  <string name="ABC_Kids" ScaleFactor="1">ABC Kids</string>
+  <string name="ABC_Spelling" ScaleFactor="1">ABC Spelling</string>
+  <string name="Baby_Games" ScaleFactor="1">Baby Games</string>
+  <string name="Colors_Shapes" ScaleFactor="1">Colors &amp; Shapes</string>
+  <string name="Math_Kids" ScaleFactor="1">Math Kids</string>
+  <string name="Multiplication_Kids" ScaleFactor="1">Multiplication Kids</string>
+  <string name="Puzzle_Kids" ScaleFactor="1">Puzzle Kids</string>
+  <string name="Coloring_Games" ScaleFactor="1">Coloring Games</string>
+  <string name="Sight_Words" ScaleFactor="1">Sight Words</string>
+  <string name="Math_Games" ScaleFactor="1">Math Games</string>
+  <string name="Number_Kids" ScaleFactor="1">Number Kids</string>
+  <string name="Drawing_Games" ScaleFactor="1">Drawing Games</string>
+  <string name="Word_Search" ScaleFactor="1">Word Search</string>
+  <string name="Jigsaw_Puzzles_Clash" ScaleFactor="1">Jigsaw Puzzles</string>
+  <string name="Balloon_Paradise" ScaleFactor="1">Balloon Paradise</string>
+  <string name="Christmas_Cookie" ScaleFactor="1">Christmas Cookie</string>
+  <string name="Fruit_Cube_Blast" ScaleFactor="1">Fruit Cube Blast</string>
+  <string name="Gummy_Paradise" ScaleFactor="1">Gummy Paradise</string>
+  <string name="Ice_Cream_Paradise" ScaleFactor="1">Ice Cream Paradise</string>
+  <string name="Pastry_Pop_Blast" ScaleFactor="1">Pastry Pop Blast</string>
+  <string name="Find_The_Differences" ScaleFactor="1">Find The Differences</string>
+  <string name="4_Pics_1_Word" ScaleFactor="1">Pics - Guess the word</string>
+  <string name="2_Pics_1_Word" ScaleFactor="1">Word Pics - Word Games</string>
+  <string name="Cake_Blast" ScaleFactor="1">Cake Blast</string>
+  <string name="Jewel_Gem" ScaleFactor="1">Jewel Gem</string>
+  <string name="Jigsaw_Puzzles_Hexa" ScaleFactor="1">Jigsaw Puzzles Hexa</string>
+  <string name="Odd_One" ScaleFactor="1">Find The Difference</string>
+  <string name="Color_Hexa" ScaleFactor="1">Block Puzzle</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txtYouTube">YouTube</string>
+  <string name="txtOurStory_subject" ScaleFactor="1">Support Kids Education</string>
+  <string name="txtOurStory_message" ScaleFactor="1">RV AppStudios supports #kids education by creating Free Kids Apps as a #PassionProject! Doing my part by sharing their AMAZING story, of how they now get over 14 million monthly downloads &amp; are making a difference. [www.rvappstudios.com]</string>
+  <string name="txtCertiShare1">My child earned a learning certificate! Yours can, too!</string>
+  <string name="txtCertiShare2">We got this nice certificate for learning new things. Thanks [GAME-Name]!</string>
+  <string name="txtCertiShare3">A fun reward for learning, such a great feature!</string>
+  <string name="txtBtnOK">U redu</string>
+  <string name="txt_add">ZBRAJAJ</string>
+  <string name="txt_sub">ODUZIMAJ</string>
+  <string name="text_level">Razina ###</string>
+  <string name="txtInitOurStoryDescTitle" ScaleFactor="1">Provjerite našu priču</string>
+  <string name="txtInitHelpChangeLangMainTitle" ScaleFactor="1">Prvo dovrši upute za pomoć</string>
+  <string name="txt_Kezako" ScaleFactor="1">Word Spin: Word Games</string>
+  <string name="txt_Pieces" ScaleFactor="1">Puzzles: Jigsaw Puzzle Games</string>
+  <string name="txt_Bonza" ScaleFactor="1">Jigsaw Puzzles Blocks</string>
+  <string name="Block_Puzzle" ScaleFactor="1">Blocks: Block Puzzle Games</string>
+  <string name="Bubble_Pop_Kids" ScaleFactor="1">Bubble Pop: Bubble Shooter</string>
+  <string name="Kids_Games" ScaleFactor="1">Kids Games: For Toddlers 3-5</string>
+  <string name="txt_wait">Molimo, pričekajte</string>
+  <string name="txt_langdownloaded">Preuzimanje je dovršeno</string>
+  <string name="txtInternetIssue">Problem u povezivanju s internetom</string>
+  <string name="title_IndianLanguages">Indian Languages</string>
+  <string name="title_OtherLanguages">DRUGI JEZICI</string>
+  <string name="txt_ContinueIn">Nastavi na ###</string>
+  <string name="txt_EnglishWord">English</string>
+  <string name="txt_OurKidsGames">NAŠE IGRE</string>
+  <string name="txt_SuggestedLanguages">Predloženi jezici</string>
+  <string name="txt_VisitOurChannel">POSJETITE NAŠ KANAL</string>
+  <string name="txt_followusandshare">SLIJEDITE NAS I POMOZITE NAM</string>
+  <string name="txt_OurImpact">NAŠ UTJECAJ</string>
+  <string name="txt_OurImpactDesc">RV AppStudios obrazuje više od &lt;color=#EB0000&gt;14,000,000&lt;/color&gt; djece mjesečno s našim besplatnim aplikacijama za djecu.</string>
+  <string name="txt_KidsApp">APLIKACIJA ZA DJECU</string>
+  <string name="txt_Countries">ZEMLJE</string>
+  <string name="txt_NoOfKidsUseApp">175,000,000 DJECE KORISTIT ĆE NAŠE APLIKACIJE</string>
+  <string name="txt_Hello">Zdravo</string>
+  <string name="txt_RvAppStudios">RV AppStudios</string>
+  <string name="txt_LucasAndFriends"><![CDATA[Lucas & Friends]]></string>
+  <string name="txt_ShopDesc2">Novi dizajn majica dodaje se svaki tjedan!</string>
+  <string name="txt_AllGamesAreFree">(Sve igre su besplatne i bez oglasa)</string>
+  <string name="txt_ShowShopBtn">Sakrijte "gumb za kupovinu" iz glavnog izbornika</string>
+  <string name="txt_ShowOurStoryBtn">Sakrijte "gumb za našu priču" iz glavnog izbornika</string>
+  <string name="txt_ShowMoreappBtn">Sakrij "Gumb Više aplikacija" iz glavnog izbornika</string>
+  <string name="txt_TranslationFeedback">Povratne informacije o prijevodu</string>
+  <string name="txt_TranslationFeedbackInfo">Prijavite grešku u prijevodu. Nemojte slati osjetljive podatke.</string>
+  <string name="txtTShirtForToddler" ScaleFactor="1">MAJICE ZA DJECU</string>
+  <string name="txtEducationalBooks" ScaleFactor="1">EDUKATIVNE KNJIGE ZA DJECU</string>
+  <string name="txtShopTitleWithWorkbook2" ScaleFactor="1">LUCAS &amp; FRIENDS MAJICE &amp; POUČNE KNJIGE</string>
+  <string name="txtBooksInSetting" ScaleFactor="1">PRVI LUCAS &amp; FRIENDS KNJIGA</string>
+  <string name="txtShopTitleWithWorkbook" ScaleFactor="1">MAJICE &amp; EDUKATIVNE KNJIGE ZA DJECU</string>
+  <string name="txt_VisibleMDstng">Odaberite načine prikaza</string>
+  <string name="txt_SelectParentGate">Odaberite Opcije za otključavanje postavke</string>
+  <string name="txt_HideButtons">Sakrij gumbe</string>
+  <string name="txt_HideButtonsFromMenu">Sakrij gumbe iz glavnog izbornika</string>
+  <string name="txt_rateThanks">Hvala vam na ljubavi i potpori. I mi volimo vas!</string>
+  <string name="txt_rateFeedback">Hvala vam, bit će nam drago čuti što vi mislite. Pošaljite nam svoje dojmove.</string>
+  <string name="txt_rateLetUsKnow">Javite nam da li vaše dijete uživa s našom aplikacijom.</string>
+  <string name="txt_rateHappySad">Jeste li zadovoljni aplikacijom?</string>
+  <string name="txt_rateHappy">VESELIM SE</string>
+  <string name="txt_rateSad">TUŽAN</string>
+  <string name="txtRateDesc1">Da li biste ocijenili aplikaciju u trgovini Play Store? Time ćete pomoći drugim roditeljima da saznaju za aplikaciju.</string>
+  <string name="txtVeryBadCap">VRLO LOŠE</string>
+  <string name="txtGoodCap">DOBRO</string>
+  <string name="txtRateAppBtn">Ocijeni nas</string>
+  <string name="txtRateHdr">OCIJENI NAS</string>
+  <string name="english_name">Engleski</string>
+  <string name="Sendfeedback" ScaleFactor="1">Pošalji povratne informacije</string>
+  <string name="UseOurApps">Djeca koriste naše obrazovne aplikacije svaki mjesec.</string>
+  <string name="Lucas_Friends" ScaleFactor="1">Lucas &amp; Friends by RV Appstudios je na YouTube</string>
+  <string name="FindOurApp" ScaleFactor="1">Pretražite RV Appstudios kako biste pronašli naše aplikacije</string>
+  <string name="GiphyStickers" ScaleFactor="1">Sada su dostupni animirani GIF-ovi i naljepnice!</string>
+  <string name="GiphyTenor" ScaleFactor="1">Pretražite @RVAppStudios na GIF tipkovnici</string>
+  <string name="txt_2Digit+">2 znamenke +</string>
+  <string name="txt_2Digit-">2 znamenke -</string>
+  <string name="Intro_Text" ScaleFactor="1">Posjetite RVAppStudios.com za najnovije vijesti!</string>
+  <string ScaleFactor="1" name="txtWhyItsFreeBannerPage4Title">NAŠ UTJECAJ - više od 200 milijuna preuzimanja ima značaja</string>
+  <string name="About_Us">O NAMA</string>
+  <string name="txt_collectGift">UZMI SVOJ DAR</string>
+  <string name="txt_GoodJob">Szép munka</string>
+  <string name="Impact_together">Utjecaj Koji Možemo Napraviti Zajedno</string>
+  <string name="For_Parents">Za Roditelje</string>
+  <string name="Message_Parents">Poruka Za Roditelje</string>
+  <string name="txtShoppingMode">Shopping</string>
+  <string name="Math_Task_9_Start">Riješi 2-znamenke zbrajanja 30 puta</string>
+  <string name="Math_Task_9_End">Riješeno 2-znamenke zbrajanja 30 puta</string>
+  <string name="Math_Task_10_Start">Riješi 2-znamenke oduzimanja 30 puta</string>
+  <string name="Math_Task_10_End">Riješeno 2-znamenke oduzimanja 30 puta</string>
+  <string name="Math_Task_11_Start">Dovrši 30 Vježbanje zbrajanja</string>
+  <string name="Math_Task_11_End">Dovršeno 30 Vježbanje zbrajanja</string>
+  <string name="Math_Task_12_Start">Dovrši 30 Vježbanje oduzimanja</string>
+  <string name="Math_Task_12_End">Dovršeno 30 Vježbanje oduzimanja</string>
+  <string name="Math_Task_13_Start">Riješi 30 Shopping pitanja </string>
+  <string name="Math_Task_13_End">Riješeno 30 Shopping pitanja</string>
+  <string name="Math_Task_9_Completed">Zaslužuješ potvrdu! Riješeno 2-znamenke zbrajanja 30 puta.</string>
+  <string name="Math_Task_10_Completed">Zaslužuješ potvrdu! Riješeno 2-znamenke oduzimanja 30 puta.</string>
+  <string name="Math_Task_11_Completed">Zaslužuješ potvrdu! Dovršeno 30 vježbanje zbrajanja.</string>
+  <string name="Math_Task_12_Completed">Zaslužuješ potvrdu! Dovršeno 30 vježbanje oduzimanja.</string>
+  <string name="Math_Task_13_Completed">Zaslužuješ potvrdu! Riješeno 30 shopping pitanja.</string>
+  <string name="January">siječanj</string>
+  <string name="February">veljača</string>
+  <string name="March">ožujak</string>
+  <string name="April">travanj</string>
+  <string name="May">svibanj</string>
+  <string name="June">lipanj</string>
+  <string name="July">srpanj</string>
+  <string name="August">kolovoz</string>
+  <string name="September">rujan</string>
+  <string name="October">listopad</string>
+  <string name="November">studeni</string>
+  <string name="December">prosinac</string>
+  <string name="OurImpactKids1">djece je koristilo naše aplikacije</string>
+  <string name="Storage_low">Nema Dovoljno Prostora Za Pohranu</string>
+  <string name="OurImpactKids">1 Milijarda</string>
+  <string name="MessageForAdult1">Svatko od nas ima jedinstven talent. Ja izrađujem aplikacije. Vi ste možda izvrstan učitelj, liječnik, umjetnik itd. Kao što ja besplatno dijelim ono što volim, nadam se da ću i vas podstaknuti da podijelite svoje vještine. Pomaganje drugima čini da se osjećate dobro i podstiče druge. Razmotrite utjecaj koji možemo ostvariti zajedno! Lucas &amp; Friends imaju za cilj potaknuti dobro u ljudima. Molimo vas da nas podržite tako što ćete na neki svoj način uzvratiti drugima.</string>
+  <string name="Books_Tshirts">Knjige &amp; majice</string>
+  <string name="we_Inspire_msg1">Hvala vam što nas nadahnjujete i hvala vam na vašoj potpori.</string>
+  <string name="we_Inspire_msg">Lucas &amp; Friends je započela rad s besplatnim obrazovnim aplikacijama za djecu kao strast, bez reklama ili kupnji u aplikacijama. Mi nastojimo činiti nešto dobro u svijetu, dati nešto zauzvrat i napraviti nekakav utjecaj. Preko &lt;color=#ff0018&gt;&lt;size=35&gt;1 Milijarda&lt;/size&gt;&lt;/color&gt;  djece uči uz pomoć naših obrazovnih aplikacija. &lt;color=#FF6400&gt;Nikad nismo ni maštali da ćemo jednoga dana izgraditi brend za djecu i prodavati igračke!&lt;/color&gt;</string>
+  <string name="we_Inspire">Mi podstičemo na dobro u ljudima</string>
+  <string ScaleFactor="1" name="Mission_Message">Lucas &amp; Friends: misija je učiniti učenje zabavnim i pristupačnim! Besplatne obrazovne aplikacije, bez oglasa, bez ikakvih troškova – samo čisto, radosno učenje za djecu.</string>
+  <string name="txt_CrossMath" ScaleFactor="1">Unakrsna Matematika</string>
+  <string name="txt_FishingMode" ScaleFactor="1">Ribolov Zabava</string>
+  <string name="txt_SnowMode" ScaleFactor="1">Snijeg</string>
+  <string name="txt_Addition">Zbrajanje</string>
+  <string name="txt_Subtraction">Oduzimanje</string>
+  <string name="FunGames">Zabavne Igre</string>
+  <string name="Select_Character" ScaleFactor="1">Odaberite Karakter</string>
+  <string name="Car_Game" ScaleFactor="1">Igra Auta</string>
+  <string name="txtUserChangeMsg1">Profil djeteta uspješno je promijenjen.</string>
+  <string name="txt_1Digit">1 znamenkom</string>
+  <string name="txt_2Digit">2 znamenke</string>
+  <string name="txt_Play">Igraj</string>
+  <string name="txtOpponentWon">Protivnik je pobijedio!</string>
+  <string name="txtYouWon">Ti pobjeđuješ!</string>
+  <string name="txtRematch">Revanš</string>
+  <string name="txt_SelectDifficulty">Izaberi težinu</string>
+  <string name="txt_DualMode">Dva igrača</string>
+  <string name="txt_Correct">Točno</string>
+  <string name="Draw">Neriješeno</string>
+  <string name="Apparel_Accessories">ODJEĆA I DODACI</string>
+  <string name="best_Seller">Najprodavaniji</string>
+  <string name="RateUsNew">Uživate li u našoj igri? Vaša recenzija pomaže u širenju naše misije i besplatnih aplikacija drugim roditeljima.</string>
+  <string name="txt_AdditupMode">Dodajte ga</string>
+  <string name="txt_SudokuMode">Zagonetke</string>
+  <string name="txtBrandTrust">MARKA KOJOJ MOŽETE VJEROVATI</string>
+  <string name="txtMission">Misija Koju Možete Cijeniti</string>
+  <string name="Number_Path">Put Broja</string>
+  <string name="Add_butterfly_1">### leptiri sjede na cvijetu. Zatim, @@@ poleti još leptira i pridruži im se. Koliko je ukupno leptira?</string>
+  <string name="Add_butterfly_2">Dijete uočava ### leptire. Zatim se pojavljuje još @@@. Koliko leptira dijete ukupno vidi?</string>
+  <string name="Add_cat_1">### mačke sjede na zidu. Još jedna @@@ mačka se penje. Koliko je mačaka sada na zidu?</string>
+  <string name="Add_cow_1">### krave su u staji. @@@ ulazi više krava. Koliko je krava sada u staji?</string>
+  <string name="Add_deer_1">Na livadi ### jeleni jedu travu. Zatim @@@ stiže još jelena. Koliko jelena sada jede travu?</string>
+  <string name="Add_dog_1">### psi se igraju s loptom. Zatim im se @@@ pridruži još pasa. Koliko se pasa igra?</string>
+  <string name="Add_giraffe_1">### žirafe piju vodu. Zatim @@@ još žirafa dolazi piti. Koliko žirafa pije?</string>
+  <string name="Add_ladybugs_1">### bubamare sjede na lišću. @@@ više bubamara leti na list. Koliko je bubamara na listu?</string>
+  <string name="Add_tiger_1">### tigrovi sjede u blizini pećine. @@@ izlazi još tigrova. Koliko tigrova sada ima?</string>
+  <string name="Add_tiger_2">Ima ### tigrova u džungli. @@@ još se približava. Koliko tigrova ima ukupno?</string>
+  <string name="Add_owl_1">### sove se odmaraju u gnijezdu. @@@ više sova dolazi u gnijezdo. Koliko je sova u gnijezdu?</string>
+  <string name="Add_panda_1">### pande jedu bambus. @@@ Dođi još pandi. Koliko pandi jede bambus?</string>
+  <string name="Add_parrot_1">### papige sjede na stolici. @@@ veselo doleti još papiga. Koliko sada ima papiga?</string>
+  <string name="Add_peacock_1">### paunovi plešu u vrtu. @@@ dolazi još paunova. Koliko paunova pleše?</string>
+  <string name="Add_rooster_1">Na farmi ima ### pijetlova. @@@ više dođite blizu staje. Koliko je ukupno pijetlova?</string>
+  <string name="Add_snail_1">Na listu se odmaraju ### puževi. Pridružuje im se još @@@ puževa. Koliko je puževa ukupno?</string>
+  <string name="Add_zebra_1">Na livadi, ### zebre jedu. @@@ još im se pridruži. Koliko je ukupno zebri?</string>
+  <string name="Add_bicycle_1">U parku ima ### bicikala. @@@ još je parkirano. Koliko ima ukupno bicikala?</string>
+  <string name="Add_hippo_1">Ujutro se ### nilski konji igraju. Kasnije, još @@@ došetaju. Koliki je ukupan broj nilskih konja?</string>
+  <string name="Add_airplane_1">Na pisti čekaju ### avioni. @@@ još zemlje. Koliko je ukupno aviona?</string>
+  <string name="Add_airplane_2">Na aerodromu čekaju ### avioni. Uskoro stiže još @@@. Koliko je ukupno aviona?</string>
+  <string name="Add_horse_1">Uz staju ### konji stoje. @@@ još im se pridruži. Koliko konja ukupno?</string>
+  <string name="Add_fish_1">U akvariju plivaju ### ribice. Dodaje se još @@@. Koliko riba ukupno?</string>
+  <string name="Add_goat_1">Na brdu su ### koze. Zatim dolazi još @@@. Koliki je ukupan broj koza?</string>
+  <string name="Add_monkey_1">Na drvetu su ### majmuni. @@@ više penjati se. Koliko ima ukupno majmuna?</string>
+  <string name="Add_carrot_1">U košari ima ### mrkve. Dodaje se još @@@. Koliko ukupno ima mrkvi?</string>
+  <string name="Add_candies_1">U tegli su ### bombona. Dodaje se još @@@. Koliko je ukupno bombona?</string>
+  <string name="Add_cupcake_1">Na stolu su ### kolačići. @@@ postavljeno je više. Koliko kolačića ima ukupno?</string>
+  <string name="Add_pinwheel_1">Ujutro se u vrtu vrte ### kotačići. Kasnije se dodaje još @@@. Koliko sada ima pinwheels?</string>
+  <string name="Add_broccoli_1">Na tanjuru je ### brokula. Dodaje se još @@@. Koliko je brokula na tanjuru?</string>
+  <string name="Add_robot_1">Na tlu su ### roboti. @@@ više hodati gore. Koliko robota ima ukupno?</string>
+  <string name="Add_car_1">Dijete ima ### autića. @@@ dano je više. Koliko autića ima dijete?</string>
+  <string name="Add_bird house_1">U blizini staje su ### kućice za ptice. Dodaje se još @@@. Koliko ukupno ima kućica za ptice?</string>
+  <string name="Add_ball_1">Na zemlji su ### loptice. @@@ još se prevrni. Koliko ukupno ima loptica?</string>
+  <string name="Add_drum_1">Na satu glazbenog čuvaju se ### bubnjevi. Dodaje se još @@@. Koliko bubnjeva ukupno?</string>
+  <string name="Add_cake_1">Na stolu su ### kolači. Dodaje se još @@@. Koliko je ukupno torti?</string>
+  <string name="Add_fruits_1">U košari ima ### voća. Dodaje se još @@@. Koliko voća ima ukupno?</string>
+  <string name="Add_flower_1">U vrtu ima ### cvijeća. @@@ više cvjetanja. Koliko cvijeća ima u vrtu?</string>
+  <string name="Add_pig_1">U dvorištu ima ### svinja. Zatim dolazi još @@@. Koliki je ukupan broj svinja u dvorištu?</string>
+  <string name="Add_top_1">Na podu su ### vrčevi. Dodaje se još @@@. Koliko ima ukupno vrcaljki?</string>
+  <string name="Add_donut_1">Na tanjuru su ### krafne. Dodaje se još @@@. Koliko je ukupno krafni?</string>
+  <string name="Add_giftbox_1">Sara je dobila ### poklona. Prijatelj joj je dao još @@@. Koliko Sara ukupno ima darova?</string>
+  <string name="Add_giftbox_2">U sobi ima ### poklon kutija. Zatim se unutra stavlja još @@@. Koliko poklon kutija ima u sobi?</string>
+  <string name="Add_taco_1">Sara je napravila ### tacose. Njezina je mama napravila @@@ još tacosa. Koliko je tacosa ukupno napravljeno?</string>
+  <string name="Add_taco_2">Tom je jeo ### tacose. Pojeo je @@@ još tacosa. Koliko je tacosa Tom ukupno pojeo?</string>
+  <string name="Add_kite_1">### zmajevi lete nebom. @@@ još zmajeva počinje letjeti. Koliko zmajeva leti nebom?</string>
+  <string name="Add_kite_2">Leo je napravio ### zmajeva. Zatim je napravio @@@ još zmajeva. Koliki je ukupan broj zmajeva koje je Leo napravio?</string>
+  <string name="Add_sandwich_1">Sam je kupio ### sendviče. Zatim je kupio @@@ još sendviča. Koliki je ukupan broj sendviča koje sam kupio?</string>
+  <string name="Add_leopard_1">### leopardi su na drvetu, a @@@ se penju gore. Koliko je leoparda sada na stablu?</string>
+  <string name="WordProblem">Zadatak s Riječima</string>
+  <string name="Carry_Forward">Zbrajanje s nošenjem</string>
+  <string name="Sub_butterfly_1">U vrtu je letjelo ### leptira. Odletjelo je @@@ leptira. Koliko je leptira ostalo u vrtu?</string>
+  <string name="Sub_butterfly_2">Ema je ujutro vidjela ### leptira. Poslijepodne je vidjela @@@ leptira manje. Koliko je leptira vidjela poslijepodne?</string>
+  <string name="Sub_cat_1">Ethan je vidio ### mačke kako sjede na ogradi. @@@ mačaka je pobjeglo kad je pas zalajao. Koliko je mačaka još uvijek na ogradi?</string>
+  <string name="Sub_cat_2">Mia ima ### mačke u svom dvorištu. @@@ mačaka je otišlo piti mlijeko. Koliko je mačaka još uvijek u dvorištu?</string>
+  <string name="Sub_cow_1">Uz rijeku je pilo vodu ### krave. @@@ krava je završilo s pićem i otišlo. Koliko je krava još uvijek uz rijeku?</string>
+  <string name="Sub_cow_2">Sijeno je jelo ### krave. @@@ krava je prestalo jesti. Koliko krava još uvijek jede sijeno?</string>
+  <string name="Sub_deer_1">Cestu je prelazilo ### jelena. @@@ jelena je već prešlo. Koliko jelena još čeka da prijeđe?</string>
+  <string name="Sub_deer_2">### jelena penjala su se uz brdo. @@@ jelena se zaustavilo i vratilo nizbrdo. Koliko se jelena još penje?</string>
+  <string name="Sub_dog_1">U dvorištu se igralo ### psa. @@@ pasa je trčalo unutar kuće. Koliko je pasa još uvijek u dvorištu?</string>
+  <string name="Sub_dog_2">U uzgajivačnici je bilo ### psa. @@@ pasa je izašlo van. Koliko je pasa još uvijek u uzgajivačnici?</string>
+  <string name="Sub_giraffe_1">Pod sjenovitim drvetom legle su ### žirafe. Nakon nekog vremena, @@@ žirafa ustalo je i otišlo. Koliko se žirafa još odmaralo?</string>
+  <string name="Sub_giraffe_2">Grupa od ### žirafe hodala je visokom travom. Odjednom se @@@ žirafa okrenulo. Koliko je žirafa nastavilo hodati?</string>
+  <string name="Sub_ladybugs_1">### bubamare sjedile su na velikom zelenom listu. Zatim ih je @@@ odletjelo. Koliko je bubamara ostalo na listu?</string>
+  <string name="Sub_ladybug_2">U zalazak sunca, ### bubamare su letjele zajedno. @@@ ih je sletjelo na granu drveta. Koliko je bubamara još uvijek letjelo?</string>
+  <string name="Sub_owl_1">### sove su letjele pod jarkom mjesečinom. @@@ sova je sletjelo na drvo. Koliko je sova još letjelo?</string>
+  <string name="Sub_owl_2">Na grani su bile poredane ### sove. @@@ sova je raširilo krila i odletjelo. Koliko je sova ostalo na grani?</string>
+  <string name="Sub_panda_1">### pande su zajedno jele bambus. @@@ pandi je završilo s jelom i otišlo. Koliko je pandi još uvijek jelo bambus?</string>
+  <string name="Sub_panda_2">Grupa od ### pande sjedila je zajedno. @@@ pandi otišlo je pronaći još bambusa. Koliko je pandi ostalo u grupi?</string>
+  <string name="Sub_parrot_1">Jato od ### papige letjelo je zajedno. @@@ papiga sletjelo je na krov. Koliko je papiga nastavilo letjeti?</string>
+  <string name="Sub_parrot_2">Stablo je imalo ### papige blizu svog gnijezda. @@@ papiga je uletjelo unutra. Koliko je papiga ostalo vani?</string>
+  <string name="Sub_peacock_1">### pauna su plesala u vrtu. @@@ paunova je prestalo plesati. Koliko je paunova nastavilo plesati?</string>
+  <string name="Sub_peacock_2">U zalazak sunca, ### pauna okupilo se u parku. @@@ paunova je odletjelo. Koliko je paunova još bilo tamo?</string>
+  <string name="Sub_rooster_1">Ujutro se ### pijetla okupilo blizu hrane. @@@ pijetlova je završilo s jelom i otišlo. Koliko je pijetlova još jelo?</string>
+  <string name="Sub_rooster_2">### pijetla sjedila su na ogradi. @@@ pijetlova je skočilo dolje. Koliko je pijetlova ostalo na ogradi?</string>
+  <string name="Sub_snail_1">Vrtna staza imala je ### puža koji su se polako kretali. @@@ puževa je otišlo u travu. Koliko je puževa ostalo na stazi?</string>
+  <string name="Sub_snail_2">### puža bila su blizu cvijeća. @@@ puževa je otpuzalo. Koliko je puževa još uvijek bilo blizu cvijeća?</string>
+  <string name="Sub_tiger_1">### tigra su se odmarala u džungli. @@@ tigrova je otišlo. Koliko je tigrova ostalo odmarati?</string>
+  <string name="Sub_tiger_2">### tigra su viđena kako hodaju šumom. @@@ tigrova je pobjeglo. Koliko je tigrova još hodalo?</string>
+  <string name="Sub_zebra_1">Krdo od ### zebre došlo je piti vode. @@@ zebri je otišlo nakon što su se napile. Koliko je zebri ostalo uz rijeku?</string>
+  <string name="Sub_zebra_2">Grupa je imala ### bebe zebri koje su se igrale zajedno. @@@ ždrebadi vratilo se svojim majkama. Koliko se beba zebri još uvijek igralo?</string>
+  <string name="Sub_bicycle_1">U blizini igrališta bilo je parkirano ### bicikla. @@@ bicikala je odneseno kući. Koliko je bicikala još bilo na igralištu?</string>
+  <string name="Sub_bicycle_2">Trgovina biciklima izložila je ### bicikla vani. Prodano je @@@ bicikala. Koliko je bicikala ostalo izloženo?</string>
+  <string name="Sub_hippo_1">### nilskih konja je zajedno jelo travu. @@@ nilskih konja je prestalo jesti. Koliko je nilskih konja nastavilo jesti travu?</string>
+  <string name="Sub_hippo_1">U krdu se okupilo ### nilskih konja. @@@ nilskih konja se udaljilo. Koliko je nilskih konja ostalo u krdu?</string>
+  <string name="Sub_airplane_1">Ujutro je ### zrakoplova bilo spremno za letove. @@@ zrakoplova krenulo je po rasporedu. Koliko je zrakoplova još čekalo?</string>
+  <string name="Sub_airplane_2">Navečer je trebalo poletjeti ### zrakoplova. @@@ zrakoplova je već poletjelo. Koliko je zrakoplova još čekalo na poletanje?</string>
+  <string name="Sub_horse_1">### konja su bila u štali. @@@ konja je izašlo. ​​Koliko je konja ostalo u štali?</string>
+  <string name="Sub_horse_2">U dolini su uočena ### konja. @@@ konja se popelo uzbrdo. Koliko je konja ostalo u dolini?</string>
+  <string name="Sub_fish_1">### ribe su plivale u ribnjaku. @@@ riba je otplivalo. Koliko je riba još bilo u ribnjaku?</string>
+  <string name="Sub_fish_2">Ribar je uočio ### ribe blizu svog broda. @@@ riba je brzo otplivalo. Koliko je riba ostalo blizu broda?</string>
+  <string name="Sub_goat_1">Farmer je imao ### koze koje su pasle na polju. @@@ koza je odlutalo prema brdu. Koliko je koza još paslo na polju?</string>
+  <string name="Sub_goat_2">U blizini štale odmarale su se ### koze. @@@ koza istrčalo je igrati se u dvorištu. Koliko je koza ostalo u blizini štale?</string>
+  <string name="Sub_monkey_1">### majmuna igrala su se na stablu manga. @@@ majmuna je skočilo dolje. Koliko je majmuna ostalo na stablu?</string>
+  <string name="Sub_monkey_2">U zoološkom vrtu, ### majmuna ljuljala su se na užadima. @@@ majmuna otišlo jesti. Koliko se majmuna još ljuljalo?</string>
+  <string name="Sub_carrot_1">U košari su bile ### mrkve. Pojedeno je @@@ mrkvi. Koliko je mrkvi ostalo?</string>
+  <string name="Sub_carrot_2">Zec je pronašao ### mrkve. @@@ mrkvi se otkotrljalo. Koliko je mrkvi još bilo tamo?</string>
+  <string name="Sub_candies_1">U staklenci je bilo ### bombona. Izvađeno je @@@ bombona. Koliko je bombona ostalo unutra?</string>
+  <string name="Sub_candies_2">Na stolu je bilo ### bombona. Pojedeno je @@@ bombona. Koliko je bombona ostalo?</string>
+  <string name="Sub_cupcake_1">Na pladnju je bilo ### kolačića. Podijeljeno je @@@ kolačića. Koliko je kolačića ostalo?</string>
+  <string name="Sub_cupcake_2">Pekar je napravio ### kolačića. Prodano je @@@ kolačića. Koliko je kolačića ostalo?</string>
+  <string name="Sub_pinwheel_1">### vjetrenjače su se zavrtjele u vrtu. @@@ vjetrenjača se prestalo vrtjeti. Koliko se njih još vrtjelo?</string>
+  <string name="Sub_pinwheel_2">Uz ogradu je bilo ### vjetruljaka. @@@ vjetruljaka je odletjelo. Koliko ih je ostalo?</string>
+  <string name="Sub_broccoli_1">Na tanjuru je bilo ### komada brokule. Pojedeno je @@@ komada. Koliko je komada ostalo?</string>
+  <string name="Sub_broccoli_2">Kuhar je skuhao ### stabljike brokule. Posluženo ih je @@@. Koliko ih je ostalo?</string>
+  <string name="Sub_robot_1">### robota stajala su u redu. @@@ robota je otišlo. Koliko je robota ostalo?</string>
+  <string name="Sub_robot_2">U laboratoriju je bilo ### robota. @@@ robota je bilo isključeno. Koliko ih je još uvijek bilo uključeno?</string>
+  <string name="Sub_car_1">### automobila bila su parkirana vani. @@@ automobila se odvezlo. Koliko je automobila ostalo parkirano?</string>
+  <string name="Sub_car_2">U utrci je startalo ### automobila. @@@ automobila je završilo rano. Koliko ih je još uvijek trčalo?</string>
+  <string name="Sub_bird house_1">### ptice su sjedile blizu kućice za ptice. @@@ ih je odletjelo. Koliko je ptica ostalo?</string>
+  <string name="Sub_bird house_2">U kućici za ptice bilo je ### gnijezda. @@@ ih je palo. Koliko je gnijezda ostalo?</string>
+  <string name="Sub_ball_1">### lopte su bile na igralištu. @@@ lopti se otkotrljalo. Koliko ih je još uvijek bilo tamo?</string>
+  <string name="Sub_ball_2">Kutija je imala ### kuglice. @@@ kuglica je odskočilo. Koliko je kuglica ostalo?</string>
+  <string name="Sub_drum_1">### bubnja su bila na pozornici. @@@ bubnjeva je skinuto. Koliko ih je ostalo na pozornici?</string>
+  <string name="Sub_drum_2">Bend je imao ### bubnja. @@@ bubnjeva se pokvarilo. Koliko je dobrih bubnjeva ostalo?</string>
+  <string name="Sub_cake_1">Danas je ispečeno ### kolača. Pojedeno je @@@ kolača. Koliko je kolača ostalo?</string>
+  <string name="Sub_cake_2">Pekar je ukrasio ### torte. Prodano je @@@ torti. Koliko je torti još bilo?</string>
+  <string name="Sub_fruits_1">U košarici je bilo ### voća. Ispalo je @@@ voća. Koliko je voća ostalo unutra?</string>
+  <string name="Sub_fruits_2">U trgovini je bilo izloženo ### voća. Prodano je @@@. Koliko je voća ostalo?</string>
+  <string name="Sub_flower_1">U vrtu je procvjetalo ### cvijeta. Ubrano je @@@ cvjetova. Koliko je cvjetova ostalo?</string>
+  <string name="Sub_flower_2">U vazi je bilo ### cvijeta. @@@ je uvelo. Koliko ih je bilo svježih?</string>
+  <string name="Sub_pig_1">U toru je bilo ### svinje. @@@ svinja je istrčalo. Koliko je svinja ostalo?</string>
+  <string name="Sub_pig_2">Farmer je imao ### svinje. @@@ svinja je otišlo u ribnjak. Koliko je svinja ostalo?</string>
+  <string name="Sub_top_1">### čigre su bile na podu. @@@ se prestalo vrtjeti. Koliko ih se nastavilo vrtjeti?</string>
+  <string name="Sub_top_2">U kutiji je bilo ### vrha. Izvađeno ih je @@@. Koliko je vrhova ostalo?</string>
+  <string name="Sub_donut_1">Na pladnju su bile ### krafne. Pojedeno je @@@ krafni. Koliko je krafni ostalo?</string>
+  <string name="Sub_donut_2">Trgovina je napravila ### krafne. Prodano ih je @@@. Koliko je krafni ostalo?</string>
+  <string name="Sub_giftbox_1">Na stolu su bile ### poklon kutije. @@@ ih je bilo otvoreno. Koliko ih je ostalo zatvoreno?</string>
+  <string name="Sub_giftbox_2">Ispod bora bilo je ### poklon kutije. @@@ je zauzeto. Koliko ih je ostalo?</string>
+  <string name="Sub_taco_1">Na tanjuru je bilo ### tacosa. Pojedeno je @@@ tacosa. Koliko je tacosa ostalo?</string>
+  <string name="Sub_taco_2">Kuhar je napravio ### tacosa. Posluženo ih je @@@. Koliko je tacosa ostalo?</string>
+  <string name="Sub_kite_1">### zmaja su letjela nebom. @@@ zmajeva je palo. Koliko je zmajeva još letjelo?</string>
+  <string name="Sub_kite_2">Na plaži je bilo ### zmaja. @@@ ih je odletjelo. Koliko je zmajeva ostalo?</string>
+  <string name="Sub_sandwich_1">Na stolu je bilo ### sendviča. Pojedeno je @@@ sendviča. Koliko ih je ostalo?</string>
+  <string name="Sub_sandwich_2">Kuhar je napravio ### sendviča. Posluženo je @@@. Koliko je sendviča ostalo?</string>
+  <string name="Add_Pyramid">Piramida zbrajanja</string>
+</resources>
